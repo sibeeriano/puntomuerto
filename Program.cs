@@ -1,5 +1,7 @@
 using System.Diagnostics;
+using System.Globalization;
 using System.Net;
+using System.Security.Cryptography;
 using System.Net.Http;
 using System.Net.Security;
 using System.Security.Authentication;
@@ -16,6 +18,18 @@ namespace PodcastAutosFeeds;
 public record FeedSource(string Name, string Url);
 
 public record Article(string Title, string Link, string Source, DateTimeOffset? PublishedAt, string Summary, string Image = "");
+
+public record WeekHighlight(
+    string Titulo,
+    string Link,
+    string Fuente,
+    string Fecha,
+    string Resumen,
+    string Imagen,
+    int Menciones,
+    List<string> Fuentes);
+
+public record GuionIndexItem(string fecha, string rango, string esqueleto, string? guion = null);
 
 public class Program
 {
@@ -37,8 +51,29 @@ public class Program
     public static async Task Main(string[] args)
     {
         _rootDir = FindRoot();
-        var feeds = LoadFeeds();
+        LoadDotEnv();
         InitDb();
+
+        if (args.Contains("--sitio"))
+        {
+            await ServeSitioAsync();
+            return;
+        }
+
+        if (args.Contains("--guion-ia"))
+        {
+            var fechaIa = ArgValue(args, "--guion-ia") ?? DateTime.Now.ToString("yyyy-MM-dd");
+            await CrearGuionGptAsync(fechaIa);
+            return;
+        }
+
+        if (args.Contains("--guion-only"))
+        {
+            WriteGuionBorrador(WriteSemanaJson());
+            return;
+        }
+
+        var feeds = LoadFeeds();
 
         var nuevos = new List<Article>();
 
@@ -76,9 +111,13 @@ public class Program
         Console.WriteLine($"\nArtículos nuevos esta corrida: {nuevos.Count}");
 
         WriteNoticiasJson();
+        var semana = WriteSemanaJson();
 
-        if (args.Contains("--digest"))
+        if (args.Contains("--digest") || DateTime.Now.DayOfWeek == DayOfWeek.Friday)
             WriteDigest();
+
+        if (args.Contains("--guion") || DateTime.Now.DayOfWeek == DayOfWeek.Friday)
+            WriteGuionBorrador(semana);
     }
 
     private static HttpClient CreateHttpClient()
@@ -620,6 +659,639 @@ public class Program
         Console.WriteLine($"Noticias para el sitio: {path} ({items.Count} artículos)");
     }
 
+    private static readonly HashSet<string> TitleStops = new(StringComparer.OrdinalIgnoreCase)
+    {
+        "el","la","los","las","un","una","unos","unas","de","del","al","y","o","en","a","por","para",
+        "con","su","sus","que","se","es","son","fue","como","más","mas","ya","hoy","sobre","todo",
+        "esta","este","estos","estas","the","and","for","with"
+    };
+
+    private static List<WeekHighlight> WriteSemanaJson()
+    {
+        using var conn = OpenDb();
+        var cmd = conn.CreateCommand();
+        cmd.CommandText =
+            @"SELECT Title, Link, Source, PublishedAt, Summary, Image
+              FROM Articles
+              WHERE PublishedAt >= $since
+              ORDER BY PublishedAt DESC;";
+        cmd.Parameters.AddWithValue("$since", DateTimeOffset.UtcNow.AddDays(-7).ToString("O"));
+
+        var week = ReadArticles(cmd);
+        var ranked = RankWeekHighlights(week);
+        var docsDir = Path.Combine(_rootDir, "docs");
+        Directory.CreateDirectory(docsDir);
+        var payload = new
+        {
+            actualizado = DateTimeOffset.UtcNow.ToString("yyyy-MM-ddTHH:mm:ssZ"),
+            desde = DateTimeOffset.UtcNow.AddDays(-7).ToString("yyyy-MM-dd"),
+            hasta = DateTimeOffset.UtcNow.ToString("yyyy-MM-dd"),
+            destacadas = ranked.Select(h => new
+            {
+                titulo = h.Titulo,
+                link = h.Link,
+                fuente = h.Fuente,
+                fecha = h.Fecha,
+                resumen = h.Resumen,
+                imagen = h.Imagen,
+                menciones = h.Menciones,
+                fuentes = h.Fuentes
+            })
+        };
+        var path = Path.Combine(docsDir, "semana.json");
+        File.WriteAllText(path, JsonSerializer.Serialize(payload, JsonOptions));
+        Console.WriteLine($"Resumen semanal: {path} ({ranked.Count} temas destacados de {week.Count} notas)");
+        return ranked;
+    }
+
+    private static List<WeekHighlight> RankWeekHighlights(List<Article> week)
+    {
+        var clusters = new List<List<Article>>();
+        foreach (var article in week)
+        {
+            var tokens = TitleTokens(article.Title);
+            var host = clusters.FirstOrDefault(c =>
+                c.Any(existing => SameStory(TitleTokens(existing.Title), tokens)));
+            if (host is null)
+                clusters.Add(new List<Article> { article });
+            else
+                host.Add(article);
+        }
+
+        return clusters
+            .Select(cluster =>
+            {
+                var lead = cluster
+                    .OrderByDescending(a => a.PublishedAt ?? DateTimeOffset.MinValue)
+                    .ThenByDescending(a => a.Summary.Length)
+                    .First();
+                var fuentes = cluster.Select(a => a.Source).Distinct().OrderBy(s => s).ToList();
+                var recency = lead.PublishedAt ?? DateTimeOffset.UtcNow;
+                var score = (fuentes.Count - 1) * 100 + Math.Max(0, 168 - (DateTimeOffset.UtcNow - recency).TotalHours);
+                return new
+                {
+                    score,
+                    item = new WeekHighlight(
+                        lead.Title,
+                        lead.Link,
+                        lead.Source,
+                        FormatFecha(lead.PublishedAt),
+                        lead.Summary,
+                        lead.Image,
+                        cluster.Count,
+                        fuentes)
+                };
+            })
+            .OrderByDescending(x => x.score)
+            .Take(24)
+            .Select(x => x.item)
+            .ToList();
+    }
+
+    private static readonly string[] LocalHints =
+    {
+        "argentina", "argentin", "córdoba", "cordoba", "buenos aires",
+        "banco nación", "patentamiento", "papamóvil", "papamovil"
+    };
+
+    private static readonly string[] ForeignHints =
+    {
+        "méxico", "mexico", "españa", "europa", "ee.uu", "eeuu",
+        "estados unidos", "china", "alemania", "francia", "italia"
+    };
+
+    private static bool IsSpanishFeed(string source) =>
+        source.Contains("(ES)", StringComparison.OrdinalIgnoreCase)
+        || source.Contains("Motorpasión", StringComparison.OrdinalIgnoreCase)
+        || source.Contains("Diariomotor", StringComparison.OrdinalIgnoreCase);
+
+    private static bool IsInternacional(WeekHighlight h)
+    {
+        if (IsSpanishFeed(h.Fuente) || h.Fuentes.Any(IsSpanishFeed))
+            return true;
+
+        var blob = $"{h.Titulo} {h.Resumen}".ToLowerInvariant();
+        if (LocalHints.Any(blob.Contains))
+            return false;
+        return ForeignHints.Any(blob.Contains);
+    }
+
+    private static void WriteGuionBorrador(List<WeekHighlight> destacadas)
+    {
+        var nacional = destacadas.Where(h => !IsInternacional(h)).Take(5).ToList();
+        var internacional = destacadas.Where(IsInternacional).Take(4).ToList();
+        if (internacional.Count == 0)
+            internacional = destacadas.Except(nacional).Take(4).ToList();
+
+        var rango = EtiquetaViernes(DateTime.Now);
+        var gancho = nacional.FirstOrDefault() ?? destacadas.FirstOrDefault();
+        var sb = new StringBuilder();
+
+        sb.AppendLine($"# Punto muerto — guion {DateTime.Now:yyyy-MM-dd}");
+        sb.AppendLine();
+        sb.AppendLine($"Semana: {rango}");
+        sb.AppendLine("Borrador para refinar a mano. [OPINIÓN], [DATO] y [CTA] los completan los conductores.");
+        sb.AppendLine();
+        sb.AppendLine("## HOOK — 30 segundos");
+        sb.AppendLine();
+        if (gancho is null)
+        {
+            sb.AppendLine("- [IA] Idea potente / pregunta / anécdota.");
+        }
+        else
+        {
+            sb.AppendLine($"- [IA] Pregunta o anécdota a partir de: {gancho.Titulo}");
+            sb.AppendLine($"  {gancho.Resumen}");
+        }
+        sb.AppendLine();
+        sb.AppendLine("## INTRO — 1 minuto");
+        sb.AppendLine();
+        sb.AppendLine("- [IA] Qué vamos a hablar y por qué importa.");
+        if (nacional.Count > 0)
+            sb.AppendLine($"- Nacional: {string.Join("; ", nacional.Take(3).Select(h => h.Titulo))}.");
+        if (internacional.Count > 0)
+            sb.AppendLine($"- Internacional: {string.Join("; ", internacional.Take(2).Select(h => h.Titulo))}.");
+        sb.AppendLine();
+        sb.AppendLine("## BLOQUE 1 — Nacional");
+        sb.AppendLine();
+        sb.AppendLine("### Idea principal");
+        sb.AppendLine();
+        sb.AppendLine(nacional.Count > 0
+            ? $"- [IA] {nacional[0].Titulo}"
+            : "- [IA] Idea principal de la semana local.");
+        sb.AppendLine();
+        sb.AppendLine("### Noticias más importantes");
+        sb.AppendLine();
+        AppendNotas(sb, nacional);
+        sb.AppendLine();
+        sb.AppendLine("### Opinión personal");
+        sb.AppendLine();
+        sb.AppendLine("- [OPINIÓN]");
+        sb.AppendLine();
+        sb.AppendLine("### Dato que quiero mencionar");
+        sb.AppendLine();
+        sb.AppendLine("- [DATO]");
+        sb.AppendLine();
+        sb.AppendLine("## BLOQUE 2 — Internacional");
+        sb.AppendLine();
+        sb.AppendLine("### Intro");
+        sb.AppendLine();
+        sb.AppendLine("- [IA] Puente desde Argentina hacia lo que pasó afuera.");
+        sb.AppendLine();
+        sb.AppendLine("### Lo más relevante de la semana");
+        sb.AppendLine();
+        AppendNotas(sb, internacional);
+        sb.AppendLine();
+        sb.AppendLine("### Opinión personal");
+        sb.AppendLine();
+        sb.AppendLine("- [OPINIÓN]");
+        sb.AppendLine();
+        sb.AppendLine("### Contrapunto / diferencias con Argentina");
+        sb.AppendLine();
+        sb.AppendLine("- [IA] Qué de esto llega, no llega o llega distinto acá.");
+        sb.AppendLine("- [OPINIÓN]");
+        sb.AppendLine();
+        sb.AppendLine("## BLOQUE 3 — Conclusión");
+        sb.AppendLine();
+        sb.AppendLine("- [IA] Qué me llevo de la semana (ideas, 3 o 4 líneas).");
+        sb.AppendLine("- [OPINIÓN]");
+        sb.AppendLine();
+        sb.AppendLine("## CIERRE");
+        sb.AppendLine();
+        sb.AppendLine("- [IA] Frase final.");
+        sb.AppendLine("- [CTA]");
+
+        var fecha = DateTime.Now.ToString("yyyy-MM-dd");
+        var borrador = sb.ToString();
+        var path = Path.Combine(_rootDir, $"guion_{fecha}.md");
+        File.WriteAllText(path, borrador);
+        Console.WriteLine($"Esqueleto: {path} ({nacional.Count} nacionales, {internacional.Count} internacionales)");
+        PublicarEsqueleto(fecha, rango, borrador);
+    }
+
+    private static async Task<string?> CompletarGuionConIaAsync(string borrador)
+    {
+        var apiKey = Environment.GetEnvironmentVariable("OPENAI_API_KEY");
+        if (string.IsNullOrWhiteSpace(apiKey))
+        {
+            Console.WriteLine("Sin OPENAI_API_KEY en .env.");
+            return null;
+        }
+
+        var promptPath = Path.Combine(_rootDir, "guion", "prompt.txt");
+        var sistema = File.Exists(promptPath)
+            ? File.ReadAllText(promptPath)
+            : "Completá el guion de Punto muerto. No toques [OPINIÓN], [DATO] ni [CTA].";
+        var modelo = Environment.GetEnvironmentVariable("OPENAI_MODEL");
+        if (string.IsNullOrWhiteSpace(modelo))
+            modelo = "gpt-4o-mini";
+
+        var payload = new
+        {
+            model = modelo,
+            temperature = 0.7,
+            messages = new[]
+            {
+                new { role = "system", content = sistema },
+                new
+                {
+                    role = "user",
+                    content = "Completá solo los ítems [IA] como borrador de guion (texto escrito, no audio). Dejá intactos [OPINIÓN], [DATO] y [CTA]. Devolvé solo el markdown, sin fences.\n\n" + borrador
+                }
+            }
+        };
+
+        try
+        {
+            using var http = new HttpClient { Timeout = TimeSpan.FromMinutes(2) };
+            using var req = new HttpRequestMessage(HttpMethod.Post, "https://api.openai.com/v1/chat/completions");
+            req.Headers.Authorization = new System.Net.Http.Headers.AuthenticationHeaderValue("Bearer", apiKey);
+            req.Content = new StringContent(JsonSerializer.Serialize(payload), Encoding.UTF8, "application/json");
+            using var res = await http.SendAsync(req);
+            var json = await res.Content.ReadAsStringAsync();
+            if (!res.IsSuccessStatusCode)
+            {
+                Console.WriteLine($"[WARN] OpenAI {((int)res.StatusCode)}: {Truncate(json, 280)}");
+                return null;
+            }
+
+            using var doc = JsonDocument.Parse(json);
+            var content = doc.RootElement.GetProperty("choices")[0].GetProperty("message").GetProperty("content").GetString();
+            if (string.IsNullOrWhiteSpace(content))
+                return null;
+
+            content = content.Trim();
+            if (content.StartsWith("```"))
+            {
+                var firstNl = content.IndexOf('\n');
+                if (firstNl > 0)
+                    content = content[(firstNl + 1)..];
+                if (content.EndsWith("```"))
+                    content = content[..^3].TrimEnd();
+            }
+            return content.Trim() + "\n";
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine($"[WARN] No se pudo llamar a la IA: {ex.Message}");
+            return null;
+        }
+    }
+
+    private static async Task CrearGuionGptAsync(string fecha)
+    {
+        var password = Environment.GetEnvironmentVariable("PUNTO_PODCAST_PASSWORD");
+        if (string.IsNullOrWhiteSpace(password))
+            throw new InvalidOperationException("Falta PUNTO_PODCAST_PASSWORD en .env.");
+
+        var lista = ReadGuionIndex();
+        var item = lista.FirstOrDefault(x => x.fecha == fecha);
+        if (item is null || string.IsNullOrWhiteSpace(item.esqueleto))
+            throw new InvalidOperationException($"No hay esqueleto para {fecha}. Primero corre dotnet run -- --guion-only.");
+
+        if (!string.IsNullOrWhiteSpace(item.guion) && File.Exists(Path.Combine(_rootDir, "docs", item.guion)))
+        {
+            Console.WriteLine($"Ya existe guion GPT para {fecha}; no se vuelve a llamar a OpenAI.");
+            return;
+        }
+
+        var packed = File.ReadAllText(Path.Combine(_rootDir, "docs", item.esqueleto));
+        var esqueleto = DecryptGuion(packed, password);
+        var texto = await CompletarGuionConIaAsync(esqueleto);
+        if (string.IsNullOrWhiteSpace(texto))
+            throw new InvalidOperationException("OpenAI no devolvió un guion. Revisá créditos o la API key.");
+
+        var rel = $"guiones/{fecha}-guion.json";
+        Directory.CreateDirectory(Path.Combine(_rootDir, "docs", "guiones"));
+        File.WriteAllText(Path.Combine(_rootDir, "docs", rel), JsonSerializer.Serialize(EncryptGuion(texto, password), JsonOptions));
+        File.WriteAllText(Path.Combine(_rootDir, $"guion_{fecha}.md"), texto);
+
+        var idx = lista.FindIndex(x => x.fecha == fecha);
+        lista[idx] = item with { guion = rel };
+        WriteGuionIndex(lista);
+        Console.WriteLine($"Guion GPT guardado en docs/{rel}");
+    }
+
+    private static void PublicarEsqueleto(string fecha, string rango, string texto)
+    {
+        var password = Environment.GetEnvironmentVariable("PUNTO_PODCAST_PASSWORD");
+        if (string.IsNullOrWhiteSpace(password))
+        {
+            Console.WriteLine("Sin PUNTO_PODCAST_PASSWORD en .env: el esqueleto no se sube a /podcast.html.");
+            return;
+        }
+
+        var rel = $"guiones/{fecha}-esqueleto.json";
+        Directory.CreateDirectory(Path.Combine(_rootDir, "docs", "guiones"));
+        File.WriteAllText(
+            Path.Combine(_rootDir, "docs", rel),
+            JsonSerializer.Serialize(EncryptGuion(texto, password), JsonOptions));
+
+        var lista = ReadGuionIndex();
+        var prev = lista.FirstOrDefault(x => x.fecha == fecha);
+        lista.RemoveAll(x => x.fecha == fecha);
+        lista.Add(new GuionIndexItem(fecha, rango, rel, prev?.guion));
+        WriteGuionIndex(lista);
+        Console.WriteLine($"Esqueleto publicado (cifrado) en docs/{rel}");
+    }
+
+    private static List<GuionIndexItem> ReadGuionIndex()
+    {
+        var path = Path.Combine(_rootDir, "docs", "guiones.json");
+        var lista = new List<GuionIndexItem>();
+        if (!File.Exists(path))
+            return lista;
+
+        using var doc = JsonDocument.Parse(File.ReadAllText(path));
+        if (doc.RootElement.ValueKind != JsonValueKind.Array)
+            return lista;
+
+        foreach (var el in doc.RootElement.EnumerateArray())
+        {
+            var fecha = el.TryGetProperty("fecha", out var f) ? f.GetString() ?? "" : "";
+            var rango = el.TryGetProperty("rango", out var r) ? r.GetString() ?? "" : "";
+            var esq = el.TryGetProperty("esqueleto", out var e) ? e.GetString() : null;
+            if (string.IsNullOrWhiteSpace(esq) && el.TryGetProperty("archivo", out var a))
+                esq = a.GetString();
+            string? guion = null;
+            if (el.TryGetProperty("guion", out var g) && g.ValueKind == JsonValueKind.String)
+                guion = g.GetString();
+            if (string.IsNullOrWhiteSpace(guion))
+                guion = null;
+            if (!string.IsNullOrWhiteSpace(fecha))
+                lista.Add(new GuionIndexItem(fecha, rango, esq ?? "", guion));
+        }
+        return lista;
+    }
+
+    private static void WriteGuionIndex(List<GuionIndexItem> lista)
+    {
+        var path = Path.Combine(_rootDir, "docs", "guiones.json");
+        var ordered = lista.OrderByDescending(x => x.fecha).ToList();
+        File.WriteAllText(path, JsonSerializer.Serialize(ordered, JsonOptions));
+    }
+
+    private static string DecryptGuion(string packedJson, string password)
+    {
+        using var doc = JsonDocument.Parse(packedJson);
+        var root = doc.RootElement;
+        var salt = Convert.FromBase64String(root.GetProperty("salt").GetString() ?? "");
+        var iv = Convert.FromBase64String(root.GetProperty("iv").GetString() ?? "");
+        var data = Convert.FromBase64String(root.GetProperty("ct").GetString() ?? "");
+        if (data.Length < 16)
+            throw new InvalidOperationException("Archivo de guion inválido.");
+
+        var cipher = data[..^16];
+        var tag = data[^16..];
+        var key = Rfc2898DeriveBytes.Pbkdf2(password, salt, 120_000, HashAlgorithmName.SHA256, 32);
+        var plain = new byte[cipher.Length];
+        using var aes = new AesGcm(key, 16);
+        aes.Decrypt(iv, cipher, tag, plain);
+        return Encoding.UTF8.GetString(plain);
+    }
+
+    private static string? ArgValue(string[] args, string flag)
+    {
+        var i = Array.IndexOf(args, flag);
+        if (i < 0 || i + 1 >= args.Length)
+            return null;
+        var next = args[i + 1];
+        return next.StartsWith("--") ? null : next;
+    }
+
+    private static async Task ServeSitioAsync()
+    {
+        const string prefix = "http://127.0.0.1:8080/";
+        using var listener = new HttpListener();
+        listener.Prefixes.Add(prefix);
+        try
+        {
+            listener.Start();
+        }
+        catch (HttpListenerException)
+        {
+            Console.WriteLine("No se pudo abrir el puerto 8080. Cerrá el otro servidor local e intentá de nuevo.");
+            return;
+        }
+
+        Console.WriteLine($"Sitio en {prefix}  (Ctrl+C para cortar)");
+        Console.WriteLine($"Podcast: {prefix}podcast.html");
+        while (true)
+        {
+            var ctx = await listener.GetContextAsync();
+            _ = Task.Run(async () =>
+            {
+                try
+                {
+                    await HandleSitioRequestAsync(ctx);
+                }
+                catch (Exception ex)
+                {
+                    Console.WriteLine($"[sitio] {ex.Message}");
+                    try
+                    {
+                        ctx.Response.StatusCode = 500;
+                        ctx.Response.Close();
+                    }
+                    catch
+                    {
+                        // ignore
+                    }
+                }
+            });
+        }
+    }
+
+    private static async Task HandleSitioRequestAsync(HttpListenerContext ctx)
+    {
+        var req = ctx.Request;
+        var res = ctx.Response;
+        var path = Uri.UnescapeDataString(req.Url?.AbsolutePath ?? "/");
+
+        if (req.HttpMethod == "POST" && path.Equals("/api/crear-guion", StringComparison.OrdinalIgnoreCase))
+        {
+            using var reader = new StreamReader(req.InputStream, req.ContentEncoding);
+            var body = await reader.ReadToEndAsync();
+            string fecha = DateTime.Now.ToString("yyyy-MM-dd");
+            string password = "";
+            try
+            {
+                using var doc = JsonDocument.Parse(string.IsNullOrWhiteSpace(body) ? "{}" : body);
+                if (doc.RootElement.TryGetProperty("fecha", out var f))
+                    fecha = f.GetString() ?? fecha;
+                if (doc.RootElement.TryGetProperty("password", out var p))
+                    password = p.GetString() ?? "";
+            }
+            catch
+            {
+                await WriteJsonAsync(res, 400, new { ok = false, error = "Pedido inválido." });
+                return;
+            }
+
+            var expected = Environment.GetEnvironmentVariable("PUNTO_PODCAST_PASSWORD") ?? "";
+            if (string.IsNullOrWhiteSpace(expected) || password != expected)
+            {
+                await WriteJsonAsync(res, 401, new { ok = false, error = "Contraseña incorrecta." });
+                return;
+            }
+
+            try
+            {
+                var lista = ReadGuionIndex();
+                var item = lista.FirstOrDefault(x => x.fecha == fecha);
+                if (item is not null && !string.IsNullOrWhiteSpace(item.guion)
+                    && File.Exists(Path.Combine(_rootDir, "docs", item.guion)))
+                {
+                    await WriteJsonAsync(res, 200, new { ok = true, already = true, guion = item.guion });
+                    return;
+                }
+
+                await CrearGuionGptAsync(fecha);
+                var after = ReadGuionIndex().FirstOrDefault(x => x.fecha == fecha);
+                await WriteJsonAsync(res, 200, new { ok = true, already = false, guion = after?.guion });
+            }
+            catch (Exception ex)
+            {
+                await WriteJsonAsync(res, 502, new { ok = false, error = ex.Message });
+            }
+            return;
+        }
+
+        if (req.HttpMethod != "GET" && req.HttpMethod != "HEAD")
+        {
+            res.StatusCode = 405;
+            res.Close();
+            return;
+        }
+
+        var docs = Path.Combine(_rootDir, "docs");
+        var relative = path == "/" ? "index.html" : path.TrimStart('/');
+        var full = Path.GetFullPath(Path.Combine(docs, relative));
+        var root = Path.GetFullPath(docs);
+        if (!full.StartsWith(root, StringComparison.Ordinal) || !File.Exists(full))
+        {
+            res.StatusCode = 404;
+            res.Close();
+            return;
+        }
+
+        res.ContentType = MimeFor(full);
+        var bytes = await File.ReadAllBytesAsync(full);
+        res.ContentLength64 = bytes.Length;
+        if (req.HttpMethod == "GET")
+            await res.OutputStream.WriteAsync(bytes);
+        res.Close();
+    }
+
+    private static async Task WriteJsonAsync(HttpListenerResponse res, int status, object payload)
+    {
+        var bytes = Encoding.UTF8.GetBytes(JsonSerializer.Serialize(payload, JsonOptions));
+        res.StatusCode = status;
+        res.ContentType = "application/json; charset=utf-8";
+        res.ContentLength64 = bytes.Length;
+        await res.OutputStream.WriteAsync(bytes);
+        res.Close();
+    }
+
+    private static string MimeFor(string file) => Path.GetExtension(file).ToLowerInvariant() switch
+    {
+        ".html" => "text/html; charset=utf-8",
+        ".css" => "text/css; charset=utf-8",
+        ".js" => "text/javascript; charset=utf-8",
+        ".json" => "application/json; charset=utf-8",
+        ".png" => "image/png",
+        ".jpg" or ".jpeg" => "image/jpeg",
+        ".svg" => "image/svg+xml",
+        ".ttf" => "font/ttf",
+        ".woff2" => "font/woff2",
+        ".txt" => "text/plain; charset=utf-8",
+        _ => "application/octet-stream"
+    };
+
+    private static object EncryptGuion(string plaintext, string password)
+    {
+        var salt = RandomNumberGenerator.GetBytes(16);
+        var iv = RandomNumberGenerator.GetBytes(12);
+        var key = Rfc2898DeriveBytes.Pbkdf2(password, salt, 120_000, HashAlgorithmName.SHA256, 32);
+        var plain = Encoding.UTF8.GetBytes(plaintext);
+        var cipher = new byte[plain.Length];
+        var tag = new byte[16];
+        using var aes = new AesGcm(key, 16);
+        aes.Encrypt(iv, plain, cipher, tag);
+        var packed = new byte[cipher.Length + tag.Length];
+        Buffer.BlockCopy(cipher, 0, packed, 0, cipher.Length);
+        Buffer.BlockCopy(tag, 0, packed, cipher.Length, tag.Length);
+        return new
+        {
+            v = 1,
+            salt = Convert.ToBase64String(salt),
+            iv = Convert.ToBase64String(iv),
+            ct = Convert.ToBase64String(packed)
+        };
+    }
+
+    private static void LoadDotEnv()
+    {
+        var path = Path.Combine(_rootDir, ".env");
+        if (!File.Exists(path))
+        {
+            Console.WriteLine("No encontré .env en la raíz del proyecto.");
+            return;
+        }
+
+        foreach (var raw in File.ReadAllLines(path))
+        {
+            var line = raw.Trim();
+            if (line.Length == 0 || line.StartsWith("#"))
+                continue;
+            var eq = line.IndexOf('=');
+            if (eq <= 0)
+                continue;
+            var key = line[..eq].Trim();
+            var value = line[(eq + 1)..].Trim().Trim('"').Trim('\'');
+            if (!string.IsNullOrWhiteSpace(value))
+                Environment.SetEnvironmentVariable(key, value);
+        }
+
+        var loaded = !string.IsNullOrWhiteSpace(Environment.GetEnvironmentVariable("OPENAI_API_KEY"));
+        Console.WriteLine(loaded
+            ? "OPENAI_API_KEY cargada desde .env"
+            : "OPENAI_API_KEY sigue vacía en .env");
+    }
+
+    private static void AppendNotas(StringBuilder sb, List<WeekHighlight> notas)
+    {
+        if (notas.Count == 0)
+        {
+            sb.AppendLine("- (sin notas en este bloque esta semana)");
+            return;
+        }
+
+        foreach (var h in notas)
+        {
+            var medios = h.Fuentes.Count > 0 ? string.Join(", ", h.Fuentes) : h.Fuente;
+            sb.AppendLine($"- **{h.Titulo}**");
+            sb.AppendLine($"  {h.Resumen}");
+            sb.AppendLine($"  {medios} · {h.Link}");
+        }
+    }
+
+    private static HashSet<string> TitleTokens(string title)
+    {
+        var words = Regex.Split(title.ToLowerInvariant(), @"[^\p{L}0-9]+")
+            .Where(w => w.Length > 2 && !TitleStops.Contains(w));
+        return new HashSet<string>(words, StringComparer.OrdinalIgnoreCase);
+    }
+
+    private static bool SameStory(HashSet<string> a, HashSet<string> b)
+    {
+        if (a.Count == 0 || b.Count == 0) return false;
+        var inter = a.Intersect(b, StringComparer.OrdinalIgnoreCase).Count();
+        if (inter >= 4) return true;
+        var union = a.Union(b, StringComparer.OrdinalIgnoreCase).Count();
+        return union > 0 && (double)inter / union >= 0.4;
+    }
+
     private static List<Article> ReadArticles(SqliteCommand cmd)
     {
         using var reader = cmd.ExecuteReader();
@@ -695,6 +1367,15 @@ public class Program
         stripped = WebUtility.HtmlDecode(stripped);
         stripped = Regex.Replace(stripped, @"\s+", " ").Trim();
         return stripped;
+    }
+
+    private static string EtiquetaViernes(DateTime day)
+    {
+        var cultura = new CultureInfo("es-AR");
+        var raw = day.ToString("dddd d 'de' MMMM", cultura);
+        if (string.IsNullOrEmpty(raw))
+            return day.ToString("yyyy-MM-dd");
+        return char.ToUpper(raw[0], cultura) + raw[1..];
     }
 
     private static string FormatFecha(DateTimeOffset? published) =>

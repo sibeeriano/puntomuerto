@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Podcast — Punto muerto</title>
+  <meta name="description" content="Guiones semanales de Punto muerto.">
+  <meta name="robots" content="noindex, nofollow">
+  <link rel="icon" type="image/png" href="favicon.png">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="hero">
+    <div class="brand">
+      <img class="logo" src="logo.png" alt="Cambio manual en punto muerto" width="72" height="72">
+      <div>
+        <p class="eyebrow">Borradores de guion</p>
+        <h1>Punto muerto</h1>
+      </div>
+    </div>
+    <nav class="site-nav" aria-label="Volver">
+      <a href="index.html">Volver</a>
+    </nav>
+    <p class="updated">Primero el esqueleto. El guion con GPT se crea una sola vez por semana.</p>
+  </header>
+
+  <main>
+    <form class="gate" id="gate">
+      <label class="filter" for="clave">
+        <span>Contraseña</span>
+        <input id="clave" name="clave" type="password" autocomplete="current-password" required>
+      </label>
+      <button type="submit">Entrar</button>
+      <p class="status" id="gate-error" hidden></p>
+    </form>
+
+    <section id="studio" hidden>
+      <div class="filters">
+        <label class="filter">
+          <span>Semana</span>
+          <select id="semana-filtro" aria-label="Elegir semana"></select>
+        </label>
+        <button type="button" class="pill" id="accion-gpt">Crear guion con GPT</button>
+      </div>
+      <p class="status" id="status" hidden></p>
+      <article class="guion-card" id="guion"></article>
+    </section>
+  </main>
+
+  <footer>
+    <div class="footer-inner">
+      <p>Los guiones no están en el menú público.</p>
+      <div class="footer-end">
+        <a class="footer-podcast" href="podcast.html" aria-current="page">Podcast</a>
+        <p class="credit">Desarrollado por <a href="https://thesib.dev" target="_blank" rel="noopener noreferrer">thesib.dev</a></p>
+      </div>
+    </div>
+  </footer>
+
+  <script src="podcast.js"></script>
+</body>
+</html>

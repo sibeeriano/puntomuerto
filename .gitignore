@@ -2,5 +2,7 @@ bin/
 obj/
 noticias.db
 digest_*.json
+guion_*.md
+.env
 *.user
 .DS_Store

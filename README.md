@@ -23,9 +23,9 @@ del proyecto y trae todo lo que haya disponible ahora mismo en cada feed.
 Las corridas siguientes solo insertan lo nuevo: el `UNIQUE` en el link se
 encarga del deduplicado.
 
-Cada corrida, además, regenera `docs/noticias.json` con **todos** los
-artículos de la base (no solo la última semana). Ese archivo es el que lee
-el frontend.
+Cada corrida, además, regenera `docs/noticias.json` (todas las notas de la
+base) y `docs/semana.json` (lo más relevante de los últimos 7 días,
+agrupando títulos parecidos). El viernes alcanza con abrir **Esta semana**.
 
 ## Sitio estático (frontend)
 
@@ -33,10 +33,13 @@ El frontend vive en `docs/` y es HTML/CSS/JS plano: sin frameworks ni build.
 
 | Archivo | Rol |
 |---|---|
-| `docs/index.html` | Página |
+| `docs/index.html` | Portada diaria |
+| `docs/semana.html` | Lo más relevante de la semana |
 | `docs/style.css` | Estilos |
-| `docs/app.js` | Tabs por fuente + tarjetas |
-| `docs/noticias.json` | Datos (lo escribe la consolita) |
+| `docs/app.js` | Filtros + tarjetas del día |
+| `docs/semana.js` | Tarjetas de la semana |
+| `docs/noticias.json` | Todas las notas |
+| `docs/semana.json` | Temas destacados (lo escribe la consolita) |
 
 Para verlo en local:
 
@@ -51,16 +54,40 @@ abrís el `index.html` como `file://`.
 El sitio muestra solapas por fuente (más **Todas**), fecha relativa
 ("hace 3 h") y un link a la nota original.
 
-## Digest semanal para el podcast
+## Esta semana (automático)
+
+No hace falta un job extra los viernes. El cron diario ya regenera
+`docs/semana.json` con una ventana móvil de 7 días: junta notas del mismo
+tema (títulos parecidos), las ordena por cuántos medios lo cubrieron y
+qué tan recientes son, y deja ~24 destacadas. El viernes abrís
+`/semana.html` (o el link **Esta semana** en el home).
+
+Si además querés el dump completo para pasárselo a una IA y armar el
+guion del podcast:
 
 ```bash
 dotnet run -- --digest
 ```
 
-Genera `digest_YYYY-MM-DD.json` con lo pescado en los últimos 7 días
-(título, link, fuente, fecha, resumen). Ese archivo es el que le pasás a
-la IA para armar el guion. El sitio **no** usa este digest: usa
-`docs/noticias.json`.
+Los viernes el digest también se genera solo al correr `dotnet run`.
+Queda `digest_YYYY-MM-DD.json` en la raíz (no se sube al repo).
+
+El viernes el cron arma solo el **esqueleto** y lo deja cifrado en
+`docs/guiones/`. En `/podcast.html` (botón **Podcast** del footer) ves ese
+esqueleto y **Crear guion con GPT**. Eso llama a OpenAI una sola vez; después
+el botón pasa a **Ver guion**. En Vercel no se genera: ahí solo se lee lo
+ya guardado.
+
+Para que el botón funcione, levantá el sitio con el programa:
+
+```bash
+dotnet run -- --sitio
+```
+
+```bash
+dotnet run -- --guion-only          # esqueleto, sin GPT
+dotnet run -- --guion-ia 2026-09-11 # guion GPT de esa semana (si no existe)
+```
 
 ## Estado de los feeds
 
@@ -122,9 +149,10 @@ Jekyll.
 
 ## Automatizarlo (una sola tarea programada)
 
-La idea: una vez por día corre la consolita, regenera `docs/noticias.json`,
-hace commit y push. Vercel (o GitHub Pages) publica el JSON nuevo y el
-sitio se actualiza solo.
+La idea: una vez por día corre la consolita, regenera `docs/noticias.json`
+y `docs/semana.json`, hace commit y push. Vercel (o GitHub Pages) publica
+los JSON nuevos y el sitio se actualiza solo. El viernes no hay que hacer
+nada extra: la ventana de 7 días ya está al día.
 
 Hay un script `actualizar.sh` en la raíz que hace exactamente eso:
 
@@ -157,7 +185,7 @@ del script) y `git` autenticado para pushear (SSH o credential helper).
 ```bat
 cd /d C:\ruta\al\puntomuerto
 dotnet run
-git add docs\noticias.json
+git add docs\noticias.json docs\semana.json
 git diff --cached --quiet || git commit -m "chore: actualizar noticias"
 git push
 ```
@@ -178,6 +206,6 @@ al final de la URL.
 
 ## Qué no se commitea
 
-`.gitignore` deja afuera `bin/`, `obj/`, `noticias.db` y los
-`digest_*.json`. El sitio (`docs/`, incluido `noticias.json`) **sí** va
-al repo: es lo que publican Vercel y GitHub Pages.
+`.gitignore` deja afuera `bin/`, `obj/`, `noticias.db`, `.env`, los
+`digest_*.json` y los `guion_*.md`. El sitio (`docs/`, incluidos
+`noticias.json`, `semana.json` y los guiones cifrados) **sí** va al repo.

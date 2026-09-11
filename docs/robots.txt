@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /podcast.html
+Disallow: /guiones/
+Disallow: /guiones.json

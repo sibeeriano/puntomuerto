@@ -3,8 +3,8 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Punto muerto</title>
-  <meta name="description" content="Resumen diario de noticias de autos.">
+  <title>Esta semana — Punto muerto</title>
+  <meta name="description" content="Lo más relevante de la semana en noticias de autos.">
   <link rel="icon" type="image/png" href="favicon.png">
   <link rel="stylesheet" href="style.css">
 </head>
@@ -13,13 +13,13 @@
     <div class="brand">
       <img class="logo" src="logo.png" alt="Cambio manual en punto muerto" width="72" height="72">
       <div>
-        <p class="eyebrow">Resumen diario de noticias</p>
+        <p class="eyebrow">Lo más relevante de la semana</p>
         <h1>Punto muerto</h1>
       </div>
     </div>
     <nav class="site-nav" aria-label="Secciones">
-      <a href="index.html" aria-current="page">Hoy</a>
-      <a href="semana.html">Esta semana</a>
+      <a href="index.html">Hoy</a>
+      <a href="semana.html" aria-current="page">Esta semana</a>
     </nav>
     <p class="updated" id="updated">Cargando…</p>
   </header>
@@ -32,27 +32,14 @@
           <option value="Todas">Todas</option>
         </select>
       </label>
-      <label class="filter">
-        <span>Fecha</span>
-        <select id="fecha-filtro" aria-label="Filtrar por fecha">
-          <option value="todas">Todas las fechas</option>
-          <option value="hoy">Hoy</option>
-          <option value="ayer">Ayer</option>
-          <option value="7d">Últimos 7 días</option>
-          <option value="30d">Últimos 30 días</option>
-        </select>
-      </label>
     </div>
     <p class="status" id="status" hidden></p>
     <section class="grid" id="grid"></section>
-    <div class="pager" id="pager" hidden>
-      <button type="button" id="mas">Cargar más</button>
-    </div>
   </main>
 
   <footer>
     <div class="footer-inner">
-      <p>Sitio estático generado desde RSS. Cada nota abre en su medio original.</p>
+      <p>Temas agrupados de los últimos 7 días. Cada nota abre en su medio original.</p>
       <div class="footer-end">
         <a class="footer-podcast" href="podcast.html">Podcast</a>
         <p class="credit">Desarrollado por <a href="https://thesib.dev" target="_blank" rel="noopener noreferrer">thesib.dev</a></p>
@@ -60,6 +47,6 @@
     </div>
   </footer>
 
-  <script src="app.js"></script>
+  <script src="semana.js"></script>
 </body>
 </html>
