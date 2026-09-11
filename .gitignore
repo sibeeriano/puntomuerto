@@ -1,0 +1,6 @@
+bin/
+obj/
+noticias.db
+digest_*.json
+*.user
+.DS_Store

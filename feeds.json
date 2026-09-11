@@ -1,0 +1,9 @@
+[
+  { "name": "Autoblog Argentina", "url": "https://autoblog.com.ar/feed/" },
+  { "name": "Autotest", "url": "https://autotest.com.ar/feed/" },
+  { "name": "Megautos", "url": "https://www.megautos.com/feed/" },
+  { "name": "iProfesional", "url": "https://www.iprofesional.com/rss/autos" },
+  { "name": "El Economista", "url": "https://eleconomista.com.ar/autos/feed/" },
+  { "name": "Motorpasión (ES)", "url": "https://feeds.weblogssl.com/motorpasion" },
+  { "name": "Diariomotor (ES)", "url": "https://www.diariomotor.com/feed/" }
+]

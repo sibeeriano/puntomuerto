@@ -1,0 +1,5 @@
+bin
+obj
+noticias.db
+digest_*.json
+.vercel
