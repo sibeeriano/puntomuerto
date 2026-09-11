@@ -72,22 +72,23 @@ dotnet run -- --digest
 Los viernes el digest también se genera solo al correr `dotnet run`.
 Queda `digest_YYYY-MM-DD.json` en la raíz (no se sube al repo).
 
-El viernes el cron arma solo el **esqueleto** y lo deja cifrado en
-`docs/guiones/`. En `/podcast.html` (botón **Podcast** del footer) ves ese
-esqueleto y **Crear guion con GPT**. Eso llama a OpenAI una sola vez; después
-el botón pasa a **Ver guion**. En Vercel no se genera: ahí solo se lee lo
-ya guardado.
+El sitio en Vercel es la web: vos o tu socio entran a `/podcast.html` desde
+cualquier navegador, ponen la contraseña y tocan **Crear guion con GPT**.
+Eso corre en el servidor (no en la Mac), llama a OpenAI una sola vez, guarda
+el guion cifrado en GitHub y el botón pasa a **Ver guion**.
 
-Para que el botón funcione, levantá el sitio con el programa:
+Las noticias y el esqueleto del viernes los arma GitHub Actions todos los
+días a las 8:00 (Argentina), no hace falta tener la PC prendida.
 
-```bash
-dotnet run -- --sitio
-```
+En Vercel → Settings → Environment Variables (Production) cargá:
 
-```bash
-dotnet run -- --guion-only          # esqueleto, sin GPT
-dotnet run -- --guion-ia 2026-09-11 # guion GPT de esa semana (si no existe)
-```
+- `OPENAI_API_KEY`
+- `PUNTO_PODCAST_PASSWORD`
+- `GITHUB_TOKEN` (un PAT de GitHub con permiso de Contents en este repo)
+
+En GitHub → Settings → Secrets and variables → Actions:
+
+- `PUNTO_PODCAST_PASSWORD` (la misma contraseña)
 
 ## Estado de los feeds
 

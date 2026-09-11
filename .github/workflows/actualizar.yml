@@ -1,0 +1,44 @@
+name: Actualizar noticias
+
+on:
+  schedule:
+    - cron: "0 11 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  actualizar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: "8.0.x"
+
+      - uses: actions/cache@v4
+        with:
+          path: noticias.db
+          key: noticias-db
+          restore-keys: |
+            noticias-db
+
+      - name: Bajar feeds y armar docs
+        env:
+          PUNTO_PODCAST_PASSWORD: ${{ secrets.PUNTO_PODCAST_PASSWORD }}
+          DOTNET_CLI_TELEMETRY_OPTOUT: "1"
+        run: dotnet run
+
+      - name: Publicar si hubo cambios
+        run: |
+          git config user.name "punto-muerto-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/noticias.json docs/semana.json docs/guiones.json docs/guiones
+          if git diff --cached --quiet; then
+            echo "Sin cambios en docs/"
+            exit 0
+          fi
+          git commit -m "chore: actualizar noticias $(date -u +%Y-%m-%d)"
+          git push

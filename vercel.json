@@ -3,5 +3,10 @@
   "framework": null,
   "installCommand": "",
   "buildCommand": "",
-  "outputDirectory": "docs"
+  "outputDirectory": "docs",
+  "functions": {
+    "api/crear-guion.js": {
+      "maxDuration": 60
+    }
+  }
 }

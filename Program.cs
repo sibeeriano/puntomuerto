@@ -938,7 +938,7 @@ public class Program
         }
     }
 
-    private static async Task CrearGuionGptAsync(string fecha)
+    private static async Task<string> CrearGuionGptAsync(string fecha)
     {
         var password = Environment.GetEnvironmentVariable("PUNTO_PODCAST_PASSWORD");
         if (string.IsNullOrWhiteSpace(password))
@@ -952,7 +952,7 @@ public class Program
         if (!string.IsNullOrWhiteSpace(item.guion) && File.Exists(Path.Combine(_rootDir, "docs", item.guion)))
         {
             Console.WriteLine($"Ya existe guion GPT para {fecha}; no se vuelve a llamar a OpenAI.");
-            return;
+            return DecryptGuion(File.ReadAllText(Path.Combine(_rootDir, "docs", item.guion)), password);
         }
 
         var packed = File.ReadAllText(Path.Combine(_rootDir, "docs", item.esqueleto));
@@ -970,6 +970,7 @@ public class Program
         lista[idx] = item with { guion = rel };
         WriteGuionIndex(lista);
         Console.WriteLine($"Guion GPT guardado en docs/{rel}");
+        return texto;
     }
 
     private static void PublicarEsqueleto(string fecha, string rango, string texto)
@@ -1139,16 +1140,11 @@ public class Program
             {
                 var lista = ReadGuionIndex();
                 var item = lista.FirstOrDefault(x => x.fecha == fecha);
-                if (item is not null && !string.IsNullOrWhiteSpace(item.guion)
-                    && File.Exists(Path.Combine(_rootDir, "docs", item.guion)))
-                {
-                    await WriteJsonAsync(res, 200, new { ok = true, already = true, guion = item.guion });
-                    return;
-                }
-
-                await CrearGuionGptAsync(fecha);
+                var already = item is not null && !string.IsNullOrWhiteSpace(item.guion)
+                    && File.Exists(Path.Combine(_rootDir, "docs", item.guion));
+                var markdown = await CrearGuionGptAsync(fecha);
                 var after = ReadGuionIndex().FirstOrDefault(x => x.fecha == fecha);
-                await WriteJsonAsync(res, 200, new { ok = true, already = false, guion = after?.guion });
+                await WriteJsonAsync(res, 200, new { ok = true, already, guion = after?.guion, markdown });
             }
             catch (Exception ex)
             {

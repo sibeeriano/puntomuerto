@@ -56,6 +56,20 @@ function archivoEsqueleto(item) {
   return item?.esqueleto || item?.archivo || "";
 }
 
+async function textoGuion(item) {
+  const cached = sessionStorage.getItem(`pm-guion-${item.fecha}`);
+  if (item.guion) {
+    try {
+      return await decryptArchivo(item.guion, clave);
+    } catch (err) {
+      if (cached) return cached;
+      throw err;
+    }
+  }
+  if (cached) return cached;
+  throw new Error("Todavía no hay guion para esa semana.");
+}
+
 async function unlock(password, silent) {
   hideGateError();
   if (!password) {
@@ -129,9 +143,10 @@ async function loadSemana() {
     return;
   }
 
-  const archivo = vista === "guion" && item.guion ? item.guion : archivoEsqueleto(item);
   try {
-    const md = await decryptArchivo(archivo, clave);
+    const md = vista === "guion"
+      ? await textoGuion(item)
+      : await decryptArchivo(archivoEsqueleto(item), clave);
     guionEl.innerHTML = renderMarkdown(md);
   } catch (err) {
     showStatus("No se pudo abrir ese archivo.");
@@ -160,14 +175,22 @@ async function onAccion() {
       body: JSON.stringify({ fecha: item.fecha, password: clave })
     });
     const data = await res.json().catch(() => ({}));
-    if (res.status === 404) {
-      throw new Error("Este botón funciona con el servidor del proyecto (dotnet run -- --sitio). En Vercel solo se ve lo ya generado.");
-    }
     if (!res.ok || !data.ok) {
       throw new Error(data.error || "No se pudo crear el guion.");
     }
-    await reloadIndex();
-    renderSemanas();
+    if (data.markdown) {
+      sessionStorage.setItem(`pm-guion-${item.fecha}`, data.markdown);
+    }
+    if (data.guion) {
+      const i = index.findIndex((x) => x.fecha === item.fecha);
+      if (i >= 0) index[i] = { ...index[i], guion: data.guion };
+    }
+    try {
+      await reloadIndex();
+      renderSemanas();
+    } catch {
+      renderSemanas();
+    }
     vista = "guion";
     await loadSemana();
   } catch (err) {
