@@ -31,6 +31,8 @@ public record WeekHighlight(
 
 public record GuionIndexItem(string fecha, string rango, string esqueleto, string? guion = null);
 
+public record PublishedItem(string? titulo, string? link, string? fuente, string? fecha, string? resumen, string? imagen);
+
 public class Program
 {
     private const string DbFileName = "noticias.db";
@@ -53,6 +55,7 @@ public class Program
         _rootDir = FindRoot();
         LoadDotEnv();
         InitDb();
+        ImportPublishedNoticias();
 
         if (args.Contains("--sitio"))
         {
@@ -168,6 +171,47 @@ public class Program
             );";
         cmd.ExecuteNonQuery();
         EnsureColumn(conn, "Image");
+    }
+
+    private static void ImportPublishedNoticias()
+    {
+        var path = Path.Combine(_rootDir, "docs", "noticias.json");
+        if (!File.Exists(path))
+            return;
+
+        List<PublishedItem>? items;
+        try
+        {
+            items = JsonSerializer.Deserialize<List<PublishedItem>>(File.ReadAllText(path), JsonOptions);
+        }
+        catch
+        {
+            return;
+        }
+
+        if (items is null || items.Count == 0)
+            return;
+
+        var inserted = 0;
+        foreach (var item in items)
+        {
+            if (string.IsNullOrWhiteSpace(item.link))
+                continue;
+            DateTimeOffset? published = null;
+            if (!string.IsNullOrWhiteSpace(item.fecha) && DateTimeOffset.TryParse(item.fecha, out var parsed))
+                published = parsed;
+            if (UpsertArticle(new Article(
+                    item.titulo ?? "",
+                    item.link,
+                    item.fuente ?? "",
+                    published,
+                    item.resumen ?? "",
+                    item.imagen ?? "")))
+                inserted++;
+        }
+
+        if (inserted > 0)
+            Console.WriteLine($"Recuperadas {inserted} notas ya publicadas (por si un feed falla hoy).");
     }
 
     private static void EnsureColumn(SqliteConnection conn, string column)
