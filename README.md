@@ -80,6 +80,18 @@ el guion cifrado en GitHub y el botón pasa a **Ver guion**.
 Las noticias y el esqueleto del viernes los arma GitHub Actions todos los
 días a las 10:00, 13:00 y 16:00 (Argentina), no hace falta tener la PC prendida.
 
+Son dos jobs. El de Ubuntu baja todas las fuentes **menos Autoblog**.
+Autoblog.com.ar está detrás de Cloudflare y responde 403 a las IPs de
+`ubuntu-latest` (Azure), aunque el RSS público ande bien desde una Mac.
+Cuando ese job termina, arranca otro en `macos-latest` (otro rango de IPs)
+que solo pide Autoblog y, si hay notas nuevas, commitea `docs/`.
+
+A mano:
+
+```bash
+dotnet run -- --fuente "Autoblog Argentina"
+```
+
 En Vercel → Settings → Environment Variables (Production) cargá:
 
 - `OPENAI_API_KEY`
@@ -108,8 +120,11 @@ Todas las fuentes están en español. El mismo hecho (por ejemplo el lanzamiento
 
 Notas:
 
-- El programa manda un User-Agent de navegador. Sin eso, Autoblog Argentina
-  también responde 403 (Cloudflare).
+- Autoblog Argentina publica el RSS, pero Cloudflare bloquea clientes
+  automáticos desde datacenters (GitHub Actions en Ubuntu). No es un fallo
+  del parseo: desde una Mac el mismo `/feed/` da 200. El job de Ubuntu lo
+  saltea; el de macOS lo intenta después. Si también falla, queda
+  `dotnet run -- --fuente "Autoblog Argentina"` en local.
 - Si Motorpasión falla, hay un fallback a `https://www.motorpasion.com/feedburner.xml`.
   El `/feed/` de WordPress que mencionaba el README viejo hoy da **404**.
 - Fechas vacías, HTML en títulos/resúmenes o XML sin declaración no cortan
@@ -148,7 +163,7 @@ queda en `https://sibeeriano.github.io/puntomuerto/`.
 Hay un archivo `docs/.nojekyll` para que GitHub no procese la carpeta con
 Jekyll.
 
-## Automatizarlo (una sola tarea programada)
+## Automatizarlo (GitHub Actions)
 
 La idea: una vez por día corre la consolita, regenera `docs/noticias.json`
 y `docs/semana.json`, hace commit y push. Vercel (o GitHub Pages) publica

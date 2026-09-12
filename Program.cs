@@ -76,7 +76,12 @@ public class Program
             return;
         }
 
-        var feeds = LoadFeeds();
+        var feeds = FilterFeeds(LoadFeeds(), args);
+        if (feeds.Count == 0)
+        {
+            Console.WriteLine("[ERROR] Ningún feed coincide con --fuente / --sin-fuente.");
+            return;
+        }
 
         var nuevos = new List<Article>();
 
@@ -1111,6 +1116,17 @@ public class Program
         using var aes = new AesGcm(key, 16);
         aes.Decrypt(iv, cipher, tag, plain);
         return Encoding.UTF8.GetString(plain);
+    }
+
+    private static List<FeedSource> FilterFeeds(List<FeedSource> feeds, string[] args)
+    {
+        var solo = ArgValue(args, "--fuente");
+        var sin = ArgValue(args, "--sin-fuente");
+        if (!string.IsNullOrWhiteSpace(solo))
+            feeds = feeds.Where(f => f.Name.Contains(solo, StringComparison.OrdinalIgnoreCase)).ToList();
+        if (!string.IsNullOrWhiteSpace(sin))
+            feeds = feeds.Where(f => !f.Name.Contains(sin, StringComparison.OrdinalIgnoreCase)).ToList();
+        return feeds;
     }
 
     private static string? ArgValue(string[] args, string flag)
