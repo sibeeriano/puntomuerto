@@ -145,6 +145,7 @@ public class Program
         http.DefaultRequestHeaders.UserAgent.ParseAdd(
             "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36");
         http.DefaultRequestHeaders.Accept.ParseAdd("application/rss+xml, application/atom+xml, application/xml, text/xml, */*;q=0.8");
+        http.DefaultRequestHeaders.AcceptLanguage.ParseAdd("es-AR,es;q=0.9,en;q=0.8");
         return http;
     }
 
@@ -272,10 +273,18 @@ public class Program
     {
         try
         {
-            using var response = await http.GetAsync(url, HttpCompletionOption.ResponseHeadersRead);
+            using var req = new HttpRequestMessage(HttpMethod.Get, url);
+            if (Uri.TryCreate(url, UriKind.Absolute, out var uri))
+                req.Headers.Referrer = new Uri($"{uri.Scheme}://{uri.Host}/");
+            using var response = await http.SendAsync(req, HttpCompletionOption.ResponseHeadersRead);
             var bytes = await response.Content.ReadAsByteArrayAsync();
             if (!response.IsSuccessStatusCode)
             {
+                if (response.StatusCode == HttpStatusCode.Forbidden)
+                {
+                    Console.WriteLine($"[INFO] HTTP 403 para {url}; reintento con curl.");
+                    return await DownloadWithCurlAsync(url);
+                }
                 var sniff = Encoding.UTF8.GetString(bytes, 0, Math.Min(bytes.Length, 240)).TrimStart();
                 var hint = LooksLikeHtml(sniff) ? " (devolvió HTML, posible bloqueo o URL rota)" : "";
                 throw new HttpRequestException(
@@ -310,6 +319,15 @@ public class Program
             psi.ArgumentList.Add("25");
             psi.ArgumentList.Add("-A");
             psi.ArgumentList.Add("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36");
+            psi.ArgumentList.Add("-H");
+            psi.ArgumentList.Add("Accept: application/rss+xml, application/xml, text/xml, */*;q=0.8");
+            psi.ArgumentList.Add("-H");
+            psi.ArgumentList.Add("Accept-Language: es-AR,es;q=0.9");
+            if (Uri.TryCreate(url, UriKind.Absolute, out var uri))
+            {
+                psi.ArgumentList.Add("-H");
+                psi.ArgumentList.Add($"Referer: {uri.Scheme}://{uri.Host}/");
+            }
             psi.ArgumentList.Add("-o");
             psi.ArgumentList.Add(tmp);
             psi.ArgumentList.Add("-w");
@@ -1109,6 +1127,7 @@ public class Program
         const string prefix = "http://127.0.0.1:8080/";
         using var listener = new HttpListener();
         listener.Prefixes.Add(prefix);
+        listener.Prefixes.Add("http://localhost:8080/");
         try
         {
             listener.Start();
