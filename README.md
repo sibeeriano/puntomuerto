@@ -80,16 +80,26 @@ el guion cifrado en GitHub y el botón pasa a **Ver guion**.
 Las noticias y el esqueleto del viernes los arma GitHub Actions todos los
 días a las 10:00, 13:00 y 16:00 (Argentina), no hace falta tener la PC prendida.
 
-Son dos jobs. El de Ubuntu baja todas las fuentes **menos Autoblog**.
-Autoblog.com.ar está detrás de Cloudflare y responde 403 a las IPs de
-`ubuntu-latest` (Azure), aunque el RSS público ande bien desde una Mac.
-Cuando ese job termina, arranca otro en `macos-latest` (otro rango de IPs)
-que solo pide Autoblog y, si hay notas nuevas, commitea `docs/`.
+El job de Ubuntu baja todas las fuentes **menos Autoblog**. Autoblog.com.ar
+está detrás de Cloudflare y responde 403 a las IPs de GitHub Actions
+(Ubuntu y macOS hosted). El RSS público anda desde esta Mac.
+
+Autoblog lo baja un LaunchAgent local (`com.puntomuerto.autoblog`) a las
+10:25, 13:25 y 16:25 (Argentina). Corre `actualizar-autoblog.sh`: pull,
+`dotnet run -- --fuente "Autoblog Argentina"` y push si hay notas nuevas.
+La Mac tiene que estar prendida. Log: `/tmp/puntomuerto-autoblog.log`.
+
+Para instalarlo de nuevo:
+
+```bash
+cp launchd/com.puntomuerto.autoblog.plist ~/Library/LaunchAgents/
+launchctl bootstrap gui/$(id -u) ~/Library/LaunchAgents/com.puntomuerto.autoblog.plist
+```
 
 A mano:
 
 ```bash
-dotnet run -- --fuente "Autoblog Argentina"
+./actualizar-autoblog.sh
 ```
 
 En Vercel → Settings → Environment Variables (Production) cargá:
@@ -120,11 +130,10 @@ Todas las fuentes están en español. El mismo hecho (por ejemplo el lanzamiento
 
 Notas:
 
-- Autoblog Argentina publica el RSS, pero Cloudflare bloquea clientes
-  automáticos desde datacenters (GitHub Actions en Ubuntu). No es un fallo
-  del parseo: desde una Mac el mismo `/feed/` da 200. El job de Ubuntu lo
-  saltea; el de macOS lo intenta después. Si también falla, queda
-  `dotnet run -- --fuente "Autoblog Argentina"` en local.
+- Autoblog Argentina publica el RSS, pero Cloudflare bloquea los runners
+  de GitHub (Ubuntu y macOS). No es un fallo del parseo: desde esta Mac
+  el mismo `/feed/` da 200. El job de Ubuntu lo saltea; Autoblog lo baja
+  el LaunchAgent local.
 - Si Motorpasión falla, hay un fallback a `https://www.motorpasion.com/feedburner.xml`.
   El `/feed/` de WordPress que mencionaba el README viejo hoy da **404**.
 - Fechas vacías, HTML en títulos/resúmenes o XML sin declaración no cortan

@@ -118,6 +118,12 @@ public class Program
 
         Console.WriteLine($"\nArtículos nuevos esta corrida: {nuevos.Count}");
 
+        if (!string.IsNullOrWhiteSpace(ArgValue(args, "--fuente")) && nuevos.Count == 0)
+        {
+            Console.WriteLine("Sin notas nuevas; no reescribo docs/.");
+            return;
+        }
+
         WriteNoticiasJson();
         var semana = WriteSemanaJson();
 
