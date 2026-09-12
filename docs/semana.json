@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-12T06:57:02Z",
+  "actualizado": "2026-09-12T16:05:55Z",
   "desde": "2026-09-05",
   "hasta": "2026-09-12",
   "destacadas": [
@@ -24,11 +24,37 @@
       "fecha": "2026-09-09T19:05:00Z",
       "resumen": "La automotriz ofrece financiación ajustada por UVA con tasa de 13,9% a 5 años y cuotas desde $686.904. Además ofrece una línea especial para la Hilux SRV+ y otras alternativas TNA 0% para otros modelos.",
       "imagen": "https://statics.eleconomista.com.ar/2026/09/crop/6aa1af5fea527__950x512.webp",
-      "menciones": 6,
+      "menciones": 5,
       "fuentes": [
         "Autoblog Argentina",
         "El Economista",
         "iProfesional"
+      ]
+    },
+    {
+      "titulo": "Lando Norris saca una pole muy apretada en un Madring imprevisible",
+      "link": "https://www.diariomotor.com/competicion/noticia/lando-norris-saca-una-pole-muy-apretada-en-un-madring-imprevisible/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-09-12T17:26:30Z",
+      "resumen": "El Madring vivió una qualy tensa y llena de cambios, donde la dominante Mercedes dio un paso al costado por un momento. Lando Norris se apuntó su tercera pole en cuatro carreras con una vuelta constante, de equilibrio difícil en un circuito revirado y rápido a partes iguales. Andrea Kimi Antonelli le escoltará en la primera fila y desde la segunda partirán Max Verstappen y Lewis Hamilton, en lo…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/09/lando-norris-qualy-f1-madring-2026-6aa56efb6e036.jpg?class=XL",
+      "menciones": 3,
+      "fuentes": [
+        "Diariomotor (ES)",
+        "Motorpasión (ES)"
+      ]
+    },
+    {
+      "titulo": "El Renault que supera a Duster y compite con Toyota Corolla Cross: 200 CV y muy buen precio",
+      "link": "https://autotest.com.ar/noticias/el-renault-que-supera-a-duster-y-compite-con-toyota-corolla-cross-200-cv-y-muy-buen-precio/",
+      "fuente": "Autotest",
+      "fecha": "2026-09-12T14:09:01Z",
+      "resumen": "El Renault Austral se sitúa por encima del Duster en el mercado europeo, ofreciendo hasta 200 CV y destacando frente a competidores como el Corolla Cross, Qashqai y Tiguan.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/Renault-Austral.jpg",
+      "menciones": 9,
+      "fuentes": [
+        "Autotest",
+        "El Economista"
       ]
     },
     {
@@ -42,19 +68,6 @@
       "fuentes": [
         "Diariomotor (ES)",
         "iProfesional"
-      ]
-    },
-    {
-      "titulo": "El SUV japonés que se actualiza con diseño más robusto, motor V6 y mayor despeje para enfrentar a Toyota",
-      "link": "https://autotest.com.ar/noticias/el-suv-japones-que-se-actualiza-con-diseno-mas-robusto-motor-v6-y-mayor-despeje-para-enfrentar-a-toyota/",
-      "fuente": "Autotest",
-      "fecha": "2026-09-11T19:00:02Z",
-      "resumen": "La Honda Passport TrailSport 2027 llega con suspensión rediseñada, 245 mm de despeje al suelo y un potente motor V6 de 285 hp, posicionándose como la SUV más capaz de la marca fuera del asfalto.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/SUV-Honda-Passport-TrailSport-2027-teaser.jpg",
-      "menciones": 9,
-      "fuentes": [
-        "Autotest",
-        "El Economista"
       ]
     },
     {
@@ -149,6 +162,138 @@
       ]
     },
     {
+      "titulo": "Aunque ya hay uno nuevo, este mechero infravalorado con etiqueta y 3 l/100 km de consumo es un chollo premium solo para entendidos",
+      "link": "https://www.diariomotor.com/noticia/audi-a2-guia-compra/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-09-12T18:00:05Z",
+      "resumen": "Si buscas un coche de segunda mano de pequeñas dimensiones, valoras mucho su eficiencia y quieres huir de los usados habituales, este artículo te interesa. El coche que lo protagoniza es un coche injustamente denostado e infravalorado , pero se trata de un coche ultra ligero, extremadamente eficiente y premium. Un coche quizá entrado en años, pero con etiqueta ambiental de la DGT en muchas de sus…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/03/Audi-A2-8-69b9694429a17.jpg?class=XL",
+      "menciones": 1,
+      "fuentes": [
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "Rally de Chile: Toyota domina tras el accidente de Thierry Neuville con cuatro GR Yaris Rally1 en el Top5",
+      "link": "https://www.diariomotor.com/competicion/noticia/rally-chile-thierry-neuville-crash-tc7/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-09-12T17:05:35Z",
+      "resumen": "El Rally de Chile cruzaba a la otra orilla del Río Biobío para disputar esta etapa del sábado, esperando en este caso que se cambiaran por completo las características de las especiales por pistas de tierra algo más anchas y veloces comparadas con las de la jornada de este viernes. Este aumento de la velocidad, sumado a que se mantenían algunas humedades y zonas de poco agarre, ha llevado a que se…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/09/SOLBERG12CHL26tb215-6aa56a22aadf5.jpg?class=XL",
+      "menciones": 3,
+      "fuentes": [
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "Ya casi está aquí el Citroën 2CV de 2026, y esto es todo lo que sabemos del coche del pueblo, barato, sencillo, que Europa necesita",
+      "link": "https://www.diariomotor.com/noticia/citroen-2cv-adelanto-2026/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-09-12T17:00:43Z",
+      "resumen": "Se acabaron los rumores y Citroën nos anunció un secreto a voces, el regreso del Citroën 2CV . Citroën muestra en el próximo Salón de París de octubre un adelanto de su nuevo 2CV. Se fabricará en Italia dentro del proyecto de coches pequeños y asequibles de Stellantis para Europa. La marca apunta a un precio inferior a 15.000 euros para recuperar la idea de un coche sencillo y accesible. Tal vez…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/09/citroen-2cv-2026-recreacion-aigen-7-6aa1153f51d09.png?class=XL",
+      "menciones": 1,
+      "fuentes": [
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "Querían llegar al fin del mundo y una furgoneta camper se quedaba corta: así convirtió una pareja esta vieja ambulancia en su casa 4x4",
+      "link": "https://www.motorpasion.com/furgonetas-y-caravanas/querian-llegar-al-fin-mundo-furgoneta-camper-se-quedaba-corta-asi-convirtio-pareja-esta-vieja-ambulancia-su-casa-4x4",
+      "fuente": "Motorpasión (ES)",
+      "fecha": "2026-09-12T16:01:01Z",
+      "resumen": "Ginger y Greg querían vivir viajando a tiempo completo y llegar con casa rodante a los lugares más remotos del planeta que pudieran encontrar, como cuentan en su perfil de @drivetoadvertures . Para ello, se hicieron su primera camper con una Ford F-350, pero apenas llevaban una semana en carretera cuando se dieron cuenta de que no iba a funcionar: la pick-up llevaba demasiado peso. Después pasaron…",
+      "imagen": "https://i.blogs.es/e64c05/portada-mop-1789224063683/1024_2000.jpeg",
+      "menciones": 1,
+      "fuentes": [
+        "Motorpasión (ES)"
+      ]
+    },
+    {
+      "titulo": "Primeras imágenes de la BMW R20, la moto con el motor bóxer más grande de BMW que el mercado quiere en 2026",
+      "link": "https://www.diariomotor.com/noticia/primeras-imagenes-movimiento-bmw-r20/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-09-12T16:00:03Z",
+      "resumen": "Si hay una moto cuya llegada a las calles suscita un interés especial dentro del catálogo de productos adelantado por BMW Motorrad, la división de motocicletas del fabricante alemán, esa es, sin duda, la BMW R20 . Este modelo será el encargado de llevar un paso más allá las posibilidades del motor bóxer dentro de la marca y ahora tenemos nuevas noticias sobre él. Y es que la marca ha publicado las…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/09/BMW-R20-primeras-imagenes-en-movimiento-7-6aa2dccd0b900.jpg?class=XL",
+      "menciones": 1,
+      "fuentes": [
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "Ritomo Miyata gana la carrera sprint de F2 en Madring, Nikola Tsolov abandona",
+      "link": "https://www.diariomotor.com/competicion/noticia/ritomo-miyata-gana-la-carrera-sprint-de-f2-en-madring-nikola-tsolov-abandona/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-09-12T15:53:50Z",
+      "resumen": "Ritomo Miyata gana la carrera sprint de Formula 2 en Madring , en la que hubo acción y diversidad estratégica. Varios pilotos optaron por el neumático blando para disputar la prueba en vez del duro, habitual los sábados. Entre ellos estuvo Laurens van Hoepen, que finalizó tercero por detrás de Emmo Fittipaldi. Mari Boya consiguió sumar un punto tras avanzar varias posiciones en la primera vuelta.…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/09/MIYATA-SILVERSTONE-2026-FML-6aa5568109af7.jpg?class=XL",
+      "menciones": 1,
+      "fuentes": [
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "La primera orden de Marcin Budkowski fue detener el desarrollo del Cadillac MAC-26",
+      "link": "https://www.diariomotor.com/competicion/noticia/marcin-budkowski-detener-desarrollo-del-mac-26/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-09-12T15:13:36Z",
+      "resumen": "Una vez que Graeme Lowdon cedió la dirección de la escudería Cadillac a Marcin Budkowski, el nuevo jefe procedió a detener cualquier plan asociado al desarrollo del actual monoplaza tras considerar que se requiere un proyecto de transformación a largo plazo. Hasta ahora la propuesta de Cadillac ha sido muy deficiente, desde el principio se han estacionado al fondo de la parrilla y con el…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/09/Cadillac_F1_Team_Practicas-Monza-2026_26-6aa536ad695b3.jpg?class=XL",
+      "menciones": 1,
+      "fuentes": [
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "La prueba que hago a cada híbrido para descubrir la \"cara oculta\" de los motores Atkinson que te \"roba\" hasta 100 CV en un momento",
+      "link": "https://www.diariomotor.com/noticia/prueba-hibrido-motor-atkinson/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-09-12T15:00:05Z",
+      "resumen": "Cada vez que pruebo un híbrido hay una comprobación que intento hacer siempre. No consiste en comprobar cuánto consume en ciudad, ni cuántos kilómetros consigue circular sin encender el motor de gasolina. Consiste precisamente en hacer todo lo contrario: gastar buena parte de la energía disponible en su batería, salir a carretera y exigirle después toda la potencia. Es una prueba especialmente…",
+      "imagen": "https://www.diariomotor.com/imagenes/2023/03/toma-de-contacto-toyota-corolla-2023-30-64195e5de18ef.jpg?class=XL",
+      "menciones": 1,
+      "fuentes": [
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "Andrea Kimi Antonelli lidera el alargado último libre en el Madring",
+      "link": "https://www.diariomotor.com/competicion/noticia/andrea-kimi-antonelli-lidera-el-alargado-ultimo-libre-en-el-madring/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-09-12T14:16:15Z",
+      "resumen": "Calurosa jornada de sábado en el Madring, nueva sede del Gran Premio de España entre muros atrevidos y escapatorias poco definidas. Andrea Kimi Antonelli realizó su trabajo habitual y encabezó la última sesión de entrenamientos , previa a una qualy que se prevé muy importante. Charles Leclerc y Oscar Piastri fueron junto al italiano los únicos en alcanzar el 1:32, George Russell solo pudo ser…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/09/andrea-kimi-antonelli-libres-f1-madring-2026-6aa54136d6b50.jpg?class=XL",
+      "menciones": 1,
+      "fuentes": [
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "Ni eléctrico, ni downsizing, así es el maravilloso motor del Ford Escort 2026, un 4 cilindros sin turbo que alcanza 330 CV girando a 10.000 rpm",
+      "link": "https://www.diariomotor.com/noticia/ford-escort-motor-2026/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-09-12T14:00:30Z",
+      "resumen": "La industria está obsesionada con los coches eléctricos. También con el downsizing, la electrificación y, en definitiva, con conseguir motores cada vez más eficientes que puedan superar unas normativas de emisiones cada vez más exigentes. Pero, tal y como ya nos contaba mi compañero David Clavero , aún quedan algunos locos dispuestos a fabricar motores de combustión interna con el único propósito…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/06/Ford-escort-mk1-Boreham-2026-motor-tenK_6-6a294a1a196a4.jpg?class=XL",
+      "menciones": 1,
+      "fuentes": [
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "Audi presentó el A2 e-tron",
+      "link": "https://www.megautos.com/audi-a2-e-tron/",
+      "fuente": "Megautos",
+      "fecha": "2026-09-12T13:01:53Z",
+      "resumen": "El nuevo modelo compacto combina una carrocería de diseño aerodinámico con distintas opciones de batería que permiten hasta 646 kilómetros de autonomía. La entrada Audi presentó el A2 e-tron aparece primero en Mega Autos .",
+      "imagen": "https://www.megautos.com/wp-content/uploads/2026/09/A264384_medium.jpg",
+      "menciones": 1,
+      "fuentes": [
+        "Megautos"
+      ]
+    },
+    {
       "titulo": "Celebración: 75 años de la planta de camiones y buses de Mercedes-Benz en Argentina",
       "link": "https://autoblog.com.ar/659213-2/",
       "fuente": "Autoblog Argentina",
@@ -159,151 +304,6 @@
       "fuentes": [
         "Autoblog Argentina",
         "El Economista"
-      ]
-    },
-    {
-      "titulo": "Más deportiva y campera, así es la última novedad de Benimar, una autocaravana de siete metros con gran salón y cocina en \"L\"",
-      "link": "https://www.diariomotor.com/noticia/benimar-tessoro-443-stormline/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-09-12T08:00:14Z",
-      "resumen": "En el Salón del Caravaning de Düsseldorf los responsables de Benimar han mostrado varias novedades muy interesantes que se podrán adquirir en nuestro país en cuestión de unas semanas. Además de nuevas configuraciones de interior hay que resaltar la introducción de un nuevo nivel acabado que destaca por una decoración muy personal y diferenciada. Con 165 CV de potencia Distribución lógica Mucho…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/09/Benimar-Tessoro-443-stormline7-6a9ee5dfbf926.jpg?class=XL",
-      "menciones": 1,
-      "fuentes": [
-        "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "El tractor más grande del mundo puede arar 4.000 m2/minuto con su motor diésel 2T de 4.200 Nm de par y sus 4 neumáticos de 2,4 m de alto",
-      "link": "https://www.diariomotor.com/noticia/tractor-big-bud/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-09-12T07:00:01Z",
-      "resumen": "Solo hora y media separa a este coloso de arar un campo de 400.000 m2. Todo gracias a su tamaño, un arado de algo más de 20m y toneladas de gasoil que devora su motor de 24.1 litros y 16 cilindros. Para que te hagas una idea de lo grande que es este \"motoraco\", un solo cilindro ocupa lo que un motor completo de MG ZS . Se llama Big Bud 16v 747 y es un aparato que impresiona lo mires por donde lo…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/09/Big-Bud-16v-747-neumaticos-goodyear_2-6a980b700c5cc.png?class=XL",
-      "menciones": 1,
-      "fuentes": [
-        "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "En los 90 las marcas estaban absolutamente locas. Tan locas como para vender coches de carreras salvajes con faros y matrícula",
-      "link": "https://www.motorpasion.com/superdeportivos/90-marcas-estaban-locas-locas-como-para-vender-coches-carreras-salvajes-faros-matricula",
-      "fuente": "Motorpasión (ES)",
-      "fecha": "2026-09-12T06:31:00Z",
-      "resumen": "Para los amantes confesos de los coches superdeportivos la recta final del siglo XX fue la época dorada por excelencia. Aquellos locos años 90 nos regalaron toda una generación de bólidos excesivos con diseños obscenos que apelaban por la conducción más pura y eran condenadamente caros e inalcanzables para la inmensa mayoría de los mortales. Algo que a su vez, los hacía incluso aún más deseables.…",
-      "imagen": "https://i.blogs.es/98c5b3/grupo-c-apertura/1024_2000.jpeg",
-      "menciones": 1,
-      "fuentes": [
-        "Motorpasión (ES)"
-      ]
-    },
-    {
-      "titulo": "Lo inventaron los alemanes, lo perfeccionaron los japoneses, y ahora el motor más querido y polémico de la historia podría regresar con turbo",
-      "link": "https://www.diariomotor.com/noticia/patente-motor-rotativo-turbo-mazda/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-09-12T06:00:41Z",
-      "resumen": "Es el motor que deberías amar. Si lo que te gustan son los coches, y aún más si te gustan los coches deportivos. Porque sus características habilitan unas sensaciones que no podrías conseguir con ningún otro, alcanzando un alto régimen de giro, un sonido que encandila, y el disfrute de cada marcha observando cómo sube de vueltas a un ritmo infernal. También si te gusta la ingeniería, porque su…",
-      "imagen": "https://www.diariomotor.com/imagenes/2024/01/motor-rotativo-mazda-mx-30-r-ev-2023-01.jpg?class=XL",
-      "menciones": 1,
-      "fuentes": [
-        "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "Rally de Chile: Oliver Solberg manda con autoridad, Elfyn Evans pierde terreno y Thierry Neuville cae al sexto",
-      "link": "https://www.diariomotor.com/competicion/noticia/rally-de-chile-oliver-solberg-tc6/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-09-11T23:42:41Z",
-      "resumen": "El Rally de Chile celebraba un bucle vespertino en el que el estado de los tramos se mostraba mucho más seco que en las primeras pasadas, permitiendo que los pilotos que salían más atrás en el orden de salida pudieran aprovechar mucho más el paso de los primeros coches. Ya sin Takamoto Katsuta entre los participantes, el cual a buen seguro se reenganchará de cara a la jornada de este sábado, la…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/09/SOLBERG12CHL26tb107-6aa4758abbbc5.jpg?class=XL",
-      "menciones": 2,
-      "fuentes": [
-        "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "Javier Milei recibió a directivos de Tesla",
-      "link": "https://eleconomista.com.ar/autos/javier-milei-recibio-directivos-tesla-n98002",
-      "fuente": "El Economista",
-      "fecha": "2026-09-07T18:10:00Z",
-      "resumen": "El Presidente mantuvo por primera vez un encuentro oficial con los responsables del desembarco de la marca en la Argentina. ¿Quiénes participaron?",
-      "imagen": "https://statics.eleconomista.com.ar/2026/09/crop/6a9efd3e491ce__950x512.webp",
-      "menciones": 2,
-      "fuentes": [
-        "Autoblog Argentina",
-        "El Economista"
-      ]
-    },
-    {
-      "titulo": "El 40% de los compradores se pasó de un auto \"tradicional\" a uno híbrido o eléctrico",
-      "link": "https://www.iprofesional.com/autos/464315-el-dato-que-resume-el-boom-de-autos-importados-en-argentina",
-      "fuente": "iProfesional",
-      "fecha": "2026-09-11T21:50:00Z",
-      "resumen": "Los fabricantes locales vendieron casi 100.000 unidades menos en los primeros 8 meses del año. Pero 40% fue cambio de marca y tecnología (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
-      "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/05/618101.jpg",
-      "menciones": 1,
-      "fuentes": [
-        "iProfesional"
-      ]
-    },
-    {
-      "titulo": "Ugochukwu y Campos golpean primero en la batalla por los títulos de Formula 3 2026",
-      "link": "https://www.diariomotor.com/competicion/noticia/ugochukwu-y-campos-golpean-primero-en-la-batalla-por-los-titulos-de-formula-3-2026/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-09-11T21:30:06Z",
-      "resumen": "Ugo Ugochukwu y Campos Racing toman ventaja en la pelea por los títulos de pilotos y de equipos en la última cita de la Formula 3 este 2026 en Madring. El piloto estadounidense ha batido a su principal rival, Freddie Slater, en ambas sesiones de clasificación disputadas en la jornada de viernes. Sus compañeros, también Ernesto Rivera y Théophile Naël han finalizado por delante de los pilotos de…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/09/UGOCHUKWU-TEST-MADRID-3-FML-6aa4537ab2aee.jpg?class=XL",
-      "menciones": 1,
-      "fuentes": [
-        "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "Todos en España comprando SUV como locos y llega Rumanía y planta, por 21.000 €, 7 plazas, etiqueta ECO y 1.480 km de autonomía en esta perfecta alternativa",
-      "link": "https://www.diariomotor.com/noticia/oferta-dacia-jogger-septiembre-2026/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-09-11T20:00:44Z",
-      "resumen": "El coche práctico, lógico y sensato se interpreta a día de hoy como un SUV, pero hasta hace no mucho tiempo no era así. Y esta postura es capaz de defenderla Rumanía de la mano de un coche con 7 plazas, etiqueta ECO y 1.480 km de autonomía sin depender de enchufes... por 21.480 euros . Los monovolúmenes siguen vivos, y este coche de 21.480 euros es prueba de ello Es uno de los pocos monovlúmenes…",
-      "imagen": "https://www.diariomotor.com/imagenes/2025/10/nuevo-dacia-jogger-2026-7-68e3d3b1a3fcd.jpg?class=XL",
-      "menciones": 3,
-      "fuentes": [
-        "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "BYD no para: ahora suma 10 buques más a su flota propia",
-      "link": "https://eleconomista.com.ar/autos/byd-para-ahora-suma-10-buques-mas-su-flota-propia-n98141",
-      "fuente": "El Economista",
-      "fecha": "2026-09-11T19:00:00Z",
-      "resumen": "En China aseguran que le habría encargado la construcción de una decena de barcos transportadores de autos para sumarlos a los que ya tiene. ¿Qué logrará con esta logística sin precedentes?",
-      "imagen": "https://statics.eleconomista.com.ar/2026/09/crop/6aa43642d66cb__950x512.webp",
-      "menciones": 1,
-      "fuentes": [
-        "El Economista"
-      ]
-    },
-    {
-      "titulo": "Andrea Kimi Antonelli manda en la FP2 de MadRing con Ferrari al acecho y Lando Norris último",
-      "link": "https://www.diariomotor.com/competicion/noticia/andrea-kimi-antonelli-fp2-madring/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-09-11T18:36:35Z",
-      "resumen": "Después de una accidentadísima sesión clasificatoria para la Fórmula 2, Madring esperaba a los pilotos del Campeonato del Mundo de Fórula 1 para la segunda práctica del fin de semana, con una calurosa atmósfera con la que seguía obsequiando a los competidores en su bienvenida. De nuevo Mercedes-AMG F1 capitalizaba lo más alto de la clasificación , en este caso con un Andrea Kimi Antonelli que…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/09/11-friday-madrid-2026-6aa42de351103.jpg?class=XL",
-      "menciones": 1,
-      "fuentes": [
-        "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "Vuelven las colas a Lidl: llega el maletín de herramientas Parkside por 29,99 euros que todo el mundo debería tener en casa",
-      "link": "https://www.motorpasion.com/revision/vuelven-colas-a-lidl-llega-maletin-herramientas-parkside-29-99-euros-que-todo-mundo-deberia-tener-casa",
-      "fuente": "Motorpasión (ES)",
-      "fecha": "2026-09-11T18:01:01Z",
-      "resumen": "Parkside es la marca de herramientas de Lidl y se ha ganado a pulso un sitio entre las grandes firmas de bricolaje porque su relación calidad-precio es difícil de superar. Solo hay que ver el maletín de herramientas Parkside que ha llegado a Lidl hoy. Desde este viernes 11 de septiembre, la cadena de supermercados ha traído a sus tiendas un kit básico de herramientas que todo el mundo debería…",
-      "imagen": "https://i.blogs.es/fc7c95/lidl-4_1/1024_2000.jpeg",
-      "menciones": 1,
-      "fuentes": [
-        "Motorpasión (ES)"
       ]
     }
   ]
