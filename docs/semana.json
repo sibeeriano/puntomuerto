@@ -1,7 +1,7 @@
 {
-  "actualizado": "2026-09-11T04:30:39Z",
-  "desde": "2026-09-04",
-  "hasta": "2026-09-11",
+  "actualizado": "2026-09-12T06:38:57Z",
+  "desde": "2026-09-05",
+  "hasta": "2026-09-12",
   "destacadas": [
     {
       "titulo": "La nueva pick up argentina de Renault sorprende por su equipamiento: tendrá Google Gemini y dos pantallas",
@@ -10,61 +10,7 @@
       "fecha": "2026-09-10T15:31:39Z",
       "resumen": "La nueva pick up Renault Niagara fabricada en Córdoba incorpora tecnología de punta como Google Gemini, doble pantalla y avanzadas asistencias al manejo.",
       "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/Renault-Niagara-2026-2.jpg",
-      "menciones": 4,
-      "fuentes": [
-        "Autoblog Argentina",
-        "Autotest",
-        "El Economista"
-      ]
-    },
-    {
-      "titulo": "Toyota lanza una nueva línea de créditos y sale a competirle al Banco Nación",
-      "link": "https://eleconomista.com.ar/autos/toyota-lanza-una-nueva-linea-creditos-sale-competirle-banco-nacion-n98064",
-      "fuente": "El Economista",
-      "fecha": "2026-09-09T19:05:00Z",
-      "resumen": "La automotriz ofrece financiación ajustada por UVA con tasa de 13,9% a 5 años y cuotas desde $686.904. Además ofrece una línea especial para la Hilux SRV+ y otras alternativas TNA 0% para otros modelos.",
-      "imagen": "https://statics.eleconomista.com.ar/2026/09/crop/6aa1af5fea527__950x512.webp",
-      "menciones": 6,
-      "fuentes": [
-        "Autoblog Argentina",
-        "El Economista",
-        "iProfesional"
-      ]
-    },
-    {
-      "titulo": "El primer SUV de RAM ya se prueba: usará el V8 de 702 CV de la TRX para cazar al Range Rover",
-      "link": "https://autotest.com.ar/offroad/el-primer-suv-de-ram-ya-se-prueba-usara-el-v8-de-702-cv-de-la-trx-para-cazar-al-range-rover/",
-      "fuente": "Autotest",
-      "fecha": "2026-09-10T22:41:14Z",
-      "resumen": "Esa ausencia tenía una explicación industrial: el grupo ya tenía Dodge Durango y Jeep Grand Cherokee para cubrir el segmento.",
-      "imagen": "https://arieldistefano.com/tools/mpa-content-os/img_tmp/card-20260909-181720-4b51ec.jpg",
-      "menciones": 2,
-      "fuentes": [
-        "Autotest",
-        "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "Toyota hará dos papamóviles para la visita del Papa León XIV a la Argentina",
-      "link": "https://eleconomista.com.ar/autos/toyota-hara-dos-papamoviles-visita-papa-leon-xiv-argentina-n98094",
-      "fuente": "El Economista",
-      "fecha": "2026-09-10T19:40:00Z",
-      "resumen": "La automotriz japonesa lo confirmó oficialmente este jueves ante la consulta de este medio. ¿Qué se sabe hasta el momento?",
-      "imagen": "https://statics.eleconomista.com.ar/2026/09/crop/6aa300a14ab41__950x512.webp",
-      "menciones": 2,
-      "fuentes": [
-        "Autoblog Argentina",
-        "El Economista"
-      ]
-    },
-    {
-      "titulo": "Llega a la región un nuevo SUV rival de Toyota Yaris Cross: diseño renovado y motor turbo de 197 HP",
-      "link": "https://autotest.com.ar/noticias/llega-a-la-region-un-nuevo-suv-rival-de-toyota-yaris-cross-diseno-renovado-y-motor-turbo-de-197-hp/",
-      "fuente": "Autotest",
-      "fecha": "2026-09-10T16:00:21Z",
-      "resumen": "La nueva generación de la Kia Seltos trae más tamaño y equipamiento a México, con precios que comienzan en 499.900 pesos mexicanos. Descubre todas las novedades de esta SUV.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/Nuevo-Kia-Seltos-2027-teaser.jpg",
-      "menciones": 5,
+      "menciones": 3,
       "fuentes": [
         "Autotest",
         "El Economista"
@@ -77,230 +23,276 @@
       "fecha": "2026-09-10T13:00:14Z",
       "resumen": "El Toyota Corolla 2026 contará con renovaciones en diseño y tecnología, manteniendo su confiable motor naftero de 171 CV y una versión híbrida eficiente.",
       "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/Toyota-Corolla-2026-trompa.jpg",
-      "menciones": 3,
+      "menciones": 2,
       "fuentes": [
         "Autotest",
         "iProfesional"
       ]
     },
     {
-      "titulo": "La nueva Peugeot Partner Rapid ya se puede comprar en Argentina por Plan de Ahorro",
-      "link": "https://www.iprofesional.com/autos/464171-cuanto-sale-la-peugeot-partner-rapid-mas-barata",
+      "titulo": "Fiat renovó por completo el Mobi, uno de los autos más baratos de Argentina",
+      "link": "https://www.iprofesional.com/autos/464134-fiat-renovo-el-mobi-uno-de-los-autos-mas-baratos-de-argentina",
       "fuente": "iProfesional",
-      "fecha": "2026-09-10T09:50:00Z",
-      "resumen": "La marca anunció la preventa de la nueva versión del utilitario chico que se importa de Brasil y que se destaca por su precio accesible (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
-      "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/08/623806.jpg",
+      "fecha": "2026-09-09T21:13:00Z",
+      "resumen": "El hatch se renovó y ahora tiene nuevo motor. Además, cambió la estética exterior e interior. Es el modelo más accesible de la marca (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
+      "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/09/625388.jpg",
       "menciones": 2,
       "fuentes": [
-        "Autoblog Argentina",
+        "El Economista",
         "iProfesional"
       ]
     },
     {
-      "titulo": "Desde 32 millones: las 14 pick ups que se pueden comprar por menos de 55 millones",
-      "link": "https://autotest.com.ar/noticias/desde-32-millones-las-14-pick-ups-que-se-pueden-comprar-por-menos-de-55-millones/",
-      "fuente": "Autotest",
-      "fecha": "2026-09-09T13:59:35Z",
-      "resumen": "En septiembre de 2026, el mercado argentino ofrece 14 modelos de pick ups de gama accesible, abarcando desde vehículos compactos hasta medianas con tracción 4x2. Conoce las opciones disponibles y sus características destacadas.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2024/06/Volkswagen-Saveiro-Extreme-10.jpg",
-      "menciones": 2,
-      "fuentes": [
-        "Autotest",
-        "iProfesional"
-      ]
-    },
-    {
-      "titulo": "Celebración: 75 años de la planta de camiones y buses de Mercedes-Benz en Argentina",
-      "link": "https://autoblog.com.ar/659213-2/",
-      "fuente": "Autoblog Argentina",
-      "fecha": "2026-09-08T09:00:17Z",
-      "resumen": "El país fue elegido en 1951 para albergar la primera planta de la marca fuera de Alemania. Leer la nota completa en Autoblog",
-      "imagen": "https://autoblog.com.ar/wp-content/uploads/2026/09/03.jpg",
+      "titulo": "Banco Nación renovó sus créditos para comprar autos: cuánto presta y qué cuota se paga",
+      "link": "https://www.iprofesional.com/autos/463967-banco-nacion-renovo-sus-creditos-para-comprar-autos-cuanto-presta-y-que-cuota-se-paga",
+      "fuente": "iProfesional",
+      "fecha": "2026-09-08T12:32:00Z",
+      "resumen": "El Banco Nación amplió su línea +Autos con una alternativa UVA que permite financiar hasta $100 millones. Cuánto se paga por cada modalidad (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
+      "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2024/10/585856.jpg",
       "menciones": 3,
       "fuentes": [
-        "Autoblog Argentina",
-        "El Economista"
+        "El Economista",
+        "iProfesional"
       ]
     },
     {
-      "titulo": "Javier Milei recibió a directivos de Tesla",
-      "link": "https://eleconomista.com.ar/autos/javier-milei-recibio-directivos-tesla-n98002",
-      "fuente": "El Economista",
-      "fecha": "2026-09-07T18:10:00Z",
-      "resumen": "El Presidente mantuvo por primera vez un encuentro oficial con los responsables del desembarco de la marca en la Argentina. ¿Quiénes participaron?",
-      "imagen": "https://statics.eleconomista.com.ar/2026/09/crop/6a9efd3e491ce__950x512.webp",
+      "titulo": "Más deportiva y campera, así es la última novedad de Benimar, una autocaravana de siete metros con gran salón y cocina en \"L\"",
+      "link": "https://www.diariomotor.com/noticia/benimar-tessoro-443-stormline/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-09-12T08:00:14Z",
+      "resumen": "En el Salón del Caravaning de Düsseldorf los responsables de Benimar han mostrado varias novedades muy interesantes que se podrán adquirir en nuestro país en cuestión de unas semanas. Además de nuevas configuraciones de interior hay que resaltar la introducción de un nuevo nivel acabado que destaca por una decoración muy personal y diferenciada. Con 165 CV de potencia Distribución lógica Mucho…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/09/Benimar-Tessoro-443-stormline7-6a9ee5dfbf926.jpg?class=XL",
+      "menciones": 1,
+      "fuentes": [
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "El tractor más grande del mundo puede arar 4.000 m2/minuto con su motor diésel 2T de 4.200 Nm de par y sus 4 neumáticos de 2,4 m de alto",
+      "link": "https://www.diariomotor.com/noticia/tractor-big-bud/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-09-12T07:00:01Z",
+      "resumen": "Solo hora y media separa a este coloso de arar un campo de 400.000 m2. Todo gracias a su tamaño, un arado de algo más de 20m y toneladas de gasoil que devora su motor de 24.1 litros y 16 cilindros. Para que te hagas una idea de lo grande que es este \"motoraco\", un solo cilindro ocupa lo que un motor completo de MG ZS . Se llama Big Bud 16v 747 y es un aparato que impresiona lo mires por donde lo…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/09/Big-Bud-16v-747-neumaticos-goodyear_2-6a980b700c5cc.png?class=XL",
+      "menciones": 1,
+      "fuentes": [
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "En los 90 las marcas estaban absolutamente locas. Tan locas como para vender coches de carreras salvajes con faros y matrícula",
+      "link": "https://www.motorpasion.com/superdeportivos/90-marcas-estaban-locas-locas-como-para-vender-coches-carreras-salvajes-faros-matricula",
+      "fuente": "Motorpasión (ES)",
+      "fecha": "2026-09-12T06:31:00Z",
+      "resumen": "Para los amantes confesos de los coches superdeportivos la recta final del siglo XX fue la época dorada por excelencia. Aquellos locos años 90 nos regalaron toda una generación de bólidos excesivos con diseños obscenos que apelaban por la conducción más pura y eran condenadamente caros e inalcanzables para la inmensa mayoría de los mortales. Algo que a su vez, los hacía incluso aún más deseables.…",
+      "imagen": "https://i.blogs.es/98c5b3/grupo-c-apertura/1024_2000.jpeg",
+      "menciones": 1,
+      "fuentes": [
+        "Motorpasión (ES)"
+      ]
+    },
+    {
+      "titulo": "Lo inventaron los alemanes, lo perfeccionaron los japoneses, y ahora el motor más querido y polémico de la historia podría regresar con turbo",
+      "link": "https://www.diariomotor.com/noticia/patente-motor-rotativo-turbo-mazda/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-09-12T06:00:41Z",
+      "resumen": "Es el motor que deberías amar. Si lo que te gustan son los coches, y aún más si te gustan los coches deportivos. Porque sus características habilitan unas sensaciones que no podrías conseguir con ningún otro, alcanzando un alto régimen de giro, un sonido que encandila, y el disfrute de cada marcha observando cómo sube de vueltas a un ritmo infernal. También si te gusta la ingeniería, porque su…",
+      "imagen": "https://www.diariomotor.com/imagenes/2024/01/motor-rotativo-mazda-mx-30-r-ev-2023-01.jpg?class=XL",
+      "menciones": 1,
+      "fuentes": [
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "Rally de Chile: Oliver Solberg manda con autoridad, Elfyn Evans pierde terreno y Thierry Neuville cae al sexto",
+      "link": "https://www.diariomotor.com/competicion/noticia/rally-de-chile-oliver-solberg-tc6/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-09-11T23:42:41Z",
+      "resumen": "El Rally de Chile celebraba un bucle vespertino en el que el estado de los tramos se mostraba mucho más seco que en las primeras pasadas, permitiendo que los pilotos que salían más atrás en el orden de salida pudieran aprovechar mucho más el paso de los primeros coches. Ya sin Takamoto Katsuta entre los participantes, el cual a buen seguro se reenganchará de cara a la jornada de este sábado, la…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/09/SOLBERG12CHL26tb107-6aa4758abbbc5.jpg?class=XL",
       "menciones": 2,
       "fuentes": [
-        "Autoblog Argentina",
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "El 40% de los compradores se pasó de un auto \"tradicional\" a uno híbrido o eléctrico",
+      "link": "https://www.iprofesional.com/autos/464315-el-dato-que-resume-el-boom-de-autos-importados-en-argentina",
+      "fuente": "iProfesional",
+      "fecha": "2026-09-11T21:50:00Z",
+      "resumen": "Los fabricantes locales vendieron casi 100.000 unidades menos en los primeros 8 meses del año. Pero 40% fue cambio de marca y tecnología (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
+      "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/05/618101.jpg",
+      "menciones": 1,
+      "fuentes": [
+        "iProfesional"
+      ]
+    },
+    {
+      "titulo": "Ugochukwu y Campos golpean primero en la batalla por los títulos de Formula 3 2026",
+      "link": "https://www.diariomotor.com/competicion/noticia/ugochukwu-y-campos-golpean-primero-en-la-batalla-por-los-titulos-de-formula-3-2026/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-09-11T21:30:06Z",
+      "resumen": "Ugo Ugochukwu y Campos Racing toman ventaja en la pelea por los títulos de pilotos y de equipos en la última cita de la Formula 3 este 2026 en Madring. El piloto estadounidense ha batido a su principal rival, Freddie Slater, en ambas sesiones de clasificación disputadas en la jornada de viernes. Sus compañeros, también Ernesto Rivera y Théophile Naël han finalizado por delante de los pilotos de…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/09/UGOCHUKWU-TEST-MADRID-3-FML-6aa4537ab2aee.jpg?class=XL",
+      "menciones": 1,
+      "fuentes": [
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "Todos en España comprando SUV como locos y llega Rumanía y planta, por 21.000 €, 7 plazas, etiqueta ECO y 1.480 km de autonomía en esta perfecta alternativa",
+      "link": "https://www.diariomotor.com/noticia/oferta-dacia-jogger-septiembre-2026/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-09-11T20:00:44Z",
+      "resumen": "El coche práctico, lógico y sensato se interpreta a día de hoy como un SUV, pero hasta hace no mucho tiempo no era así. Y esta postura es capaz de defenderla Rumanía de la mano de un coche con 7 plazas, etiqueta ECO y 1.480 km de autonomía sin depender de enchufes... por 21.480 euros . Los monovolúmenes siguen vivos, y este coche de 21.480 euros es prueba de ello Es uno de los pocos monovlúmenes…",
+      "imagen": "https://www.diariomotor.com/imagenes/2025/10/nuevo-dacia-jogger-2026-7-68e3d3b1a3fcd.jpg?class=XL",
+      "menciones": 2,
+      "fuentes": [
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "Toyota lanza el Land Cruiser más potente de la historia: cuánto sale el nuevo SUV híbrido",
+      "link": "https://www.iprofesional.com/autos/464279-toyota-lanza-nuevo-suv-land-cruiser-hibrido-cuanto-sale-y-como-es",
+      "fuente": "iProfesional",
+      "fecha": "2026-09-11T19:25:00Z",
+      "resumen": "El SUV grande de la marca, con capacidad para siete pasajeros se renovó, suma nuevo motor, diseño y equipamiento, Está en el tope de gama (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
+      "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/09/625526.jpg",
+      "menciones": 1,
+      "fuentes": [
+        "iProfesional"
+      ]
+    },
+    {
+      "titulo": "El SUV japonés que se actualiza con diseño más robusto, motor V6 y mayor despeje para enfrentar a Toyota",
+      "link": "https://autotest.com.ar/noticias/el-suv-japones-que-se-actualiza-con-diseno-mas-robusto-motor-v6-y-mayor-despeje-para-enfrentar-a-toyota/",
+      "fuente": "Autotest",
+      "fecha": "2026-09-11T19:00:02Z",
+      "resumen": "La Honda Passport TrailSport 2027 llega con suspensión rediseñada, 245 mm de despeje al suelo y un potente motor V6 de 285 hp, posicionándose como la SUV más capaz de la marca fuera del asfalto.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/SUV-Honda-Passport-TrailSport-2027-teaser.jpg",
+      "menciones": 2,
+      "fuentes": [
+        "Autotest"
+      ]
+    },
+    {
+      "titulo": "BYD no para: ahora suma 10 buques más a su flota propia",
+      "link": "https://eleconomista.com.ar/autos/byd-para-ahora-suma-10-buques-mas-su-flota-propia-n98141",
+      "fuente": "El Economista",
+      "fecha": "2026-09-11T19:00:00Z",
+      "resumen": "En China aseguran que le habría encargado la construcción de una decena de barcos transportadores de autos para sumarlos a los que ya tiene. ¿Qué logrará con esta logística sin precedentes?",
+      "imagen": "https://statics.eleconomista.com.ar/2026/09/crop/6aa43642d66cb__950x512.webp",
+      "menciones": 1,
+      "fuentes": [
         "El Economista"
       ]
     },
     {
-      "titulo": "Aspirado contra turbo: dos Porsche 911 de 1993, uno de 55 y otro de 86, van a subasta",
-      "link": "https://autotest.com.ar/noticias/aspirado-contra-turbo-dos-porsche-911-de-1993-uno-de-55-y-otro-de-86-van-a-subasta/",
-      "fuente": "Autotest",
-      "fecha": "2026-09-11T00:15:46Z",
-      "resumen": "Bajo el capó hay un bóxer de seis cilindros y 3.8 litros de aspiración natural, derivado directamente del motor del RSR de competición, con una potencia de fábrica cercana a los 300 CV.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/aspirado-contra-turbo-dos-porsche-911-de-1200x740-2.jpg",
-      "menciones": 1,
-      "fuentes": [
-        "Autotest"
-      ]
-    },
-    {
-      "titulo": "Vettel dijo no a Mercedes, Red Bull y Cadillac: los tres equipos que lo quisieron y ya no lo esperan",
-      "link": "https://autotest.com.ar/carreras/vettel-dijo-no-a-mercedes-red-bull-y-cadillac-los-tres-equipos-que-lo-quisieron-y-ya-no-lo-esperan/",
-      "fuente": "Autotest",
-      "fecha": "2026-09-11T00:15:41Z",
-      "resumen": "Su perfil posretiro combina dos cosas poco habituales en un deportista de ese nivel: la figura del campeón retirado y la del referente que habla de sustentabilidad, cambio climático y combustibles sintéticos.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/vettel-dijo-no-a-mercedes-red-bull-y-cad-1200x740-1.jpg",
-      "menciones": 1,
-      "fuentes": [
-        "Autotest"
-      ]
-    },
-    {
-      "titulo": "Un Pagani Huayra Roadster con 764 hp y un solo dueño se subasta: el precio que puede alcanzar",
-      "link": "https://autotest.com.ar/noticias/un-pagani-huayra-roadster-con-764-hp-y-un-solo-dueno-se-subasta-el-precio-que-puede-alcanzar/",
-      "fuente": "Autotest",
-      "fecha": "2026-09-10T23:30:49Z",
-      "resumen": "Si tenés dudas sobre el valor de una unidad así, fijate en un dato: la garantía de fábrica, vigente hasta marzo de 2030, es un argumento que casi ningún hypercar de esta generación puede ofrecer.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/un-pagani-huayra-roadster-con-764-hp-y-u-1200x740-1.jpg",
-      "menciones": 1,
-      "fuentes": [
-        "Autotest"
-      ]
-    },
-    {
-      "titulo": "Una Ford Ranger Raptor cargada con 202 kg en el techo aceleró peor y gastó más nafta: el dato que nadie calcula",
-      "link": "https://autotest.com.ar/offroad/una-ford-ranger-raptor-cargada-con-202-kg-en-el-techo-acelero-peor-y-gasto-mas-nafta-el-dato-que-nadie-calcula/",
-      "fuente": "Autotest",
-      "fecha": "2026-09-10T23:30:45Z",
-      "resumen": "¿Qué cambió en el comportamiento y los consumos de la Ford Ranger Raptor con 202 kg en la caja?",
-      "imagen": "https://arieldistefano.com/tools/mpa-content-os/img_tmp/card-20260910-180319-99058b.jpg",
-      "menciones": 1,
-      "fuentes": [
-        "Autotest"
-      ]
-    },
-    {
-      "titulo": "Jeep llama a revisión a 328.381 Grand Cherokee por resortes de suspensión que se desprenden",
-      "link": "https://autotest.com.ar/offroad/jeep-llama-a-revision-a-328-381-grand-cherokee-por-resortes-de-suspension-que-se-desprenden/",
-      "fuente": "Autotest",
-      "fecha": "2026-09-10T23:30:39Z",
-      "resumen": "En Argentina el Grand Cherokee llega importado desde Norteamérica, y las unidades que circulan en el país corresponden en su mayoría a años de modelo posteriores a los alcanzados por esta campaña.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/jeep-llama-a-revisi-n-a-328-381-grand-ch-1200x740-1.jpg",
-      "menciones": 1,
-      "fuentes": [
-        "Autotest"
-      ]
-    },
-    {
-      "titulo": "El Honda Passport TrailSport 2027 suma despeje al suelo, algo muy bienvenido",
-      "link": "https://autotest.com.ar/offroad/el-honda-passport-trailsport-2027-suma-despeje-al-suelo-algo-muy-bienvenido/",
-      "fuente": "Autotest",
-      "fecha": "2026-09-10T23:30:34Z",
-      "resumen": "Honda fue por el otro camino: modificó la geometría de la suspensión de laTrailSport para que el auto quede más alto y siga trabajando con el mismo rango de movimiento.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/el-honda-passport-trailsport-2027-suma-d-1200x740-1.jpg",
-      "menciones": 1,
-      "fuentes": [
-        "Autotest"
-      ]
-    },
-    {
-      "titulo": "Toyota C-HR eléctrico: llama a revisión más autos que los que vendió y pueden quedarse sin potencia en ruta",
-      "link": "https://autotest.com.ar/noticias/toyota-c-hr-electrico-llama-a-revision-mas-autos-que-los-que-vendio-y-pueden-quedarse-sin-potencia-en-ruta/",
-      "fuente": "Autotest",
-      "fecha": "2026-09-10T23:30:20Z",
-      "resumen": "El recall es chico si se lo compara con las campañas de cientos de miles de unidades que firmaron Hyundai, Kia y Chevrolet.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/toyota-c-hr-el-ctrico-llama-a-revisi-n-m-1200x740-1.jpg",
-      "menciones": 1,
-      "fuentes": [
-        "Autotest"
-      ]
-    },
-    {
-      "titulo": "El nuevo Lexus RX más radical se mostró en fotos espía con detalles renovados de exterior e interior",
-      "link": "https://autotest.com.ar/noticias/el-nuevo-lexus-rx-mas-radical-se-mostro-en-fotos-espia-con-detalles-renovados-de-exterior-e-interior/",
-      "fuente": "Autotest",
-      "fecha": "2026-09-10T23:26:18Z",
-      "resumen": "El RX de pruebas mantiene el volumen general de la quinta generación, presentada el 31 de mayo de 2022 y lanzada como modelo 2023 sobre la plataforma TNGA-K del grupo Toyota.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/el-nuevo-lexus-rx-m-s-radical-se-mostr-e-1200x740-1.jpg",
-      "menciones": 1,
-      "fuentes": [
-        "Autotest"
-      ]
-    },
-    {
-      "titulo": "Todos obsesionados con los coches chinos mientras un coreano de hace 7 años ofrece etiqueta ECO, tamaño de SEAT Ateca y 1.200 km de autonomía sin enchufes por 20.000 €",
-      "link": "https://www.diariomotor.com/noticia/oferta-kgm-korando-septiembre-2026/",
+      "titulo": "Andrea Kimi Antonelli manda en la FP2 de MadRing con Ferrari al acecho y Lando Norris último",
+      "link": "https://www.diariomotor.com/competicion/noticia/andrea-kimi-antonelli-fp2-madring/",
       "fuente": "Diariomotor (ES)",
-      "fecha": "2026-09-10T20:00:53Z",
-      "resumen": "España está apostando fuertemente por el coche chino por una razón muy clara: ofrecer mucho por muy poco. Pero debemos saber que China no ha sido pionera en esta jugada, y así lo deja patente Corea con un SUV con tamaño de SEAT Ateca, etiqueta ECO y 1.200 km de autonomía sin enchufes de por medio... por 20.150 euros . Es el coche que acaba con el argumento de comprar un coche chino Lleva a la…",
-      "imagen": "https://www.diariomotor.com/imagenes/2025/03/oferta-kgm-korando-glp-marzo-2025-67da70ced9dd9.jpg?class=XL",
+      "fecha": "2026-09-11T18:36:35Z",
+      "resumen": "Después de una accidentadísima sesión clasificatoria para la Fórmula 2, Madring esperaba a los pilotos del Campeonato del Mundo de Fórula 1 para la segunda práctica del fin de semana, con una calurosa atmósfera con la que seguía obsequiando a los competidores en su bienvenida. De nuevo Mercedes-AMG F1 capitalizaba lo más alto de la clasificación , en este caso con un Andrea Kimi Antonelli que…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/09/11-friday-madrid-2026-6aa42de351103.jpg?class=XL",
       "menciones": 1,
       "fuentes": [
         "Diariomotor (ES)"
       ]
     },
     {
-      "titulo": "Primeras imágenes del Mercedes-AMG CLE 646 Mythos, un radical deportivo de 646 CV extraídos del bruto V8 turbo de AMG",
-      "link": "https://www.diariomotor.com/noticia/primeras-imagenes-mercedes-amg-cle-646-mythos/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-09-10T19:23:40Z",
-      "resumen": "Mercedes-AMG nos debe mucho a los aficionados a sus deportivos. Con una apuesta por la electrificación que nos deja cosas como el nuevo AMG GT de 4 puertas eléctrico o el CLA AMG, también, eléctrico, el coche de las imágenes es todo un soplo de aire fresco que nos traslada a la mejor AMG que hemos visto, de la cual no estamos tan alejados, todavía, el tiempo. Se llama Mercedes-AMG CLE 646 Mythos y…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/09/Mercedes-AMG-CLE-646-Mythos-6aa2e6fc8ee37.jpg?class=XL",
-      "menciones": 1,
-      "fuentes": [
-        "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "El mayor comerciante de petróleo del mundo advierte: las refinerías están al límite y puede que no haya combustible para todos",
-      "link": "https://www.motorpasion.com/industria/mayor-comerciante-petroleo-mundo-advierte-refinerias-estan-al-limite-puede-que-no-haya-combustible-para-todos",
+      "titulo": "Vuelven las colas a Lidl: llega el maletín de herramientas Parkside por 29,99 euros que todo el mundo debería tener en casa",
+      "link": "https://www.motorpasion.com/revision/vuelven-colas-a-lidl-llega-maletin-herramientas-parkside-29-99-euros-que-todo-mundo-deberia-tener-casa",
       "fuente": "Motorpasión (ES)",
-      "fecha": "2026-09-10T19:01:00Z",
-      "resumen": "Si tienes un coche diésel eres uno de los que más sufre la subida de precios de los combustibles. Y lo peor de todo es que la exención fiscal extraordinaria que activó el Gobierno hasta el 30 de septiembre va a terminar, y con ella una rebaja teórica de 24 céntimos por litro. Pero esto no está sucediendo ni mucho menos solo en España. Europa (como nuestros vecinos portugueses, sin ir más lejos) ya…",
-      "imagen": "https://i.blogs.es/5e6462/portada/1024_2000.jpeg",
+      "fecha": "2026-09-11T18:01:01Z",
+      "resumen": "Parkside es la marca de herramientas de Lidl y se ha ganado a pulso un sitio entre las grandes firmas de bricolaje porque su relación calidad-precio es difícil de superar. Solo hay que ver el maletín de herramientas Parkside que ha llegado a Lidl hoy. Desde este viernes 11 de septiembre, la cadena de supermercados ha traído a sus tiendas un kit básico de herramientas que todo el mundo debería…",
+      "imagen": "https://i.blogs.es/fc7c95/lidl-4_1/1024_2000.jpeg",
       "menciones": 1,
       "fuentes": [
         "Motorpasión (ES)"
       ]
     },
     {
-      "titulo": "La app miDGT se cuelga y no hay cobertura para enseñar el carnet de conducir en un control de tráfico: esto es lo que dice la ley (y cuál es la multa por no tenerlo)",
-      "link": "https://www.motorpasion.com/revision/app-midgt-se-cuelga-no-hay-cobertura-para-ensenar-carnet-conducir-control-trafico-esto-que-dice-ley-cual-multa-no-tenerlo",
-      "fuente": "Motorpasión (ES)",
-      "fecha": "2026-09-10T18:01:01Z",
-      "resumen": "Llegas a la rotonda y hay un control de tráfico. Te paran y te piden la documentación. No hay problema llevas el carnet de conducir y los papeles del coche en el móvil, en la app miDGT . Intentas abrir al app, pero esta se cuelga continuamente o no hay cobertura y no puede acceder a la información. ¿Qué ocurre si el permiso de conducir digital no me carga en pleno control? La respuesta corta es…",
-      "imagen": "https://i.blogs.es/c8b74a/control-trafico-guadia-civil-arrevi/1024_2000.jpeg",
-      "menciones": 1,
+      "titulo": "El sedán más barato de Nissan que bajó de precio en septiembre: motor 1.6 y seis airbags",
+      "link": "https://autotest.com.ar/noticias/el-sedan-mas-barato-de-nissan-que-bajo-de-precio-en-septiembre-motor-1-6-y-seis-airbags/",
+      "fuente": "Autotest",
+      "fecha": "2026-09-11T18:00:14Z",
+      "resumen": "Aprovecha el precio promocional del Nissan V-Drive 2026 con descuentos vigentes hasta el 30 de septiembre y opciones de financiación sin intereses a 36 meses.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/Nissan-V-Drive-2026-teaser-1.jpg",
+      "menciones": 5,
       "fuentes": [
-        "Motorpasión (ES)"
+        "Autotest"
       ]
     },
     {
-      "titulo": "Nissan ya tiene lista la nueva Frontier para competir contra Toyota Hilux: 410 CV y mucho equipamiento",
-      "link": "https://autotest.com.ar/noticias/nissan-ya-tiene-lista-la-nueva-frontier-para-competir-contra-toyota-hilux-410-cv-y-mucho-equipamiento/",
+      "titulo": "Ahorro directo en mantenimiento: cómo optimizar el TCO de la flota con la nueva acción de IVECO",
+      "link": "https://autotest.com.ar/transportes/ahorro-directo-en-mantenimiento-como-optimizar-el-tco-de-la-flota-con-la-nueva-accion-de-iveco/",
       "fuente": "Autotest",
-      "fecha": "2026-09-10T18:00:18Z",
-      "resumen": "Nissan lanza su potente pick up híbrida enchufable, la Frontier Pro, con 410 CV y una autonomía combinada de hasta 1.200 km.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/Nueva-Nissan-Frontier-Pro-perfil.jpg",
+      "fecha": "2026-09-11T17:46:35Z",
+      "resumen": "En el rubro del transporte de cargas y pasajeros, la rentabilidad de cada unidad no solo se define al momento de la compra, sino en el cálculo constante del Costo Total de Propiedad (TCO, por sus siglas en inglés). Mantener los camiones en la ruta y minimizar las paradas no programadas exige un plan de […]",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/Volve-y-Viaja-de-IVECO.jpeg",
       "menciones": 1,
       "fuentes": [
         "Autotest"
       ]
     },
     {
-      "titulo": "Renault Niagara 2026: el nuevo 4x4 de Renault tiene 938 l de maletero y será tan barato que en Europa debería ser el todoterreno de Dacia",
-      "link": "https://www.diariomotor.com/noticia/renault-niagara-2026/",
+      "titulo": "Gasta 2,6 litros, es potente, cuesta 2.688 € y demuestra que hay vida más allá de la Zontes 368G",
+      "link": "https://www.diariomotor.com/noticia/zontes-gama-mas-alla-368g/",
       "fuente": "Diariomotor (ES)",
-      "fecha": "2026-09-10T18:00:13Z",
-      "resumen": "En ocasiones me pregunto si en Europa nos hemos vuelto demasiado finos para un coche como este. Y por qué no vemos una apuesta más intensa por el todoterreno, por el pick-up, de marcas que como Renault sí están abogando por ello fuera de nuestras fronteras. Luego recuerdo que hasta hace nada Renault producía un verdadero pick-up, que para más inri se fabricaba en España - en la fábrica de Zona…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/09/renault-niagara-2026-1.jpg-6aa2b9d9a6642.jpg?class=XL",
+      "fecha": "2026-09-11T17:00:11Z",
+      "resumen": "Zontes ha encontrado una fórmula infalible. Primero demostró con la 368G que una marca prácticamente recién llegada podía irrumpir en uno de los segmentos más disputados y convertir un scooter de filosofía aventurera en todo un fenómeno comercial. Ahora ha trasladado esa misma ambición a la categoría más popular del mercado español. Y el resultado se llama Zontes 125X. Su propuesta se apoya en…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/01/zontes-125x-2026-23-697880c150b74.jpg?class=XL",
       "menciones": 1,
       "fuentes": [
         "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "Ford Ranger XL Cabina Doble: cuánto cuestan y qué ofrecen las versiones más baratas",
+      "link": "https://autotest.com.ar/noticias/ford-ranger-xl-cabina-doble-cuanto-cuestan-y-que-ofrecen-las-versiones-mas-baratas/",
+      "fuente": "Autotest",
+      "fecha": "2026-09-11T17:00:01Z",
+      "resumen": "La Ford Ranger XL es la opción más económica de la línea, equipada con motor turbodiésel 2.0 de 170 CV y disponible en opciones 4x2 y 4x4.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2023/12/Ford-Ranger-XL-accion.jpg",
+      "menciones": 1,
+      "fuentes": [
+        "Autotest"
+      ]
+    },
+    {
+      "titulo": "Volkswagen nunca vendió una pick up en EEUU y ahora va con todo por Toyota y Ford",
+      "link": "https://autotest.com.ar/offroad/volkswagen-nunca-vendio-una-pick-up-en-eeuu-y-ahora-va-con-todo-por-toyota-y-ford/",
+      "fuente": "Autotest",
+      "fecha": "2026-09-11T16:45:31Z",
+      "resumen": "Volkswagen analiza ampliar su gama con nuevos SUV y pick ups de perfil más robusto, con foco en capacidades todoterreno y una posible ofensiva en segmentos donde hoy dominan Toyota y Ford.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/volkswagen-nunca-vendi-una-pick-up-en-ee-1200x740-1.jpg",
+      "menciones": 1,
+      "fuentes": [
+        "Autotest"
+      ]
+    },
+    {
+      "titulo": "McLaren prepara un superauto de 810 HP por USD 300.000: más potente que el 750S y más barato",
+      "link": "https://autotest.com.ar/noticias/mclaren-prepara-un-superauto-de-810-hp-por-usd-300-000-mas-potente-que-el-750s-y-mas-barato/",
+      "fuente": "Autotest",
+      "fecha": "2026-09-11T16:45:26Z",
+      "resumen": "McLaren prepara un nuevo superdeportivo con motor V6 biturbo híbrido, alrededor de 810 HP y un diseño inspirado en el histórico F1. Su precio podría superar los 300.000 dólares.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/mclaren-prepara-un-superauto-de-810-hp-p-1200x740-1.jpg",
+      "menciones": 1,
+      "fuentes": [
+        "Autotest"
+      ]
+    },
+    {
+      "titulo": "Mercedes-AMG revive el coupé deportivo V-8 con el CLE 646",
+      "link": "https://autotest.com.ar/noticias/mercedes-amg-revive-el-coupe-deportivo-v-8-con-el-cle-646/",
+      "fuente": "Autotest",
+      "fecha": "2026-09-11T16:45:21Z",
+      "resumen": "Durante años se especuló con que el CLE de serie siguiera el camino del C63, es decir, abandonar el V8 por un cuatro cilindros híbrido enchufable.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/mercedes-amg-revive-el-coup-deportivo-v-1200x740-1.jpg",
+      "menciones": 1,
+      "fuentes": [
+        "Autotest"
       ]
     }
   ]
