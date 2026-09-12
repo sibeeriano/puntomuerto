@@ -78,7 +78,7 @@ Eso corre en el servidor (no en la Mac), llama a OpenAI una sola vez, guarda
 el guion cifrado en GitHub y el botón pasa a **Ver guion**.
 
 Las noticias y el esqueleto del viernes los arma GitHub Actions todos los
-días a las 8:00 (Argentina), no hace falta tener la PC prendida.
+días a las 10:00, 13:00 y 16:00 (Argentina), no hace falta tener la PC prendida.
 
 En Vercel → Settings → Environment Variables (Production) cargá:
 
