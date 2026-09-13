@@ -24,9 +24,14 @@
   if (searchForm && searchInput) {
     const hasGrid = Boolean(document.getElementById("grid"));
     const initial = new URLSearchParams(location.search).get("q") || "";
+    function setSearchOpen(open) {
+      searchForm.classList.toggle("is-open", open);
+      if (header) header.classList.toggle("is-search-open", open);
+    }
+
     if (initial.trim()) {
       searchInput.value = initial;
-      searchForm.classList.add("is-open");
+      setSearchOpen(true);
     }
 
     function emitSearch(q) {
@@ -43,7 +48,7 @@
       const q = searchInput.value.trim();
       if (!searchForm.classList.contains("is-open")) {
         ev.preventDefault();
-        searchForm.classList.add("is-open");
+        setSearchOpen(true);
         searchInput.focus();
         return;
       }
@@ -60,7 +65,7 @@
     });
 
     searchInput.addEventListener("focus", function () {
-      searchForm.classList.add("is-open");
+      setSearchOpen(true);
     });
 
     document.addEventListener("keydown", function (ev) {
@@ -69,14 +74,14 @@
         searchInput.value = "";
         emitSearch("");
       } else {
-        searchForm.classList.remove("is-open");
+        setSearchOpen(false);
         searchInput.blur();
       }
     });
 
     document.addEventListener("pointerdown", function (ev) {
       if (searchForm.contains(ev.target)) return;
-      if (!searchInput.value.trim()) searchForm.classList.remove("is-open");
+      if (!searchInput.value.trim()) setSearchOpen(false);
     });
   }
 })();
