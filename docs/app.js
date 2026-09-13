@@ -7,10 +7,12 @@ const pagerEl = document.getElementById("pager");
 const masEl = document.getElementById("mas");
 
 const PAGE_SIZE = 12;
+const vista = document.body.dataset.vista === "todas" ? "todas" : "hoy";
 
 let articulos = [];
 let fuenteActiva = "Todas";
-let rangoFecha = "todas";
+let rangoFecha = vista === "todas" ? "todas" : "hoy";
+let diaPortada = "";
 let busqueda = (new URLSearchParams(location.search).get("q") || "").trim();
 let pagina = 1;
 
@@ -23,16 +25,20 @@ async function init() {
 
     const data = await res.json();
     articulos = Array.isArray(data) ? data : [];
+    diaPortada = diaDePortada(articulos);
 
     const lastMod = res.headers.get("Last-Modified");
     const actualizado = lastMod ? new Date(lastMod) : fechaMasReciente(articulos);
     updatedEl.textContent = formatearActualizado(actualizado, articulos.length);
 
-    fechaFiltroEl.addEventListener("change", () => {
-      rangoFecha = fechaFiltroEl.value;
-      pagina = 1;
-      renderCards();
-    });
+    if (fechaFiltroEl) {
+      fechaFiltroEl.value = rangoFecha;
+      fechaFiltroEl.addEventListener("change", () => {
+        rangoFecha = fechaFiltroEl.value;
+        pagina = 1;
+        renderCards();
+      });
+    }
     fuenteFiltroEl.addEventListener("change", () => {
       fuenteActiva = fuenteFiltroEl.value;
       pagina = 1;
@@ -168,8 +174,25 @@ function pasaBusqueda(item) {
   return hay.includes(q);
 }
 
+function diaLocal(date) {
+  const y = date.getFullYear();
+  const m = String(date.getMonth() + 1).padStart(2, "0");
+  const day = String(date.getDate()).padStart(2, "0");
+  return `${y}-${m}-${day}`;
+}
+
+function diaDePortada(items) {
+  const hoy = diaLocal(new Date());
+  const dias = [...new Set(items.map((a) => String(a.fecha || "").slice(0, 10)).filter(Boolean))];
+  if (dias.includes(hoy)) return hoy;
+  return dias.sort().reverse()[0] || hoy;
+}
+
 function pasaFiltroFecha(item, rango) {
   if (rango === "todas") return true;
+  if (rango === "hoy" && vista === "hoy") {
+    return String(item.fecha || "").slice(0, 10) === diaPortada;
+  }
   const d = parseFecha(item.fecha);
   if (!d) return false;
 

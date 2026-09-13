@@ -1,14 +1,25 @@
 <!DOCTYPE html>
-<html lang="es">
+<html lang="es" data-theme="dark">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Pistón libre</title>
   <meta name="description" content="Resumen diario de noticias de autos.">
   <link rel="icon" type="image/png" href="favicon.png">
+  <script>
+    (function () {
+      try {
+        var t = localStorage.getItem("pm-theme");
+        if (t !== "light" && t !== "dark") t = "dark";
+        document.documentElement.setAttribute("data-theme", t);
+      } catch (e) {
+        document.documentElement.setAttribute("data-theme", "dark");
+      }
+    })();
+  </script>
   <link rel="stylesheet" href="style.css">
 </head>
-<body id="top">
+<body id="top" data-vista="hoy">
   <header class="site-header">
     <div class="site-header-inner">
       <a class="site-header-logo" href="index.html">
@@ -18,6 +29,15 @@
         <img class="lettering" src="lettering.png" alt="Pistón Libre" width="138" height="40">
       </a>
       <div class="site-header-tools">
+        <button type="button" class="theme-toggle" id="theme-toggle" aria-label="Cambiar tema">
+          <svg class="icon-moon" viewBox="0 0 24 24" aria-hidden="true">
+            <path fill="currentColor" d="M15.1 3.2a8.7 8.7 0 1 0 5.7 15.3 9.1 9.1 0 0 1-5.7-15.3Z"/>
+          </svg>
+          <svg class="icon-sun" viewBox="0 0 24 24" aria-hidden="true">
+            <circle cx="12" cy="12" r="4" fill="none" stroke="currentColor" stroke-width="2"/>
+            <path fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" d="M12 3.2v1.8M12 19v1.8M3.2 12h1.8M19 12h1.8M5.6 5.6l1.3 1.3M17.1 17.1l1.3 1.3M18.4 5.6l-1.3 1.3M6.9 17.1l-1.3 1.3"/>
+          </svg>
+        </button>
         <form class="header-search" role="search" action="index.html" method="get">
           <label class="visually-hidden" for="busqueda">Buscar noticias</label>
           <input class="header-search-input" id="busqueda" type="search" name="q" placeholder="Buscar noticias" autocomplete="off">
@@ -36,6 +56,7 @@
     <nav class="site-nav" aria-label="Secciones">
       <a href="index.html" aria-current="page">Hoy</a>
       <a href="semana.html">Esta semana</a>
+      <a href="todas.html">Todas</a>
     </nav>
     <p class="updated" id="updated">Cargando…</p>
   </div>
@@ -46,16 +67,6 @@
         <span>Fuentes</span>
         <select id="fuente-filtro" aria-label="Filtrar por fuente">
           <option value="Todas">Todas</option>
-        </select>
-      </label>
-      <label class="filter">
-        <span>Fecha</span>
-        <select id="fecha-filtro" aria-label="Filtrar por fecha">
-          <option value="todas">Todas las fechas</option>
-          <option value="hoy">Hoy</option>
-          <option value="ayer">Ayer</option>
-          <option value="7d">Últimos 7 días</option>
-          <option value="30d">Últimos 30 días</option>
         </select>
       </label>
     </div>

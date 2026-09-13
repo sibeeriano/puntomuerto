@@ -19,6 +19,27 @@
     });
   }
 
+  const themeBtn = document.getElementById("theme-toggle");
+  function currentTheme() {
+    return document.documentElement.getAttribute("data-theme") === "dark" ? "dark" : "light";
+  }
+  function applyTheme(theme) {
+    document.documentElement.setAttribute("data-theme", theme);
+    try { localStorage.setItem("pm-theme", theme); } catch (err) {}
+    if (themeBtn) {
+      themeBtn.setAttribute("aria-label", theme === "dark" ? "Usar modo claro" : "Usar modo oscuro");
+    }
+    const meta = document.querySelector('meta[name="theme-color"]') || document.head.appendChild(document.createElement("meta"));
+    meta.setAttribute("name", "theme-color");
+    meta.setAttribute("content", theme === "dark" ? "#151719" : "#f3efe6");
+  }
+  if (themeBtn) {
+    applyTheme(currentTheme());
+    themeBtn.addEventListener("click", function () {
+      applyTheme(currentTheme() === "dark" ? "light" : "dark");
+    });
+  }
+
   const searchForm = document.querySelector(".header-search");
   const searchInput = document.getElementById("busqueda");
   if (searchForm && searchInput) {
@@ -34,12 +55,22 @@
       setSearchOpen(true);
     }
 
+    function syncNavQuery(q) {
+      document.querySelectorAll(".site-nav a").forEach(function (link) {
+        const url = new URL(link.getAttribute("href"), location.href);
+        if (q) url.searchParams.set("q", q);
+        else url.searchParams.delete("q");
+        link.setAttribute("href", url.pathname.split("/").pop() + url.search);
+      });
+    }
+
     function emitSearch(q) {
       if (!hasGrid) return;
       const url = new URL(location.href);
       if (q) url.searchParams.set("q", q);
       else url.searchParams.delete("q");
       history.replaceState(null, "", url.pathname + url.search + url.hash);
+      syncNavQuery(q);
       document.dispatchEvent(new CustomEvent("pm-search", { detail: { q } }));
     }
 
@@ -83,5 +114,7 @@
       if (searchForm.contains(ev.target)) return;
       if (!searchInput.value.trim()) setSearchOpen(false);
     });
+
+    if (initial.trim()) syncNavQuery(initial.trim());
   }
 })();
