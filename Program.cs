@@ -942,7 +942,7 @@ public class Program
         PublicarEsqueleto(fecha, rango, borrador);
     }
 
-    private static async Task<string?> CompletarGuionConIaAsync(string borrador)
+    private static async Task<string?> CompletarGuionConIaAsync(string borrador, string? extra = null)
     {
         var apiKey = Environment.GetEnvironmentVariable("OPENAI_API_KEY");
         if (string.IsNullOrWhiteSpace(apiKey))
@@ -959,6 +959,14 @@ public class Program
         if (string.IsNullOrWhiteSpace(modelo))
             modelo = "gpt-4o-mini";
 
+        var user = "Completá solo los ítems [IA] como borrador de guion (texto escrito, no audio). Dejá intactos [OPINIÓN], [DATO] y [CTA]. Devolvé solo el markdown, sin fences.";
+        extra = (extra ?? "").Trim();
+        if (extra.Length > 4000)
+            extra = extra[..4000];
+        if (!string.IsNullOrWhiteSpace(extra))
+            user += "\n\nIndicaciones extra para este borrador:\n" + extra;
+        user += "\n\n" + borrador;
+
         var payload = new
         {
             model = modelo,
@@ -966,11 +974,7 @@ public class Program
             messages = new[]
             {
                 new { role = "system", content = sistema },
-                new
-                {
-                    role = "user",
-                    content = "Completá solo los ítems [IA] como borrador de guion (texto escrito, no audio). Dejá intactos [OPINIÓN], [DATO] y [CTA]. Devolvé solo el markdown, sin fences.\n\n" + borrador
-                }
+                new { role = "user", content = user }
             }
         };
 
@@ -1011,7 +1015,7 @@ public class Program
         }
     }
 
-    private static async Task<string> CrearGuionGptAsync(string fecha)
+    private static async Task<string> CrearGuionGptAsync(string fecha, string? extra = null, bool forzar = false)
     {
         var password = Environment.GetEnvironmentVariable("PUNTO_PODCAST_PASSWORD");
         if (string.IsNullOrWhiteSpace(password))
@@ -1022,7 +1026,7 @@ public class Program
         if (item is null || string.IsNullOrWhiteSpace(item.esqueleto))
             throw new InvalidOperationException($"No hay esqueleto para {fecha}. Primero corre dotnet run -- --guion-only.");
 
-        if (!string.IsNullOrWhiteSpace(item.guion) && File.Exists(Path.Combine(_rootDir, "docs", item.guion)))
+        if (!forzar && !string.IsNullOrWhiteSpace(item.guion) && File.Exists(Path.Combine(_rootDir, "docs", item.guion)))
         {
             Console.WriteLine($"Ya existe guion GPT para {fecha}; no se vuelve a llamar a OpenAI.");
             return DecryptGuion(File.ReadAllText(Path.Combine(_rootDir, "docs", item.guion)), password);
@@ -1030,7 +1034,7 @@ public class Program
 
         var packed = File.ReadAllText(Path.Combine(_rootDir, "docs", item.esqueleto));
         var esqueleto = DecryptGuion(packed, password);
-        var texto = await CompletarGuionConIaAsync(esqueleto);
+        var texto = await CompletarGuionConIaAsync(esqueleto, extra);
         if (string.IsNullOrWhiteSpace(texto))
             throw new InvalidOperationException("OpenAI no devolvió un guion. Revisá créditos o la API key.");
 
@@ -1044,6 +1048,66 @@ public class Program
         WriteGuionIndex(lista);
         Console.WriteLine($"Guion GPT guardado en docs/{rel}");
         return texto;
+    }
+
+    private static GuionIndexItem? FuenteEsqueleto(string fecha)
+    {
+        var lista = ReadGuionIndex();
+        return lista.FirstOrDefault(x => x.fecha == fecha && !string.IsNullOrWhiteSpace(x.esqueleto))
+            ?? lista.Where(x => !string.IsNullOrWhiteSpace(x.esqueleto))
+                .OrderByDescending(x => x.fecha)
+                .FirstOrDefault();
+    }
+
+    private static async Task<string> GenerarGuionPendienteAsync(string fecha, string? extra)
+    {
+        var password = Environment.GetEnvironmentVariable("PUNTO_PODCAST_PASSWORD");
+        if (string.IsNullOrWhiteSpace(password))
+            throw new InvalidOperationException("Falta PUNTO_PODCAST_PASSWORD en .env.");
+
+        var fuente = FuenteEsqueleto(fecha)
+            ?? throw new InvalidOperationException("No hay esqueleto publicado para armar el borrador.");
+
+        var packed = File.ReadAllText(Path.Combine(_rootDir, "docs", fuente.esqueleto));
+        var esqueleto = DecryptGuion(packed, password);
+        var texto = await CompletarGuionConIaAsync(esqueleto, extra);
+        if (string.IsNullOrWhiteSpace(texto))
+            throw new InvalidOperationException("OpenAI no devolvió un borrador. Revisá créditos o la API key.");
+        return texto;
+    }
+
+    private static GuionIndexItem GuardarGuionPublicado(string fecha, string markdown, string? rango)
+    {
+        var password = Environment.GetEnvironmentVariable("PUNTO_PODCAST_PASSWORD");
+        if (string.IsNullOrWhiteSpace(password))
+            throw new InvalidOperationException("Falta PUNTO_PODCAST_PASSWORD en .env.");
+        if (string.IsNullOrWhiteSpace(markdown))
+            throw new InvalidOperationException("No hay texto para guardar.");
+
+        var fuente = FuenteEsqueleto(fecha)
+            ?? throw new InvalidOperationException("No hay esqueleto publicado para asociar este borrador.");
+
+        var rel = $"guiones/{fecha}-guion.json";
+        Directory.CreateDirectory(Path.Combine(_rootDir, "docs", "guiones"));
+        File.WriteAllText(
+            Path.Combine(_rootDir, "docs", rel),
+            JsonSerializer.Serialize(EncryptGuion(markdown, password), JsonOptions));
+        File.WriteAllText(Path.Combine(_rootDir, $"guion_{fecha}.md"), markdown);
+
+        if (string.IsNullOrWhiteSpace(rango))
+        {
+            var d = DateTime.Parse(fecha, CultureInfo.InvariantCulture);
+            rango = d.ToString("dddd d 'de' MMMM 'de' yyyy", new CultureInfo("es-AR"));
+            rango = char.ToUpper(rango[0], new CultureInfo("es-AR")) + rango[1..];
+        }
+
+        var lista = ReadGuionIndex();
+        var prev = lista.FirstOrDefault(x => x.fecha == fecha);
+        lista.RemoveAll(x => x.fecha == fecha);
+        var item = new GuionIndexItem(fecha, rango, prev?.esqueleto ?? fuente.esqueleto, rel);
+        lista.Add(item);
+        WriteGuionIndex(lista);
+        return item;
     }
 
     private static void PublicarEsqueleto(string fecha, string rango, string texto)
@@ -1200,6 +1264,11 @@ public class Program
             var body = await reader.ReadToEndAsync();
             string fecha = DateTime.Now.ToString("yyyy-MM-dd");
             string password = "";
+            string extra = "";
+            string markdownIn = "";
+            string rango = "";
+            string accion = "crear";
+            var forzar = false;
             try
             {
                 using var doc = JsonDocument.Parse(string.IsNullOrWhiteSpace(body) ? "{}" : body);
@@ -1207,6 +1276,17 @@ public class Program
                     fecha = f.GetString() ?? fecha;
                 if (doc.RootElement.TryGetProperty("password", out var p))
                     password = p.GetString() ?? "";
+                if (doc.RootElement.TryGetProperty("extra", out var x))
+                    extra = x.GetString() ?? "";
+                if (doc.RootElement.TryGetProperty("markdown", out var md))
+                    markdownIn = md.GetString() ?? "";
+                if (doc.RootElement.TryGetProperty("rango", out var rg))
+                    rango = rg.GetString() ?? "";
+                if (doc.RootElement.TryGetProperty("accion", out var ac))
+                    accion = ac.GetString() ?? accion;
+                if (doc.RootElement.TryGetProperty("nuevo", out var n)
+                    && n.ValueKind == JsonValueKind.True)
+                    forzar = true;
             }
             catch
             {
@@ -1223,13 +1303,27 @@ public class Program
 
             try
             {
+                if (string.Equals(accion, "guardar", StringComparison.OrdinalIgnoreCase))
+                {
+                    var saved = GuardarGuionPublicado(fecha, markdownIn, rango);
+                    await WriteJsonAsync(res, 200, new { ok = true, item = saved, guion = saved.guion });
+                    return;
+                }
+
+                if (forzar)
+                {
+                    var markdown = await GenerarGuionPendienteAsync(fecha, extra);
+                    await WriteJsonAsync(res, 200, new { ok = true, pendiente = true, fecha, markdown });
+                    return;
+                }
+
                 var lista = ReadGuionIndex();
                 var item = lista.FirstOrDefault(x => x.fecha == fecha);
                 var already = item is not null && !string.IsNullOrWhiteSpace(item.guion)
                     && File.Exists(Path.Combine(_rootDir, "docs", item.guion));
-                var markdown = await CrearGuionGptAsync(fecha);
+                var texto = await CrearGuionGptAsync(fecha, extra, forzar);
                 var after = ReadGuionIndex().FirstOrDefault(x => x.fecha == fecha);
-                await WriteJsonAsync(res, 200, new { ok = true, already, guion = after?.guion, markdown });
+                await WriteJsonAsync(res, 200, new { ok = true, already, guion = after?.guion, markdown = texto });
             }
             catch (Exception ex)
             {

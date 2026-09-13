@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Podcast — Punto muerto</title>
-  <meta name="description" content="Guiones semanales de Punto muerto.">
+  <meta name="description" content="Borradores semanales de Punto muerto.">
   <meta name="robots" content="noindex, nofollow">
   <link rel="icon" type="image/png" href="favicon.png">
   <link rel="stylesheet" href="style.css">
@@ -14,14 +14,14 @@
     <div class="brand">
       <img class="logo" src="logo.png" alt="Cambio manual en punto muerto" width="72" height="72">
       <div>
-        <p class="eyebrow">Borradores de guion</p>
+        <p class="eyebrow">Borradores semanales</p>
         <h1>Punto muerto</h1>
       </div>
     </div>
     <nav class="site-nav" aria-label="Volver">
       <a href="index.html">Volver</a>
     </nav>
-    <p class="updated">Primero el esqueleto. El guion con GPT se crea una sola vez por semana.</p>
+    <p class="updated">Los viernes se van sumando. Un borrador nuevo se agrega a las fechas cuando lo guardás.</p>
   </header>
 
   <main>
@@ -35,13 +35,41 @@
     </form>
 
     <section id="studio" hidden>
-      <div class="filters">
+      <div class="filters filters-split">
         <label class="filter">
-          <span>Semana</span>
-          <select id="semana-filtro" aria-label="Elegir semana"></select>
+          <span>Fecha</span>
+          <select id="semana-filtro" aria-label="Elegir borrador por fecha"></select>
         </label>
-        <button type="button" class="pill" id="accion-gpt">Crear guion con GPT</button>
+        <div class="filters-end">
+          <span class="pill pill-current">Guiones</span>
+          <button type="button" class="pill" id="accion-vista" hidden>Ver guion</button>
+          <button type="button" class="pill" id="accion-nuevo">Crear nuevo guion</button>
+          <button type="button" class="pill pill-current" id="accion-guardar" hidden>Guardar</button>
+        </div>
       </div>
+      <form class="crear-panel" id="crear-panel" hidden>
+        <div id="crear-paso-clave">
+          <label class="filter" for="crear-clave">
+            <span>Contraseña</span>
+            <input id="crear-clave" name="crear-clave" type="password" autocomplete="current-password" required>
+          </label>
+          <div class="crear-acciones">
+            <button type="submit">Continuar</button>
+            <button type="button" class="pill" id="crear-volver">Cancelar</button>
+          </div>
+        </div>
+        <div id="crear-paso-extra" hidden>
+          <label class="crear-extra" for="crear-extra">
+            <span>Indicaciones para este borrador</span>
+            <textarea id="crear-extra" name="crear-extra" rows="5" maxlength="4000" placeholder="Opcional: tono, temas a enfatizar, lo que no quieras que salga…"></textarea>
+          </label>
+          <div class="crear-acciones">
+            <button type="button" class="pill" id="crear-enviar">Crear con GPT</button>
+            <button type="button" class="pill" id="crear-cerrar">Cancelar</button>
+          </div>
+        </div>
+        <p class="status" id="crear-error" hidden></p>
+      </form>
       <p class="status" id="status" hidden></p>
       <article class="guion-card" id="guion"></article>
     </section>
@@ -49,9 +77,9 @@
 
   <footer>
     <div class="footer-inner">
-      <p>Los guiones no están en el menú público.</p>
+      <p>Estos borradores no están en el menú público.</p>
       <div class="footer-end">
-        <a class="footer-podcast" href="podcast.html" aria-current="page">Podcast</a>
+        <a class="footer-podcast" href="podcast.html" aria-current="page">Guiones</a>
         <p class="credit">Desarrollado por <a href="https://thesib.dev" target="_blank" rel="noopener noreferrer">thesib.dev</a></p>
       </div>
     </div>

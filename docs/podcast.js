@@ -4,13 +4,24 @@ const claveEl = document.getElementById("clave");
 const gateErrorEl = document.getElementById("gate-error");
 const studioEl = document.getElementById("studio");
 const semanaFiltroEl = document.getElementById("semana-filtro");
-const accionEl = document.getElementById("accion-gpt");
+const vistaEl = document.getElementById("accion-vista");
+const nuevoEl = document.getElementById("accion-nuevo");
+const guardarEl = document.getElementById("accion-guardar");
+const crearPanelEl = document.getElementById("crear-panel");
+const crearPasoClaveEl = document.getElementById("crear-paso-clave");
+const crearPasoExtraEl = document.getElementById("crear-paso-extra");
+const crearClaveEl = document.getElementById("crear-clave");
+const crearExtraEl = document.getElementById("crear-extra");
+const crearErrorEl = document.getElementById("crear-error");
+const crearEnviarEl = document.getElementById("crear-enviar");
 const statusEl = document.getElementById("status");
 const guionEl = document.getElementById("guion");
 
+let claveCrear = "";
 let index = [];
 let clave = sessionStorage.getItem(STORAGE_KEY) || "";
 let vista = "esqueleto";
+let borradorNuevo = null;
 
 init();
 
@@ -18,7 +29,7 @@ async function init() {
   try {
     await reloadIndex();
   } catch (err) {
-    showGateError("No se pudieron cargar los guiones. Abrí el sitio por HTTP.");
+    showGateError("No se pudieron cargar los borradores. Abrí el sitio por HTTP.");
     console.error(err);
     return;
   }
@@ -29,16 +40,47 @@ async function init() {
   });
 
   semanaFiltroEl.addEventListener("change", () => {
+    if (borradorNuevo && semanaFiltroEl.value === borradorNuevo.fecha) {
+      vista = "guion";
+      mostrarBorradorNuevo();
+      return;
+    }
     vista = "esqueleto";
     if (clave) loadSemana();
   });
 
-  accionEl.addEventListener("click", onAccion);
+  vistaEl.addEventListener("click", onVista);
+  nuevoEl.addEventListener("click", abrirCrear);
+  guardarEl.addEventListener("click", onGuardar);
+  crearPanelEl.addEventListener("submit", onCrearClave);
+  crearEnviarEl.addEventListener("click", onCrearEnviar);
+  document.getElementById("crear-volver").addEventListener("click", cerrarCrear);
+  document.getElementById("crear-cerrar").addEventListener("click", cerrarCrear);
 
   if (clave) {
     const ok = await unlock(clave, true);
     if (!ok) clave = "";
   }
+}
+
+function fechaHoy() {
+  const d = new Date();
+  const y = d.getFullYear();
+  const m = String(d.getMonth() + 1).padStart(2, "0");
+  const day = String(d.getDate()).padStart(2, "0");
+  return `${y}-${m}-${day}`;
+}
+
+function etiquetaFecha(fecha, rango) {
+  const d = new Date(`${fecha}T12:00:00`);
+  if (Number.isNaN(d.getTime())) return rango || fecha;
+  const text = d.toLocaleDateString("es-AR", {
+    weekday: "long",
+    day: "numeric",
+    month: "long",
+    year: "numeric"
+  }).replace(",", "");
+  return text.charAt(0).toUpperCase() + text.slice(1);
 }
 
 async function reloadIndex() {
@@ -67,7 +109,7 @@ async function textoGuion(item) {
     }
   }
   if (cached) return cached;
-  throw new Error("Todavía no hay guion para esa semana.");
+  throw new Error("Todavía no hay borrador GPT para esa fecha.");
 }
 
 async function unlock(password, silent) {
@@ -99,21 +141,13 @@ async function unlock(password, silent) {
   return true;
 }
 
-function etiquetaViernes(item) {
-  const raw = item.fecha || "";
-  const d = new Date(`${raw}T12:00:00`);
-  if (Number.isNaN(d.getTime())) return item.rango || raw;
-  const text = d.toLocaleDateString("es-AR", { weekday: "long", day: "numeric", month: "long" }).replace(",", "");
-  return text.charAt(0).toUpperCase() + text.slice(1);
-}
-
 function renderSemanas() {
   const selected = semanaFiltroEl.value;
   semanaFiltroEl.replaceChildren();
   for (const item of index) {
     const option = document.createElement("option");
     option.value = item.fecha;
-    option.textContent = etiquetaViernes(item);
+    option.textContent = etiquetaFecha(item.fecha, item.rango);
     semanaFiltroEl.append(option);
   }
   if (selected && index.some((item) => item.fecha === selected)) {
@@ -123,22 +157,35 @@ function renderSemanas() {
 
 function syncBoton() {
   const item = itemActual();
-  const tieneGuion = Boolean(item?.guion);
-  accionEl.hidden = !item;
-  accionEl.disabled = false;
-  if (tieneGuion) {
-    accionEl.textContent = vista === "guion" ? "Ver esqueleto" : "Ver guion";
-  } else {
-    accionEl.textContent = "Crear guion con GPT";
-  }
+  const hayPendiente = Boolean(borradorNuevo);
+  const tieneGuion = Boolean(item?.guion) && !hayPendiente;
+  vistaEl.hidden = !tieneGuion;
+  vistaEl.disabled = false;
+  vistaEl.textContent = vista === "guion" ? "Ver esqueleto" : "Ver guion";
+  nuevoEl.hidden = !index.length;
+  nuevoEl.disabled = false;
+  guardarEl.hidden = !hayPendiente;
+  guardarEl.disabled = false;
+  if (hayPendiente) guardarEl.textContent = "Guardar";
+}
+
+function mostrarBorradorNuevo() {
+  hideStatus();
+  showStatus(`Borrador del ${etiquetaFecha(borradorNuevo.fecha)}. Tocá Guardar para sumarlo a las fechas.`);
+  guionEl.innerHTML = renderMarkdown(borradorNuevo.markdown);
+  syncBoton();
 }
 
 async function loadSemana() {
+  if (borradorNuevo && semanaFiltroEl.value === borradorNuevo.fecha) {
+    mostrarBorradorNuevo();
+    return;
+  }
   hideStatus();
   guionEl.replaceChildren();
   const item = itemActual();
   if (!item) {
-    showStatus("No hay semanas publicadas.");
+    showStatus("No hay fechas publicadas.");
     syncBoton();
     return;
   }
@@ -155,48 +202,142 @@ async function loadSemana() {
   syncBoton();
 }
 
-async function onAccion() {
+async function onVista() {
   const item = itemActual();
-  if (!item) return;
+  if (!item?.guion) return;
+  vista = vista === "guion" ? "esqueleto" : "guion";
+  await loadSemana();
+}
 
-  if (item.guion) {
-    vista = vista === "guion" ? "esqueleto" : "guion";
-    await loadSemana();
+function abrirCrear() {
+  if (!index.length) return;
+  claveCrear = "";
+  crearClaveEl.value = "";
+  crearExtraEl.value = "";
+  hideCrearError();
+  crearPasoClaveEl.hidden = false;
+  crearPasoExtraEl.hidden = true;
+  crearPanelEl.hidden = false;
+  crearClaveEl.focus();
+}
+
+function cerrarCrear() {
+  crearPanelEl.hidden = true;
+  claveCrear = "";
+  crearClaveEl.value = "";
+  crearExtraEl.value = "";
+  hideCrearError();
+  crearEnviarEl.disabled = false;
+  crearEnviarEl.textContent = "Crear con GPT";
+}
+
+async function onCrearClave(ev) {
+  ev.preventDefault();
+  hideCrearError();
+  const password = crearClaveEl.value;
+  const item = index[0];
+  if (!item) return;
+  try {
+    await decryptArchivo(archivoEsqueleto(item), password);
+  } catch (err) {
+    showCrearError("Contraseña incorrecta.");
+    console.warn(err);
     return;
   }
+  claveCrear = password;
+  crearPasoClaveEl.hidden = true;
+  crearPasoExtraEl.hidden = false;
+  crearExtraEl.focus();
+}
 
-  accionEl.disabled = true;
-  accionEl.textContent = "Creando…";
+async function onCrearEnviar() {
+  if (!claveCrear) return;
+  const fecha = fechaHoy();
+  crearEnviarEl.disabled = true;
+  crearEnviarEl.textContent = "Creando…";
+  hideCrearError();
   hideStatus();
   try {
     const res = await fetch("/api/crear-guion", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({ fecha: item.fecha, password: clave })
+      body: JSON.stringify({
+        fecha,
+        password: claveCrear,
+        extra: crearExtraEl.value.trim(),
+        nuevo: true
+      })
     });
     const data = await res.json().catch(() => ({}));
     if (!res.ok || !data.ok) {
-      throw new Error(data.error || "No se pudo crear el guion.");
+      throw new Error(data.error || "No se pudo crear el borrador.");
     }
-    if (data.markdown) {
-      sessionStorage.setItem(`pm-guion-${item.fecha}`, data.markdown);
+    if (!data.markdown) {
+      throw new Error("GPT no devolvió texto.");
     }
-    if (data.guion) {
-      const i = index.findIndex((x) => x.fecha === item.fecha);
-      if (i >= 0) index[i] = { ...index[i], guion: data.guion };
+    clave = claveCrear;
+    sessionStorage.setItem(STORAGE_KEY, claveCrear);
+    sessionStorage.setItem(`pm-guion-${fecha}`, data.markdown);
+    borradorNuevo = { fecha, markdown: data.markdown };
+    cerrarCrear();
+    vista = "guion";
+    mostrarBorradorNuevo();
+  } catch (err) {
+    showCrearError(err.message || "No se pudo crear el borrador.");
+    crearEnviarEl.disabled = false;
+    crearEnviarEl.textContent = "Crear con GPT";
+  }
+}
+
+async function onGuardar() {
+  if (!borradorNuevo || !clave) return;
+  guardarEl.disabled = true;
+  guardarEl.textContent = "Guardando…";
+  hideStatus();
+  try {
+    const res = await fetch("/api/crear-guion", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({
+        accion: "guardar",
+        fecha: borradorNuevo.fecha,
+        password: clave,
+        markdown: borradorNuevo.markdown,
+        rango: etiquetaFecha(borradorNuevo.fecha)
+      })
+    });
+    const data = await res.json().catch(() => ({}));
+    if (!res.ok || !data.ok) {
+      throw new Error(data.error || "No se pudo guardar.");
     }
+    const fecha = borradorNuevo.fecha;
+    borradorNuevo = null;
     try {
       await reloadIndex();
-      renderSemanas();
     } catch {
-      renderSemanas();
+      if (data.item) {
+        index = [data.item, ...index.filter((x) => x.fecha !== data.item.fecha)];
+      }
     }
+    renderSemanas();
+    semanaFiltroEl.value = fecha;
     vista = "guion";
     await loadSemana();
   } catch (err) {
-    showStatus(err.message || "No se pudo crear el guion.");
-    syncBoton();
+    showStatus(err.message || "No se pudo guardar.");
+    guardarEl.disabled = false;
+    guardarEl.textContent = "Guardar";
   }
+}
+
+function showCrearError(msg) {
+  crearErrorEl.hidden = false;
+  crearErrorEl.textContent = msg;
+}
+
+function hideCrearError() {
+  crearErrorEl.hidden = true;
+  crearErrorEl.textContent = "";
 }
 
 async function decryptArchivo(archivo, password) {

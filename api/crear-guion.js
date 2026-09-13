@@ -11,6 +11,11 @@ module.exports = async (req, res) => {
 
   const password = String(req.body?.password || "");
   const fecha = String(req.body?.fecha || "").trim();
+  const extra = String(req.body?.extra || "").trim().slice(0, 4000);
+  const markdownIn = String(req.body?.markdown || "");
+  const rangoIn = String(req.body?.rango || "").trim();
+  const accion = String(req.body?.accion || "crear");
+  const nuevo = Boolean(req.body?.nuevo);
   const expected = process.env.PUNTO_PODCAST_PASSWORD || "";
   if (!expected || password !== expected) {
     res.status(401).json({ ok: false, error: "Contraseña incorrecta." });
@@ -28,10 +33,6 @@ module.exports = async (req, res) => {
     res.status(500).json({ ok: false, error: "Falta GITHUB_TOKEN en Vercel." });
     return;
   }
-  if (!apiKey) {
-    res.status(500).json({ ok: false, error: "Falta OPENAI_API_KEY en Vercel." });
-    return;
-  }
 
   try {
     const indexFile = await ghGet(repo, token, "docs/guiones.json");
@@ -40,23 +41,69 @@ module.exports = async (req, res) => {
       return;
     }
     const lista = JSON.parse(Buffer.from(indexFile.content, "base64").toString("utf8"));
-    const item = lista.find((x) => x.fecha === fecha);
-    if (!item || !item.esqueleto) {
-      res.status(404).json({ ok: false, error: `No hay esqueleto para ${fecha}.` });
+    const fuente =
+      lista.find((x) => x.fecha === fecha && x.esqueleto) ||
+      [...lista].filter((x) => x.esqueleto).sort((a, b) => b.fecha.localeCompare(a.fecha))[0];
+    if (!fuente || !fuente.esqueleto) {
+      res.status(404).json({ ok: false, error: "No hay esqueleto publicado." });
       return;
     }
 
-    if (item.guion) {
-      const existente = await ghGet(repo, token, `docs/${item.guion}`);
-      if (existente) {
-        const packed = JSON.parse(Buffer.from(existente.content, "base64").toString("utf8"));
-        const markdown = decryptGuion(packed, password);
-        res.status(200).json({ ok: true, already: true, guion: item.guion, markdown });
+    if (accion === "guardar") {
+      if (!markdownIn.trim()) {
+        res.status(400).json({ ok: false, error: "No hay texto para guardar." });
         return;
+      }
+      const rel = `guiones/${fecha}-guion.json`;
+      const packed = encryptGuion(markdownIn, password);
+      await ghPut(
+        repo,
+        token,
+        `docs/${rel}`,
+        JSON.stringify(packed, null, 2) + "\n",
+        `chore: guardar borrador ${fecha}`
+      );
+      const prev = lista.find((x) => x.fecha === fecha);
+      const item = {
+        fecha,
+        rango: rangoIn || prev?.rango || fecha,
+        esqueleto: prev?.esqueleto || fuente.esqueleto,
+        guion: rel
+      };
+      const next = [item, ...lista.filter((x) => x.fecha !== fecha)].sort((a, b) =>
+        b.fecha.localeCompare(a.fecha)
+      );
+      await ghPut(
+        repo,
+        token,
+        "docs/guiones.json",
+        JSON.stringify(next, null, 2) + "\n",
+        `chore: índice ${fecha}`,
+        indexFile.sha
+      );
+      res.status(200).json({ ok: true, item, guion: rel });
+      return;
+    }
+
+    if (!nuevo) {
+      const item = lista.find((x) => x.fecha === fecha);
+      if (item?.guion) {
+        const existente = await ghGet(repo, token, `docs/${item.guion}`);
+        if (existente) {
+          const packed = JSON.parse(Buffer.from(existente.content, "base64").toString("utf8"));
+          const markdown = decryptGuion(packed, password);
+          res.status(200).json({ ok: true, already: true, guion: item.guion, markdown });
+          return;
+        }
       }
     }
 
-    const esqFile = await ghGet(repo, token, `docs/${item.esqueleto}`);
+    if (!apiKey) {
+      res.status(500).json({ ok: false, error: "Falta OPENAI_API_KEY en Vercel." });
+      return;
+    }
+
+    const esqFile = await ghGet(repo, token, `docs/${fuente.esqueleto}`);
     if (!esqFile) {
       res.status(404).json({ ok: false, error: "No se encontró el esqueleto." });
       return;
@@ -66,10 +113,15 @@ module.exports = async (req, res) => {
       password
     );
     const prompt = await readPrompt(repo, token);
-    const markdown = await completarConOpenAi(apiKey, prompt, esqueleto);
+    const markdown = await completarConOpenAi(apiKey, prompt, esqueleto, extra);
+
+    if (nuevo) {
+      res.status(200).json({ ok: true, pendiente: true, fecha, markdown });
+      return;
+    }
+
     const rel = `guiones/${fecha}-guion.json`;
     const packed = encryptGuion(markdown, password);
-
     await ghPut(
       repo,
       token,
@@ -77,8 +129,9 @@ module.exports = async (req, res) => {
       JSON.stringify(packed, null, 2) + "\n",
       `chore: guion GPT ${fecha}`
     );
-
-    const next = lista.map((x) => (x.fecha === fecha ? { ...x, rango: x.rango, esqueleto: x.esqueleto, guion: rel } : x));
+    const next = lista.map((x) =>
+      x.fecha === fecha ? { ...x, rango: x.rango, esqueleto: x.esqueleto, guion: rel } : x
+    );
     await ghPut(
       repo,
       token,
@@ -87,10 +140,9 @@ module.exports = async (req, res) => {
       `chore: índice guion ${fecha}`,
       indexFile.sha
     );
-
     res.status(200).json({ ok: true, already: false, guion: rel, markdown });
   } catch (err) {
-    res.status(502).json({ ok: false, error: err.message || "No se pudo crear el guion." });
+    res.status(502).json({ ok: false, error: err.message || "No se pudo crear el borrador." });
   }
 };
 
@@ -127,8 +179,12 @@ async function readPrompt(repo, token) {
   return Buffer.from(file.content, "base64").toString("utf8");
 }
 
-async function completarConOpenAi(apiKey, sistema, borrador) {
+async function completarConOpenAi(apiKey, sistema, borrador, extra) {
   const modelo = process.env.OPENAI_MODEL || "gpt-4o-mini";
+  let user =
+    "Completá solo los ítems [IA] como borrador escrito (no audio). Dejá intactos [OPINIÓN], [DATO] y [CTA]. Devolvé solo el markdown, sin fences.";
+  if (extra) user += "\n\nIndicaciones extra para este borrador:\n" + extra;
+  user += "\n\n" + borrador;
   const res = await fetch("https://api.openai.com/v1/chat/completions", {
     method: "POST",
     headers: {
@@ -140,12 +196,7 @@ async function completarConOpenAi(apiKey, sistema, borrador) {
       temperature: 0.7,
       messages: [
         { role: "system", content: sistema },
-        {
-          role: "user",
-          content:
-            "Completá solo los ítems [IA] como borrador de guion (texto escrito, no audio). Dejá intactos [OPINIÓN], [DATO] y [CTA]. Devolvé solo el markdown, sin fences.\n\n" +
-            borrador
-        }
+        { role: "user", content: user }
       ]
     })
   });
