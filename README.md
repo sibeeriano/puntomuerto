@@ -105,6 +105,8 @@ A mano:
 En Vercel → Settings → Environment Variables (Production) cargá:
 
 - `OPENAI_API_KEY`
+- `OPENAI_MODEL_SELECT` (opcional, default `gpt-5.4-nano`)
+- `OPENAI_MODEL_SCRIPT` (opcional, default `gpt-5.6-luna`)
 - `PUNTO_PODCAST_PASSWORD`
 - `GITHUB_TOKEN` (un PAT de GitHub con permiso de Contents en este repo)
 

@@ -6,7 +6,7 @@
   "outputDirectory": "docs",
   "functions": {
     "api/crear-guion.js": {
-      "maxDuration": 60
+      "maxDuration": 120
     }
   }
 }

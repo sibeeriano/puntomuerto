@@ -1032,11 +1032,9 @@ public class Program
             return DecryptGuion(File.ReadAllText(Path.Combine(_rootDir, "docs", item.guion)), password);
         }
 
-        var packed = File.ReadAllText(Path.Combine(_rootDir, "docs", item.esqueleto));
-        var esqueleto = DecryptGuion(packed, password);
-        var texto = await CompletarGuionConIaAsync(esqueleto, extra);
+        var texto = await GenerarGuionPendienteAsync(fecha, extra);
         if (string.IsNullOrWhiteSpace(texto))
-            throw new InvalidOperationException("OpenAI no devolvió un guion. Revisá créditos o la API key.");
+            throw new InvalidOperationException("OpenAI no devolvió un borrador. Revisá créditos o la API key.");
 
         var rel = $"guiones/{fecha}-guion.json";
         Directory.CreateDirectory(Path.Combine(_rootDir, "docs", "guiones"));
@@ -1061,19 +1059,137 @@ public class Program
 
     private static async Task<string> GenerarGuionPendienteAsync(string fecha, string? extra)
     {
-        var password = Environment.GetEnvironmentVariable("PUNTO_PODCAST_PASSWORD");
-        if (string.IsNullOrWhiteSpace(password))
-            throw new InvalidOperationException("Falta PUNTO_PODCAST_PASSWORD en .env.");
+        var candidates = LoadSemanaCandidates();
+        if (candidates.Count == 0)
+            throw new InvalidOperationException("No hay candidatos en docs/semana.json. Corré primero dotnet run.");
 
-        var fuente = FuenteEsqueleto(fecha)
-            ?? throw new InvalidOperationException("No hay esqueleto publicado para armar el borrador.");
+        var rango = "";
+        var semanaPath = Path.Combine(_rootDir, "docs", "semana.json");
+        if (File.Exists(semanaPath))
+        {
+            using var doc = JsonDocument.Parse(File.ReadAllText(semanaPath));
+            var desde = doc.RootElement.TryGetProperty("desde", out var d) ? d.GetString() : null;
+            var hasta = doc.RootElement.TryGetProperty("hasta", out var h) ? h.GetString() : null;
+            if (!string.IsNullOrWhiteSpace(desde) && !string.IsNullOrWhiteSpace(hasta))
+                rango = $"{desde} a {hasta}";
+        }
+        if (string.IsNullOrWhiteSpace(rango))
+            rango = EtiquetaViernes(DateTime.Now);
 
-        var packed = File.ReadAllText(Path.Combine(_rootDir, "docs", fuente.esqueleto));
-        var esqueleto = DecryptGuion(packed, password);
-        var texto = await CompletarGuionConIaAsync(esqueleto, extra);
-        if (string.IsNullOrWhiteSpace(texto))
-            throw new InvalidOperationException("OpenAI no devolvió un borrador. Revisá créditos o la API key.");
-        return texto;
+        return await RunGuionPipelineAsync(candidates, fecha, rango, extra);
+    }
+
+    private static List<Dictionary<string, object?>> LoadSemanaCandidates()
+    {
+        var path = Path.Combine(_rootDir, "docs", "semana.json");
+        var list = new List<Dictionary<string, object?>>();
+        if (!File.Exists(path))
+            return list;
+
+        using var doc = JsonDocument.Parse(File.ReadAllText(path));
+        if (!doc.RootElement.TryGetProperty("destacadas", out var dest) || dest.ValueKind != JsonValueKind.Array)
+            return list;
+
+        foreach (var el in dest.EnumerateArray())
+        {
+            var fuentes = new List<string>();
+            if (el.TryGetProperty("fuentes", out var fs) && fs.ValueKind == JsonValueKind.Array)
+            {
+                foreach (var x in fs.EnumerateArray())
+                {
+                    var name = x.GetString();
+                    if (!string.IsNullOrWhiteSpace(name))
+                        fuentes.Add(name);
+                }
+            }
+            list.Add(new Dictionary<string, object?>
+            {
+                ["titulo"] = el.TryGetProperty("titulo", out var t) ? t.GetString() : "",
+                ["resumen"] = el.TryGetProperty("resumen", out var r) ? r.GetString() : "",
+                ["fuente"] = el.TryGetProperty("fuente", out var f) ? f.GetString() : "",
+                ["link"] = el.TryGetProperty("link", out var l) ? l.GetString() : "",
+                ["fecha"] = el.TryGetProperty("fecha", out var fe) ? fe.GetString() : "",
+                ["fuentes"] = fuentes
+            });
+            if (list.Count >= 24)
+                break;
+        }
+        return list;
+    }
+
+    private static async Task<string> RunGuionPipelineAsync(
+        List<Dictionary<string, object?>> candidates,
+        string fecha,
+        string rango,
+        string? extra)
+    {
+        var script = Path.Combine(_rootDir, "api", "lib", "run-guion.js");
+        if (!File.Exists(script))
+            throw new InvalidOperationException("Falta api/lib/run-guion.js.");
+
+        var payload = JsonSerializer.Serialize(new
+        {
+            candidates,
+            fecha,
+            rango,
+            extra = extra ?? ""
+        }, JsonOptions);
+
+        var psi = new ProcessStartInfo("node")
+        {
+            WorkingDirectory = _rootDir,
+            RedirectStandardInput = true,
+            RedirectStandardOutput = true,
+            RedirectStandardError = true,
+            UseShellExecute = false
+        };
+        psi.ArgumentList.Add(script);
+        foreach (var key in new[] { "OPENAI_API_KEY", "OPENAI_MODEL_SELECT", "OPENAI_MODEL_SCRIPT" })
+        {
+            var val = Environment.GetEnvironmentVariable(key);
+            if (!string.IsNullOrWhiteSpace(val))
+                psi.Environment[key] = val;
+        }
+
+        using var process = Process.Start(psi)
+            ?? throw new InvalidOperationException("No se pudo ejecutar node. ¿Está instalado?");
+        await process.StandardInput.WriteAsync(payload);
+        process.StandardInput.Close();
+        var stdoutTask = process.StandardOutput.ReadToEndAsync();
+        var stderrTask = process.StandardError.ReadToEndAsync();
+        using var cts = new CancellationTokenSource(TimeSpan.FromMinutes(3));
+        try
+        {
+            await process.WaitForExitAsync(cts.Token);
+        }
+        catch (OperationCanceledException)
+        {
+            try { process.Kill(entireProcessTree: true); } catch { /* ignore */ }
+            throw new InvalidOperationException("El pipeline de guion tardó demasiado.");
+        }
+        var stdout = await stdoutTask;
+        var stderr = await stderrTask;
+        if (!string.IsNullOrWhiteSpace(stderr))
+            Console.Write(stderr.EndsWith('\n') ? stderr : stderr + "\n");
+
+        string? pipelineError = null;
+        string? markdown = null;
+        try
+        {
+            using var outDoc = JsonDocument.Parse(string.IsNullOrWhiteSpace(stdout) ? "{}" : stdout);
+            if (outDoc.RootElement.TryGetProperty("error", out var e))
+                pipelineError = e.GetString();
+            if (outDoc.RootElement.TryGetProperty("markdown", out var md))
+                markdown = md.GetString();
+        }
+        catch
+        {
+            pipelineError = "El pipeline no devolvió JSON.";
+        }
+
+        if (process.ExitCode != 0 || string.IsNullOrWhiteSpace(markdown))
+            throw new InvalidOperationException(pipelineError ?? "Falló el pipeline de guion.");
+        return markdown;
     }
 
     private static GuionIndexItem GuardarGuionPublicado(string fecha, string markdown, string? rango)

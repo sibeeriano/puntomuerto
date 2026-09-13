@@ -1,4 +1,5 @@
 const crypto = require("crypto");
+const { candidatesFromSemana, crearBorradorGuion } = require("./lib/guion-pipeline");
 
 const ITERATIONS = 120000;
 const KEY_LEN = 32;
@@ -103,17 +104,31 @@ module.exports = async (req, res) => {
       return;
     }
 
-    const esqFile = await ghGet(repo, token, `docs/${fuente.esqueleto}`);
-    if (!esqFile) {
-      res.status(404).json({ ok: false, error: "No se encontró el esqueleto." });
+    const semanaFile = await ghGet(repo, token, "docs/semana.json");
+    if (!semanaFile) {
+      res.status(404).json({ ok: false, error: "No hay semana.json. Primero actualizá las noticias." });
       return;
     }
-    const esqueleto = decryptGuion(
-      JSON.parse(Buffer.from(esqFile.content, "base64").toString("utf8")),
-      password
-    );
-    const prompt = await readPrompt(repo, token);
-    const markdown = await completarConOpenAi(apiKey, prompt, esqueleto, extra);
+    const semana = JSON.parse(Buffer.from(semanaFile.content, "base64").toString("utf8"));
+    const candidates = candidatesFromSemana(semana);
+    const selectPrompt = await readRepoText(repo, token, "guion/select.txt");
+    const scriptPrompt = await readRepoText(repo, token, "guion/prompt.txt");
+    if (!selectPrompt || !scriptPrompt) {
+      res.status(500).json({ ok: false, error: "Faltan los prompts en guion/." });
+      return;
+    }
+    const rango = rangoIn || (semana.desde && semana.hasta
+      ? `${semana.desde} a ${semana.hasta}`
+      : fecha);
+    const { markdown } = await crearBorradorGuion({
+      candidates,
+      fecha,
+      rango,
+      extra,
+      apiKey,
+      selectPrompt,
+      scriptPrompt
+    });
 
     if (nuevo) {
       res.status(200).json({ ok: true, pendiente: true, fecha, markdown });
@@ -173,46 +188,10 @@ function encryptGuion(plaintext, password) {
   };
 }
 
-async function readPrompt(repo, token) {
-  const file = await ghGet(repo, token, "guion/prompt.txt");
-  if (!file) return "Completá el guion de Punto muerto. No toques [OPINIÓN], [DATO] ni [CTA].";
+async function readRepoText(repo, token, path) {
+  const file = await ghGet(repo, token, path);
+  if (!file) return "";
   return Buffer.from(file.content, "base64").toString("utf8");
-}
-
-async function completarConOpenAi(apiKey, sistema, borrador, extra) {
-  const modelo = process.env.OPENAI_MODEL || "gpt-4o-mini";
-  let user =
-    "Completá solo los ítems [IA] como borrador escrito (no audio). Dejá intactos [OPINIÓN], [DATO] y [CTA]. Devolvé solo el markdown, sin fences.";
-  if (extra) user += "\n\nIndicaciones extra para este borrador:\n" + extra;
-  user += "\n\n" + borrador;
-  const res = await fetch("https://api.openai.com/v1/chat/completions", {
-    method: "POST",
-    headers: {
-      Authorization: `Bearer ${apiKey}`,
-      "Content-Type": "application/json"
-    },
-    body: JSON.stringify({
-      model: modelo,
-      temperature: 0.7,
-      messages: [
-        { role: "system", content: sistema },
-        { role: "user", content: user }
-      ]
-    })
-  });
-  const json = await res.json();
-  if (!res.ok) {
-    throw new Error(json.error?.message || `OpenAI ${res.status}`);
-  }
-  let content = json.choices?.[0]?.message?.content || "";
-  content = content.trim();
-  if (content.startsWith("```")) {
-    const nl = content.indexOf("\n");
-    if (nl > 0) content = content.slice(nl + 1);
-    if (content.endsWith("```")) content = content.slice(0, -3).trimEnd();
-  }
-  if (!content) throw new Error("OpenAI no devolvió un guion.");
-  return content.endsWith("\n") ? content : `${content}\n`;
 }
 
 async function ghGet(repo, token, path) {
