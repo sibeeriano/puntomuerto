@@ -80,17 +80,17 @@ cualquier navegador, ponen la contraseña y tocan **Crear guion con GPT**.
 Eso corre en el servidor (no en la Mac), llama a OpenAI una sola vez, guarda
 el guion cifrado en GitHub y el botón pasa a **Ver guion**.
 
-Las noticias y el esqueleto del viernes los arma GitHub Actions todos los
-días a las 10:00, 13:00 y 16:00 (Argentina), no hace falta tener la PC prendida.
-
-El job de Ubuntu baja todas las fuentes **menos Autoblog**. Autoblog.com.ar
-está detrás de Cloudflare y responde 403 a las IPs de GitHub Actions
-(Ubuntu y macOS hosted). El RSS público anda desde esta Mac.
-
-Autoblog lo baja un LaunchAgent local (`com.puntomuerto.autoblog`) a las
-10:25, 13:25 y 16:25 (Argentina). Corre `actualizar-autoblog.sh`: pull,
-`dotnet run -- --fuente "Autoblog Argentina"` y push si hay notas nuevas.
+El reloj principal es esta Mac. Un LaunchAgent (`com.puntomuerto.autoblog`)
+corre `actualizar-autoblog.sh` a las 10:00, 13:00 y 16:00 (Argentina): pull,
+baja **todas** las fuentes (Autoblog incluido) y pushea si hay notas nuevas.
 La Mac tiene que estar prendida. Log: `/tmp/puntomuerto-autoblog.log`.
+
+GitHub Actions es el respaldo por si la Mac está apagada. El cron de GitHub
+no es puntual: a veces atrasa o saltea el horario, sobre todo en repos
+chicos. Por eso el workflow corre a las :00 y reintenta a las :20
+(10:00/10:20, 13:00/13:20, 16:00/16:20). Ubuntu baja todas las fuentes
+**menos Autoblog** (Cloudflare le responde 403). Si la Mac corrió a las :00,
+el de las :20 suele no tener nada nuevo.
 
 Para instalarlo de nuevo:
 

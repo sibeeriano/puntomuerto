@@ -2,7 +2,9 @@ name: Actualizar noticias
 
 on:
   schedule:
+    # 10:00, 13:00 y 16:00 Argentina. El :20 es reintento si GitHub salteó el :00.
     - cron: "0 13,16,19 * * *"
+    - cron: "20 13,16,19 * * *"
   workflow_dispatch:
 
 permissions:
@@ -17,6 +19,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - uses: actions/setup-dotnet@v4
         with:
@@ -45,4 +49,5 @@ jobs:
             exit 0
           fi
           git commit -m "chore: actualizar noticias $(date -u +%Y-%m-%d)"
+          git pull --rebase origin main
           git push
