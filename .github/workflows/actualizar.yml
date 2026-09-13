@@ -2,9 +2,10 @@ name: Actualizar noticias
 
 on:
   schedule:
-    # 10:00, 13:00 y 16:00 Argentina. El :20 es reintento si GitHub salteó el :00.
-    - cron: "0 13,16,19 * * *"
-    - cron: "20 13,16,19 * * *"
+    # Minutos raros para no coincidir con la saturación de las horas en punto.
+    - cron: "14 13 * * *"
+    - cron: "22 16 * * *"
+    - cron: "41 19 * * *"
   workflow_dispatch:
 
 permissions:

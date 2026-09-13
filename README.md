@@ -86,11 +86,11 @@ baja **todas** las fuentes (Autoblog incluido) y pushea si hay notas nuevas.
 La Mac tiene que estar prendida. Log: `/tmp/puntomuerto-autoblog.log`.
 
 GitHub Actions es el respaldo por si la Mac está apagada. El cron de GitHub
-no es puntual: a veces atrasa o saltea el horario, sobre todo en repos
-chicos. Por eso el workflow corre a las :00 y reintenta a las :20
-(10:00/10:20, 13:00/13:20, 16:00/16:20). Ubuntu baja todas las fuentes
-**menos Autoblog** (Cloudflare le responde 403). Si la Mac corrió a las :00,
-el de las :20 suele no tener nada nuevo.
+se satura en las horas en punto, así que corre a minutos raros: 10:14,
+13:22 y 16:41 (Argentina). También se puede disparar a mano desde Actions
+(`workflow_dispatch`). Ubuntu baja todas las fuentes **menos Autoblog**
+(Cloudflare le responde 403). Si la Mac ya corrió a las :00, este job
+suele no tener nada nuevo.
 
 Para instalarlo de nuevo:
 
