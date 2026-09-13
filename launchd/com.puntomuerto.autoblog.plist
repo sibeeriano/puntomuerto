@@ -6,12 +6,18 @@
   <string>com.puntomuerto.autoblog</string>
   <key>ProgramArguments</key>
   <array>
-    <string>/bin/zsh</string>
-    <string>-lc</string>
+    <string>/bin/sh</string>
     <string>/Users/sib/Documents/desarrollo/punto muerto/puntomuerto/actualizar-autoblog.sh</string>
   </array>
   <key>WorkingDirectory</key>
   <string>/Users/sib/Documents/desarrollo/punto muerto/puntomuerto</string>
+  <key>EnvironmentVariables</key>
+  <dict>
+    <key>DOTNET_ROOT</key>
+    <string>/Users/sib/.dotnet</string>
+    <key>PATH</key>
+    <string>/Users/sib/.dotnet:/usr/local/share/dotnet:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin</string>
+  </dict>
   <key>StartCalendarInterval</key>
   <array>
     <dict>
