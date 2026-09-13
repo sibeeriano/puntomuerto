@@ -3,36 +3,41 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Podcast — Punto muerto</title>
-  <meta name="description" content="Borradores semanales de Punto muerto.">
+  <title>Podcast — Pistón libre</title>
+  <meta name="description" content="Sección para administradores de Pistón libre.">
   <meta name="robots" content="noindex, nofollow">
   <link rel="icon" type="image/png" href="favicon.png">
   <link rel="stylesheet" href="style.css">
 </head>
-<body>
-  <header class="hero">
-    <div class="brand">
-      <img class="logo" src="logo.png" alt="Cambio manual en punto muerto" width="72" height="72">
-      <div>
-        <p class="eyebrow">Borradores semanales</p>
-        <h1>Punto muerto</h1>
+<body id="top">
+  <header class="site-header">
+    <div class="site-header-inner">
+      <a class="site-header-logo" href="index.html">
+        <img class="logo" src="logo.png" alt="Pistón libre" width="48" height="48">
+      </a>
+      <a class="site-header-title" href="index.html">
+        <img class="lettering" src="lettering.png" alt="Pistón Libre" width="138" height="40">
+      </a>
+      <div class="site-header-tools">
+        <button type="button" class="header-logout" id="cerrar-sesion" hidden>Cerrar sesión</button>
       </div>
     </div>
-    <nav class="site-nav" aria-label="Volver">
-      <a href="index.html">Volver</a>
-    </nav>
-    <p class="updated">Los viernes se van sumando. Un borrador nuevo se agrega a las fechas cuando lo guardás.</p>
   </header>
-
   <main>
-    <form class="gate" id="gate">
-      <label class="filter" for="clave">
-        <span>Contraseña</span>
-        <input id="clave" name="clave" type="password" autocomplete="current-password" required>
-      </label>
-      <button type="submit">Entrar</button>
-      <p class="status" id="gate-error" hidden></p>
-    </form>
+    <div class="admin-login" id="admin-login">
+      <p class="eyebrow">Sección para administradores</p>
+      <form class="gate" id="gate">
+        <label class="filter" for="clave">
+          <span>Contraseña</span>
+          <input id="clave" name="clave" type="password" autocomplete="current-password" required>
+        </label>
+        <div class="gate-actions">
+          <button type="submit">Entrar</button>
+          <a class="gate-back" href="index.html">Volver</a>
+        </div>
+        <p class="status" id="gate-error" hidden></p>
+      </form>
+    </div>
 
     <section id="studio" hidden>
       <div class="filters filters-split">
@@ -77,14 +82,22 @@
 
   <footer>
     <div class="footer-inner">
-      <p>Estos borradores no están en el menú público.</p>
-      <div class="footer-end">
-        <a class="footer-podcast" href="podcast.html" aria-current="page">Guiones</a>
-        <p class="credit">Desarrollado por <a href="https://thesib.dev" target="_blank" rel="noopener noreferrer">thesib.dev</a></p>
-      </div>
+      <a class="footer-key" href="podcast.html" aria-label="Iniciar sesión" aria-current="page">
+        <svg viewBox="0 0 24 24" aria-hidden="true">
+          <path fill="currentColor" d="M8 6.6a5.4 5.4 0 1 0 4.15 8.85H15.2v2.15h2.25V15.45H19v1.7h2.2V12H12.15A5.4 5.4 0 0 0 8 6.6Zm0 3.35a2.05 2.05 0 1 1 0 4.1 2.05 2.05 0 0 1 0-4.1Z"/>
+        </svg>
+      </a>
+      <p class="footer-legal">Agregador sin fines comerciales. Las notas pertenecen a sus medios originales. Contacto para bajas: <a href="mailto:pistonlibre@gmail.com">pistonlibre@gmail.com</a></p>
+      <p class="credit">Desarrollado por <a href="https://thesib.dev" target="_blank" rel="noopener noreferrer">thesib.dev</a></p>
     </div>
   </footer>
 
+  <a class="back-to-top" href="#top" aria-label="Volver arriba">
+    <svg viewBox="0 0 24 24" aria-hidden="true">
+      <path d="M6 14.5 12 8.5 18 14.5" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+    </svg>
+  </a>
+  <script src="site.js"></script>
   <script src="podcast.js"></script>
 </body>
 </html>

@@ -11,6 +11,7 @@ const PAGE_SIZE = 12;
 let articulos = [];
 let fuenteActiva = "Todas";
 let rangoFecha = "todas";
+let busqueda = (new URLSearchParams(location.search).get("q") || "").trim();
 let pagina = 1;
 
 init();
@@ -41,6 +42,11 @@ async function init() {
       pagina += 1;
       renderCards();
     });
+    document.addEventListener("pm-search", (ev) => {
+      busqueda = (ev.detail.q || "").trim();
+      pagina = 1;
+      renderCards();
+    });
 
     renderFuentes(articulos);
     renderCards();
@@ -67,7 +73,9 @@ function renderFuentes(items) {
 
 function renderCards() {
   const visibles = articulos.filter((a) =>
-    (fuenteActiva === "Todas" || a.fuente === fuenteActiva) && pasaFiltroFecha(a, rangoFecha)
+    (fuenteActiva === "Todas" || a.fuente === fuenteActiva) &&
+    pasaFiltroFecha(a, rangoFecha) &&
+    pasaBusqueda(a)
   );
   const corte = pagina * PAGE_SIZE;
   const paginaItems = visibles.slice(0, corte);
@@ -75,7 +83,7 @@ function renderCards() {
 
   if (!visibles.length) {
     pagerEl.hidden = true;
-    showStatus("No hay noticias para ese filtro.");
+    showStatus(busqueda ? "No hay noticias para esa búsqueda." : "No hay noticias para ese filtro.");
     return;
   }
 
@@ -141,6 +149,23 @@ function cardEl(item) {
   body.append(meta, title, resumen, link);
   article.append(body);
   return article;
+}
+
+function normTexto(value) {
+  return String(value || "")
+    .toLowerCase()
+    .normalize("NFD")
+    .replace(/\p{M}/gu, "");
+}
+
+function pasaBusqueda(item) {
+  if (!busqueda) return true;
+  const q = normTexto(busqueda);
+  const hay = [item.titulo, item.resumen, item.fuente]
+    .filter(Boolean)
+    .map(normTexto)
+    .join(" ");
+  return hay.includes(q);
 }
 
 function pasaFiltroFecha(item, rango) {

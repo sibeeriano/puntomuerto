@@ -860,7 +860,7 @@ public class Program
         var gancho = nacional.FirstOrDefault() ?? destacadas.FirstOrDefault();
         var sb = new StringBuilder();
 
-        sb.AppendLine($"# Punto muerto — guion {DateTime.Now:yyyy-MM-dd}");
+        sb.AppendLine($"# Pistón libre — guion {DateTime.Now:yyyy-MM-dd}");
         sb.AppendLine();
         sb.AppendLine($"Semana: {rango}");
         sb.AppendLine("Borrador para refinar a mano. [OPINIÓN], [DATO] y [CTA] los completan los conductores.");
@@ -954,7 +954,7 @@ public class Program
         var promptPath = Path.Combine(_rootDir, "guion", "prompt.txt");
         var sistema = File.Exists(promptPath)
             ? File.ReadAllText(promptPath)
-            : "Completá el guion de Punto muerto. No toques [OPINIÓN], [DATO] ni [CTA].";
+            : "Completá el guion de Pistón libre. No toques [OPINIÓN], [DATO] ni [CTA].";
         var modelo = Environment.GetEnvironmentVariable("OPENAI_MODEL");
         if (string.IsNullOrWhiteSpace(modelo))
             modelo = "gpt-4o-mini";

@@ -3,26 +3,31 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Esta semana — Punto muerto</title>
+  <title>Esta semana — Pistón libre</title>
   <meta name="description" content="Lo más relevante de la semana en noticias de autos.">
   <link rel="icon" type="image/png" href="favicon.png">
   <link rel="stylesheet" href="style.css">
 </head>
-<body>
-  <header class="hero">
-    <div class="brand">
-      <img class="logo" src="logo.png" alt="Cambio manual en punto muerto" width="72" height="72">
-      <div>
-        <p class="eyebrow">Lo más relevante de la semana</p>
-        <h1>Punto muerto</h1>
-      </div>
+<body id="top">
+  <header class="site-header">
+    <div class="site-header-inner">
+      <a class="site-header-logo" href="index.html">
+        <img class="logo" src="logo.png" alt="Pistón libre" width="48" height="48">
+      </a>
+      <a class="site-header-title" href="index.html">
+        <img class="lettering" src="lettering.png" alt="Pistón Libre" width="138" height="40">
+      </a>
+      <span class="site-header-tools" aria-hidden="true"></span>
     </div>
+  </header>
+  <div class="hero">
+    <p class="eyebrow">Lo más relevante de la semana</p>
     <nav class="site-nav" aria-label="Secciones">
       <a href="index.html">Hoy</a>
       <a href="semana.html" aria-current="page">Esta semana</a>
     </nav>
     <p class="updated" id="updated">Cargando…</p>
-  </header>
+  </div>
 
   <main>
     <div class="filters">
@@ -39,14 +44,22 @@
 
   <footer>
     <div class="footer-inner">
-      <p>Temas agrupados de los últimos 7 días. Cada nota abre en su medio original.</p>
-      <div class="footer-end">
-        <a class="footer-podcast" href="podcast.html">Guiones</a>
-        <p class="credit">Desarrollado por <a href="https://thesib.dev" target="_blank" rel="noopener noreferrer">thesib.dev</a></p>
-      </div>
+      <a class="footer-key" href="podcast.html" aria-label="Iniciar sesión">
+        <svg viewBox="0 0 24 24" aria-hidden="true">
+          <path fill="currentColor" d="M8 6.6a5.4 5.4 0 1 0 4.15 8.85H15.2v2.15h2.25V15.45H19v1.7h2.2V12H12.15A5.4 5.4 0 0 0 8 6.6Zm0 3.35a2.05 2.05 0 1 1 0 4.1 2.05 2.05 0 0 1 0-4.1Z"/>
+        </svg>
+      </a>
+      <p class="footer-legal">Agregador sin fines comerciales. Las notas pertenecen a sus medios originales. Contacto para bajas: <a href="mailto:pistonlibre@gmail.com">pistonlibre@gmail.com</a></p>
+      <p class="credit">Desarrollado por <a href="https://thesib.dev" target="_blank" rel="noopener noreferrer">thesib.dev</a></p>
     </div>
   </footer>
 
+  <a class="back-to-top" href="#top" aria-label="Volver arriba">
+    <svg viewBox="0 0 24 24" aria-hidden="true">
+      <path d="M6 14.5 12 8.5 18 14.5" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+    </svg>
+  </a>
+  <script src="site.js"></script>
   <script src="semana.js"></script>
 </body>
 </html>

@@ -1,4 +1,6 @@
 const STORAGE_KEY = "pm-podcast-clave";
+const logoutEl = document.getElementById("cerrar-sesion");
+const loginEl = document.getElementById("admin-login");
 const gateEl = document.getElementById("gate");
 const claveEl = document.getElementById("clave");
 const gateErrorEl = document.getElementById("gate-error");
@@ -56,6 +58,7 @@ async function init() {
   crearEnviarEl.addEventListener("click", onCrearEnviar);
   document.getElementById("crear-volver").addEventListener("click", cerrarCrear);
   document.getElementById("crear-cerrar").addEventListener("click", cerrarCrear);
+  if (logoutEl) logoutEl.addEventListener("click", logout);
 
   if (clave) {
     const ok = await unlock(clave, true);
@@ -134,11 +137,41 @@ async function unlock(password, silent) {
 
   clave = password;
   sessionStorage.setItem(STORAGE_KEY, password);
+  if (loginEl) loginEl.hidden = true;
   gateEl.hidden = true;
   studioEl.hidden = false;
+  syncLogout();
   renderSemanas();
   await loadSemana();
   return true;
+}
+
+function syncLogout() {
+  if (logoutEl) logoutEl.hidden = !clave;
+}
+
+function logout() {
+  clave = "";
+  claveCrear = "";
+  borradorNuevo = null;
+  vista = "esqueleto";
+  sessionStorage.removeItem(STORAGE_KEY);
+  const stale = [];
+  for (let i = 0; i < sessionStorage.length; i += 1) {
+    const key = sessionStorage.key(i);
+    if (key && key.startsWith("pm-guion-")) stale.push(key);
+  }
+  stale.forEach((key) => sessionStorage.removeItem(key));
+  cerrarCrear();
+  studioEl.hidden = true;
+  if (loginEl) loginEl.hidden = false;
+  gateEl.hidden = false;
+  guionEl.replaceChildren();
+  hideStatus();
+  hideGateError();
+  claveEl.value = "";
+  syncLogout();
+  claveEl.focus();
 }
 
 function renderSemanas() {
@@ -277,6 +310,7 @@ async function onCrearEnviar() {
     }
     clave = claveCrear;
     sessionStorage.setItem(STORAGE_KEY, claveCrear);
+    syncLogout();
     sessionStorage.setItem(`pm-guion-${fecha}`, data.markdown);
     borradorNuevo = { fecha, markdown: data.markdown };
     cerrarCrear();

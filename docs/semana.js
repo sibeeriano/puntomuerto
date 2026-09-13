@@ -5,6 +5,7 @@ const updatedEl = document.getElementById("updated");
 
 let destacadas = [];
 let fuenteActiva = "Todas";
+let busqueda = (new URLSearchParams(location.search).get("q") || "").trim();
 
 init();
 
@@ -20,6 +21,10 @@ async function init() {
 
     fuenteFiltroEl.addEventListener("change", () => {
       fuenteActiva = fuenteFiltroEl.value;
+      renderCards();
+    });
+    document.addEventListener("pm-search", (ev) => {
+      busqueda = (ev.detail.q || "").trim();
       renderCards();
     });
 
@@ -48,14 +53,15 @@ function renderFuentes(items) {
 
 function renderCards() {
   const visibles = destacadas.filter((a) =>
-    fuenteActiva === "Todas" ||
-    a.fuente === fuenteActiva ||
-    (a.fuentes || []).includes(fuenteActiva)
+    (fuenteActiva === "Todas" ||
+      a.fuente === fuenteActiva ||
+      (a.fuentes || []).includes(fuenteActiva)) &&
+    pasaBusqueda(a)
   );
   gridEl.replaceChildren();
 
   if (!visibles.length) {
-    showStatus("No hay temas destacados para ese filtro.");
+    showStatus(busqueda ? "No hay temas destacados para esa búsqueda." : "No hay temas destacados para ese filtro.");
     return;
   }
 
@@ -131,6 +137,23 @@ function cardEl(item) {
 
   article.append(body);
   return article;
+}
+
+function normTexto(value) {
+  return String(value || "")
+    .toLowerCase()
+    .normalize("NFD")
+    .replace(/\p{M}/gu, "");
+}
+
+function pasaBusqueda(item) {
+  if (!busqueda) return true;
+  const q = normTexto(busqueda);
+  const hay = [item.titulo, item.resumen, item.fuente, ...(item.fuentes || [])]
+    .filter(Boolean)
+    .map(normTexto)
+    .join(" ");
+  return hay.includes(q);
 }
 
 function fechaRelativa(iso) {

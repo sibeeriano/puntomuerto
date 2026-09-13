@@ -1,4 +1,7 @@
-# Punto muerto — resumen diario de noticias
+# Pistón libre — resumen diario de noticias
+
+Nombre público del portal y del podcast. El repo, las variables y el resto
+de la infra siguen como `puntomuerto`.
 
 Consolita en C#/.NET 8 que junta noticias de autos desde varios RSS, las
 guarda en SQLite (dedup automático por `link`) y escribe un sitio estático
