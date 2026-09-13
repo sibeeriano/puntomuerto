@@ -188,7 +188,6 @@ async function generatePodcastScript({ selected, fecha, rango, extra, apiKey, mo
   const markdown = await chatCompletions({
     apiKey,
     model,
-    temperature: 0.7,
     messages: [
       { role: "system", content: prompt },
       { role: "user", content: user }
