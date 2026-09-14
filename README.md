@@ -80,31 +80,39 @@ cualquier navegador, ponen la contraseña y tocan **Crear guion con GPT**.
 Eso corre en el servidor (no en la Mac), llama a OpenAI una sola vez, guarda
 el guion cifrado en GitHub y el botón pasa a **Ver guion**.
 
-El reloj principal es esta Mac. Un LaunchAgent (`com.puntomuerto.autoblog`)
-corre `actualizar-autoblog.sh` a las 10:00, 13:00 y 16:00 (Argentina): pull,
-baja **todas** las fuentes (Autoblog incluido) y pushea si hay notas nuevas.
-La Mac tiene que estar prendida. Log: `/tmp/puntomuerto-autoblog.log`.
+El reloj principal es esta PC (Windows). Una tarea de Task Scheduler
+(`PuntomuertoAutoblog`) corre `actualizar-autoblog.ps1` a las 10:00, 13:00
+y 16:00 (Argentina): pull, baja **todas** las fuentes (Autoblog incluido) y
+pushea si hay notas nuevas. La PC tiene que estar prendida y con sesión
+iniciada. Log: `%TEMP%\puntomuerto-autoblog.log`.
 
-GitHub Actions es el respaldo por si la Mac está apagada. El cron de GitHub
+GitHub Actions es el respaldo por si la PC está apagada. El cron de GitHub
 se satura en las horas en punto, así que corre a minutos raros: 10:14,
 13:22 y 16:41 (Argentina). También se puede disparar a mano desde Actions
 (`workflow_dispatch`). Ubuntu baja todas las fuentes **menos Autoblog**
-(Cloudflare le responde 403). Si la Mac ya corrió a las :00, este job
+(Cloudflare le responde 403). Si la PC ya corrió a las :00, este job
 suele no tener nada nuevo.
 
-Para instalarlo de nuevo:
+Para instalarla (una sola vez):
 
-```bash
-cp launchd/com.puntomuerto.autoblog.plist ~/Library/LaunchAgents/
-launchctl bootstrap gui/$(id -u) ~/Library/LaunchAgents/com.puntomuerto.autoblog.plist
+```powershell
+powershell -ExecutionPolicy Bypass -File .\windows\Register-Task.ps1
 ```
 
 A mano:
 
-```bash
-./actualizar-autoblog.sh
+```powershell
+powershell -ExecutionPolicy Bypass -File .\actualizar-autoblog.ps1
 ```
 
+En la Mac quedó el LaunchAgent equivalente (`com.puntomuerto.autoblog` →
+`actualizar-autoblog.sh`). Si volvés a usarla:
+
+```bash
+cp launchd/com.puntomuerto.autoblog.plist ~/Library/LaunchAgents/
+launchctl bootstrap gui/$(id -u) ~/Library/LaunchAgents/com.puntomuerto.autoblog.plist
+./actualizar-autoblog.sh
+```
 En Vercel → Settings → Environment Variables (Production) cargá:
 
 - `OPENAI_API_KEY`
@@ -194,33 +202,28 @@ chmod +x actualizar.sh
 Adentro: `dotnet run` → `git add` de `docs/` → commit solo si hubo cambios
 → `git push`.
 
-### Mac / Linux (cron)
+### Windows (Task Scheduler)
+
+El reloj principal ya no es el cron genérico: usá
+`windows\Register-Task.ps1` (ver sección **Esta semana** arriba). Eso
+registra `PuntomuertoAutoblog` a las 10 / 13 / 16 con Autoblog incluido.
+
+Si solo querés una corrida puntual:
+
+```powershell
+powershell -ExecutionPolicy Bypass -File .\actualizar-autoblog.ps1
+```
+
+Requisitos: [.NET 8 SDK](https://dotnet.microsoft.com/download/dotnet/8.0)
+en el PATH y `git` autenticado para pushear (Git Credential Manager o `gh`).
+
+### Mac / Linux (cron, legado)
 
 ```cron
 0 8 * * * cd "/ruta/al/puntomuerto" && ./actualizar.sh >> /tmp/autos-hoy.log 2>&1
 ```
 
-Requisitos: `dotnet` en el PATH del cron (a veces hay que usar la ruta
-completa, p. ej. `$HOME/.dotnet/dotnet run` o exportar `PATH` al inicio
-del script) y `git` autenticado para pushear (SSH o credential helper).
-
-### Windows (Task Scheduler)
-
-1. Acción: *Iniciar un programa*.
-2. Programa: `dotnet.exe` (o el `actualizar.sh` vía Git Bash).
-3. Argumentos, si no usás el script: `run`.
-4. "Iniciar en": la carpeta del proyecto.
-5. Después, en la misma tarea o en un `.bat`:
-
-```bat
-cd /d C:\ruta\al\puntomuerto
-dotnet run
-git add docs\noticias.json docs\semana.json
-git diff --cached --quiet || git commit -m "chore: actualizar noticias"
-git push
-```
-
-Programala todos los días a la hora que quieras.
+Requisitos: `dotnet` en el PATH del cron y `git` autenticado para pushear.
 
 ## Fuentes para confirmar y sumar
 
