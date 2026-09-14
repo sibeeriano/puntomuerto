@@ -1,7 +1,7 @@
 {
-  "actualizado": "2026-09-13T21:42:54Z",
-  "desde": "2026-09-06",
-  "hasta": "2026-09-13",
+  "actualizado": "2026-09-14T16:40:38Z",
+  "desde": "2026-09-07",
+  "hasta": "2026-09-14",
   "destacadas": [
     {
       "titulo": "Renault presentó la pick up Niagara",
@@ -33,40 +33,52 @@
       ]
     },
     {
-      "titulo": "Toyota lanza una nueva línea de créditos y sale a competirle al Banco Nación",
-      "link": "https://eleconomista.com.ar/autos/toyota-lanza-una-nueva-linea-creditos-sale-competirle-banco-nacion-n98064",
-      "fuente": "El Economista",
-      "fecha": "2026-09-09T19:05:00Z",
-      "resumen": "La automotriz ofrece financiación ajustada por UVA con tasa de 13,9% a 5 años y cuotas desde $686.904. Además ofrece una línea especial para la Hilux SRV+ y otras alternativas TNA 0% para otros modelos.",
-      "imagen": "https://statics.eleconomista.com.ar/2026/09/crop/6aa1af5fea527__950x512.webp",
-      "menciones": 5,
+      "titulo": "Toyota Yaris Cross, Territory y Tera: cuánto gastan los SUV más vendidos de agosto",
+      "link": "https://autotest.com.ar/noticias/toyota-yaris-cross-territory-y-tera-cuanto-gastan-los-suv-mas-vendidos-de-agosto/",
+      "fuente": "Autotest",
+      "fecha": "2026-09-14T14:52:42Z",
+      "resumen": "Descubre las notables diferencias de consumo entre los SUV más vendidos en Argentina, según mediciones de Auto Test en agosto de 2026.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/Toyota-Yaris-Cross-trompa-1.jpg",
+      "menciones": 11,
       "fuentes": [
-        "Autoblog Argentina",
-        "El Economista",
-        "iProfesional"
+        "Autotest",
+        "El Economista"
       ]
     },
     {
-      "titulo": "Fernando Alonso hace visible su enfado tras el contacto con Carlos Sainz en el Gran Premio de España",
-      "link": "https://www.diariomotor.com/competicion/noticia/fernando-alonso-domingo-madring/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-09-13T19:01:38Z",
-      "resumen": "Indudablemente no fue el fin de semana soñado por ninguno de los pilotos españoles en el estreno de MadRing. Fernando Alonso sí pudo en este caso ver la bandera a cuadros en el Gran Premio de España y disfrutar del apoyo de los aficionados en la vuelta a boxes, pero sin lugar a dudas, el resultado no fue ni mucho menos el deseado , especialmente después de su contacto con Carlos Sainz en la vuelta…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/09/2295047868-6aa6d620cd9c4.jpg?class=XL",
-      "menciones": 4,
+      "titulo": "El hatchback que bajó de precio y es más barato que Toyota Yaris: cuesta $31.200.000 y tiene tasa 0 %",
+      "link": "https://autotest.com.ar/noticias/oferta-peugeot-208-allure-at-hatchback-con-tasa-0-esta-semana/",
+      "fuente": "Autotest",
+      "fecha": "2026-09-14T09:45:34Z",
+      "resumen": "Aprovechá la Peugeot Week: el 208 Allure AT baja a $31.200.000 con financiación a tasa 0% por 24 meses. Además, incluye beneficios en seguro.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/Peugeot-208-Allure.jpg",
+      "menciones": 2,
+      "fuentes": [
+        "Autotest",
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "Carlos Sainz cree que \"todo fue normal\" en su choque con Fernando Alonso, pero este le responde: \"No es la primera vez que lo hace\"",
+      "link": "https://www.motorpasion.com/formula1/fernando-alonso-senala-a-carlos-sainz-me-echo-muro-a-340-km-h-no-primera-vez-que-hace-no-se-que-a-veces-no-le-penalizan",
+      "fuente": "Motorpasión (ES)",
+      "fecha": "2026-09-14T08:01:01Z",
+      "resumen": "Carlos Sainz y Fernando Alonso tuvieron un tenso encuentro en el estreno del Gran Premio de España de Fórmula 1 en Madrid. Los dos pilotos españoles se chocaron en el primer tramo de la carrera, arruinando las opciones de puntuar para ambos. Sainz cree que fue un simple incidente inocente , pero Alonso no ha sido tan magnánimo . Fernando Alonso considera que Sainz tuvo demasiados incidentes en…",
+      "imagen": "https://i.blogs.es/b435af/sainz-alonso-madrid-f1-2026/1024_2000.jpeg",
+      "menciones": 5,
       "fuentes": [
         "Diariomotor (ES)",
         "Motorpasión (ES)"
       ]
     },
     {
-      "titulo": "Olvídate del Toyota Land Cruiser, ya sabemos que por 40.000 € menos tienes este nuevo 4x4 con reductora, bloqueos y motores diésel o PHEV",
-      "link": "https://www.diariomotor.com/noticia/tank-300-precio/",
+      "titulo": "Este nuevo SUV familiar llega a Europa en octubre para romper el mercado, un bonito 4x4 con motores gasolina, híbrido y PHEV a precio de derribo",
+      "link": "https://www.diariomotor.com/noticia/haval-h7-precio/",
       "fuente": "Diariomotor (ES)",
-      "fecha": "2026-09-13T19:00:15Z",
-      "resumen": "El segmento de los todoterrenos de verdad está más animado que nunca . Tras la renovación del Toyota Land Cruiser, han llegado a Europa nuevas alternativas como los BAW 212, ICH-X K2 y K3 o el recién presentado Galloper Gredos. En apenas un mes o mes y medio se sumará otro modelo que, posiblemente, sea el más apetecible de todos. Y es precisamente el protagonista de este artículo. Diésel o PHEV,…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/09/tank300-6aa6d7dd817bf.png?class=XL",
-      "menciones": 3,
+      "fecha": "2026-09-14T08:00:11Z",
+      "resumen": "Si el GWM Tank 300 del que te hablábamos en este otro artículo te parece excesivamente campero y poco apropiado para tu día a día, ojito a esta nueva alternativa que te traemos aquí tiene todo lo necesario para eclipsar a las opciones más demandadas del segmento D-SUV gracias a un diseño muy pintón, una gama mecánica variada y unos precios muy ajustados si tenemos en cuenta su dotación de serie.…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/09/Haval-H711-6aa6d637874b2.jpg?class=XL",
+      "menciones": 4,
       "fuentes": [
         "Diariomotor (ES)",
         "iProfesional"
@@ -86,19 +98,6 @@
       ]
     },
     {
-      "titulo": "El SUV de Renault que está encima de Duster y Boreal: ¿cuánto cuesta en septiembre 2026?",
-      "link": "https://autotest.com.ar/noticias/el-suv-de-renault-que-esta-encima-de-duster-y-boreal-cuanto-cuesta-en-septiembre-2026/",
-      "fuente": "Autotest",
-      "fecha": "2026-09-13T11:31:47Z",
-      "resumen": "Renault cuenta con una amplia oferta de SUVs en la región compuesta por Kardian, Duster, Arka y Boreal, pero por encima de todos está el Koleos, uno mediano-grande que apuesta por un mayor nivel de confort, tecnología, potencia y equipamiento. La actual generación del Koleos llegó al mercado argentino con una propuesta completamente renovada y […]",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/Renault-Koleos-2026.jpg",
-      "menciones": 13,
-      "fuentes": [
-        "Autotest",
-        "El Economista"
-      ]
-    },
-    {
       "titulo": "Lando Norris saca una pole muy apretada en un Madring imprevisible",
       "link": "https://www.diariomotor.com/competicion/noticia/lando-norris-saca-una-pole-muy-apretada-en-un-madring-imprevisible/",
       "fuente": "Diariomotor (ES)",
@@ -109,19 +108,6 @@
       "fuentes": [
         "Diariomotor (ES)",
         "Motorpasión (ES)"
-      ]
-    },
-    {
-      "titulo": "Toyota lanzó el Land Cruiser 300 híbrido en Argentina",
-      "link": "https://www.megautos.com/toyota-land-cruiser-300-2026/",
-      "fuente": "Megautos",
-      "fecha": "2026-09-12T16:19:39Z",
-      "resumen": "La evolución del todoterreno de siete plazas incorpora novedades en mecánica, tecnología y seguridad. La versión VX HEV estrena el primer sistema híbrido de la historia del modelo. La entrada Toyota lanzó el Land Cruiser 300 híbrido en Argentina aparece primero en Mega Autos .",
-      "imagen": "https://www.megautos.com/wp-content/uploads/2026/09/Land-Cruiser-300-HEV-1.jpg",
-      "menciones": 2,
-      "fuentes": [
-        "Autoblog Argentina",
-        "Megautos"
       ]
     },
     {
@@ -177,6 +163,18 @@
       ]
     },
     {
+      "titulo": "Por 2.800 € menos que la Honda ADV tienes está scooter crossover para el A2 muy equipada y no, no llega de China",
+      "link": "https://www.diariomotor.com/motos/sym-adx-300-oferta-sept/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-09-14T18:00:29Z",
+      "resumen": "No todas las alternativas más interesantes que están llegando al mercado español proceden de China. Hoy queremos hablarte de un producto muy equilibrado que se posiciona como una de las mejores propuestas si buscas en tu nuevo scooter una imagen atractiva, buenas prestaciones y una dotación completa, y todo ello a un precio muy competitivo difícil de igualar por la competencia. Calidad a gran…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/09/SYM-ADX-3001-6aa81201e7457.jpg?class=XL",
+      "menciones": 1,
+      "fuentes": [
+        "Diariomotor (ES)"
+      ]
+    },
+    {
       "titulo": "El Toyota Corolla 2026 se renueva: así es el sedán con nuevo diseño, 171 CV y más tecnología",
       "link": "https://autotest.com.ar/noticias/el-toyota-corolla-2026-se-renueva-asi-es-el-sedan-con-nuevo-diseno-171-cv-y-mas-tecnologia/",
       "fuente": "Autotest",
@@ -190,124 +188,123 @@
       ]
     },
     {
-      "titulo": "Toyota sorprende con un GR que no se patenta ni sale a la calle: 83 kilos y 215 cc solo para circuito",
-      "link": "https://autotest.com.ar/carreras/toyota-sorprende-con-un-gr-que-no-se-patenta-ni-sale-a-la-calle-83-kilos-y-215-cc-solo-para-circuito/",
+      "titulo": "Ni es el más potente ni el más rápido, pero hay \"polvos mágicos\" en este MINI de acceso con chucherías deportivas",
+      "link": "https://www.diariomotor.com/noticia/mini-1998-gt/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-09-14T17:00:09Z",
+      "resumen": "Y por polvos mágicos quiero decir que en cierto modo, recupera la esencia de lo que debería ser un utilitario deportivo accesible . Bueno, la parte de accesible vamos a omitirla porque los MINI son coches premium de tarifa elevada. Pero suscribo todo lo anterior. Este coche se llama MINI 1998 GT, y aunque está basado en un sencillo MINI Cooper C, tiene una serie de cualidades y extras que lo…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/09/mini-1998-gt-5-6aa7d539b8aee.jpg?class=XL",
+      "menciones": 1,
+      "fuentes": [
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "Red Bull identificó su mayor problema, pero aún no contempla una solución",
+      "link": "https://www.diariomotor.com/competicion/noticia/red-bull-mayor-problema-sin-solucion/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-09-14T16:47:23Z",
+      "resumen": "Tras el reciente Gran Premio de España, Laurent Mekies, jefe de Red Bull Racing, admitió que el área técnica de la escudería no ha logrado revertir la prematura degradación de neumáticos que produce el RB22, se entiende que está relacionada con el eje trasero, sin embargo, todavía no se ha podido determinar la causa exacta y por ello comparte la frustración de Max Verstappen, quien no solamente se…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/09/Max_Verstappen_Red_Bull_Spa_2026_ET_26-6aa7ea6d4dbde.jpg?class=XL",
+      "menciones": 1,
+      "fuentes": [
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "“Voy a demostrarles a los jóvenes que las personas mayores también pueden hacerlo”: dos jubilados se lanzaron a recorrer EEUU en una bestial camper 4x4",
+      "link": "https://www.motorpasion.com/furgonetas-y-caravanas/voy-a-demostrarles-a-jovenes-que-personas-mayores-tambien-pueden-hacerlo-dos-jubilados-se-lanzaron-a-recorrer-eeuu-bestial-camper-4x4",
+      "fuente": "Motorpasión (ES)",
+      "fecha": "2026-09-14T16:01:00Z",
+      "resumen": "La van life suele asociarse a preparaciones hechas con el presupuesto justo y a personas que reducen sus pertenencias al mínimo para poder vivir viajando. Pero el documental ‘ Van Life USA: The New Nomads of America’ , producido por ENDEVR, muestra que también existe otra cara más allá del “menos es más”: la de quienes después de décadas de éxito profesional, se lanzan a viajar con una camper a…",
+      "imagen": "https://i.blogs.es/f64c9f/portada-mop-1789396570719/1024_2000.jpeg",
+      "menciones": 1,
+      "fuentes": [
+        "Motorpasión (ES)"
+      ]
+    },
+    {
+      "titulo": "Más barato que un Mercedes GLA y fabricado por Volvo, es el perfecto SUV anti-premium e híbrido que acaba de actualizarse",
+      "link": "https://www.diariomotor.com/noticia/precio-volvo-xc40-2027/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-09-14T16:00:07Z",
+      "resumen": "Si algo funciona, para qué cambiarlo. Eso es lo que ha pensado Volvo con la renovación de su modelo SUV más vendido , un coche creado con el único objetivo de plantar cara a todocaminos premium como el Mercedes GLA o el Audi Q3 , pero ofreciendo mucha mejor relación calidad/precio . El Volvo XC40 se ha convertido en el modelo más vendido de la marca sueca en mercados como el español y razones no…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/09/volvo-xc40-2026-42-6aa26a8ed8004.jpg?class=XL",
+      "menciones": 2,
+      "fuentes": [
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "Renault lanza el revolucionario Trafic Furgón E-Tech Eléctrico",
+      "link": "https://autotest.com.ar/transportes/renault-lanza-el-revolucionario-trafic-furgon-e-tech-electrico/",
       "fuente": "Autotest",
-      "fecha": "2026-09-13T19:50:34Z",
-      "resumen": "El estreno competitivo del modelo está anunciado para el A1 City Grand Prix GOTSU 2026, el fin de semana del 12 y 13 de diciembre, con un circuito urbano temporal armado en la ciudad.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/toyota-sorprende-con-un-gr-que-no-se-pat-1200x740-1.jpg",
+      "fecha": "2026-09-14T15:35:09Z",
+      "resumen": "Renault avanza hacia el futuro con su nuevo Trafic Furgón E-Tech eléctrico, un vehículo que redefine el segmento de los comerciales. Sus cambios, novedades y lo que viene.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/Renault-Trafic-Furgon-E-Tech.jpg",
       "menciones": 1,
       "fuentes": [
         "Autotest"
       ]
     },
     {
-      "titulo": "Rally de Chile: Oliver Solberg vuelve a ganar y Toyota ya comparte el trono del WRC con Lancia tras su décimo título",
-      "link": "https://www.diariomotor.com/competicion/noticia/rally-de-paraguay-oliver-solberg-victoria/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-09-13T19:29:10Z",
-      "resumen": "El Rally de Chile tenía preparado un golpe de teatro de última hora para esta etapa del domingo. Elfyn Evans y Scott Martin se las prometían muy felices después de lo que estaba siendo un fin de semana casi perfecto. Al galés le valía con ser segundo y sumar algunos puntos importantes en el Super Sunday y en la Power Stage para tratar de ampliar su ventaja al frente de la general , todavía rodeada…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/09/SOLBERG12CHL26tb401-6aa6dc6b46369.jpg?class=XL",
-      "menciones": 5,
-      "fuentes": [
-        "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "Del sueño de correr en Madrid a una pesadilla: Carlos Sainz abandona en el estreno del MadRing",
-      "link": "https://www.diariomotor.com/competicion/noticia/carlos-sainz-domingo-madring/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-09-13T18:19:51Z",
-      "resumen": "Soñó durante mucho tiempo con un Gran Premio en Madrid, colaboró en llevarlo hasta allí en un circuito urbano completamente nuevo, pero lamentablemente, el debut de Carlos Sainz en el MadRing ha sido para olvidar . Ya desde la sesión de clasificación de este sábado las cosas se torcieron, quedándose a cinco milésimas de poder pasar a Q2 frente a su compañero de equipo, Alex Albon, para…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/09/carlos-sainz-williams-f1-2026-madring-1-6aa6cd03a34be.jpg?class=XL",
-      "menciones": 1,
-      "fuentes": [
-        "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "Cuela como deportivo con 223 CV y tracción trasera, pero con etiqueta ECO, fiabilidad Toyota y 6,2 l/100 km por 20.000 € es el daily premium definitivo",
-      "link": "https://www.diariomotor.com/noticia/lexus-rc-segunda-mano-oferta/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-09-13T18:03:25Z",
-      "resumen": "Por norma general tener un coche deportivo con más de 200 CV implica asumir un mantenimiento relativamente elevado y una eficiencia más bien tirando a mala. Claro, por norma general, porque hubo un día en el que los japoneses decidieron mezclar 223 CV con etiqueta ECO, un consumo combinado de 6,2 l/100 km y una pasmosa fiabilidad. Conjunto que a día de hoy puede ser nuestro por 20.000 euros .…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/09/lexus-rc-segunda-mano-oferta-portada-6aa6c991a9606.png?class=XL",
-      "menciones": 1,
-      "fuentes": [
-        "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "Desde 32 millones: las 14 pick ups que se pueden comprar por menos de 55 millones",
-      "link": "https://autotest.com.ar/noticias/desde-32-millones-las-14-pick-ups-que-se-pueden-comprar-por-menos-de-55-millones/",
-      "fuente": "Autotest",
-      "fecha": "2026-09-09T13:59:35Z",
-      "resumen": "En septiembre de 2026, el mercado argentino ofrece 14 modelos de pick ups de gama accesible, abarcando desde vehículos compactos hasta medianas con tracción 4x2. Conoce las opciones disponibles y sus características destacadas.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2024/06/Volkswagen-Saveiro-Extreme-10.jpg",
-      "menciones": 2,
-      "fuentes": [
-        "Autotest",
-        "iProfesional"
-      ]
-    },
-    {
-      "titulo": "Andrea Kimi Antonelli estrena el Madring y amplía su dominio sobre la Fórmula 1",
-      "link": "https://www.diariomotor.com/competicion/noticia/andrea-kimi-antonelli-estrena-el-madring-y-amplia-su-dominio-sobre-la-formula-1/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-09-13T17:10:40Z",
-      "resumen": "Estreno poco accidentado y sin embargo variado del Madring como sede del Gran Premio de España para la próxima década. Andrea Kimi Antonelli se benefició del infortunio ajeno y de una gestión inteligente por parte de Mercedes para poner su nombre en el primer escalafón del circuito capitalino. Max Verstappen volvió a sacar petróleo de una charca y finalizó segundo, siendo Lando Norris tercero con…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/09/andrea-kimi-antonelli-victoria-f1-madring-2026-6aa6bccf8a9ec.jpg?class=XL",
-      "menciones": 3,
-      "fuentes": [
-        "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "Lo creas o no, por 8.350 € aún puedes tener una indestructible deportiva japonesa de 92 CV y alta tecnología",
-      "link": "https://www.diariomotor.com/noticia/honda-cb750-hornet-my2027/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-09-13T16:00:47Z",
-      "resumen": "Resulta reseñable el trabajo que ha hecho Honda en el último año para completar, y abordar el lanzamiento, que parecía resistirse, de sus nuevas tetracilíndricas. Pero tan interesante como lo que sucede en la parte más alta de su gama, lo que estamos viendo en su catálogo de dos cilindros. Y pocos ejemplos mejores que el que hoy nos ocupa , el de una Honda CB750 Hornet que por 8.350 euros te…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/09/honda-cb750-hornet-my2027-6-6aa3b4ea0ab6c.jpg?class=XL",
-      "menciones": 1,
-      "fuentes": [
-        "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "La obra magna con la que Kalle Rovanperä homenajea al drifting y a la 'universidad' de los rallyes",
-      "link": "https://www.diariomotor.com/competicion/noticia/kalle-rovanpera-drifting-jyvaskyla/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-09-13T15:56:33Z",
-      "resumen": "La ciudad universitaria de Jyväskylä siempre ha sido relacionada con el Rally de Finlandia . Sus calles se llenan de vida para dar la bienvenida año tras año a los mejores pilotos del mundo dentro de los rallyes, marcando prácticamente el regreso a un bullicio que semanas antes se deja atrás aprovechando las vacaciones escolares. Sin embargo, la casa del ‘Grand Prix’ del WRC se ha teñido del humo…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/09/dream-run-kalle-rovanpera-2026-1-6aa6aaa3d1e35.jpg?class=XL",
-      "menciones": 1,
-      "fuentes": [
-        "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "F1: Franco Colapinto llegó séptimo en Madrid",
-      "link": "https://autoblog.com.ar/f1-franco-colapinto-llego-septimo-en-madrid/",
+      "titulo": "Opinión: “La tasa 0% no existe, pero el crédito UVA tampoco es tan simple como parece”",
+      "link": "https://autoblog.com.ar/opinion-la-tasa-0-no-existe-pero-el-uva-tampoco-es-tan-simple-como-parece/",
       "fuente": "Autoblog Argentina",
-      "fecha": "2026-09-13T15:39:10Z",
-      "resumen": "Gran carrera del argentino que largó noveno con su Alpine Mercedes-Benz. Triunfo de Antonelli. Leer la nota completa en Autoblog",
-      "imagen": "https://autoblog.com.ar/wp-content/uploads/2026/09/colapinto_madrid.webp",
+      "fecha": "2026-09-14T15:00:22Z",
+      "resumen": "El ministro Sturzenegger trató de \"boludos\" a quienes creen que hay \"interés cero\", aunque la alternativa tampoco es la ideal. Escribe Huberto Bourlon. Leer la nota completa en Autoblog",
+      "imagen": "https://autoblog.com.ar/wp-content/uploads/2026/10/TASA-UVA-GUISO.jpg",
       "menciones": 1,
       "fuentes": [
         "Autoblog Argentina"
       ]
     },
     {
-      "titulo": "Colapinto sumó 6 puntos en el GP de España: largó 9º y terminó 7º con el Alpine",
-      "link": "https://autotest.com.ar/carreras/colapinto-sumo-6-puntos-en-el-gp-de-espana-largo-9o-y-termino-7o-con-el-alpine/",
-      "fuente": "Autotest",
-      "fecha": "2026-09-13T15:26:02Z",
-      "resumen": "El resultado mueve dos tableros a la vez: el del campeonato, donde Antonelli sigue sumando de a 25, y el de la pelea del medio, donde cada punto entre el sexto y el décimo puesto define posiciones de equipo a fin de año.",
-      "imagen": "https://www.infobae.com/resizer/v2/4RU3AOKUWRA23L2NQP54JIEIEE.JPG?auth=fb4eebf7bfcc90d19d1c4243ae8953e4f31ffd777d8e5c2e80e9a55579a213f2&smart=true&width=1200&height=630&quality=85",
+      "titulo": "Confirmado: el camión eléctrico de Tesla llega a Europa en 2027 y ya sabemos cuánta autonomía tendrá a plena carga, moviendo 40 toneladas",
+      "link": "https://www.diariomotor.com/noticia/tesla-semi-europa-2027/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-09-14T15:00:16Z",
+      "resumen": "El Tesla Semi llegará a Europa en 2027, casi diez años después de su primera presentación. Tesla lo mostrará esta semana en la feria IAA Transportation de Hannover, donde dará más detalles de su lanzamiento, pero de momento ya sabemos que la versión europea anuncia 550 kilómetros de autonomía real con un conjunto de 40 toneladas y una recarga capaz de recuperar unos 330 kilómetros en media hora.…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/09/Tesla-Semi_interior-6aa7dc1fb66d7.jpg?class=XL",
       "menciones": 1,
       "fuentes": [
-        "Autotest"
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "¿Uno o dos rallyes para acabar el Mundial? El WRC sigue sin confirmar su propio calendario",
+      "link": "https://www.diariomotor.com/competicion/noticia/wrc-sigue-sin-confirmar-calendario/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-09-14T14:53:27Z",
+      "resumen": "13 de septiembre. La antepenúltima fecha programada del Campeonato del Mundo de Rallyes llega a su fin y lo hace con un giro de guion que unas horas antes parecía impensable. Elfyn Evans pincha en la penúltima especial del Rally de Chile y tiene que bajarse junto a su copiloto, Scott Martin para cambiar la rueda afectada. En la operación se quedan más de dos minutos y con ello, la pareja líder del…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/09/2026chile_vt_358-6aa7ed79a1cb8.jpg?class=XL",
+      "menciones": 1,
+      "fuentes": [
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "El sector automotor argentino tocó el piso, ¿por qué habría rebote en 2027?",
+      "link": "https://eleconomista.com.ar/autos/el-sector-automotor-argentino-toco-piso-por-habria-rebote-2027-n98165",
+      "fuente": "El Economista",
+      "fecha": "2026-09-14T14:17:00Z",
+      "resumen": "Una consultora privada analizó el presente y futuro de la industria automotriz local y proyecta una recuperación de la mano de algunos proyectos industriales que se ponen en marcha en los próximos meses. ¿Y si Brasil no demanda lo que Argentina fabrica?",
+      "imagen": "https://statics.eleconomista.com.ar/2026/09/crop/6aa806b5e6b67__950x512.webp",
+      "menciones": 1,
+      "fuentes": [
+        "El Economista"
+      ]
+    },
+    {
+      "titulo": "Fernando Alonso se debate entre la F1 y sus otros grandes retos: Dakar, Le Mans y una decisión pendiente",
+      "link": "https://www.diariomotor.com/competicion/noticia/fernando-alonso-decision-futuro/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-09-14T14:07:38Z",
+      "resumen": "Está lejos de ser uno de sus Grandes Premios de España favoritos, pero a buen seguro a estas horas, Fernando Alonso ya está pensando en cómo sacar el máximo partido posible de su Aston Martin una vez que el semáforo se apague para dar comienzo al Gran Premio de Azerbaiyán el próximo sábado 26 de septiembre. Allí, en las calles de Bakú se espera que de nuevo el AMR26 vuelva a sufrir en la larga…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/09/2294706856-6aa7e34f073cf.jpg?class=XL",
+      "menciones": 1,
+      "fuentes": [
+        "Diariomotor (ES)"
       ]
     }
   ]
