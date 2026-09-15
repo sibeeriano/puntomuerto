@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-15T19:00:37Z",
+  "actualizado": "2026-09-15T19:44:34Z",
   "desde": "2026-09-08",
   "hasta": "2026-09-15",
   "destacadas": [
@@ -30,20 +30,6 @@
         "Autotest",
         "Diariomotor (ES)",
         "iProfesional"
-      ]
-    },
-    {
-      "titulo": "Es el Toyota más barato: cuesta menos que un Yaris y consume solo 3 litros cada 100 km",
-      "link": "https://autotest.com.ar/noticias/es-el-toyota-mas-barato-cuesta-menos-que-un-yaris-y-consume-solo-3-litros-cada-100-km/",
-      "fuente": "Autotest",
-      "fecha": "2026-09-15T13:14:43Z",
-      "resumen": "No es novedad decir que Toyota es una de las marcas más importantes de la industria automotriz y que cuenta con modelos reconocidos mundialmente como Corolla, Hilux y RAV4. Sin embargo, en India hay un pequeño hatchback que se posiciona por debajo del Yaris, cuesta menos de 10000 dólares y exhibe una relación potencia-autonomía superior […]",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/Toyota-Glanza-el-hatch-mas-economico.jpg",
-      "menciones": 22,
-      "fuentes": [
-        "Autotest",
-        "Diariomotor (ES)",
-        "El Economista"
       ]
     },
     {
@@ -114,6 +100,19 @@
       ]
     },
     {
+      "titulo": "Es el Toyota más barato: cuesta menos que un Yaris y consume solo 3 litros cada 100 km",
+      "link": "https://autotest.com.ar/noticias/es-el-toyota-mas-barato-cuesta-menos-que-un-yaris-y-consume-solo-3-litros-cada-100-km/",
+      "fuente": "Autotest",
+      "fecha": "2026-09-15T13:14:43Z",
+      "resumen": "No es novedad decir que Toyota es una de las marcas más importantes de la industria automotriz y que cuenta con modelos reconocidos mundialmente como Corolla, Hilux y RAV4. Sin embargo, en India hay un pequeño hatchback que se posiciona por debajo del Yaris, cuesta menos de 10000 dólares y exhibe una relación potencia-autonomía superior […]",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/Toyota-Glanza-el-hatch-mas-economico.jpg",
+      "menciones": 21,
+      "fuentes": [
+        "Autotest",
+        "Diariomotor (ES)"
+      ]
+    },
+    {
       "titulo": "Confirmado: la DGT autoriza los taxis autónomos de Uber en Madrid. Se probarán ya y podrán pedirse antes de que acabe el año",
       "link": "https://www.motorpasion.com/tecnologia/confirmado-dgt-autoriza-taxis-autonomos-uber-madrid-se-probaran-podran-pedirse-acabe-ano",
       "fuente": "Motorpasión (ES)",
@@ -175,6 +174,18 @@
       "menciones": 4,
       "fuentes": [
         "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "João Neves y Fabián Ruiz, los aspirantes al Balón de Oro más humildes: van al entreno con una furgoneta de 20.000 euros y un Smart",
+      "link": "https://www.motorpasion.com/videos-de-coches/joao-neves-fabian-ruiz-aspirantes-al-balon-oro-humildes-van-al-entreno-furgoneta-20-000-euros-smart",
+      "fuente": "Motorpasión (ES)",
+      "fecha": "2026-09-15T19:00:12Z",
+      "resumen": "El Paris Saint-Germain es uno de los equipos de fútbol que mejor trata a sus estrellas cuando hablamos de sueldo. Al año ganan millones y lo normal es ver a sus jugadores llegando al entrenamiento en monturas carísimas: es un paseo de modelos Lamborghini, Bentley, Maybach... Pero tenemos dos excepciones. João Neves , se ha hecho viral por acudir al entrenamiento en una humilde furgoneta industrial…",
+      "imagen": "https://i.blogs.es/981826/neves-fabian-ruiz-coches-humildes/1024_2000.jpeg",
+      "menciones": 1,
+      "fuentes": [
+        "Motorpasión (ES)"
       ]
     },
     {
@@ -295,18 +306,6 @@
       "menciones": 1,
       "fuentes": [
         "Motorpasión (ES)"
-      ]
-    },
-    {
-      "titulo": "BMW trae de regreso la decoración Jägermeister para las 6 Horas de Fuji",
-      "link": "https://www.diariomotor.com/competicion/noticia/bmw-regreso-decoracion-jagermeister-fuji/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-09-15T16:52:25Z",
-      "resumen": "Se ha revelado que el BMW M4 GT3 número 69 de WRT, inscrito en la clase LMGT3 del WEC, participará en las 6 Horas de Fuji utilizando la recordada decoración naranja y blanco asociada a Jägermeister, el célebre licor a base de hierbas y especias que comenzó a patrocinar a BMW en el DTM en la década de 1970 y que luego pasó a ser sinónimo de éxitos al combinarse con pilotos de la talla de Niki Lauda…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/09/BMW_M4_GT3_LMGT3_WRT_6_Horas_de_Fuji_2026_4_26-6aa93e714c548.jpg?class=XL",
-      "menciones": 1,
-      "fuentes": [
-        "Diariomotor (ES)"
       ]
     }
   ]
