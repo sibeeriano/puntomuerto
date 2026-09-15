@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-15T17:40:42Z",
+  "actualizado": "2026-09-15T19:00:37Z",
   "desde": "2026-09-08",
   "hasta": "2026-09-15",
   "destacadas": [
@@ -30,6 +30,20 @@
         "Autotest",
         "Diariomotor (ES)",
         "iProfesional"
+      ]
+    },
+    {
+      "titulo": "Es el Toyota más barato: cuesta menos que un Yaris y consume solo 3 litros cada 100 km",
+      "link": "https://autotest.com.ar/noticias/es-el-toyota-mas-barato-cuesta-menos-que-un-yaris-y-consume-solo-3-litros-cada-100-km/",
+      "fuente": "Autotest",
+      "fecha": "2026-09-15T13:14:43Z",
+      "resumen": "No es novedad decir que Toyota es una de las marcas más importantes de la industria automotriz y que cuenta con modelos reconocidos mundialmente como Corolla, Hilux y RAV4. Sin embargo, en India hay un pequeño hatchback que se posiciona por debajo del Yaris, cuesta menos de 10000 dólares y exhibe una relación potencia-autonomía superior […]",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/Toyota-Glanza-el-hatch-mas-economico.jpg",
+      "menciones": 22,
+      "fuentes": [
+        "Autotest",
+        "Diariomotor (ES)",
+        "El Economista"
       ]
     },
     {
@@ -93,20 +107,7 @@
       "fecha": "2026-09-15T16:16:16Z",
       "resumen": "BYD lanza la preventa del SUV híbrido enchufable Ti7 en Argentina con tracción integral y más de 350 CV. Reserva disponible desde USD 500.",
       "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/BYD-Ti7-SUV-1.jpg",
-      "menciones": 9,
-      "fuentes": [
-        "Autotest",
-        "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "Es el Toyota más barato: cuesta menos que un Yaris y consume solo 3 litros cada 100 km",
-      "link": "https://autotest.com.ar/noticias/es-el-toyota-mas-barato-cuesta-menos-que-un-yaris-y-consume-solo-3-litros-cada-100-km/",
-      "fuente": "Autotest",
-      "fecha": "2026-09-15T13:14:43Z",
-      "resumen": "No es novedad decir que Toyota es una de las marcas más importantes de la industria automotriz y que cuenta con modelos reconocidos mundialmente como Corolla, Hilux y RAV4. Sin embargo, en India hay un pequeño hatchback que se posiciona por debajo del Yaris, cuesta menos de 10000 dólares y exhibe una relación potencia-autonomía superior […]",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/Toyota-Glanza-el-hatch-mas-economico.jpg",
-      "menciones": 21,
+      "menciones": 8,
       "fuentes": [
         "Autotest",
         "Diariomotor (ES)"
@@ -165,6 +166,18 @@
       ]
     },
     {
+      "titulo": "España obsesionada con los SUV chinos mientras Japón vende uno por 149 € al mes para quien no quiere un SUV, con etiqueta ECO y 6 l/100 km",
+      "link": "https://www.diariomotor.com/noticia/oferta-mazda-cx-30-septiembre-2026/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-09-15T20:21:16Z",
+      "resumen": "Asociar SUV a pasión por la conducción no suele ir de la mano, o al menos no es lo habitual al tratarse de un coche pensado para ir de A a B con comodidad y espacio. Algo con lo que cumplen bien los SUV chinos, pero Japón ha decidido ir más lejos al ofrecer no solo uno con una dinámica deliciosa, sino también con etiqueta ECO y 6 l/100 km por 149 euros al mes . El Mazda CX-30 es el SUV menos SUV,…",
+      "imagen": "https://www.diariomotor.com/imagenes/2024/11/2025-mazda-cx-30-1121110.jpg?class=XL",
+      "menciones": 4,
+      "fuentes": [
+        "Diariomotor (ES)"
+      ]
+    },
+    {
       "titulo": "El nuevo camión de Lidl no tiene cabina ni conductor, es 100% autónomo, y ya está repartiendo mercancía por carreteras públicas",
       "link": "https://www.diariomotor.com/noticia/camion-autonomo-lidl/",
       "fuente": "Diariomotor (ES)",
@@ -174,6 +187,18 @@
       "menciones": 1,
       "fuentes": [
         "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "Juan José, mecánico: \"Si compras neumáticos nuevos, es importante que te fijes en estos cuatro números para que no te engañen\"",
+      "link": "https://www.motorpasion.com/revision/juan-jose-mecanico-neumaticos-no-caducan-compras-nuevos-importante-que-te-fijes-estos-cuatro-numeros-no-te-enganen",
+      "fuente": "Motorpasión (ES)",
+      "fecha": "2026-09-15T18:00:12Z",
+      "resumen": "La creencia está muy extendida: un neumático con cinco, ocho o diez años podría ser motivo de rechazo en la ITV porque ha caducado . Y sin embargo, no es así. El mecánico Juan José Ebenezer aborda esta cuestión en uno de sus consejos publicados en Instagram y pone el foco en un dato que muchos desconocen, la fecha de fabricación de los neumáticos. Algo muy útil antes de comprar neumáticos para…",
+      "imagen": "https://i.blogs.es/b776ab/juan-jose-ebenezer-neumaticos-no-caducan/1024_2000.jpeg",
+      "menciones": 1,
+      "fuentes": [
+        "Motorpasión (ES)"
       ]
     },
     {
@@ -237,6 +262,18 @@
       ]
     },
     {
+      "titulo": "Llegó al mercado la renovación de una de las motos más vendidas",
+      "link": "https://eleconomista.com.ar/autos/llego-mercado-renovacion-una-motos-mas-vendidas-n98199",
+      "fuente": "El Economista",
+      "fecha": "2026-09-15T17:06:00Z",
+      "resumen": "Gilera Argentina presenta la nueva Smash con sistema Freno Fácil Frontal. ¿Qué cambios incorpora y cuáles son sus precios?",
+      "imagen": "https://statics.eleconomista.com.ar/2026/09/crop/6aa97c167a52e__950x512.webp",
+      "menciones": 1,
+      "fuentes": [
+        "El Economista"
+      ]
+    },
+    {
       "titulo": "Esta aventurera para el A2 tiene casi 400km de autonomía y uno de los frontales más llamativos del mercado por 6.399€",
       "link": "https://www.diariomotor.com/motos/brixton-crossfire-500-storr/",
       "fuente": "Diariomotor (ES)",
@@ -270,42 +307,6 @@
       "menciones": 1,
       "fuentes": [
         "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "David Cantero, presentador, harto del \"racismo\" camper de los ayuntamientos: \"No entienden una mierda y no dejan de poner trabas y barreras\"",
-      "link": "https://www.motorpasion.com/furgonetas-y-caravanas/david-cantero-presentador-harto-racismo-camper-ayuntamientos-no-entienden-mierda-no-dejan-poner-trabas-barreras",
-      "fuente": "Motorpasión (ES)",
-      "fecha": "2026-09-15T16:00:14Z",
-      "resumen": "\"Llevo más de 20 años viajando así con mi familia y cada vez es más difícil\" : así empieza David Cantero su denuncia en un post de Instagram . Uno de los presentadores de informativos más conocidos de España, también es un veterano autocaravanista. Habla de persecución, de discriminación y de falta de respeto hacia este tipo de turismo por parte de los consistorios españoles. Es buen ejemplo del…",
-      "imagen": "https://i.blogs.es/7a7d40/david-cantero-denuncia-autocaravanas/1024_2000.jpeg",
-      "menciones": 1,
-      "fuentes": [
-        "Motorpasión (ES)"
-      ]
-    },
-    {
-      "titulo": "El Ferrari 296 más radical que se puede comprar tiene este diseño, un motor de 730 CV y es 3 segundos más rápido que el de competición",
-      "link": "https://www.diariomotor.com/noticia/ferrari-296-modificata/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-09-15T16:00:11Z",
-      "resumen": "Muchos creen que no hay más espacio ni lugar para creaciones por encima de cualquier Ferrari , Lamborghini o McLaren en lo que a deportividad, prestaciones y radicalidad se refiere, pero la realidad es que existe todo un mundo de posibilidades cuando se trata de extraer aún más jugo de cada máquina, siempre y cuando el cliente esté dispuesto a pasar por caja. La creación de la siguiente galería de…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/09/Ferrari-296-Modificata-7-6aa927301351a.jpg?class=XL",
-      "menciones": 1,
-      "fuentes": [
-        "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "Los arqueólogos han descubierto cuatro metros debajo de Zaragoza un puente romano que puede cambiar para siempre el mapa de la ciudad",
-      "link": "https://www.motorpasion.com/tecnologia/arqueologos-han-descubierto-cuatro-metros-debajo-zaragoza-puente-romano-que-puede-cambiar-para-siempre-mapa-ciudad",
-      "fuente": "Motorpasión (ES)",
-      "fecha": "2026-09-15T15:27:58Z",
-      "resumen": "Las obras de reurbanización del entorno de la plaza de San Miguel y el Coso, en pleno centro de Zaragoza, han sacado recientemente a la luz una estructura romana que llevaba siglos oculta bajo la ciudad. Hablamos de parte de una arcada situada a unos cuatro metros de profundidad y construida con opus caementicium , el hormigón característico de la ingeniería romana. En concreto, los arqueólogos…",
-      "imagen": "https://i.blogs.es/af066d/puente-romano/1024_2000.jpeg",
-      "menciones": 1,
-      "fuentes": [
-        "Motorpasión (ES)"
       ]
     }
   ]
