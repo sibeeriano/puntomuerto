@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-15T16:01:03Z",
+  "actualizado": "2026-09-15T17:40:42Z",
   "desde": "2026-09-08",
   "hasta": "2026-09-15",
   "destacadas": [
@@ -33,20 +33,6 @@
       ]
     },
     {
-      "titulo": "Es el Toyota más barato: cuesta menos que un Yaris y consume solo 3 litros cada 100 km",
-      "link": "https://autotest.com.ar/noticias/es-el-toyota-mas-barato-cuesta-menos-que-un-yaris-y-consume-solo-3-litros-cada-100-km/",
-      "fuente": "Autotest",
-      "fecha": "2026-09-15T13:14:43Z",
-      "resumen": "No es novedad decir que Toyota es una de las marcas más importantes de la industria automotriz y que cuenta con modelos reconocidos mundialmente como Corolla, Hilux y RAV4. Sin embargo, en India hay un pequeño hatchback que se posiciona por debajo del Yaris, cuesta menos de 10000 dólares y exhibe una relación potencia-autonomía superior […]",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/Toyota-Glanza-el-hatch-mas-economico.jpg",
-      "menciones": 23,
-      "fuentes": [
-        "Autotest",
-        "Diariomotor (ES)",
-        "El Economista"
-      ]
-    },
-    {
       "titulo": "El Banco Provincia también lanzó créditos UVA para la compra de autos nuevos y usados",
       "link": "https://autoblog.com.ar/el-banco-provincia-tambien-lanzo-creditos-uva-para-la-compra-de-autos-nuevos-y-usados/",
       "fuente": "Autoblog Argentina",
@@ -75,27 +61,52 @@
       ]
     },
     {
-      "titulo": "Peugeot lanzó la preventa de la Partner Rapid en Argentina",
-      "link": "https://www.megautos.com/peugeot-partner-rapid-precio-preventa/",
-      "fuente": "Megautos",
-      "fecha": "2026-09-13T16:11:42Z",
-      "resumen": "El utilitario derivado de la Fiorino brasileña ya tiene precio en el país, donde está disponible inicialmente a través del plan de ahorro de la marca. La entrada Peugeot lanzó la preventa de la Partner Rapid en Argentina aparece primero en Mega Autos .",
-      "imagen": "https://www.megautos.com/wp-content/uploads/2026/08/ALE_0055.jpg",
-      "menciones": 3,
+      "titulo": "Land Rover Defender pick-up: volverá la versión más esperada y la fabricaría la dueña de RAM y Jeep",
+      "link": "https://autotest.com.ar/offroad/land-rover-defender-pick-up-volvera-la-version-mas-esperada-y-la-fabricaria-la-duena-de-ram-y-jeep/",
+      "fuente": "Autotest",
+      "fecha": "2026-09-15T17:20:48Z",
+      "resumen": "Lo concreto es que el arancel del 25 por ciento obligó a una decisión productiva que, en condiciones normales, ningún grupo automotor tomaría.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/land-rover-defender-pick-up-volver-la-ve-1200x740-1.jpg",
+      "menciones": 2,
       "fuentes": [
-        "Autoblog Argentina",
-        "iProfesional",
-        "Megautos"
+        "Autotest",
+        "Diariomotor (ES)"
       ]
     },
     {
-      "titulo": "Desde 22.800 € a estreno, el SUV eléctrico \"Made in Spain\" que te hará dudar de BYD, Kia y Renault tiene 475 litros de enorme maletero y hace 437 km sin recargar",
-      "link": "https://www.diariomotor.com/noticia/oferta-skoda-epiq-urban/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-09-15T13:00:03Z",
-      "resumen": "Si te digo que hay un SUV eléctrico de 211 CV, con 437 kilómetros de autonomía y 475 litros de maletero por 22.800 euros que no viene de China, ¿te lo creerías? Pues efectivamente, deberías. Hablo del nuevo Skoda Epiq y no solo es europeo, sino que se fabrica en España. Un SUV eléctrico pequeño para moverse en el día a día, con un precio razonable (aunque no es el más barato) y muchos de los…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/05/skoda-epiq-2026-132-6a0db7a3df37e.jpg?class=XL",
+      "titulo": "Genesis X Skorpio: el brutal todoterreno de 1.115 CV que parece preparado para el apocalipsis",
+      "link": "https://autotest.com.ar/offroad/genesis-x-skorpio-el-brutal-todoterreno-de-1-115-cv-que-parece-preparado-para-el-apocalipsis/",
+      "fuente": "Autotest",
+      "fecha": "2026-09-15T16:35:45Z",
+      "resumen": "Adentro, la cabina es minimalista y no tiene concesiones: jaula antivuelco, butacas tipo competición, volante deportivo y pantallas digitales de instrumentación.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/genesis-x-skorpio-el-brutal-todoterreno-1200x740-1.jpg",
+      "menciones": 2,
+      "fuentes": [
+        "Autotest",
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "BYD anuncia la preventa de un nuevo SUV híbrido enchufable: 350 CV y más de 1.000 km de autonomía y",
+      "link": "https://autotest.com.ar/noticias/byd-anuncia-la-preventa-de-un-nuevo-suv-hibrido-enchufable-350-cv-y-mas-de-1-000-km-de-autonomia-y/",
+      "fuente": "Autotest",
+      "fecha": "2026-09-15T16:16:16Z",
+      "resumen": "BYD lanza la preventa del SUV híbrido enchufable Ti7 en Argentina con tracción integral y más de 350 CV. Reserva disponible desde USD 500.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/BYD-Ti7-SUV-1.jpg",
       "menciones": 9,
+      "fuentes": [
+        "Autotest",
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "Es el Toyota más barato: cuesta menos que un Yaris y consume solo 3 litros cada 100 km",
+      "link": "https://autotest.com.ar/noticias/es-el-toyota-mas-barato-cuesta-menos-que-un-yaris-y-consume-solo-3-litros-cada-100-km/",
+      "fuente": "Autotest",
+      "fecha": "2026-09-15T13:14:43Z",
+      "resumen": "No es novedad decir que Toyota es una de las marcas más importantes de la industria automotriz y que cuenta con modelos reconocidos mundialmente como Corolla, Hilux y RAV4. Sin embargo, en India hay un pequeño hatchback que se posiciona por debajo del Yaris, cuesta menos de 10000 dólares y exhibe una relación potencia-autonomía superior […]",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/Toyota-Glanza-el-hatch-mas-economico.jpg",
+      "menciones": 21,
       "fuentes": [
         "Autotest",
         "Diariomotor (ES)"
@@ -128,6 +139,19 @@
       ]
     },
     {
+      "titulo": "Peugeot lanzó la preventa de la Partner Rapid en Argentina",
+      "link": "https://www.megautos.com/peugeot-partner-rapid-precio-preventa/",
+      "fuente": "Megautos",
+      "fecha": "2026-09-13T16:11:42Z",
+      "resumen": "El utilitario derivado de la Fiorino brasileña ya tiene precio en el país, donde está disponible inicialmente a través del plan de ahorro de la marca. La entrada Peugeot lanzó la preventa de la Partner Rapid en Argentina aparece primero en Mega Autos .",
+      "imagen": "https://www.megautos.com/wp-content/uploads/2026/08/ALE_0055.jpg",
+      "menciones": 2,
+      "fuentes": [
+        "iProfesional",
+        "Megautos"
+      ]
+    },
+    {
       "titulo": "Lando Norris saca una pole muy apretada en un Madring imprevisible",
       "link": "https://www.diariomotor.com/competicion/noticia/lando-norris-saca-una-pole-muy-apretada-en-un-madring-imprevisible/",
       "fuente": "Diariomotor (ES)",
@@ -138,6 +162,78 @@
       "fuentes": [
         "Diariomotor (ES)",
         "Motorpasión (ES)"
+      ]
+    },
+    {
+      "titulo": "El nuevo camión de Lidl no tiene cabina ni conductor, es 100% autónomo, y ya está repartiendo mercancía por carreteras públicas",
+      "link": "https://www.diariomotor.com/noticia/camion-autonomo-lidl/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-09-15T18:00:22Z",
+      "resumen": "No tiene cabina, volante ni sitio para un conductor, pero ya es una realidad circulando por carreteras públicas. Lidl ha empezado a utilizar en Alemania un camión eléctrico 100% autónomo para transportar mercancías entre uno de sus centros logísticos y una tienda, de momento bajo circunstancias muy concretas. El camión sin cabina de Lidl ya trabaja en Alemania El proyecto ha comenzado en…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/09/camion-autonomo-lidl_ai-gen-6aa92e087ff27.jpg?class=XL",
+      "menciones": 1,
+      "fuentes": [
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "Pasar la ITV en Japón es demasiado caro. Tanto que jubilan los coches con cinco años, los trocean y los mandan en contenedores a países más pobres",
+      "link": "https://www.motorpasion.com/industria/pasar-itv-japon-demasiado-caro-que-jubilan-coches-cinco-anos-trocean-mandan-contenedores-a-paises-pobres",
+      "fuente": "Motorpasión (ES)",
+      "fecha": "2026-09-15T17:30:13Z",
+      "resumen": "Una grúa baja el contenedor del camión en el polvoriento patio de una nave bajo el sol de justicia de los Emiratos Árabes Unidos (EAU) . Dos operarios, sin protección alguna, abren con cierta dificultad las puertas del contenedor. Dentro, varios Nissan y Toyota troceados para poder así llenar el contenedor hasta arriba. \"Es chatarra\" , pensé. Pero no, son coches muy recientes, bastante nuevos y…",
+      "imagen": "https://i.blogs.es/5a3bf9/sin-titulo-1/1024_2000.jpeg",
+      "menciones": 1,
+      "fuentes": [
+        "Motorpasión (ES)"
+      ]
+    },
+    {
+      "titulo": "Primer vistazo a la Ford F-150 2027: nuevo motor, remolque con BlueCruise, edición Carhartt y paquetes off-road",
+      "link": "https://autotest.com.ar/offroad/primer-vistazo-a-la-ford-f-150-2027-nuevo-motor-remolque-con-bluecruise-edicion-carhartt-y-paquetes-off-road/",
+      "fuente": "Autotest",
+      "fecha": "2026-09-15T17:20:48Z",
+      "resumen": "La Tremor es el paquete off-road más racional: suspensión reforzada, protecciones y equipo pensado para trabajar entre semana y meterse a la tierra los fines de semana.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/primer-vistazo-a-la-ford-f-150-2027-nuev-1200x740-1.jpg",
+      "menciones": 1,
+      "fuentes": [
+        "Autotest"
+      ]
+    },
+    {
+      "titulo": "Primera prueba de manejo del prototipo Chrysler ME Four-Twelve: rival del Ferrari Enzo con 850 HP",
+      "link": "https://autotest.com.ar/carreras/primera-prueba-de-manejo-del-prototipo-chrysler-me-four-twelve-rival-del-ferrari-enzo-con-850-hp/",
+      "fuente": "Autotest",
+      "fecha": "2026-09-15T17:20:48Z",
+      "resumen": "El motor central es una elección de superdeportivo: ubicar el bloque detrás del habitáculo y adelante del eje trasero mejora el reparto de pesos y la dinámica.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/primera-prueba-de-manejo-del-prototipo-c-1200x740-1.jpg",
+      "menciones": 1,
+      "fuentes": [
+        "Autotest"
+      ]
+    },
+    {
+      "titulo": "Chevrolet Corvette Grand Sport: acelera de 0 a 96 km/h en 2,7 segundos y cuesta USD 100.000 menos que el ZR1",
+      "link": "https://autotest.com.ar/noticias/chevrolet-corvette-grand-sport-acelera-de-0-a-96-km-h-en-2-7-segundos-y-cuesta-usd-100-000-menos-que-el-zr1/",
+      "fuente": "Autotest",
+      "fecha": "2026-09-15T17:20:48Z",
+      "resumen": "Con los neumáticos opcionales Michelin Pilot Sport Cup 2 R, de 275/20 adelante y 345/21 atrás, la salida desde parado es brutal.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/chevrolet-corvette-grand-sport-acelera-d-1200x740-1.jpg",
+      "menciones": 1,
+      "fuentes": [
+        "Autotest"
+      ]
+    },
+    {
+      "titulo": "Mercedes-Benz E450: el sedán de 375 CV que venció al Audi A6, BMW 540i y Genesis G80",
+      "link": "https://autotest.com.ar/noticias/mercedes-benz-e450-el-sedan-de-375-cv-que-vencio-al-audi-a6-bmw-540i-y-genesis-g80/",
+      "fuente": "Autotest",
+      "fecha": "2026-09-15T17:20:48Z",
+      "resumen": "El Audi y el Genesis no recurren a este sistema en las versiones comparadas, aunque sus cajas automáticas priorizan el confort por sobre la rapidez pura de un doble embrague.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/mercedes-benz-e450-el-sed-n-de-375-cv-qu-1200x740-1.jpg",
+      "menciones": 1,
+      "fuentes": [
+        "Autotest"
       ]
     },
     {
@@ -153,6 +249,18 @@
       ]
     },
     {
+      "titulo": "Elon Musk quería electrificar el mundo con Tesla y paneles solares. Ahora quema gas natural como si no hubiera un mañana para no perder la carrera de la IA",
+      "link": "https://www.motorpasion.com/tesla/elon-musk-queria-electrificar-mundo-tesla-paneles-solares-ahora-quema-gas-natural-como-no-hubiera-manana-para-no-perder-carrera-ia",
+      "fuente": "Motorpasión (ES)",
+      "fecha": "2026-09-15T17:00:12Z",
+      "resumen": "En Southaven, Misisipi, 46 turbinas de gas natural ruegen día y noche para alimentar Colossus 2 , el segundo c entro de datos de xAI , ubicado justo al otro lado de la frontera estatal, en Memphis, Tennessee. Ninguna de estas turbinas está sujeta a control de emisiones atmosféricas. Y pensar que no hace tanto tiempo, Elon Musk vía Tesla se presentaba como el mayor defensor del medio ambiente . La…",
+      "imagen": "https://i.blogs.es/8fae18/elon-musk/1024_2000.jpeg",
+      "menciones": 1,
+      "fuentes": [
+        "Motorpasión (ES)"
+      ]
+    },
+    {
       "titulo": "BMW trae de regreso la decoración Jägermeister para las 6 Horas de Fuji",
       "link": "https://www.diariomotor.com/competicion/noticia/bmw-regreso-decoracion-jagermeister-fuji/",
       "fuente": "Diariomotor (ES)",
@@ -162,6 +270,18 @@
       "menciones": 1,
       "fuentes": [
         "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "David Cantero, presentador, harto del \"racismo\" camper de los ayuntamientos: \"No entienden una mierda y no dejan de poner trabas y barreras\"",
+      "link": "https://www.motorpasion.com/furgonetas-y-caravanas/david-cantero-presentador-harto-racismo-camper-ayuntamientos-no-entienden-mierda-no-dejan-poner-trabas-barreras",
+      "fuente": "Motorpasión (ES)",
+      "fecha": "2026-09-15T16:00:14Z",
+      "resumen": "\"Llevo más de 20 años viajando así con mi familia y cada vez es más difícil\" : así empieza David Cantero su denuncia en un post de Instagram . Uno de los presentadores de informativos más conocidos de España, también es un veterano autocaravanista. Habla de persecución, de discriminación y de falta de respeto hacia este tipo de turismo por parte de los consistorios españoles. Es buen ejemplo del…",
+      "imagen": "https://i.blogs.es/7a7d40/david-cantero-denuncia-autocaravanas/1024_2000.jpeg",
+      "menciones": 1,
+      "fuentes": [
+        "Motorpasión (ES)"
       ]
     },
     {
@@ -183,128 +303,6 @@
       "fecha": "2026-09-15T15:27:58Z",
       "resumen": "Las obras de reurbanización del entorno de la plaza de San Miguel y el Coso, en pleno centro de Zaragoza, han sacado recientemente a la luz una estructura romana que llevaba siglos oculta bajo la ciudad. Hablamos de parte de una arcada situada a unos cuatro metros de profundidad y construida con opus caementicium , el hormigón característico de la ingeniería romana. En concreto, los arqueólogos…",
       "imagen": "https://i.blogs.es/af066d/puente-romano/1024_2000.jpeg",
-      "menciones": 1,
-      "fuentes": [
-        "Motorpasión (ES)"
-      ]
-    },
-    {
-      "titulo": "De Lamborghini Aventador SVJ a Ferrari Purosangue: los autos de lujo que delataron al ladrón de cripto más buscado",
-      "link": "https://autotest.com.ar/noticias/de-lamborghini-aventador-svj-a-ferrari-purosangue-los-autos-de-lujo-que-delataron-al-ladron-de-cripto-mas-buscado/",
-      "fuente": "Autotest",
-      "fecha": "2026-09-15T15:26:11Z",
-      "resumen": "El caso Lam se suma a una tendencia creciente de causas federales en las que la cripto robada se canaliza hacia bienes de lujo difíciles de rastrear si no hay documentación clara.",
-      "imagen": "https://hips.hearstapps.com/hmg-prod/images/821e4f1a-e237-4cbc-acda-1c1372b47367.jpg?crop=1xw:0.512xh;0xw,0.236xh&resize=1200:*",
-      "menciones": 1,
-      "fuentes": [
-        "Autotest"
-      ]
-    },
-    {
-      "titulo": "Daimler Truck celebra los 130 años de camiones en la IAA Transportation 2026",
-      "link": "https://autotest.com.ar/transportes/daimler-truck-celebra-130-anos-camiones-iaa-transportation-2026/",
-      "fuente": "Autotest",
-      "fecha": "2026-09-15T15:04:37Z",
-      "resumen": "Daimler Truck presenta innovaciones en áreas clave del negocio del transporte. Camiones eléctricos a batería: claro liderazgo de mercado en camiones libres de CO₂ en Europa, más de 160 millones de kilómetros recorridos por clientes con el eActros 600, debut público del eActros Lowliner eléctrico y el creador de contenido y camionero profesional “Elektrotrucker” inicia […]",
-      "imagen": "https://transportemundial.com.ar/wp-content/uploads/2026/09/daimler-truck-130-anos3.jpg",
-      "menciones": 1,
-      "fuentes": [
-        "Autotest"
-      ]
-    },
-    {
-      "titulo": "El SUV 4×4 de Mitsubishi que hereda el ADN del Montero: 7 Dakar, más barato que el RAV4 y desembarca en Europa",
-      "link": "https://autotest.com.ar/offroad/el-suv-4x4-de-mitsubishi-que-hereda-el-adn-del-montero-7-dakar-mas-barato-que-el-rav4-y-desembarca-en-europa/",
-      "fuente": "Autotest",
-      "fecha": "2026-09-11T11:00:33Z",
-      "resumen": "Es la diferencia entre un AWD de uso rutero, que manda torque al eje trasero cuando detecta patinamiento, y un 4x4 con capacidades reales fuera del asfalto.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/el-suv-4x4-de-mitsubishi-que-hereda-el-a-1200x740-1.jpg",
-      "menciones": 3,
-      "fuentes": [
-        "Autotest",
-        "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "Condujo solo 30 minutos su Ferrari de 4 millones: fue lo que que tardó la policía en incautarle el coche. Londres se harta de los millonarios que se sienten impunes",
-      "link": "https://www.motorpasion.com/seguridad/condujo-solo-30-minutos-su-ferrari-4-millones-fue-que-que-tardo-policia-incautarle-coche-londres-se-harta-millonarios-que-se-sienten-impunes",
-      "fuente": "Motorpasión (ES)",
-      "fecha": "2026-09-15T15:00:13Z",
-      "resumen": "Llevaba únicamente media hora conduciendo su exclusivo y carísimo Ferrari Monza SP2 cuando agentes de la policía de Londres se lo confiscaron . Su propietario, llegado a Reino Unido el día anterior, circulaba con semejante bestia de más de 800 CV sin seguro y sin carnet apto. Es el gran protagonista de la última gran redada de la Policía Metropolitana para cazar coches sin asegurar y conductores…",
-      "imagen": "https://i.blogs.es/113519/ferrari_monza_incautado-londres/1024_2000.jpeg",
-      "menciones": 1,
-      "fuentes": [
-        "Motorpasión (ES)"
-      ]
-    },
-    {
-      "titulo": "Lo último en scooter de rueda alta en 125 cuesta menos de 2.200 €, todo un chollo con ABS, control de tracción y Full LED perfecto para iniciarse",
-      "link": "https://www.diariomotor.com/motos/voge-sr16-air/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-09-15T15:00:07Z",
-      "resumen": "¿Buscando un scooter accesible de rueda alta con el que moverte en el día a día pero la situación financiera no es la más apropiada? Seguramente el último de lanzamiento de Voge en España sea perfecto por su bajo precio , alta dotación de serie y una estética muy agradable. Con Top Case de regalo Control de tracción TCS Hueco bajo el asiento amplio Estética elegante La nueva Voge SR16 Air llega en…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/09/Voge-SR16-Air6-6aa930d37fb47.jpg?class=XL",
-      "menciones": 1,
-      "fuentes": [
-        "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "Audi apunta a vender más acciones de su escudería, pero sin ceder el control del proyecto",
-      "link": "https://www.diariomotor.com/competicion/noticia/audi-vender-mas-acciones-escuderia/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-09-15T14:20:13Z",
-      "resumen": "No es un secreto que el Grupo Volkswagen atraviesa por una complicada situación económica y en el deporte motor ya se ha visto como los recursos para Porsche Motorsport se han recortado, lo que también ocurrirá con Audi Sport, con la salvedad de que la marca de los cuatro aros tiene un único proyecto entre manos que es su participación en la Fórmula 1. Al respecto Gernot Dollner, director general…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/09/Audi_F1_Team_Formula_1_S_2026_FL3_26-6aa92f8a8b459.jpg?class=XL",
-      "menciones": 1,
-      "fuentes": [
-        "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "El CEO global de Renault pidió cuidar la producción de autos con una política especial",
-      "link": "https://www.iprofesional.com/autos/464253-el-ceo-global-de-renault-pidio-cuidar-la-produccion-de-autos-local",
-      "fuente": "iProfesional",
-      "fecha": "2026-09-11T10:10:00Z",
-      "resumen": "Durante la presentación mundial de la camioneta Niagara, el número, Fabrice Cambolive, se refirió a la apertura del mercado y la situación de las fábricas (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
-      "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/09/625521.jpg",
-      "menciones": 2,
-      "fuentes": [
-        "Autoblog Argentina",
-        "iProfesional"
-      ]
-    },
-    {
-      "titulo": "Renault actualizará el Arkana con nueva plataforma y una novedad: ¿cuándo llega?",
-      "link": "https://autotest.com.ar/noticias/renault-actualizara-el-arkana-con-nueva-plataforma-y-una-novedad-cuando-llega/",
-      "fuente": "Autotest",
-      "fecha": "2026-09-15T14:01:52Z",
-      "resumen": "Renault presentará la segunda generación del Arkana, el SUV Coupé que tendrá base técnica de Geely y sistema híbrido enchufable flex. La marca lo producirá en São José dos Pinhais, en Brasil, con la plataforma GEA, la misma arquitectura empleada por el EX5, lo que explica desde un principio por qué no será igual al […]",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/Renault-Arkana-renovacion.jpg",
-      "menciones": 1,
-      "fuentes": [
-        "Autotest"
-      ]
-    },
-    {
-      "titulo": "El Land Rover Defender volverá a tener versión pick-up, pero lo fabricará la dueña de Jeep y RAM para esquivar un arancel del 25%",
-      "link": "https://www.diariomotor.com/noticia/land-rover-defender-pick-up-stellantis/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-09-15T14:00:48Z",
-      "resumen": "Land Rover está preparando un nuevo Defender pick-up específico para Estados Unidos y recurrirá a un socio tan lógico -industrialmente- como sorprendente -comercialmente-. Ni más ni menos que Stellantis, propietaria de Jeep y RAM, dos potenciales rivales directos del nuevo Defender pick-up. El Defender regresará a sus raíces, pero con ADN americano El Defender actual es un SUV de lujo, pero el…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/09/land-Rover-defender-pick-up-ai-gen-6aa92a0c31514.jpg?class=XL",
-      "menciones": 1,
-      "fuentes": [
-        "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "Stella Li, vicepresidenta ejecutiva de BYD: “El próximo año tendremos nuestro primer coche con baterías de estado sólido”",
-      "link": "https://www.motorpasion.com/coches-electricos/stella-li-vicepresidenta-ejecutiva-byd-proximo-ano-tendremos-nuestro-primer-coche-baterias-estado-solido",
-      "fuente": "Motorpasión (ES)",
-      "fecha": "2026-09-15T14:00:13Z",
-      "resumen": "Los años pasan y, a pesar de las promesas que se hacen desde hace tiempo, ningún fabricante ha sido capaz de llevar a producción las baterías de estado sólido . Hasta ahora. BYD acaba de un paso importante en la carrera por lanzar antes que nadie esta tecnología: Stella Li, su vicepresidenta ejecutiva, asegura que el primer BYD con baterías de estado sólido llegará en 2027. “Las baterías son una…",
-      "imagen": "https://i.blogs.es/c262af/byd-1/1024_2000.jpeg",
       "menciones": 1,
       "fuentes": [
         "Motorpasión (ES)"
