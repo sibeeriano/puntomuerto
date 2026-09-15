@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-15T13:00:51Z",
+  "actualizado": "2026-09-15T16:01:03Z",
   "desde": "2026-09-08",
   "hasta": "2026-09-15",
   "destacadas": [
@@ -19,13 +19,27 @@
       ]
     },
     {
-      "titulo": "Precio del Chery Tiggo 4 Hybrid: el SUV de 160 CV que cuesta menos que un Toyota Yaris Cross",
-      "link": "https://autotest.com.ar/noticias/precio-del-chery-tiggo-4-hybrid-el-suv-de-160-cv-que-cuesta-menos-que-un-toyota-yaris-cross/",
+      "titulo": "Olvídate del Toyota Land Cruiser, ya sabemos que por 40.000 € menos tienes este nuevo 4×4 con reductora, bloqueos y motores diésel o PHEV",
+      "link": "https://autotest.com.ar/offroad/olvidate-del-toyota-land-cruiser-ya-sabemos-que-por-40-000-menos-tienes-este-nuevo-4x4-con-reductora-bloqueos-y-motores-diesel-o-phev/",
       "fuente": "Autotest",
-      "fecha": "2026-09-15T11:14:26Z",
-      "resumen": "Con un precio de USD 32.500, el Chery Tiggo 4 Hybrid ofrece 160 CV, siete airbags y una completa gama de equipamientos en Argentina.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/04/chery-tiggo4-1.jpg",
-      "menciones": 20,
+      "fecha": "2026-09-15T14:41:08Z",
+      "resumen": "Todavía no se conocen las cifras finales de potencia y autonomía para España, ni cuántas versiones llegarán con los bloqueos de diferencial incluidos de serie.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/olv-date-del-toyota-land-cruiser-ya-sabe-1200x740-1.jpg",
+      "menciones": 4,
+      "fuentes": [
+        "Autotest",
+        "Diariomotor (ES)",
+        "iProfesional"
+      ]
+    },
+    {
+      "titulo": "Es el Toyota más barato: cuesta menos que un Yaris y consume solo 3 litros cada 100 km",
+      "link": "https://autotest.com.ar/noticias/es-el-toyota-mas-barato-cuesta-menos-que-un-yaris-y-consume-solo-3-litros-cada-100-km/",
+      "fuente": "Autotest",
+      "fecha": "2026-09-15T13:14:43Z",
+      "resumen": "No es novedad decir que Toyota es una de las marcas más importantes de la industria automotriz y que cuenta con modelos reconocidos mundialmente como Corolla, Hilux y RAV4. Sin embargo, en India hay un pequeño hatchback que se posiciona por debajo del Yaris, cuesta menos de 10000 dólares y exhibe una relación potencia-autonomía superior […]",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/Toyota-Glanza-el-hatch-mas-economico.jpg",
+      "menciones": 23,
       "fuentes": [
         "Autotest",
         "Diariomotor (ES)",
@@ -114,19 +128,6 @@
       ]
     },
     {
-      "titulo": "Este nuevo SUV familiar llega a Europa en octubre para romper el mercado, un bonito 4x4 con motores gasolina, híbrido y PHEV a precio de derribo",
-      "link": "https://www.diariomotor.com/noticia/haval-h7-precio/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-09-14T08:00:11Z",
-      "resumen": "Si el GWM Tank 300 del que te hablábamos en este otro artículo te parece excesivamente campero y poco apropiado para tu día a día, ojito a esta nueva alternativa que te traemos aquí tiene todo lo necesario para eclipsar a las opciones más demandadas del segmento D-SUV gracias a un diseño muy pintón, una gama mecánica variada y unos precios muy ajustados si tenemos en cuenta su dotación de serie.…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/09/Haval-H711-6aa6d637874b2.jpg?class=XL",
-      "menciones": 4,
-      "fuentes": [
-        "Diariomotor (ES)",
-        "iProfesional"
-      ]
-    },
-    {
       "titulo": "Lando Norris saca una pole muy apretada en un Madring imprevisible",
       "link": "https://www.diariomotor.com/competicion/noticia/lando-norris-saca-una-pole-muy-apretada-en-un-madring-imprevisible/",
       "fuente": "Diariomotor (ES)",
@@ -140,6 +141,78 @@
       ]
     },
     {
+      "titulo": "Esta aventurera para el A2 tiene casi 400km de autonomía y uno de los frontales más llamativos del mercado por 6.399€",
+      "link": "https://www.diariomotor.com/motos/brixton-crossfire-500-storr/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-09-15T17:00:45Z",
+      "resumen": "Ya sea para el día a día, para viajes o para escapadas por campo, esta moto reúne capacidad y versatilidad fundidas por un sello llamado: Estética. Mírala de frente y te parecerá un Transformers. Mírala de lado y te parecerá un aparato militar. Y esto es de lo que trato de hablarte precisamente. De la mires y de que la van a mirar allá a donde vayas porque, de nuevo, la palabra que viene a la…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/09/Crossfire-storr-p-1-6aa7d5929c44a.png?class=XL",
+      "menciones": 1,
+      "fuentes": [
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "BMW trae de regreso la decoración Jägermeister para las 6 Horas de Fuji",
+      "link": "https://www.diariomotor.com/competicion/noticia/bmw-regreso-decoracion-jagermeister-fuji/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-09-15T16:52:25Z",
+      "resumen": "Se ha revelado que el BMW M4 GT3 número 69 de WRT, inscrito en la clase LMGT3 del WEC, participará en las 6 Horas de Fuji utilizando la recordada decoración naranja y blanco asociada a Jägermeister, el célebre licor a base de hierbas y especias que comenzó a patrocinar a BMW en el DTM en la década de 1970 y que luego pasó a ser sinónimo de éxitos al combinarse con pilotos de la talla de Niki Lauda…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/09/BMW_M4_GT3_LMGT3_WRT_6_Horas_de_Fuji_2026_4_26-6aa93e714c548.jpg?class=XL",
+      "menciones": 1,
+      "fuentes": [
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "El Ferrari 296 más radical que se puede comprar tiene este diseño, un motor de 730 CV y es 3 segundos más rápido que el de competición",
+      "link": "https://www.diariomotor.com/noticia/ferrari-296-modificata/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-09-15T16:00:11Z",
+      "resumen": "Muchos creen que no hay más espacio ni lugar para creaciones por encima de cualquier Ferrari , Lamborghini o McLaren en lo que a deportividad, prestaciones y radicalidad se refiere, pero la realidad es que existe todo un mundo de posibilidades cuando se trata de extraer aún más jugo de cada máquina, siempre y cuando el cliente esté dispuesto a pasar por caja. La creación de la siguiente galería de…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/09/Ferrari-296-Modificata-7-6aa927301351a.jpg?class=XL",
+      "menciones": 1,
+      "fuentes": [
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "Los arqueólogos han descubierto cuatro metros debajo de Zaragoza un puente romano que puede cambiar para siempre el mapa de la ciudad",
+      "link": "https://www.motorpasion.com/tecnologia/arqueologos-han-descubierto-cuatro-metros-debajo-zaragoza-puente-romano-que-puede-cambiar-para-siempre-mapa-ciudad",
+      "fuente": "Motorpasión (ES)",
+      "fecha": "2026-09-15T15:27:58Z",
+      "resumen": "Las obras de reurbanización del entorno de la plaza de San Miguel y el Coso, en pleno centro de Zaragoza, han sacado recientemente a la luz una estructura romana que llevaba siglos oculta bajo la ciudad. Hablamos de parte de una arcada situada a unos cuatro metros de profundidad y construida con opus caementicium , el hormigón característico de la ingeniería romana. En concreto, los arqueólogos…",
+      "imagen": "https://i.blogs.es/af066d/puente-romano/1024_2000.jpeg",
+      "menciones": 1,
+      "fuentes": [
+        "Motorpasión (ES)"
+      ]
+    },
+    {
+      "titulo": "De Lamborghini Aventador SVJ a Ferrari Purosangue: los autos de lujo que delataron al ladrón de cripto más buscado",
+      "link": "https://autotest.com.ar/noticias/de-lamborghini-aventador-svj-a-ferrari-purosangue-los-autos-de-lujo-que-delataron-al-ladron-de-cripto-mas-buscado/",
+      "fuente": "Autotest",
+      "fecha": "2026-09-15T15:26:11Z",
+      "resumen": "El caso Lam se suma a una tendencia creciente de causas federales en las que la cripto robada se canaliza hacia bienes de lujo difíciles de rastrear si no hay documentación clara.",
+      "imagen": "https://hips.hearstapps.com/hmg-prod/images/821e4f1a-e237-4cbc-acda-1c1372b47367.jpg?crop=1xw:0.512xh;0xw,0.236xh&resize=1200:*",
+      "menciones": 1,
+      "fuentes": [
+        "Autotest"
+      ]
+    },
+    {
+      "titulo": "Daimler Truck celebra los 130 años de camiones en la IAA Transportation 2026",
+      "link": "https://autotest.com.ar/transportes/daimler-truck-celebra-130-anos-camiones-iaa-transportation-2026/",
+      "fuente": "Autotest",
+      "fecha": "2026-09-15T15:04:37Z",
+      "resumen": "Daimler Truck presenta innovaciones en áreas clave del negocio del transporte. Camiones eléctricos a batería: claro liderazgo de mercado en camiones libres de CO₂ en Europa, más de 160 millones de kilómetros recorridos por clientes con el eActros 600, debut público del eActros Lowliner eléctrico y el creador de contenido y camionero profesional “Elektrotrucker” inicia […]",
+      "imagen": "https://transportemundial.com.ar/wp-content/uploads/2026/09/daimler-truck-130-anos3.jpg",
+      "menciones": 1,
+      "fuentes": [
+        "Autotest"
+      ]
+    },
+    {
       "titulo": "El SUV 4×4 de Mitsubishi que hereda el ADN del Montero: 7 Dakar, más barato que el RAV4 y desembarca en Europa",
       "link": "https://autotest.com.ar/offroad/el-suv-4x4-de-mitsubishi-que-hereda-el-adn-del-montero-7-dakar-mas-barato-que-el-rav4-y-desembarca-en-europa/",
       "fuente": "Autotest",
@@ -149,6 +222,30 @@
       "menciones": 3,
       "fuentes": [
         "Autotest",
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "Condujo solo 30 minutos su Ferrari de 4 millones: fue lo que que tardó la policía en incautarle el coche. Londres se harta de los millonarios que se sienten impunes",
+      "link": "https://www.motorpasion.com/seguridad/condujo-solo-30-minutos-su-ferrari-4-millones-fue-que-que-tardo-policia-incautarle-coche-londres-se-harta-millonarios-que-se-sienten-impunes",
+      "fuente": "Motorpasión (ES)",
+      "fecha": "2026-09-15T15:00:13Z",
+      "resumen": "Llevaba únicamente media hora conduciendo su exclusivo y carísimo Ferrari Monza SP2 cuando agentes de la policía de Londres se lo confiscaron . Su propietario, llegado a Reino Unido el día anterior, circulaba con semejante bestia de más de 800 CV sin seguro y sin carnet apto. Es el gran protagonista de la última gran redada de la Policía Metropolitana para cazar coches sin asegurar y conductores…",
+      "imagen": "https://i.blogs.es/113519/ferrari_monza_incautado-londres/1024_2000.jpeg",
+      "menciones": 1,
+      "fuentes": [
+        "Motorpasión (ES)"
+      ]
+    },
+    {
+      "titulo": "Lo último en scooter de rueda alta en 125 cuesta menos de 2.200 €, todo un chollo con ABS, control de tracción y Full LED perfecto para iniciarse",
+      "link": "https://www.diariomotor.com/motos/voge-sr16-air/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-09-15T15:00:07Z",
+      "resumen": "¿Buscando un scooter accesible de rueda alta con el que moverte en el día a día pero la situación financiera no es la más apropiada? Seguramente el último de lanzamiento de Voge en España sea perfecto por su bajo precio , alta dotación de serie y una estética muy agradable. Con Top Case de regalo Control de tracción TCS Hueco bajo el asiento amplio Estética elegante La nueva Voge SR16 Air llega en…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/09/Voge-SR16-Air6-6aa930d37fb47.jpg?class=XL",
+      "menciones": 1,
+      "fuentes": [
         "Diariomotor (ES)"
       ]
     },
@@ -178,6 +275,18 @@
       ]
     },
     {
+      "titulo": "Renault actualizará el Arkana con nueva plataforma y una novedad: ¿cuándo llega?",
+      "link": "https://autotest.com.ar/noticias/renault-actualizara-el-arkana-con-nueva-plataforma-y-una-novedad-cuando-llega/",
+      "fuente": "Autotest",
+      "fecha": "2026-09-15T14:01:52Z",
+      "resumen": "Renault presentará la segunda generación del Arkana, el SUV Coupé que tendrá base técnica de Geely y sistema híbrido enchufable flex. La marca lo producirá en São José dos Pinhais, en Brasil, con la plataforma GEA, la misma arquitectura empleada por el EX5, lo que explica desde un principio por qué no será igual al […]",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/Renault-Arkana-renovacion.jpg",
+      "menciones": 1,
+      "fuentes": [
+        "Autotest"
+      ]
+    },
+    {
       "titulo": "El Land Rover Defender volverá a tener versión pick-up, pero lo fabricará la dueña de Jeep y RAM para esquivar un arancel del 25%",
       "link": "https://www.diariomotor.com/noticia/land-rover-defender-pick-up-stellantis/",
       "fuente": "Diariomotor (ES)",
@@ -190,123 +299,15 @@
       ]
     },
     {
-      "titulo": "Toyota Corolla full o Corolla Cross: qué conviene comprar por menos de $2 millones de diferencia",
-      "link": "https://autotest.com.ar/noticias/toyota-corolla-full-o-corolla-cross-que-conviene-comprar-por-menos-de-2-millones-de-diferencia/",
-      "fuente": "Autotest",
-      "fecha": "2026-09-15T12:20:49Z",
-      "resumen": "Con el mismo motor 2.0 y transmisión CVT, la elección entre el Corolla SEG y Corolla Cross XEI se centra en el equipamiento y formato de carrocería.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/08/toyota-corolla-precios-agosto-20263.jpg",
-      "menciones": 2,
-      "fuentes": [
-        "Autotest"
-      ]
-    },
-    {
-      "titulo": "El Ejército británico busca nuevo todoterreno para sustituir a sus antiguos Defender Wolf. ¿La solución de Land Rover? Resucitar al Defender Wolf",
-      "link": "https://www.motorpasion.com/todoterrenos/ejercito-britanico-busca-nuevo-todoterreno-para-sustituir-a-sus-antiguos-defender-wolf-solucion-land-rover-resucitar-al-defender-wolf",
+      "titulo": "Stella Li, vicepresidenta ejecutiva de BYD: “El próximo año tendremos nuestro primer coche con baterías de estado sólido”",
+      "link": "https://www.motorpasion.com/coches-electricos/stella-li-vicepresidenta-ejecutiva-byd-proximo-ano-tendremos-nuestro-primer-coche-baterias-estado-solido",
       "fuente": "Motorpasión (ES)",
-      "fecha": "2026-09-15T12:00:13Z",
-      "resumen": "Puede que a simple vista parezca un Land Rover Defender con una preparación extrema: paragolpes de acero, neumáticos todoterreno, toma de aire elevada, baca y una carrocería preparada para meterse donde un SUV convencional no tendría nada que hacer… Pero nada más lejos. El nuevo Defender Wolf Series II tiene una misión mucho más ambiciosa: convertirse en uno de los vehículos ligeros de nueva…",
-      "imagen": "https://i.blogs.es/169e01/defender/1024_2000.jpeg",
+      "fecha": "2026-09-15T14:00:13Z",
+      "resumen": "Los años pasan y, a pesar de las promesas que se hacen desde hace tiempo, ningún fabricante ha sido capaz de llevar a producción las baterías de estado sólido . Hasta ahora. BYD acaba de un paso importante en la carrera por lanzar antes que nadie esta tecnología: Stella Li, su vicepresidenta ejecutiva, asegura que el primer BYD con baterías de estado sólido llegará en 2027. “Las baterías son una…",
+      "imagen": "https://i.blogs.es/c262af/byd-1/1024_2000.jpeg",
       "menciones": 1,
       "fuentes": [
         "Motorpasión (ES)"
-      ]
-    },
-    {
-      "titulo": "BYD Argentina traerá estaciones de carga para autos eléctricos",
-      "link": "https://eleconomista.com.ar/autos/byd-argentina-traera-estaciones-carga-autos-electricos-n98185",
-      "fuente": "El Economista",
-      "fecha": "2026-09-15T11:54:00Z",
-      "resumen": "La filial local de la compañía china modificó su estatuto y quedó habilitada para importar, desarrollar y gestionar la infraestructura necesaria para recargar los vehículos enchufables. ¿Saldrá a competirle a YPF-Tesla?",
-      "imagen": "https://statics.eleconomista.com.ar/2026/09/crop/6aa933b280c4a__950x512.webp",
-      "menciones": 1,
-      "fuentes": [
-        "El Economista"
-      ]
-    },
-    {
-      "titulo": "BYD: cuánto cuestan los 4 modelos más vendidos de la marca china líder",
-      "link": "https://autotest.com.ar/noticias/byd-cuanto-cuestan-los-4-modelos-mas-vendidos-de-la-marca-china-lider/",
-      "fuente": "Autotest",
-      "fecha": "2026-09-15T11:52:43Z",
-      "resumen": "La marca china BYD destaca en Argentina al colocar cuatro modelos entre los más vendidos del país en agosto.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/07/byd-dolphin-mini3.jpg",
-      "menciones": 1,
-      "fuentes": [
-        "Autotest"
-      ]
-    },
-    {
-      "titulo": "En 2016, Francia se convirtió en el primer país en tener una carretera solar. Fue un fiasco: un solo kilómetro costó 5 millones de euros, y no duró ni tres años",
-      "link": "https://www.motorpasion.com/industria/2016-francia-se-convirtio-primer-pais-tener-carretera-solar-fue-fiasco-solo-kilometro-costo-5-millones-euros-duro-tres-anos",
-      "fuente": "Motorpasión (ES)",
-      "fecha": "2026-09-15T11:26:16Z",
-      "resumen": "No han sido pocos los proyectos de carreteras solares que se han puesto en marcha. Los hemos visto en EEUU con aquel tramo en la Ruta 66 a base de paneles hexagonales, en Holanda con un carril bici solar o incluso pintura que se recarga durante el día... en todas el resultado no ha sido el esperado. Pero quizá el caso más llamativo ha sido el del Francia, que se convirtió en 2016 en el primer país…",
-      "imagen": "https://i.blogs.es/4e0a6f/portada-mop-1789470844833/1024_2000.jpeg",
-      "menciones": 1,
-      "fuentes": [
-        "Motorpasión (ES)"
-      ]
-    },
-    {
-      "titulo": "Sólo tres empresas fueron beneficiadas con el nuevo cupo del Gobierno para importar autos sin aranceles",
-      "link": "https://autoblog.com.ar/solo-tres-automotrices-fueron-beneficiadas-con-el-nuevo-cupo-del-gobierno-para-importar-autos-sin-aranceles/",
-      "fuente": "Autoblog Argentina",
-      "fecha": "2026-09-15T11:13:33Z",
-      "resumen": "Ford Argentina, el Grupo Antelo y Eximar se quedaron con el remanente de 865 unidades. La lista de los 8.752 autos rechazados por Luis Caputo. Leer la nota completa en Autoblog",
-      "imagen": "https://autoblog.com.ar/wp-content/uploads/2026/09/CUPO-REASIGNADO-HOME-1.jpg",
-      "menciones": 1,
-      "fuentes": [
-        "Autoblog Argentina"
-      ]
-    },
-    {
-      "titulo": "Renault renovará el SUV que supera Duster y compite con Corolla Cross: tres motores, 250 CV y más",
-      "link": "https://autotest.com.ar/noticias/renault-renovara-el-suv-que-supera-duster-y-compite-con-corolla-cross-dos-motores-250-cv-y-mas/",
-      "fuente": "Autotest",
-      "fecha": "2026-09-15T11:09:17Z",
-      "resumen": "Renault prepara una actualización. En realidad, una nueva etapa para el Austral, el SUV mediano que se posiciona por encima de Duster y compite en Europa contra Toyota Corolla Cross y Nissan Qashqai. Lo primero será el reemplazo del actual motor de tres cilindros y 1.2 litros TCe por uno turboalimentado con hasta 250 CV […]",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/Renovacion-Renault-Austral.jpg",
-      "menciones": 2,
-      "fuentes": [
-        "Autotest"
-      ]
-    },
-    {
-      "titulo": "Volvo Trucks presenta sus nuevos camiones eléctricos con 700 km de autonomía y más",
-      "link": "https://autotest.com.ar/transportes/volvo-trucks-presenta-sus-nuevos-camiones-electricos-con-700-km-de-autonomia-y-mas/",
-      "fuente": "Autotest",
-      "fecha": "2026-09-15T11:05:15Z",
-      "resumen": "Volvo Trucks inició la producción en serie de su nueva generación de camiones eléctricos pesados, incluido el FH Aero Electric de autonomía extendida, capaz de recorrer hasta 700 km con una sola carga. En abril de 2026, Volvo presentó su nueva generación de camiones eléctricos, con un rendimiento y una flexibilidad mejorados, y autonomías de […]",
-      "imagen": "https://transportemundial.com.ar/wp-content/uploads/2026/09/volvo-camiones-electricos1.jpg",
-      "menciones": 1,
-      "fuentes": [
-        "Autotest"
-      ]
-    },
-    {
-      "titulo": "La Chevrolet S10 High Country cuesta casi 10 millones menos que la Toyota Hilux SRX: tiene 207 CV y 4×4",
-      "link": "https://autotest.com.ar/noticias/la-chevrolet-s10-high-country-cuesta-casi-10-millones-menos-que-la-toyota-hilux-srx-tiene-207-cv-y-4x4/",
-      "fuente": "Autotest",
-      "fecha": "2026-09-15T11:03:23Z",
-      "resumen": "La Chevrolet S10 High Country ofrece una opción más económica frente a la Toyota Hilux SRX, destacándose en potencia, tracción 4x4 y equipamiento completo.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/05/chevrolet-s10.jpg",
-      "menciones": 5,
-      "fuentes": [
-        "Autotest"
-      ]
-    },
-    {
-      "titulo": "Revelan el Tesla Roadster el 1 de octubre: una imagen anticipa potencia de cohete",
-      "link": "https://autotest.com.ar/noticias/revelan-el-tesla-roadster-el-1-de-octubre-una-imagen-anticipa-potencia-de-cohete/",
-      "fuente": "Autotest",
-      "fecha": "2026-09-15T11:00:43Z",
-      "resumen": "Un detalle clave para que te des una idea de la magnitud: el famoso torque de 10.000 Nm que se citó en los primeros comunicados corresponde al par total en las ruedas, no al par directo al motor.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/revelan-el-tesla-roadster-el-1-de-octubr-1200x740-1.jpg",
-      "menciones": 1,
-      "fuentes": [
-        "Autotest"
       ]
     }
   ]
