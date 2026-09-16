@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-16T17:37:56Z",
+  "actualizado": "2026-09-16T19:36:21Z",
   "desde": "2026-09-09",
   "hasta": "2026-09-16",
   "destacadas": [
@@ -25,7 +25,7 @@
       "fecha": "2026-09-16T15:00:01Z",
       "resumen": "Skoda acaba de quitarle 4.300 euros al precio de acceso de su SUV eléctrico más pequeño. El nuevo Skoda Epiq 40 parte oficialmente desde 18.500 euros y conserva dos de los mejores argumentos del modelo: se fabrica en España y ofrece un enorme maletero de 475 litros. No estamos ante una rebaja del Epiq 55 de 211 CV y 437 kilómetros de autonomía del que os hablé recientemente , sino ante una nueva…",
       "imagen": "https://www.diariomotor.com/imagenes/2026/09/Skoda_Epiq-105-6aa905489ec99.jpg?class=XL",
-      "menciones": 12,
+      "menciones": 11,
       "fuentes": [
         "Autotest",
         "Diariomotor (ES)",
@@ -217,6 +217,66 @@
       ]
     },
     {
+      "titulo": "EEUU construyó una guillotina gigante para cortar bombarderos nucleares. Era para demostrar desde el espacio que la Guerra Fría había terminado",
+      "link": "https://www.motorpasion.com/furgonetas-y-caravanas/eeuu-construyo-guillotina-gigante-para-cortar-bombarderos-nucleares-era-para-demostrar-espacio-que-guerra-fria-habia-terminado",
+      "fuente": "Motorpasión (ES)",
+      "fecha": "2026-09-16T19:00:12Z",
+      "resumen": "Un sistema de destrucción de centenares de bombarderos \"del día del juicio final\" , diseñado para convertir su eliminación en un espectáculo visible para los satélites . No es la trama de una película, sino uno de los episodios más locos del tratado que firmaron EEUU y la URSS justo al acabar la Guerra Fría . Tras décadas de carrera armamentística con un inmenso arsenal nuclear como protagonista,…",
+      "imagen": "https://i.blogs.es/2d3cf6/bombarderos-start-i-02/1024_2000.jpeg",
+      "menciones": 1,
+      "fuentes": [
+        "Motorpasión (ES)"
+      ]
+    },
+    {
+      "titulo": "Cómo anda y cuánto sale la camioneta Ford Ranger Black 2026",
+      "link": "https://www.iprofesional.com/autos/462863-test-drive-de-la-ford-ranger-black-2026-precio-y-prestaciones",
+      "fuente": "iProfesional",
+      "fecha": "2026-09-16T19:00:00Z",
+      "resumen": "nalizamos la nueva camioneta de Ford. Enterate qué motor tiene, cómo es el andar de la versión urbana y cuánto cuesta este mes en el mercado (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
+      "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/08/624739.jpg",
+      "menciones": 1,
+      "fuentes": [
+        "iProfesional"
+      ]
+    },
+    {
+      "titulo": "Arrancó la pre-venta del octavo modelo de BYD",
+      "link": "https://eleconomista.com.ar/autos/arranco-pre-venta-octavo-modelo-byd-n98229",
+      "fuente": "El Economista",
+      "fecha": "2026-09-16T19:00:00Z",
+      "resumen": "La marca china sigue expandiendo su oferta y ahora llegó el turno del Ti7, un SUV premium que estrena la tecnología híbrida DM-p. ¿Cómo es y de qué manera de lo puede reservar?",
+      "imagen": "https://statics.eleconomista.com.ar/2026/09/crop/6aaae511900d6__950x512.webp?v=1789585474",
+      "menciones": 1,
+      "fuentes": [
+        "El Economista"
+      ]
+    },
+    {
+      "titulo": "China estrenó hace unos meses un arma que puede cambiar las reglas de la guerra: un 'portaaviones' volador que lanza 100 drones kamikaze",
+      "link": "https://www.motorpasion.com/industria/china-estreno-hace-unos-meses-arma-que-puede-cambiar-reglas-guerra-portaaviones-volador-que-lanza-100-drones-kamikaze",
+      "fuente": "Motorpasión (ES)",
+      "fecha": "2026-09-16T18:30:12Z",
+      "resumen": "China acaba de dar un salto tecnológico sin precedentes en el campo militar con el estreno del ‘Jiu Tian’, el mayor portadrones del mundo . Esta especie de “portaaviones volador” es una gigantesca nave nodriza no tripulada, diseñada para transportar y lanzar hasta cien drones kamikaze en vuelo coordinado. Este avance marca una distancia enorme respecto a la década pasada, cuando Pekín aún dependía…",
+      "imagen": "https://i.blogs.es/9aa398/portadrones-china/1024_2000.jpeg",
+      "menciones": 1,
+      "fuentes": [
+        "Motorpasión (ES)"
+      ]
+    },
+    {
+      "titulo": "Sunbeam Tiger: el Shelby británico a un décimo del Cobra",
+      "link": "https://autotest.com.ar/carreras/sunbeam-tiger-el-shelby-britanico-a-un-decimo-del-cobra/",
+      "fuente": "Autotest",
+      "fecha": "2026-09-16T18:05:41Z",
+      "resumen": "El auto también mantiene las mejoras de performance respetuosas de la época, conocidas como period-correct upgrades, que no invaden la integridad del auto con soluciones modernas.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/sunbeam-tiger-el-shelby-brit-nico-a-un-d-1200x740-1.jpg",
+      "menciones": 1,
+      "fuentes": [
+        "Autotest"
+      ]
+    },
+    {
       "titulo": "La \"Mercedes Marco Polo\" para todos los bolsillos ya está aquí, una camper perfecta para escapadas con hasta 180 CV, versátil y unos 30.000 € más barata",
       "link": "https://www.diariomotor.com/noticia/opel-zafira-tinkervan-2027/",
       "fuente": "Diariomotor (ES)",
@@ -229,87 +289,27 @@
       ]
     },
     {
-      "titulo": "Geely presentó un SUV de 1.113 CV y recibió casi 44.000 pedidos en una hora",
-      "link": "https://autotest.com.ar/noticias/geely-presento-un-suv-de-1-113-cv-y-recibio-casi-44-000-pedidos-en-una-hora/",
-      "fuente": "Autotest",
-      "fecha": "2026-09-16T17:34:46Z",
-      "resumen": "El nuevo SUV híbrido off-road de Geely, el Galaxy Zhanjian 700, superó 43.900 reservas en solo una hora, destacándose con 1.113 hp.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/geely-galaxy-zhanjian-700-suv2.jpg",
-      "menciones": 1,
-      "fuentes": [
-        "Autotest"
-      ]
-    },
-    {
-      "titulo": "Dennis Hauger reemplaza a Santino Ferrucci en la alineación de A. J. Foyt Racing",
-      "link": "https://www.diariomotor.com/competicion/noticia/dennis-hauger-alineacion-a-j-foyt-racing/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-09-16T17:17:40Z",
-      "resumen": "El equipo A. J. Foyt Racing confirmó que Dennis Hauger es su nuevo fichaje y llegará para encargarse del icónico monoplaza número 14, el cual estuvo a cargo de Santino Ferrucci en las últimas cuatro temporadas. De esta forma, el piloto noruego prosigue su ascenso en la categoría estadounidense tras ganar el título de la Indy NXT en el 2025 y este año lograr el reconocimiento del Novato del Año en…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/09/Dennis_Hauger_IndyCar_NC_AJ_2026_26-6aaab34f957c6.jpg?class=XL",
-      "menciones": 1,
-      "fuentes": [
-        "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "Subastan en Zúrich uno de los 3 Bugatti Veyron Jean-Pierre Wimille",
-      "link": "https://autotest.com.ar/noticias/subastan-en-zurich-uno-de-los-3-bugatti-veyron-jean-pierre-wimille/",
-      "fuente": "Autotest",
-      "fecha": "2026-09-16T17:15:51Z",
-      "resumen": "El Veyron Grand Sport Vitesse combinó la mecánica extrema del Veyron con una carrocería descapotable y un techo que permitía circular a cielo abierto.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/subastan-en-z-rich-uno-de-los-3-bugatti-1200x740-1.jpg",
-      "menciones": 1,
-      "fuentes": [
-        "Autotest"
-      ]
-    },
-    {
-      "titulo": "Cae la última gran marca de superdeportivos que se resistía a hacer un SUV: McLaren se une al club de Porsche, Ferrari, Lotus, Lamborghini y Aston Martin",
-      "link": "https://www.diariomotor.com/noticia/mclaren-suv-confirmado/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-09-16T17:00:46Z",
-      "resumen": "McLaren ha sido una de las últimas grandes marcas de superdeportivos en resistirse a fabricar un SUV . Pero esa resistencia ha terminado. La compañía británica ha anunciado oficialmente que está desarrollando su primer SUV de altas prestaciones, un modelo con el que pretende aumentar sus ventas y acercarse a los impresionantes márgenes de beneficio de Ferrari. Será el primer SUV y el primer…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/09/mclaren-center_port-6aaa9eb73b9af.jpg?class=XL",
-      "menciones": 1,
-      "fuentes": [
-        "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "El motor se ha vuelto un dolor de cabeza para Dodge en su camino a la NASCAR Cup Series",
-      "link": "https://www.diariomotor.com/competicion/noticia/motor-dodge-regreso-a-la-nascar-cup-series/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-09-16T16:24:55Z",
-      "resumen": "Luce irónico que el fabricante del legendario motor V8 Hemi y del no menos histórico V8 440 Magnum no pueda ingresar a la NASCAR Cup Series porque no dispone actualmente de un motor adecuado y además no tiene un programa independiente. Durante meses se pensó que Stellantis Motorsport tenía todo bajo control ya que la NASCAR y el público quiere una cuarta marca en la parrilla para 2027, pero el…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/09/Dodge_RAM_NASCAR_Truck_Series_NM_2026_26-6aaa8839712ec.jpg?class=XL",
-      "menciones": 1,
-      "fuentes": [
-        "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "Llega primero a España, antes que al resto de Europa, para Omoda y Jaecoo el botón de \"apagar las molestias\" de Renault",
-      "link": "https://www.diariomotor.com/noticia/omoda-jaecoo-escenas-personalizadas/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-09-16T16:00:38Z",
-      "resumen": "Cuán molesto es, cada dia, en cada trayecto y en cada viaje, verse obligado a apagar una a una todos los avisos de los sistemas de ayuda y asistencia a la conducción de obligado equipamiento para los coches nuevos. Renault fue el primero que dio un paso al frente con un botón que mediante una doble pulsación, apagaba directamente todo lo que podía interferir en la experiencia de conducción , pero…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/09/El-sistema-se-integra-dentro-de-una-aplicacion-llamada-Escenas-Personalizadas-6aaa833e25046.jpg?class=XL",
-      "menciones": 1,
-      "fuentes": [
-        "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "La alternativa a Sanxenxo está en la Costa da Morte: este pueblo gallego tiene playas, buenos restaurantes y todo lo que pide una ruta en camper",
-      "link": "https://www.motorpasion.com/furgonetas-y-caravanas/alternativa-a-sanxenxo-esta-costa-da-morte-este-pueblo-gallego-tiene-playas-buenos-restaurantes-todo-que-pide-ruta-camper",
+      "titulo": "Miquel Turbo, mecánico: “Por favor, hacedme caso, no compréis esta mierda”",
+      "link": "https://www.motorpasion.com/revision/miquel-turbo-mecanico-favor-hacedme-caso-no-compreis-esta-mierda",
       "fuente": "Motorpasión (ES)",
-      "fecha": "2026-09-16T16:00:13Z",
-      "resumen": "Muxía tiene mucho más que ofrecer que una parada rápida frente al mar para quien viaja recorriendo Galicia. Este pequeño pueblo marinero de la Costa da Morte es una joya escondida con acantilados, playas de arena fina, paisajes espectaculares, mucho patrimonio que explorar y una gastronomía muy ligada al mar. El Santuario da Virxe da Barca, el cabo Touriñán, los tradicionales secaderos de congrio…",
-      "imagen": "https://i.blogs.es/f71787/muxia-apertura/1024_2000.jpeg",
+      "fecha": "2026-09-16T18:00:13Z",
+      "resumen": "El mercado de ocasión está lleno de coches de alta gama de hace décadas que se venden por una fracción de lo que costaban nuevos, pero el problema no es comprarlos, sino mantenerlos. El mecánico Miquel Turbo habla de ello en un vídeo que ha subido recientemente a su canal de YouTube . Es algo evidente, pero mucha gente no piensa en ello Si te gustan los coches, estoy seguro de que más de una vez…",
+      "imagen": "https://i.blogs.es/5cbc51/alta-gama_1/1024_2000.jpeg",
       "menciones": 1,
       "fuentes": [
         "Motorpasión (ES)"
+      ]
+    },
+    {
+      "titulo": "El SUV de Nissan que llegará a un importante mercado con una gran novedad y se ubicará por debajo del Qashqai",
+      "link": "https://autotest.com.ar/noticias/el-suv-de-nissan-que-llegara-a-un-importante-mercado-con-una-gran-novedad-y-se-ubicara-por-debajo-del-qashqai/",
+      "fuente": "Autotest",
+      "fecha": "2026-09-16T17:46:36Z",
+      "resumen": "Nissan lanza el SUV Kicks en Europa con tecnología híbrida e-POWER, fabricándose en Sunderland.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/nissan-kicks2.jpg",
+      "menciones": 1,
+      "fuentes": [
+        "Autotest"
       ]
     }
   ]
