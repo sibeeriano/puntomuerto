@@ -1,35 +1,20 @@
 {
-  "actualizado": "2026-09-16T22:20:03Z",
-  "desde": "2026-09-09",
-  "hasta": "2026-09-16",
+  "actualizado": "2026-09-17T17:38:47Z",
+  "desde": "2026-09-10",
+  "hasta": "2026-09-17",
   "destacadas": [
     {
-      "titulo": "Renault presentó la pick up Niagara",
-      "link": "https://www.megautos.com/renault-niagara/",
-      "fuente": "Megautos",
-      "fecha": "2026-09-13T19:49:59Z",
-      "resumen": "Es la nueva camioneta compacta fabricada en Argentina para el mercado local y la exportación. Misma plataforma de Kardian y Boreal, motor 1.3 turbo y tracción delantera o 4x4. La entrada Renault presentó la pick up Niagara aparece primero en Mega Autos .",
-      "imagen": "https://www.megautos.com/wp-content/uploads/2026/09/2I1A9837.jpg",
+      "titulo": "Banco Provincia lanza créditos para autos y compite con el Banco Nación",
+      "link": "https://www.iprofesional.com/finanzas/464576-banco-provincia-lanza-creditos-para-autos-y-compite-con-el-banco-nacion",
+      "fuente": "iProfesional",
+      "fecha": "2026-09-17T12:32:00Z",
+      "resumen": "La nueva línea de préstamos permite financiar hasta el 100% de un 0 km o usado y ofrece opciones UVA y a tasa fija. Cómo acceder (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
+      "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/09/625809.jpg",
       "menciones": 4,
       "fuentes": [
         "Autoblog Argentina",
-        "Autotest",
         "El Economista",
-        "Megautos"
-      ]
-    },
-    {
-      "titulo": "Es normal que estés mirando coches chinos, pero Skoda acaba de plantar, por 18.500 €, un SUV con 475 litros de maletero que me parece ideal para el día a día",
-      "link": "https://www.diariomotor.com/noticia/skoda-epiq-40-precio/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-09-16T15:00:01Z",
-      "resumen": "Skoda acaba de quitarle 4.300 euros al precio de acceso de su SUV eléctrico más pequeño. El nuevo Skoda Epiq 40 parte oficialmente desde 18.500 euros y conserva dos de los mejores argumentos del modelo: se fabrica en España y ofrece un enorme maletero de 475 litros. No estamos ante una rebaja del Epiq 55 de 211 CV y 437 kilómetros de autonomía del que os hablé recientemente , sino ante una nueva…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/09/Skoda_Epiq-105-6aa905489ec99.jpg?class=XL",
-      "menciones": 11,
-      "fuentes": [
-        "Autotest",
-        "Diariomotor (ES)",
-        "Motorpasión (ES)"
+        "iProfesional"
       ]
     },
     {
@@ -39,24 +24,10 @@
       "fecha": "2026-09-15T14:41:08Z",
       "resumen": "Todavía no se conocen las cifras finales de potencia y autonomía para España, ni cuántas versiones llegarán con los bloqueos de diferencial incluidos de serie.",
       "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/olv-date-del-toyota-land-cruiser-ya-sabe-1200x740-1.jpg",
-      "menciones": 4,
+      "menciones": 3,
       "fuentes": [
         "Autotest",
         "Diariomotor (ES)",
-        "iProfesional"
-      ]
-    },
-    {
-      "titulo": "El Banco Provincia también lanzó créditos UVA para la compra de autos nuevos y usados",
-      "link": "https://autoblog.com.ar/el-banco-provincia-tambien-lanzo-creditos-uva-para-la-compra-de-autos-nuevos-y-usados/",
-      "fuente": "Autoblog Argentina",
-      "fecha": "2026-09-15T10:14:03Z",
-      "resumen": "Se sumó a las propuestas de Toyota y el Banco Nación. El anuncio del gobernador Axel Kicillof. Leer la nota completa en Autoblog",
-      "imagen": "https://autoblog.com.ar/wp-content/uploads/2026/09/BANCO-PROVINCIA-KICILLOF.jpg",
-      "menciones": 3,
-      "fuentes": [
-        "Autoblog Argentina",
-        "El Economista",
         "iProfesional"
       ]
     },
@@ -72,6 +43,84 @@
         "Autotest",
         "Diariomotor (ES)",
         "Megautos"
+      ]
+    },
+    {
+      "titulo": "Capaz de llegar a 400.000 km, el coche más indestructible de España tiene tamaño de Audi Q7 y un duro motor híbrido anti-taller",
+      "link": "https://www.diariomotor.com/noticia/lexus-rx-fiabilidad/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-09-17T17:00:48Z",
+      "resumen": "A la hora de tomar la decisión de comprar un coche a estrenar, sobre todo si es para mantenerlo como principal herramienta de transporte a medio y largo plazo, uno de los aspectos que más peso tiene en el proceso es la fiabilidad: la capacidad para mantenerse en funcionamiento sin problemas que condicionen su función. Dentro de este ámbito, las marcas japonesas siempre han sido unas de las…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/09/Actualmente-es-el-maximo-exponente-dentro-de-la-gama-SUV-de-Lexus-6aabc91b173ef.jpg?class=XL",
+      "menciones": 7,
+      "fuentes": [
+        "Autotest",
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "Land Rover desvela el primer Defender pick-up que, de momento, nuestro dinero no puede pagar",
+      "link": "https://www.diariomotor.com/noticia/land-rover-defender-wolf-series-utility/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-09-17T16:00:24Z",
+      "resumen": "Lo damos ya por hecho. El Land Rover Defender podría gozar de una nueva versión, de tipo pick-up. Así como el antiguo e incombustible Defender gozó, de entre sus muchas variantes y carrocerías, de una versión con el espacio de carga abierto, el nuevo Land Rover Defender parece que dispondrá también de una versión pick-up, a pesar de que a priori su arquitectura monocasco - que bien es cierto nos…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/09/land-rover-wolf-series-trials-utility4-6aabc6bfa9c4a.jpg?class=XL",
+      "menciones": 3,
+      "fuentes": [
+        "Autotest",
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "Aston Martin avisa a Fernando Alonso: \"Queremos que se quede, pero si no lo hace ya tenemos un plan B\"",
+      "link": "https://www.motorpasion.com/formula1/aston-martin-avisa-a-fernando-alonso-queremos-que-se-quede-no-hace-tenemos-plan-b",
+      "fuente": "Motorpasión (ES)",
+      "fecha": "2026-09-17T15:00:13Z",
+      "resumen": "El futuro de Fernando Alonso es el único gran culebrón que queda pendiente de resolver en el mercado de la Fórmula 1. El piloto español acaba contrato con Aston Martin esta temporada, y sigue sin aclarar si va a retirarse o si desea renovar su contrato. El equipo verde espera, pero avisa de que no está parado. Pedro de la Rosa, el embajador de Aston Martin y cercano a Alonso, ha advertido de que…",
+      "imagen": "https://i.blogs.es/e6c3b4/alonso-stroll/1024_2000.jpeg",
+      "menciones": 7,
+      "fuentes": [
+        "Diariomotor (ES)",
+        "Motorpasión (ES)"
+      ]
+    },
+    {
+      "titulo": "El SUV más barato de Nissan que compite con Toyota Yaris Cross: así es su versión tope de gama",
+      "link": "https://autotest.com.ar/noticias/el-suv-mas-barato-de-nissan-que-compite-con-toyota-yaris-cross-asi-es-su-version-tope-de-gama/",
+      "fuente": "Autotest",
+      "fecha": "2026-09-17T10:45:09Z",
+      "resumen": "El segmento de los B-SUV no para de crecer tanto a nivel regional como mundial y Nissan, a partir de ampliar las dimensiones del Kicks, reforzó su presencia con el nuevo Kait, el más económico de su clase y que compite, por ejemplo, contra Toyota Yaris Cross. Pese a su condición de accesible, la versión […]",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/Nissan-Kait.jpg",
+      "menciones": 7,
+      "fuentes": [
+        "Autotest",
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "El \"camión de Ford\" cambia para 2027, puede con 6.120 kilos de peso y ahora tiene un nuevo motor 3.0 V6 turbo",
+      "link": "https://www.diariomotor.com/noticia/ford-f-150-2027/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-09-17T07:00:12Z",
+      "resumen": "Pocas veces en la historia se ha dado un caso, dentro del ámbito de producto, como el del coche más vendido de Estados Unidos , un modelo que no decae con el paso de los años y que se ha convertido en un icono del mundo del automóvil que, ahora, recibe una renovación para seguir estando al día. Hablamos de la Ford F-150 , la mítica pick-up del fabricante estadounidense, que ha recibido los…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/09/Ford-F-150-2027-22-6aaa73798a646.jpg?class=XL",
+      "menciones": 2,
+      "fuentes": [
+        "Autotest",
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "Es normal que estés mirando coches chinos, pero Skoda acaba de plantar, por 18.500 €, un SUV con 475 litros de maletero que me parece ideal para el día a día",
+      "link": "https://www.diariomotor.com/noticia/skoda-epiq-40-precio/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-09-16T15:00:01Z",
+      "resumen": "Skoda acaba de quitarle 4.300 euros al precio de acceso de su SUV eléctrico más pequeño. El nuevo Skoda Epiq 40 parte oficialmente desde 18.500 euros y conserva dos de los mejores argumentos del modelo: se fabrica en España y ofrece un enorme maletero de 475 litros. No estamos ante una rebaja del Epiq 55 de 211 CV y 437 kilómetros de autonomía del que os hablé recientemente , sino ante una nueva…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/09/Skoda_Epiq-105-6aa905489ec99.jpg?class=XL",
+      "menciones": 6,
+      "fuentes": [
+        "Diariomotor (ES)",
+        "Motorpasión (ES)"
       ]
     },
     {
@@ -114,19 +163,6 @@
       ]
     },
     {
-      "titulo": "Land Rover Defender pick-up: volverá la versión más esperada y la fabricaría la dueña de RAM y Jeep",
-      "link": "https://autotest.com.ar/offroad/land-rover-defender-pick-up-volvera-la-version-mas-esperada-y-la-fabricaria-la-duena-de-ram-y-jeep/",
-      "fuente": "Autotest",
-      "fecha": "2026-09-15T17:20:48Z",
-      "resumen": "Lo concreto es que el arancel del 25 por ciento obligó a una decisión productiva que, en condiciones normales, ningún grupo automotor tomaría.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/land-rover-defender-pick-up-volver-la-ve-1200x740-1.jpg",
-      "menciones": 2,
-      "fuentes": [
-        "Autotest",
-        "Diariomotor (ES)"
-      ]
-    },
-    {
       "titulo": "Genesis X Skorpio: el brutal todoterreno de 1.115 CV que parece preparado para el apocalipsis",
       "link": "https://autotest.com.ar/offroad/genesis-x-skorpio-el-brutal-todoterreno-de-1-115-cv-que-parece-preparado-para-el-apocalipsis/",
       "fuente": "Autotest",
@@ -134,19 +170,6 @@
       "resumen": "Adentro, la cabina es minimalista y no tiene concesiones: jaula antivuelco, butacas tipo competición, volante deportivo y pantallas digitales de instrumentación.",
       "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/genesis-x-skorpio-el-brutal-todoterreno-1200x740-1.jpg",
       "menciones": 2,
-      "fuentes": [
-        "Autotest",
-        "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "Es el Toyota más barato: cuesta menos que un Yaris y consume solo 3 litros cada 100 km",
-      "link": "https://autotest.com.ar/noticias/es-el-toyota-mas-barato-cuesta-menos-que-un-yaris-y-consume-solo-3-litros-cada-100-km/",
-      "fuente": "Autotest",
-      "fecha": "2026-09-15T13:14:43Z",
-      "resumen": "No es novedad decir que Toyota es una de las marcas más importantes de la industria automotriz y que cuenta con modelos reconocidos mundialmente como Corolla, Hilux y RAV4. Sin embargo, en India hay un pequeño hatchback que se posiciona por debajo del Yaris, cuesta menos de 10000 dólares y exhibe una relación potencia-autonomía superior […]",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/Toyota-Glanza-el-hatch-mas-economico.jpg",
-      "menciones": 8,
       "fuentes": [
         "Autotest",
         "Diariomotor (ES)"
@@ -166,148 +189,121 @@
       ]
     },
     {
-      "titulo": "Carlos Sainz cree que \"todo fue normal\" en su choque con Fernando Alonso, pero este le responde: \"No es la primera vez que lo hace\"",
-      "link": "https://www.motorpasion.com/formula1/fernando-alonso-senala-a-carlos-sainz-me-echo-muro-a-340-km-h-no-primera-vez-que-hace-no-se-que-a-veces-no-le-penalizan",
-      "fuente": "Motorpasión (ES)",
-      "fecha": "2026-09-14T08:01:01Z",
-      "resumen": "Carlos Sainz y Fernando Alonso tuvieron un tenso encuentro en el estreno del Gran Premio de España de Fórmula 1 en Madrid. Los dos pilotos españoles se chocaron en el primer tramo de la carrera, arruinando las opciones de puntuar para ambos. Sainz cree que fue un simple incidente inocente , pero Alonso no ha sido tan magnánimo . Fernando Alonso considera que Sainz tuvo demasiados incidentes en…",
-      "imagen": "https://i.blogs.es/b435af/sainz-alonso-madrid-f1-2026/1024_2000.jpeg",
-      "menciones": 5,
-      "fuentes": [
-        "Diariomotor (ES)",
-        "Motorpasión (ES)"
-      ]
-    },
-    {
-      "titulo": "Peugeot lanzó la preventa de la Partner Rapid en Argentina",
-      "link": "https://www.megautos.com/peugeot-partner-rapid-precio-preventa/",
-      "fuente": "Megautos",
-      "fecha": "2026-09-13T16:11:42Z",
-      "resumen": "El utilitario derivado de la Fiorino brasileña ya tiene precio en el país, donde está disponible inicialmente a través del plan de ahorro de la marca. La entrada Peugeot lanzó la preventa de la Partner Rapid en Argentina aparece primero en Mega Autos .",
-      "imagen": "https://www.megautos.com/wp-content/uploads/2026/08/ALE_0055.jpg",
-      "menciones": 2,
-      "fuentes": [
-        "iProfesional",
-        "Megautos"
-      ]
-    },
-    {
-      "titulo": "Max Verstappen contra 100 pilotos: sale último y acaba con todos en 13 vueltas",
-      "link": "https://www.diariomotor.com/competicion/noticia/max-verstappen-contra-100-pilotos/",
+      "titulo": "Con 1.020 CV y una batería de 651 kWh, este titán chino quiere humillar a Tesla y reventar el mercado europeo de camiones",
+      "link": "https://www.diariomotor.com/noticia/byd-ett-44-camion-electrico/",
       "fuente": "Diariomotor (ES)",
-      "fecha": "2026-09-16T23:04:59Z",
-      "resumen": "No es la primera vez que vemos a un piloto de la actual parrilla del Campeonato del Mundo de Fórmula 1 enfrentarse a otros competidores amateur o semi-profesionales, pero esta vez Max Verstappen y Red Bull lo han querido hacer por todo lo grande . En pleno impasse entre los Grandes Premios de Espaa y Azerbaiyán, el tetracampeón tenía un curioso duelo con hasta 100 pilotos en una a pista de karting…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/09/max-vs-100-karting-2026-silverstone-76-6aab0442e41e0.jpg?class=XL",
+      "fecha": "2026-09-17T19:00:42Z",
+      "resumen": "El futuro del transporte pesado es eléctrico . O eso es lo que afirman marcas como Tesla o BYD. El resto de fabricantes ya coquetea desde hace tiempo con cabezas tractoras eléctricas y aunque marcas como Mercedes han hecho una fuerte apuesta por ellas, el diésel sigue mandando en Europa . Pero BYD quiere cambiar eso. En la feria IAA Transportation 2026, en Hannover, el gigante chino ha presentado…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/09/byd-ett-44-13-6aabeed15d191.jpg?class=XL",
       "menciones": 1,
       "fuentes": [
         "Diariomotor (ES)"
       ]
     },
     {
-      "titulo": "Lando Norris saca una pole muy apretada en un Madring imprevisible",
-      "link": "https://www.diariomotor.com/competicion/noticia/lando-norris-saca-una-pole-muy-apretada-en-un-madring-imprevisible/",
+      "titulo": "HRC US muestra la decoración para despedirse del Campeonato IMSA SportsCar",
+      "link": "https://www.diariomotor.com/competicion/noticia/hrc-us-decoracion-despedida-imsa/",
       "fuente": "Diariomotor (ES)",
-      "fecha": "2026-09-12T17:26:30Z",
-      "resumen": "El Madring vivió una qualy tensa y llena de cambios, donde la dominante Mercedes dio un paso al costado por un momento. Lando Norris se apuntó su tercera pole en cuatro carreras con una vuelta constante, de equilibrio difícil en un circuito revirado y rápido a partes iguales. Andrea Kimi Antonelli le escoltará en la primera fila y desde la segunda partirán Max Verstappen y Lewis Hamilton, en lo…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/09/lando-norris-qualy-f1-madring-2026-6aa56efb6e036.jpg?class=XL",
-      "menciones": 2,
-      "fuentes": [
-        "Diariomotor (ES)",
-        "Motorpasión (ES)"
-      ]
-    },
-    {
-      "titulo": "Colapinto impulsa viajes a Brasil y las búsquedas para verlo se multiplicaron por 7",
-      "link": "https://www.iprofesional.com/actualidad/464595-franco-colapinto-cambia-viajes-a-brasil-y-busquedas-para-verlo-se-multiplicaron-por-7",
-      "fuente": "iProfesional",
-      "fecha": "2026-09-16T20:01:00Z",
-      "resumen": "Los argentinos se preparan para viajar a San Pablo por la Fórmula 1. Las búsquedas crecieron con fuerza y ya hay paquetes para asistir a la carrera (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
-      "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/09/625827.jpg",
-      "menciones": 1,
-      "fuentes": [
-        "iProfesional"
-      ]
-    },
-    {
-      "titulo": "¿Qué está pasando con el diésel? En Alemania ya toca los 3 €/litro y en España ha subido un 30% en poco tiempo",
-      "link": "https://www.diariomotor.com/noticia/por-que-diesel-es-tan-caro/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-09-16T19:00:45Z",
-      "resumen": "Estamos sufriendo una crisis energética y el diésel se está convirtiendo en el combustible más problemático. En España se ha encarecido más de un 30% en el último año, vuelve a rondar los 1,90 €/litro de media y la patronal de las estaciones de servicio advierte que podría subir otros 24 céntimos de golpe en octubre si el Gobierno no prorroga las rebajas fiscales. En Alemania, el diésel…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/09/precio-diesel-3-euros_aigen-6aaa81cc07380.jpg?class=XL",
+      "fecha": "2026-09-17T18:52:45Z",
+      "resumen": "Cuando solamente faltan dos fechas por disputar para completar el calendario del Campeonato IMSA SportsCar, desde HRC US comunicaron que el Acura ARX-06 número 93 va a exhibir una decoración denominada \"Gracias\" como tributo a aquellas personas que contribuyeron a este ciclo durante los últimos diez años. De esta forma, HRC y Acura Motorsports se despiden de la categoría de coches deportivos para…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/09/Acura_ARX_06_IMSA_Meyer_Shank_Racing_Tributo_2026_26-6aac10a16e1ec.jpg?class=XL",
       "menciones": 1,
       "fuentes": [
         "Diariomotor (ES)"
       ]
     },
     {
-      "titulo": "EEUU construyó una guillotina gigante para cortar bombarderos nucleares. Era para demostrar desde el espacio que la Guerra Fría había terminado",
-      "link": "https://www.motorpasion.com/furgonetas-y-caravanas/eeuu-construyo-guillotina-gigante-para-cortar-bombarderos-nucleares-era-para-demostrar-espacio-que-guerra-fria-habia-terminado",
+      "titulo": "Ya sabemos qué tamaño tiene el SUV más grande de FIAT, que llega a España como coupé y familiar",
+      "link": "https://www.diariomotor.com/noticia/fiat-grizzly-posicionamiento-espana/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-09-17T18:00:29Z",
+      "resumen": "Puede ser uno de los grandes bastiones de producto para Stellantis , que lo necesita en general, y para la gama de FIAT en particular, cuya oferta nunca ha tenido un modelo que se posicione en el lugar en el que lo hará el protagonista de estas líneas. Se llama Fiat Grizzly y, con dos versiones —una convencional y otra de estilo coupé— , es el modelo de la firma italiana destinado a colocarse en…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/09/Fiat-Grizzly-Fastback-6aabd3020756b.jpg?class=XL",
+      "menciones": 1,
+      "fuentes": [
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "OFICIAL: El WRC no viajará a Arabia Saudí y el Rally de Italia-Cerdeña pondrá punto y final al campeonato",
+      "link": "https://www.diariomotor.com/competicion/noticia/oficial-wrc-no-viajara-arabia-saudi-rally/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-09-17T17:45:41Z",
+      "resumen": "Finalmente habrá final de temporada anticipado para el Campeonato del Mundo de Rallyes. La FIA confirmaba esta misma tarde que finalmente no habrá Rally de Arabia Saudí dentro del WRC 2026, así como ninguna cita lo reemplazará, por lo que se oficializa que el Rally de Italia-Cerdeña, el cual se disputará el primer fin de semana de octubre, será la última cita de la actual campaña , suponiendo la…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/09/rally-italia-cerdena-2026-wrc-arabia-saudi-3-6aac0a99d4906.jpg?class=XL",
+      "menciones": 1,
+      "fuentes": [
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "Franco Colapinto, piloto de F1: \"A los 4 años me regalaron un cuatriciclo y a los 14 llegué a Italia. Mi padre tuvo que vender la casa para mi sueño de la Fórmula 1\"",
+      "link": "https://www.motorpasion.com/otros/franco-colapinto-piloto-f1-a-4-anos-me-regalaron-cuatriciclo-a-14-llegue-a-italia-mi-padre-tuvo-que-vender-casa-para-mi-sueno-formula-1",
       "fuente": "Motorpasión (ES)",
-      "fecha": "2026-09-16T19:00:12Z",
-      "resumen": "Un sistema de destrucción de centenares de bombarderos \"del día del juicio final\" , diseñado para convertir su eliminación en un espectáculo visible para los satélites . No es la trama de una película, sino uno de los episodios más locos del tratado que firmaron EEUU y la URSS justo al acabar la Guerra Fría . Tras décadas de carrera armamentística con un inmenso arsenal nuclear como protagonista,…",
-      "imagen": "https://i.blogs.es/2d3cf6/bombarderos-start-i-02/1024_2000.jpeg",
+      "fecha": "2026-09-17T17:00:13Z",
+      "resumen": "Franco Colapinto, piloto argentino de Alpine, sorprendió al público español en su visita a \"La Revuelta\" al repasar con total sinceridad el camino que lo llevó desde un cuatriciclo de niño hasta la parrilla de la Fórmula 1. Durante su charla con David Broncano, el corredor de 24 años, oriundo de Pilar, Buenos Aires, contó los detalles más personales de una historia marcada por la pasión familiar…",
+      "imagen": "https://i.blogs.es/f26d5c/franco-colapinto-piloto-de-f1-a-los-4-anos-me-regalaron-un-cuatriciclo-y-a-los-14-llegue-a-italia.-mi-padre-tuvo-que-vender-la-casa-para-mi-sueno-de-la-formula-1/1024_2000.jpeg",
       "menciones": 1,
       "fuentes": [
         "Motorpasión (ES)"
       ]
     },
     {
-      "titulo": "Cómo anda y cuánto sale la camioneta Ford Ranger Black 2026",
-      "link": "https://www.iprofesional.com/autos/462863-test-drive-de-la-ford-ranger-black-2026-precio-y-prestaciones",
-      "fuente": "iProfesional",
-      "fecha": "2026-09-16T19:00:00Z",
-      "resumen": "nalizamos la nueva camioneta de Ford. Enterate qué motor tiene, cómo es el andar de la versión urbana y cuánto cuesta este mes en el mercado (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
-      "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/08/624739.jpg",
+      "titulo": "Mike Elliott desembarca en Alpine para supervisar la dirección técnica",
+      "link": "https://www.diariomotor.com/competicion/noticia/mike-elliott-alpine-direccion-tecnica/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-09-17T16:41:44Z",
+      "resumen": "La escudería Alpine comunicó que Mike Elliott, exjefe de tecnología de Mercedes, ha llegado a las instalaciones de Enstone para encargarse del departamento técnico, en este caso supervisará al actual encargado que es David Sánchez. Elliott, reconocido por su atrevida propuesta W13, con su concepto \"zero pod\" fue dejado en libertad por parte de Mercedes y en su lugar retornó James Allison, que fue…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/09/Alpine_F1_Team_Espana_Mercedes_ME_FC__-6aabf30629255.jpg?class=XL",
       "menciones": 1,
       "fuentes": [
-        "iProfesional"
+        "Diariomotor (ES)"
       ]
     },
     {
-      "titulo": "Arrancó la pre-venta del octavo modelo de BYD",
-      "link": "https://eleconomista.com.ar/autos/arranco-pre-venta-octavo-modelo-byd-n98229",
-      "fuente": "El Economista",
-      "fecha": "2026-09-16T19:00:00Z",
-      "resumen": "La marca china sigue expandiendo su oferta y ahora llegó el turno del Ti7, un SUV premium que estrena la tecnología híbrida DM-p. ¿Cómo es y de qué manera de lo puede reservar?",
-      "imagen": "https://statics.eleconomista.com.ar/2026/09/crop/6aaae511900d6__950x512.webp?v=1789585474",
-      "menciones": 1,
-      "fuentes": [
-        "El Economista"
-      ]
-    },
-    {
-      "titulo": "Mercedes-Benz CLA 200, el sedán que combina un motor 1.3 con lujo y tecnología",
-      "link": "https://www.iprofesional.com/autos/464584-cuanto-hay-que-pagar-por-el-auto-mercedes-benz-cla-200-y-que-ofrece",
-      "fuente": "iProfesional",
-      "fecha": "2026-09-16T18:32:00Z",
-      "resumen": "El sedán es un clásico que sobresale por su silueta, un precio que no desentona y prestaciones que cumplen. Lo manejamos y te contamos cómo anda (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
-      "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/09/625813.jpg",
-      "menciones": 1,
-      "fuentes": [
-        "iProfesional"
-      ]
-    },
-    {
-      "titulo": "China estrenó hace unos meses un arma que puede cambiar las reglas de la guerra: un 'portaaviones' volador que lanza 100 drones kamikaze",
-      "link": "https://www.motorpasion.com/industria/china-estreno-hace-unos-meses-arma-que-puede-cambiar-reglas-guerra-portaaviones-volador-que-lanza-100-drones-kamikaze",
+      "titulo": "Pascal vive en su autocaravana y gasta 844 euros al mes: \"Excepto por el diésel, es más barato que vivir en una casa\"",
+      "link": "https://www.motorpasion.com/furgonetas-y-caravanas/pascal-vive-su-autocaravana-gasta-844-euros-al-mes-excepto-diesel-barato-que-vivir-casa",
       "fuente": "Motorpasión (ES)",
-      "fecha": "2026-09-16T18:30:12Z",
-      "resumen": "China acaba de dar un salto tecnológico sin precedentes en el campo militar con el estreno del ‘Jiu Tian’, el mayor portadrones del mundo . Esta especie de “portaaviones volador” es una gigantesca nave nodriza no tripulada, diseñada para transportar y lanzar hasta cien drones kamikaze en vuelo coordinado. Este avance marca una distancia enorme respecto a la década pasada, cuando Pekín aún dependía…",
-      "imagen": "https://i.blogs.es/9aa398/portadrones-china/1024_2000.jpeg",
+      "fecha": "2026-09-17T16:00:13Z",
+      "resumen": "\"Excepto el combustible, es más barato que vivir en una casa\". Lo dice Pascal , que lleva ocho años residiendo en su autocaravana . Este camperista francés a tiempo completo, que tiene un canal en YouTube para consejos camper , responde sin romanticismo a la gran pregunta que se hacen los que quieren pasarse a la vida nómada: ¿Cuánto cuesta realmente vivir sobre ruedas? \"En este vídeo, no os estoy…",
+      "imagen": "https://i.blogs.es/70a742/cuanto-cuesta-mes-vivir-autocaravana-844-euros/1024_2000.jpeg",
       "menciones": 1,
       "fuentes": [
         "Motorpasión (ES)"
       ]
     },
     {
-      "titulo": "Sunbeam Tiger: el Shelby británico a un décimo del Cobra",
-      "link": "https://autotest.com.ar/carreras/sunbeam-tiger-el-shelby-britanico-a-un-decimo-del-cobra/",
+      "titulo": "Como una Zontes 368G pero en 125 y por 2.600 € menos, esta española es una excelente opción con casi 15 CV, una estética brutal y súper equipada",
+      "link": "https://www.diariomotor.com/motos/next-nx-cross-125/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-09-17T15:30:22Z",
+      "resumen": "Las scooters de estilo campero están de moda y son ya muchas las propuestas que puedes encontrar en el mercado que destacan por su estética agresiva y ruda . Entre las opciones en 125 centímetros cúbicos hay una opción española bastante desconocida que debería ir ganando protagonismo gracias a una relación valor-precio favorable y a una estética que nada tiene que envidiar a productos de mayor…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/09/next-nx-cross-125i-6aabdcc4f08ba.png?class=XL",
+      "menciones": 1,
+      "fuentes": [
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "Llega una versión \"4x4\" más barata al último coche eléctrico de Mercedes, que deja la actual como una compra \"sin sentido\"",
+      "link": "https://www.diariomotor.com/noticia/mercedes-c-300-electrico/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-09-17T15:00:14Z",
+      "resumen": "La rapidez con la que evoluciona la tecnología eléctrica dentro del sector del automóvil es comparable a la estelar evolución que han tenido los teléfonos móviles en estos últimos años. Tanto es así que, una vez hecha la compra, mejor no volver a mirar el mercado semanas después, pues puede haber tenido lugar la llegada de una versión o modelo que hubiera hecho cambiar de decisión al comprador de…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/04/Mercedes-Clase-C-2026-6-69e60f7cb03c4.jpg?class=XL",
+      "menciones": 1,
+      "fuentes": [
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "Nuevos precios del Renault Boreal: cuánto cuestan en septiembre las tres versiones del SUV mediano",
+      "link": "https://autotest.com.ar/noticias/nuevos-precios-del-renault-boreal-cuanto-cuestan-en-septiembre-las-tres-versiones-del-suv-mediano/",
       "fuente": "Autotest",
-      "fecha": "2026-09-16T18:05:41Z",
-      "resumen": "El auto también mantiene las mejoras de performance respetuosas de la época, conocidas como period-correct upgrades, que no invaden la integridad del auto con soluciones modernas.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/sunbeam-tiger-el-shelby-brit-nico-a-un-d-1200x740-1.jpg",
-      "menciones": 1,
+      "fecha": "2026-09-17T14:27:27Z",
+      "resumen": "Renault presenta su renovado Boreal 2026 en Argentina con precios actualizados y financiación a tasa 0%. Conocé cómo se compara con la Ford Territory.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/05/Renault-Boreal-Iconic.jpg",
+      "menciones": 5,
       "fuentes": [
         "Autotest"
       ]
