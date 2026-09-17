@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-17T17:38:47Z",
+  "actualizado": "2026-09-17T19:46:12Z",
   "desde": "2026-09-10",
   "hasta": "2026-09-17",
   "destacadas": [
@@ -29,20 +29,6 @@
         "Autotest",
         "Diariomotor (ES)",
         "iProfesional"
-      ]
-    },
-    {
-      "titulo": "Mercedes-AMG CLE 646 Spezialanfertigung: de qué se trata",
-      "link": "https://www.megautos.com/mercedes-amg-cle-646-spezialanfertigung/",
-      "fuente": "Megautos",
-      "fecha": "2026-09-14T22:41:14Z",
-      "resumen": "La marca alemana presentó un deportivo exclusivo con una preparación específica para circuito. Tiene motor V8 biturbo, tracción trasera y una reducción de peso. La entrada Mercedes-AMG CLE 646 Spezialanfertigung: de qué se trata aparece primero en Mega Autos .",
-      "imagen": "https://www.megautos.com/wp-content/uploads/2026/09/26c0252_020.jpg",
-      "menciones": 3,
-      "fuentes": [
-        "Autotest",
-        "Diariomotor (ES)",
-        "Megautos"
       ]
     },
     {
@@ -117,7 +103,7 @@
       "fecha": "2026-09-16T15:00:01Z",
       "resumen": "Skoda acaba de quitarle 4.300 euros al precio de acceso de su SUV eléctrico más pequeño. El nuevo Skoda Epiq 40 parte oficialmente desde 18.500 euros y conserva dos de los mejores argumentos del modelo: se fabrica en España y ofrece un enorme maletero de 475 litros. No estamos ante una rebaja del Epiq 55 de 211 CV y 437 kilómetros de autonomía del que os hablé recientemente , sino ante una nueva…",
       "imagen": "https://www.diariomotor.com/imagenes/2026/09/Skoda_Epiq-105-6aa905489ec99.jpg?class=XL",
-      "menciones": 6,
+      "menciones": 5,
       "fuentes": [
         "Diariomotor (ES)",
         "Motorpasión (ES)"
@@ -176,6 +162,19 @@
       ]
     },
     {
+      "titulo": "Mercedes-AMG CLE 646 Spezialanfertigung: de qué se trata",
+      "link": "https://www.megautos.com/mercedes-amg-cle-646-spezialanfertigung/",
+      "fuente": "Megautos",
+      "fecha": "2026-09-14T22:41:14Z",
+      "resumen": "La marca alemana presentó un deportivo exclusivo con una preparación específica para circuito. Tiene motor V8 biturbo, tracción trasera y una reducción de peso. La entrada Mercedes-AMG CLE 646 Spezialanfertigung: de qué se trata aparece primero en Mega Autos .",
+      "imagen": "https://www.megautos.com/wp-content/uploads/2026/09/26c0252_020.jpg",
+      "menciones": 2,
+      "fuentes": [
+        "Autotest",
+        "Megautos"
+      ]
+    },
+    {
       "titulo": "Confirmado: la DGT autoriza los taxis autónomos de Uber en Madrid. Se probarán ya y podrán pedirse antes de que acabe el año",
       "link": "https://www.motorpasion.com/tecnologia/confirmado-dgt-autoriza-taxis-autonomos-uber-madrid-se-probaran-podran-pedirse-acabe-ano",
       "fuente": "Motorpasión (ES)",
@@ -186,6 +185,42 @@
       "fuentes": [
         "Diariomotor (ES)",
         "Motorpasión (ES)"
+      ]
+    },
+    {
+      "titulo": "El Dakar 2027 entra en una carrera contrarreloj tras la cancelación del Rally de Arabia Saudí",
+      "link": "https://www.diariomotor.com/competicion/noticia/dakar-2027-cancelacion-rally-arabia-saudi/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-09-17T21:45:22Z",
+      "resumen": "La confirmación de que el Rally de Arabia Saudí finalmente no se disputará como parte del WRC 2026 ha supuesto seguramente el último mensaje que hacía falta para empezar a plantearse lo que puede ser una cancelación del Rally Dakar 2027. El evento, que está programado para los días-15 de enero y que se desarrollará íntegramente en el país saudí una vez más, sigue monitorizando el estado del…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/09/rally-dakar-2027-aso-fia-arabia-saudi-2-6aac43114851c.jpg?class=XL",
+      "menciones": 1,
+      "fuentes": [
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "Europa está obsesionada con los coches chinos y ahora quiere frenar a sus híbridos: \"si no lo hacen ellos, lo haremos nosotros\"",
+      "link": "https://www.diariomotor.com/noticia/europa-pide-china-limitar-exportaciones-coches-hibridos/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-09-17T20:00:43Z",
+      "resumen": "Hasta el día de hoy, 1 de cada 4 coches matriculados en este mes de septiembre, y destinados a particulares, han sido fabricados en China (según los datos de la DGT que, con cariño, analizamos desde este medio). La presión de la industria China es cada vez mayor. Europa sigue obsesionada con los coches chinos y aunque su preocupación inicial fueron sus eléctricos - de ahí la imposición de…",
+      "imagen": "https://www.diariomotor.com/imagenes/2025/06/Llega-Europa-BYD-Seal-05-dmi-1-685510f1e5add.jpg?class=XL",
+      "menciones": 1,
+      "fuentes": [
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "Las Chevrolet Tracker y Montana híbridas, para 2027",
+      "link": "https://www.megautos.com/chevrolet-tracker-montana-hibrida-2027/",
+      "fuente": "Megautos",
+      "fecha": "2026-09-17T19:34:17Z",
+      "resumen": "Los modelos electrificados se preparan para desembarcar en los concesionarios de Brasil. Llegarán con tecnología MHEV de 48 voltios junto al motor 1.2 turbo. La entrada Las Chevrolet Tracker y Montana híbridas, para 2027 aparece primero en Mega Autos .",
+      "imagen": "https://www.megautos.com/wp-content/uploads/2026/07/2027-chevrolet-montana-Premier_03.jpg",
+      "menciones": 1,
+      "fuentes": [
+        "Megautos"
       ]
     },
     {
@@ -225,6 +260,18 @@
       ]
     },
     {
+      "titulo": "Manuel Carrasco, experto en limpieza de coches: \"limpiar el parabrisas por dentro como si fuera una ventana de casa es un error\"",
+      "link": "https://www.motorpasion.com/revision/manuel-carrasco-experto-detailing-mallorca-limpiar-parabrisas-dentro-igual-que-cristal-error",
+      "fuente": "Motorpasión (ES)",
+      "fecha": "2026-09-17T18:00:13Z",
+      "resumen": "Manuel Carrasco lleva años al frente de Wash Car, su centro de lavado y detailing en Palma de Mallorca, y hay un fallo que ve repetirse cada semana. Y soy uno de los que cometía ese error...hasta hoy. Básicamente, limpiaba el parabrisas por dentro igual que limpiaba una ventana de casa. El resultado, asegura el experto, es el contrario al buscado. Veladuras, cercos circulares y una pátina…",
+      "imagen": "https://i.blogs.es/9ee499/limpieza-parabrisas/1024_2000.jpeg",
+      "menciones": 1,
+      "fuentes": [
+        "Motorpasión (ES)"
+      ]
+    },
+    {
       "titulo": "OFICIAL: El WRC no viajará a Arabia Saudí y el Rally de Italia-Cerdeña pondrá punto y final al campeonato",
       "link": "https://www.diariomotor.com/competicion/noticia/oficial-wrc-no-viajara-arabia-saudi-rally/",
       "fuente": "Diariomotor (ES)",
@@ -258,54 +305,6 @@
       "menciones": 1,
       "fuentes": [
         "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "Pascal vive en su autocaravana y gasta 844 euros al mes: \"Excepto por el diésel, es más barato que vivir en una casa\"",
-      "link": "https://www.motorpasion.com/furgonetas-y-caravanas/pascal-vive-su-autocaravana-gasta-844-euros-al-mes-excepto-diesel-barato-que-vivir-casa",
-      "fuente": "Motorpasión (ES)",
-      "fecha": "2026-09-17T16:00:13Z",
-      "resumen": "\"Excepto el combustible, es más barato que vivir en una casa\". Lo dice Pascal , que lleva ocho años residiendo en su autocaravana . Este camperista francés a tiempo completo, que tiene un canal en YouTube para consejos camper , responde sin romanticismo a la gran pregunta que se hacen los que quieren pasarse a la vida nómada: ¿Cuánto cuesta realmente vivir sobre ruedas? \"En este vídeo, no os estoy…",
-      "imagen": "https://i.blogs.es/70a742/cuanto-cuesta-mes-vivir-autocaravana-844-euros/1024_2000.jpeg",
-      "menciones": 1,
-      "fuentes": [
-        "Motorpasión (ES)"
-      ]
-    },
-    {
-      "titulo": "Como una Zontes 368G pero en 125 y por 2.600 € menos, esta española es una excelente opción con casi 15 CV, una estética brutal y súper equipada",
-      "link": "https://www.diariomotor.com/motos/next-nx-cross-125/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-09-17T15:30:22Z",
-      "resumen": "Las scooters de estilo campero están de moda y son ya muchas las propuestas que puedes encontrar en el mercado que destacan por su estética agresiva y ruda . Entre las opciones en 125 centímetros cúbicos hay una opción española bastante desconocida que debería ir ganando protagonismo gracias a una relación valor-precio favorable y a una estética que nada tiene que envidiar a productos de mayor…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/09/next-nx-cross-125i-6aabdcc4f08ba.png?class=XL",
-      "menciones": 1,
-      "fuentes": [
-        "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "Llega una versión \"4x4\" más barata al último coche eléctrico de Mercedes, que deja la actual como una compra \"sin sentido\"",
-      "link": "https://www.diariomotor.com/noticia/mercedes-c-300-electrico/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-09-17T15:00:14Z",
-      "resumen": "La rapidez con la que evoluciona la tecnología eléctrica dentro del sector del automóvil es comparable a la estelar evolución que han tenido los teléfonos móviles en estos últimos años. Tanto es así que, una vez hecha la compra, mejor no volver a mirar el mercado semanas después, pues puede haber tenido lugar la llegada de una versión o modelo que hubiera hecho cambiar de decisión al comprador de…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/04/Mercedes-Clase-C-2026-6-69e60f7cb03c4.jpg?class=XL",
-      "menciones": 1,
-      "fuentes": [
-        "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "Nuevos precios del Renault Boreal: cuánto cuestan en septiembre las tres versiones del SUV mediano",
-      "link": "https://autotest.com.ar/noticias/nuevos-precios-del-renault-boreal-cuanto-cuestan-en-septiembre-las-tres-versiones-del-suv-mediano/",
-      "fuente": "Autotest",
-      "fecha": "2026-09-17T14:27:27Z",
-      "resumen": "Renault presenta su renovado Boreal 2026 en Argentina con precios actualizados y financiación a tasa 0%. Conocé cómo se compara con la Ford Territory.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/05/Renault-Boreal-Iconic.jpg",
-      "menciones": 5,
-      "fuentes": [
-        "Autotest"
       ]
     }
   ]
