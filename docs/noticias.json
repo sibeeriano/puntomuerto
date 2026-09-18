@@ -8,20 +8,20 @@
     "imagen": "https://i.blogs.es/e97c4b/voltpost/1024_2000.jpeg"
   },
   {
-    "titulo": "Hoy llega a Lidl la aspiradora de mano recargable de 24,99 ideal para limpiar el coche por dentro, y ya se está agotando",
-    "link": "https://www.motorpasion.com/revision/hoy-llega-a-lidl-aspiradora-mano-recargable-24-99-ideal-para-limpiar-coche-dentro-se-esta-agotando",
-    "fuente": "Motorpasión (ES)",
-    "fecha": "2026-09-18T18:00:12Z",
-    "resumen": "La marca de herramientas Parkside cada vez tiene más peso en los supermercados de Lidl . Solo hay que ver las colas que se forman en la entrada de las tiendas cada vez que llegan a su sección de bazar nuevas cosas del catálogo de Parkside. Es lo que ha sucedido esta mañana. Hoy, día 28 de septiembre, una de las novedades del bazar de Lidl ha sido la aspiradora de mano Parkside de 24,99 euros y…",
-    "imagen": "https://i.blogs.es/df5eff/lidl-_1/1024_2000.jpeg"
-  },
-  {
     "titulo": "No hace falta comprar un Toyota RAV4 para tener un SUV híbrido de 200 CV y 4,7 l/100 km, Renault tiene un Made in Spain por 8.000 € menos",
     "link": "https://www.diariomotor.com/noticia/oferta-renault-austral-septiembre-2026/",
     "fuente": "Diariomotor (ES)",
     "fecha": "2026-09-18T18:13:32Z",
     "resumen": "Cuando se nos pasa por la cabeza la idea de comprar un coche nuevo, es muy probable que pensemos en un SUV. Y no solo en un SUV, sino en uno híbrido. Una combinación que seguramente nos lleve a modelos como el Toyota RAV4. ¿La realidad? Que Renault ofrece un rival directo con 200 CV, un consumo de 4,7 l/100 km y etiqueta ECO por 8.000 euros menos . El Renault Austral es un SUV híbrido de 200 CV…",
     "imagen": "https://www.diariomotor.com/imagenes/2026/07/oferta-renault-austral-julio-2026-portada-6a510cd4e781d.png?class=XL"
+  },
+  {
+    "titulo": "Hoy llega a Lidl la aspiradora de mano recargable de 24,99 ideal para limpiar el coche por dentro, y ya se está agotando",
+    "link": "https://www.motorpasion.com/revision/hoy-llega-a-lidl-aspiradora-mano-recargable-24-99-ideal-para-limpiar-coche-dentro-se-esta-agotando",
+    "fuente": "Motorpasión (ES)",
+    "fecha": "2026-09-18T18:00:12Z",
+    "resumen": "La marca de herramientas Parkside cada vez tiene más peso en los supermercados de Lidl . Solo hay que ver las colas que se forman en la entrada de las tiendas cada vez que llegan a su sección de bazar nuevas cosas del catálogo de Parkside. Es lo que ha sucedido esta mañana. Hoy, día 28 de septiembre, una de las novedades del bazar de Lidl ha sido la aspiradora de mano Parkside de 24,99 euros y…",
+    "imagen": "https://i.blogs.es/df5eff/lidl-_1/1024_2000.jpeg"
   },
   {
     "titulo": "Max Verstappen y su Audi RS6 ABT: 740 CV para ir al súper en Mónaco",
@@ -62,6 +62,14 @@
     "fecha": "2026-09-18T17:40:49Z",
     "resumen": "La diferencia es que ahora tenés un motor de bloque de hierro, inyección directa y distribución variable, rodeado de una electrónica que lo mantiene eficiente sin renunciar a su esencia.",
     "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/v8-atmosf-rico-de-6-6-litros-y-629-nm-el-1200x740-1.jpg"
+  },
+  {
+    "titulo": "Automotrices le piden a Trump excluir a los autos chinos de la cumbre con Xi Jinping",
+    "link": "https://eleconomista.com.ar/autos/automotrices-le-piden-trump-excluir-autos-chinos-cumbre-xi-jinping-n98287",
+    "fuente": "El Economista",
+    "fecha": "2026-09-18T20:38:00Z",
+    "resumen": "Mediante una carta, las compañías que producen en EE.UU. lo instaron a que deje este tema fuera de la agenda. Se da luego de que al mandatario expresara en una nota que si las terminales chinas quieren fabricar localmente no se opondría.",
+    "imagen": "https://statics.eleconomista.com.ar/2026/09/crop/6aada329e4408__950x512.webp?v=1789765195"
   },
   {
     "titulo": "Ferrari Daytona 1970 con V12 original a subasta: solo 1.200 coupés se fabricaron",
@@ -334,6 +342,14 @@
     "fecha": "2026-09-18T08:47:43Z",
     "resumen": "Que un peatón tenga preferencia de paso en cualquier punto de la calle , aunque no haya un paso de cebra . Es uno de los cambios que entran en vigor el 1 de octubre, reformando la normativa de Tráfico, enfocados a proteger a los usuarios más vulnerables : viandantes, ciclistas, motoristas y usuarios de patinetes eléctricos (VMP). Esta nueva norma se aplicará en calles urbanas de una determinada…",
     "imagen": "https://i.blogs.es/c1311d/calle-platafoma-unica-nuevas-normas-dgt/1024_2000.jpeg"
+  },
+  {
+    "titulo": "\"El mercado de motos será récord y podría llegar al millón de unidades\"",
+    "link": "https://eleconomista.com.ar/autos/el-mercado-motos-sera-record-podria-llegar-millon-unidades-n98237",
+    "fuente": "El Economista",
+    "fecha": "2026-09-18T11:45:00Z",
+    "resumen": "Diego Cammisa, Presidente de Yamaha Motor Argentina, reflexiona sobre los cambios en el sector de las dos ruedas y la potencialidad de crecimiento. Además, adelanta la llegada de un nuevo modelo de producción local que le dará volumen a la marca japonesa.",
+    "imagen": "https://statics.eleconomista.com.ar/2026/09/crop/6aab5a5f4409d__950x512.webp"
   },
   {
     "titulo": "El Tank 300 es un brutal todoterreno que llega a España este 2026 y que ahora tiene una versión más radical",

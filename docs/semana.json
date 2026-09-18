@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-18T19:06:11Z",
+  "actualizado": "2026-09-18T21:53:10Z",
   "desde": "2026-09-11",
   "hasta": "2026-09-18",
   "destacadas": [
@@ -24,7 +24,7 @@
       "fecha": "2026-09-18T18:13:32Z",
       "resumen": "Cuando se nos pasa por la cabeza la idea de comprar un coche nuevo, es muy probable que pensemos en un SUV. Y no solo en un SUV, sino en uno híbrido. Una combinación que seguramente nos lleve a modelos como el Toyota RAV4. ¿La realidad? Que Renault ofrece un rival directo con 200 CV, un consumo de 4,7 l/100 km y etiqueta ECO por 8.000 euros menos . El Renault Austral es un SUV híbrido de 200 CV…",
       "imagen": "https://www.diariomotor.com/imagenes/2026/07/oferta-renault-austral-julio-2026-portada-6a510cd4e781d.png?class=XL",
-      "menciones": 16,
+      "menciones": 15,
       "fuentes": [
         "Autotest",
         "Diariomotor (ES)"
@@ -187,6 +187,18 @@
       ]
     },
     {
+      "titulo": "Automotrices le piden a Trump excluir a los autos chinos de la cumbre con Xi Jinping",
+      "link": "https://eleconomista.com.ar/autos/automotrices-le-piden-trump-excluir-autos-chinos-cumbre-xi-jinping-n98287",
+      "fuente": "El Economista",
+      "fecha": "2026-09-18T20:38:00Z",
+      "resumen": "Mediante una carta, las compañías que producen en EE.UU. lo instaron a que deje este tema fuera de la agenda. Se da luego de que al mandatario expresara en una nota que si las terminales chinas quieren fabricar localmente no se opondría.",
+      "imagen": "https://statics.eleconomista.com.ar/2026/09/crop/6aada329e4408__950x512.webp?v=1789765195",
+      "menciones": 1,
+      "fuentes": [
+        "El Economista"
+      ]
+    },
+    {
       "titulo": "Los cargadores de coches eléctricos tienen un grave problema: el robo de cobre. Lo han solucionado haciendo cables inalcanzables",
       "link": "https://www.motorpasion.com/observatorio-motorpasion/cargadores-coches-electricos-tienen-grave-problema-robo-cobre-han-solucionado-haciendo-cables-inalcanzables",
       "fuente": "Motorpasión (ES)",
@@ -292,18 +304,6 @@
       "menciones": 1,
       "fuentes": [
         "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "Playas de agua turquesa, dunas y arte urbano: el pueblo costero más infravalorado de Castellón es perfecto para ir en camper",
-      "link": "https://www.motorpasion.com/furgonetas-y-caravanas/playas-agua-turquesa-dunas-arte-urbano-pueblo-costero-infravalorado-castellon-perfecto-para-ir-camper",
-      "fuente": "Motorpasión (ES)",
-      "fecha": "2026-09-18T16:00:12Z",
-      "resumen": "No todo Levante está masificado: hay lugares con playas de arena fina y aguas cristalinas donde no tener que luchar por un hueco. Torreblanca es uno de ellos. Este rincón de la Costa Azahar ofrece una alternativa a destinos mucho más concurridos como Peñíscola o Benicàssim, con playas, gastronomía valenciana y un entorno natural único. Torreblanca combina marismas, dunas y amplios arenales con un…",
-      "imagen": "https://i.blogs.es/b43e32/torreblanca-02/1024_2000.jpeg",
-      "menciones": 1,
-      "fuentes": [
-        "Motorpasión (ES)"
       ]
     }
   ]
