@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-18T17:05:07Z",
+  "actualizado": "2026-09-18T19:06:11Z",
   "desde": "2026-09-11",
   "hasta": "2026-09-18",
   "destacadas": [
@@ -25,6 +25,19 @@
       "resumen": "Cuando se nos pasa por la cabeza la idea de comprar un coche nuevo, es muy probable que pensemos en un SUV. Y no solo en un SUV, sino en uno híbrido. Una combinación que seguramente nos lleve a modelos como el Toyota RAV4. ¿La realidad? Que Renault ofrece un rival directo con 200 CV, un consumo de 4,7 l/100 km y etiqueta ECO por 8.000 euros menos . El Renault Austral es un SUV híbrido de 200 CV…",
       "imagen": "https://www.diariomotor.com/imagenes/2026/07/oferta-renault-austral-julio-2026-portada-6a510cd4e781d.png?class=XL",
       "menciones": 16,
+      "fuentes": [
+        "Autotest",
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "Adiós al V6 biturbo: la Toyota Hilux del Dakar ahora se mueve con hidrógeno y 174 CV de referencia",
+      "link": "https://autotest.com.ar/offroad/adios-al-v6-biturbo-la-toyota-hilux-del-dakar-ahora-se-mueve-con-hidrogeno-y-174-cv-de-referencia/",
+      "fuente": "Autotest",
+      "fecha": "2026-09-18T17:40:49Z",
+      "resumen": "La entrega instantánea de par eléctrico es una ventaja en arena y terrenos de baja adherencia, pero obliga a cuidar refrigeración y gestión electrónica.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/adi-s-al-v6-biturbo-la-toyota-hilux-del-1200x740-1.jpg",
+      "menciones": 2,
       "fuentes": [
         "Autotest",
         "Diariomotor (ES)"
@@ -174,6 +187,78 @@
       ]
     },
     {
+      "titulo": "Los cargadores de coches eléctricos tienen un grave problema: el robo de cobre. Lo han solucionado haciendo cables inalcanzables",
+      "link": "https://www.motorpasion.com/observatorio-motorpasion/cargadores-coches-electricos-tienen-grave-problema-robo-cobre-han-solucionado-haciendo-cables-inalcanzables",
+      "fuente": "Motorpasión (ES)",
+      "fecha": "2026-09-18T18:30:12Z",
+      "resumen": "Uno de los inconvenientes que encuentra mucha gente a los coches eléctricos y a los híbridos enchufables es que no tienen dónde cargarlos. Sin un cargador en casa o en el trabajo ( o sin espacio en el garaje para instalarlo ), les preocupa que la infraestructura de carga no sea lo suficientemente grande como para que todo el mundo pueda cargar su vehículo enchufable en la calle . Es un problema…",
+      "imagen": "https://i.blogs.es/e97c4b/voltpost/1024_2000.jpeg",
+      "menciones": 1,
+      "fuentes": [
+        "Motorpasión (ES)"
+      ]
+    },
+    {
+      "titulo": "Hoy llega a Lidl la aspiradora de mano recargable de 24,99 ideal para limpiar el coche por dentro, y ya se está agotando",
+      "link": "https://www.motorpasion.com/revision/hoy-llega-a-lidl-aspiradora-mano-recargable-24-99-ideal-para-limpiar-coche-dentro-se-esta-agotando",
+      "fuente": "Motorpasión (ES)",
+      "fecha": "2026-09-18T18:00:12Z",
+      "resumen": "La marca de herramientas Parkside cada vez tiene más peso en los supermercados de Lidl . Solo hay que ver las colas que se forman en la entrada de las tiendas cada vez que llegan a su sección de bazar nuevas cosas del catálogo de Parkside. Es lo que ha sucedido esta mañana. Hoy, día 28 de septiembre, una de las novedades del bazar de Lidl ha sido la aspiradora de mano Parkside de 24,99 euros y…",
+      "imagen": "https://i.blogs.es/df5eff/lidl-_1/1024_2000.jpeg",
+      "menciones": 1,
+      "fuentes": [
+        "Motorpasión (ES)"
+      ]
+    },
+    {
+      "titulo": "Max Verstappen y su Audi RS6 ABT: 740 CV para ir al súper en Mónaco",
+      "link": "https://autotest.com.ar/noticias/max-verstappen-y-su-audi-rs6-abt-740-cv-para-ir-al-super-en-monaco/",
+      "fuente": "Autotest",
+      "fecha": "2026-09-18T17:40:49Z",
+      "resumen": "El RS6 Avant le da eso: espacio, confort, tracción integral y una posición de manejo más relajada que un deportivo puro. Y con la preparación ABT, el empuje del V8 biturbo está a la altura de sus reflejos.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/max-verstappen-y-su-audi-rs6-abt-740-cv-1200x740-1.jpg",
+      "menciones": 1,
+      "fuentes": [
+        "Autotest"
+      ]
+    },
+    {
+      "titulo": "Lotus revive el Esprit con 1.000 HP eléctricos y desafía su propio mito liviano",
+      "link": "https://autotest.com.ar/noticias/lotus-revive-el-esprit-con-1-000-hp-electricos-y-desafia-su-propio-mito-liviano/",
+      "fuente": "Autotest",
+      "fecha": "2026-09-18T17:40:49Z",
+      "resumen": "El Type 135 es el código interno del proyecto con el que Lotus planea revivir al Esprit, el deportivo que la marca produjo entre 1976 y 2004 y que se volvió un ícono del diseño de cuña.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/lotus-revive-el-esprit-con-1-000-hp-el-c-1200x740-1.jpg",
+      "menciones": 1,
+      "fuentes": [
+        "Autotest"
+      ]
+    },
+    {
+      "titulo": "Volvo XC90 PHEV 2027: 160 km eléctricos para dejar de usar nafta en el día a día",
+      "link": "https://autotest.com.ar/offroad/volvo-xc90-phev-2027-160-km-electricos-para-dejar-de-usar-nafta-en-el-dia-a-dia/",
+      "fuente": "Autotest",
+      "fecha": "2026-09-18T17:40:49Z",
+      "resumen": "Un híbrido enchufable combina una batería recargable a un enchufe con un motor de combustión de respaldo. A diferencia de un híbrido convencional, puede circular en modo 100% eléctrico durante decenas de kilómetros.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/volvo-xc90-phev-2027-160-km-el-ctricos-p-1200x740-1.jpg",
+      "menciones": 1,
+      "fuentes": [
+        "Autotest"
+      ]
+    },
+    {
+      "titulo": "V8 atmosférico de 6.6 litros y 629 Nm: el motor que Europa ya no puede vender y GM sigue fabricando",
+      "link": "https://autotest.com.ar/offroad/v8-atmosferico-de-6-6-litros-y-629-nm-el-motor-que-europa-ya-no-puede-vender-y-gm-sigue-fabricando/",
+      "fuente": "Autotest",
+      "fecha": "2026-09-18T17:40:49Z",
+      "resumen": "La diferencia es que ahora tenés un motor de bloque de hierro, inyección directa y distribución variable, rodeado de una electrónica que lo mantiene eficiente sin renunciar a su esencia.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/v8-atmosf-rico-de-6-6-litros-y-629-nm-el-1200x740-1.jpg",
+      "menciones": 1,
+      "fuentes": [
+        "Autotest"
+      ]
+    },
+    {
       "titulo": "Ferrari Daytona 1970 con V12 original a subasta: solo 1.200 coupés se fabricaron",
       "link": "https://autotest.com.ar/noticias/ferrari-daytona-1970-con-v12-original-a-subasta-solo-1-200-coupes-se-fabricaron/",
       "fuente": "Autotest",
@@ -219,90 +304,6 @@
       "menciones": 1,
       "fuentes": [
         "Motorpasión (ES)"
-      ]
-    },
-    {
-      "titulo": "Haas F1 y BWT hablan de patrocinio, pero con ciertas condiciones",
-      "link": "https://www.diariomotor.com/competicion/noticia/haas-f1-bwt-patrocinio-condiciones/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-09-18T15:40:28Z",
-      "resumen": "Desde que se anunció que Gucci pasaría a ser patrocinador principal de la escudería Alpine a partir de 2027, lo que significó la salida de BWT del equipo, la firma austriaca ha permanecido en el paddock buscando establecer una nueva alianza y sus representantes han sido vistos conversando con Ayao Komatsu, jefe del equipo Haas F1. Si bien el ingeniero japonés se siente halagado por hablar de…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/09/Esteban_Ocon_Haas_F1_Team_patrocinio_2026_2_27-6aad2c28b43d9.jpg?class=XL",
-      "menciones": 1,
-      "fuentes": [
-        "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "Prueba de consumo: ¿cuánto gasta la Kia Tasman turbodiesel?",
-      "link": "https://autotest.com.ar/noticias/prueba-de-consumo-cuanto-gasta-la-kia-tasman-turbodiesel/",
-      "fuente": "Autotest",
-      "fecha": "2026-09-18T15:20:02Z",
-      "resumen": "Analizamos el consumo de combustible de la Kia Tasman EX 2.2 CRDI 4x4 8AT y su autonomía en ciudad, ruta y uso mixto con sorprendente eficiencia.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/Kia-Tasman-2.jpg",
-      "menciones": 1,
-      "fuentes": [
-        "Autotest"
-      ]
-    },
-    {
-      "titulo": "Por 28.000 € a estreno, ningún coche en España supera en motor, tamaño y equipamiento al Tiguan de Geely, que hace 85 km antes de gastar gasolina",
-      "link": "https://www.diariomotor.com/noticia/geely-starray-em-i-sept-2026/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-09-18T15:00:52Z",
-      "resumen": "A menudo, con el fin de publicar la información más valiosa posible, me pongo en la piel de quien comienza la búsqueda de un coche nuevo, pues es más complicado que nunca tomar una decisión debido a la enorme variedad de condicionantes (normas de circulación y futuras restricciones sobre la mesa), modelos, marcas y tecnologías, pero lo cierto es que casi siempre acabo considerando los mismos…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/04/Mejor-version-Geely-Starray-EM-i-1-69e9ddb5354e9.jpg?class=XL",
-      "menciones": 4,
-      "fuentes": [
-        "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "Por 14.000 € menos que un VW Tayron, es el nuevo siete plazas \"ECO\" súper equipado que necesitas para viajar en familia",
-      "link": "https://www.diariomotor.com/noticia/sportequipe-7-gtw-oferta-sept/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-09-18T14:13:50Z",
-      "resumen": "Encontrar un SUV grande con siete plazas ya no obliga a elegir entre los modelos de siempre, la mayoría de ocasiones excesivamente costosos. La oferta nacional sigue creciendo y entre las últimas propuestas lanzadas en el país hay una que quiere hacerse un hueco con una receta bastante convincente: diseño con personalidad, un interior de aspecto cuidado, mucho equipamiento y una tarifa que puede…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/09/Sportequipe-7-GTW1-6aad2a2849dc6.jpg?class=XL",
-      "menciones": 1,
-      "fuentes": [
-        "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "¿Qué piloto remontó 100 posiciones en solo 13 vueltas?",
-      "link": "https://autotest.com.ar/carreras/que-piloto-remonto-100-posiciones-en-solo-13-vueltas/",
-      "fuente": "Autotest",
-      "fecha": "2026-09-18T14:11:00Z",
-      "resumen": "El racecraft, la habilidad para elegir trazadas, frenar tarde y preparar sobrepasos sin desgastar de más las gomas, aparece más en estos ejercicios que en una vuelta de clasificación.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/qu-piloto-remont-100-posiciones-en-solo-1200x740-1.jpg",
-      "menciones": 1,
-      "fuentes": [
-        "Autotest"
-      ]
-    },
-    {
-      "titulo": "¿Por qué Hyundai y Kia patentaron un techo que se arma y desarma solo a mano?",
-      "link": "https://autotest.com.ar/offroad/por-que-hyundai-y-kia-patentaron-un-techo-que-se-arma-y-desarma-solo-a-mano/",
-      "fuente": "Autotest",
-      "fecha": "2026-09-18T14:11:00Z",
-      "resumen": "El problema que la patente quiere resolver es conocido por cualquier dueño de un Wrangler o Bronco: el hard top es cómodo una vez instalado, pero incómodo de quitar.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/por-qu-hyundai-y-kia-patentaron-un-tech-1200x740-1.jpg",
-      "menciones": 1,
-      "fuentes": [
-        "Autotest"
-      ]
-    },
-    {
-      "titulo": "Acura ARX-06: 680 CV y una decoración de despedida en IMSA",
-      "link": "https://autotest.com.ar/carreras/acura-arx-06-680-cv-y-una-decoracion-de-despedida-en-imsa/",
-      "fuente": "Autotest",
-      "fecha": "2026-09-18T14:11:00Z",
-      "resumen": "La decisión de Honda de no continuar el programa oficial en la clase GTP confirma una tendencia que atraviesa a la resistencia moderna: los ciclos de fábrica se volvieron más cortos y más caros.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/acura-arx-06-680-cv-y-una-decoraci-n-de-1200x740-1.jpg",
-      "menciones": 1,
-      "fuentes": [
-        "Autotest"
       ]
     }
   ]
