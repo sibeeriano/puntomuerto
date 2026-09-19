@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-19T18:39:17Z",
+  "actualizado": "2026-09-19T21:46:38Z",
   "desde": "2026-09-12",
   "hasta": "2026-09-19",
   "destacadas": [
@@ -103,7 +103,7 @@
       "fecha": "2026-09-17T15:00:13Z",
       "resumen": "El futuro de Fernando Alonso es el único gran culebrón que queda pendiente de resolver en el mercado de la Fórmula 1. El piloto español acaba contrato con Aston Martin esta temporada, y sigue sin aclarar si va a retirarse o si desea renovar su contrato. El equipo verde espera, pero avisa de que no está parado. Pedro de la Rosa, el embajador de Aston Martin y cercano a Alonso, ha advertido de que…",
       "imagen": "https://i.blogs.es/e6c3b4/alonso-stroll/1024_2000.jpeg",
-      "menciones": 7,
+      "menciones": 5,
       "fuentes": [
         "Diariomotor (ES)",
         "Motorpasión (ES)"
@@ -172,6 +172,18 @@
       "fuentes": [
         "Autotest",
         "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "Mientras tú sudas la gota gorda en el bus del aeropuerto, esta aerolínea ofrece un coche de 200.000 euros para moverse entre terminales",
+      "link": "https://www.motorpasion.com/superlujo/tu-sudas-gota-gorda-bus-aeropuerto-esta-aerolinea-ofrece-coche-200-000-euros-para-moverse-terminales",
+      "fuente": "Motorpasión (ES)",
+      "fecha": "2026-09-19T19:00:13Z",
+      "resumen": "Porsche Cayenne, Panamera, Mercedes-Benz Clase S, Audi A8... son muchas las aerolíneas que cuidan con esmero a los clientes VIP mientras tú mantienes el equilibrio en un autobús abarrotado por las terminales. Los miembros de Primera Clase de compañías aéreas como Lufthansa, Air France o Emirates pueden contar con servicio de chófer a domicilio y traslados en coches de lujo hasta la misma…",
+      "imagen": "https://i.blogs.es/429844/portada-mop-1789720713782/1024_2000.jpeg",
+      "menciones": 1,
+      "fuentes": [
+        "Motorpasión (ES)"
       ]
     },
     {
@@ -292,18 +304,6 @@
       "menciones": 1,
       "fuentes": [
         "Megautos"
-      ]
-    },
-    {
-      "titulo": "Toyota Hilux 2027: así será la renovada pick up mediana con más de 200 CV y una gran novedad",
-      "link": "https://autotest.com.ar/noticias/toyota-hilux-2027-asi-sera-la-renovada-pick-up-mediana-con-mas-de-200-cv-y-una-gran-novedad/",
-      "fuente": "Autotest",
-      "fecha": "2026-09-19T13:46:32Z",
-      "resumen": "La Hilux se prepara para protagonizar una de las renovaciones más importantes de los últimos años, a tal punto de que la pick up mediana distará de cualquiera del pasado y de la actual. Un nuevo diseño exterior, habitáculo más tecnológico y cambios en la motorización y hasta una versión 100% eléctrica y otra a […]",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/Nueva-Toyota-Hilux.jpg",
-      "menciones": 2,
-      "fuentes": [
-        "Autotest"
       ]
     }
   ]
