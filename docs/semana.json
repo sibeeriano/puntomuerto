@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-19T16:30:40Z",
+  "actualizado": "2026-09-19T18:39:17Z",
   "desde": "2026-09-12",
   "hasta": "2026-09-19",
   "destacadas": [
@@ -32,13 +32,13 @@
       ]
     },
     {
-      "titulo": "Fiat presentó un nuevo SUV rival de Toyota Yaris Cross: dos diseños, hasta tres motores y más",
-      "link": "https://autotest.com.ar/noticias/fiat-presento-un-nuevo-suv-rival-de-toyota-yaris-cross-dos-disenos-hasta-tres-motores-y-mas/",
-      "fuente": "Autotest",
-      "fecha": "2026-09-19T11:11:55Z",
-      "resumen": "Fiat presentó en el último Auto Show de Turín el nuevo Grizzly, un B-SUV que se posicionará por encima de Pulse y competirá contra Toyota Yaris Cross en uno de los segmentos más disputados tanto en Europa como nivel mundial. Se ofrecerá con diseño de Sport Utility Vehicle en su versión convencional y otro tipo […]",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/Fiat-Grizzly-2027.jpg",
-      "menciones": 13,
+      "titulo": "Ni SUV ni postureo: este 4x4 tiene reductora, chasis de largueros y cuesta 30.000 € menos que un Toyota Land Cruiser",
+      "link": "https://www.diariomotor.com/noticia/baw-212-yudo-6/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-09-19T19:36:14Z",
+      "resumen": "Hace apenas unos años parecía que los todoterrenos de verdad estaban condenados a desaparecer. La oferta se había reducido muchísimo y, salvo contadas excepciones, para comprar un 4x4 con reductora había que preparar una cantidad de dinero considerable. La situación está cambiando y poco a poco están apareciendo nuevas propuestas que recuperan esa filosofía más sencilla y campera que muchos…",
+      "imagen": "https://www.diariomotor.com/imagenes/2025/10/Yudo627-68de5e1ee29b2.jpg?class=XL",
+      "menciones": 22,
       "fuentes": [
         "Autotest",
         "Diariomotor (ES)"
@@ -175,6 +175,30 @@
       ]
     },
     {
+      "titulo": "China se ha cansado de las marcas de coches eléctricos que venden humo: se acabó vender \"pilotos automáticos\" que no son automáticos",
+      "link": "https://www.motorpasion.com/industria/china-se-ha-cansado-marcas-coches-electricos-que-venden-humo-se-acabo-vender-pilotos-automaticos-que-no-automaticos",
+      "fuente": "Motorpasión (ES)",
+      "fecha": "2026-09-19T18:30:13Z",
+      "resumen": "Se acabaron los nombres grandilocuentes y las pruebas en condiciones reales con clientes utilizados como conejillos de indias. China reajusta drásticamente la conducción autónoma para limitar los abusos y los accidentes. Con la norma GB 47955-2026 \"Safety Requirements for Combined Driving Assistance Systems of Intelligent and Connected Vehicles\" China exige desde ahora y con entrada en vigor el 1…",
+      "imagen": "https://i.blogs.es/10c75b/xiaomi-su7-aparca-solo/1024_2000.jpeg",
+      "menciones": 1,
+      "fuentes": [
+        "Motorpasión (ES)"
+      ]
+    },
+    {
+      "titulo": "Las tres frases que un vendedor de coches de segunda mano nunca debería decirte. Si las oyes significa que hay que salir corriendo",
+      "link": "https://www.motorpasion.com/revision/tres-frases-que-vendedor-coches-segunda-mano-nunca-deberia-decirte-oyes-significa-que-hay-que-salir-corriendo",
+      "fuente": "Motorpasión (ES)",
+      "fecha": "2026-09-19T18:00:13Z",
+      "resumen": "A la vuelta de vacaciones y al final del verano es el mejor momento para c omprar un coche de segunda mano . Tradicionalmente hay una mayor oferta y los precios no tienen tendencia a subir. Pero comprar un coche de segunda mano es también una operación que no está exenta de riesgos. Para ir sobre seguro hay tres red flags, tres señales, que te deben hacerte huir de ese coche y buscar uno mejor.…",
+      "imagen": "https://i.blogs.es/2eaa8b/vendedor-de-coches/1024_2000.jpeg",
+      "menciones": 1,
+      "fuentes": [
+        "Motorpasión (ES)"
+      ]
+    },
+    {
       "titulo": "Si tu coche es de antes del 2017, ojo si vas al taller con esta avería, porque la solución podría ser ilegal",
       "link": "https://www.diariomotor.com/noticia/coche-2017-aire-acondicionado-ilegal/",
       "fuente": "Diariomotor (ES)",
@@ -247,18 +271,6 @@
       ]
     },
     {
-      "titulo": "El Toyota Land Cruiser de Lexus tiene un motor V6 biturbo de 350 CV, interior de lujo y es la perfecta alternativa todoterreno al Clase G",
-      "link": "https://www.diariomotor.com/noticia/lexus-gx-2027/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-09-19T15:00:31Z",
-      "resumen": "Con un legado que solo el Land Rover Defender se ha atrevido a pisar durante estos últimos años, el Mercedes Clase G siempre ha sido el todoterreno de lujo por excelencia . Sin embargo, tal y como ha sucedido con el Defender, este segmento ha demostrado estar abierto a nuevas alternativas y hay una que en España llevamos muchos años perdiéndonos, tomando como base, además, el mismísimo Toyota Land…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/09/Lexus-GX-2027-5-6aad021e42d1b.jpg?class=XL",
-      "menciones": 1,
-      "fuentes": [
-        "Diariomotor (ES)"
-      ]
-    },
-    {
       "titulo": "Jarno Zaffelli, diseñador del Madring: \"Teníamos restricciones muy estrictas. Si hay cambios, serán mínimos\"",
       "link": "https://www.motorpasion.com/formula1/jarno-zaffelli-disenador-madring-teniamos-restricciones-muy-estrictas-hay-cambios-seran-minimos",
       "fuente": "Motorpasión (ES)",
@@ -292,18 +304,6 @@
       "menciones": 2,
       "fuentes": [
         "Autotest"
-      ]
-    },
-    {
-      "titulo": "Volkswagen Mission Efficiency: el eléctrico que bate récords",
-      "link": "https://www.megautos.com/volkswagen-mission-efficiency/",
-      "fuente": "Megautos",
-      "fecha": "2026-09-19T13:36:16Z",
-      "resumen": "La marca presentó un prototipo que combina una aerodinámica récord con un consumo energético excepcional. Es una demostración del potencial de la tecnología eléctrica de la marca. La entrada Volkswagen Mission Efficiency: el eléctrico que bate récords aparece primero en Mega Autos .",
-      "imagen": "https://www.megautos.com/wp-content/uploads/2026/09/vw-mission-efficiency-2026-04.jpg",
-      "menciones": 1,
-      "fuentes": [
-        "Megautos"
       ]
     }
   ]
