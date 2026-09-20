@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-20T18:52:33Z",
+  "actualizado": "2026-09-20T21:50:40Z",
   "desde": "2026-09-13",
   "hasta": "2026-09-20",
   "destacadas": [
@@ -32,16 +32,16 @@
       ]
     },
     {
-      "titulo": "El dueño de Aston Martin ha puesto una condición para renovar a Fernando Alonso: que Honda pague su sueldo",
-      "link": "https://www.motorpasion.com/formula1/dueno-aston-martin-ha-puesto-condicion-para-renovar-a-fernando-alonso-que-honda-pague-su-sueldo",
-      "fuente": "Motorpasión (ES)",
-      "fecha": "2026-09-20T17:13:01Z",
-      "resumen": "La renovación de Fernando Alonso sigue siendo el principal punto de conflicto del mercado de fichajes de la Fórmula 1. El piloto asturiano dijo en Madring que para continuar tenía que sentir que los nuevos coches eran algo más divertidos , algo que movilizó hasta al presidente de la FIA, Mohammed Ben Sulayem . Pero hay algo más. Según Marc Limacher, periodista especializado en finanzas de la…",
-      "imagen": "https://i.blogs.es/520643/alonso-stroll/1024_2000.jpeg",
-      "menciones": 4,
+      "titulo": "IAA Transportation 2026: Daimler Truck celebra 130 años de camiones e impulsa el transporte hacia adelante",
+      "link": "https://www.megautos.com/iaa-transportation-2026-daimler-truck/",
+      "fuente": "Megautos",
+      "fecha": "2026-09-20T19:31:49Z",
+      "resumen": "Daimler Truck presentó innovaciones en áreas clave del negocio del transporte, vehículos eléctricos a batería y propulsados por hidrógeno, tecnología diésel eficiente, funciones de asistencia de seguridad y conducción autónoma. La entrada IAA Transportation 2026: Daimler Truck celebra 130 años de camiones e impulsa el transporte hacia adelante aparece primero en Mega Autos .",
+      "imagen": "https://www.megautos.com/wp-content/uploads/2026/09/IAA-Transportation-2026-1.jpg",
+      "menciones": 2,
       "fuentes": [
-        "Diariomotor (ES)",
-        "Motorpasión (ES)"
+        "Autotest",
+        "Megautos"
       ]
     },
     {
@@ -77,7 +77,7 @@
       "fecha": "2026-09-19T19:36:14Z",
       "resumen": "Hace apenas unos años parecía que los todoterrenos de verdad estaban condenados a desaparecer. La oferta se había reducido muchísimo y, salvo contadas excepciones, para comprar un 4x4 con reductora había que preparar una cantidad de dinero considerable. La situación está cambiando y poco a poco están apareciendo nuevas propuestas que recuperan esa filosofía más sencilla y campera que muchos…",
       "imagen": "https://www.diariomotor.com/imagenes/2025/10/Yudo627-68de5e1ee29b2.jpg?class=XL",
-      "menciones": 7,
+      "menciones": 6,
       "fuentes": [
         "Autotest",
         "Diariomotor (ES)"
@@ -149,6 +149,30 @@
       ]
     },
     {
+      "titulo": "Mercedes-Maybach lanzó el S 680 en Argentina",
+      "link": "https://www.megautos.com/mercedes-maybach-s-680/",
+      "fuente": "Megautos",
+      "fecha": "2026-09-20T21:22:21Z",
+      "resumen": "La división de lujo de Mercedes-Benz inició oficialmente sus operaciones comerciales en el país de la mano de Prestige Auto. El primer modelo disponible está equipado con un motor V12. La entrada Mercedes-Maybach lanzó el S 680 en Argentina aparece primero en Mega Autos .",
+      "imagen": "https://www.megautos.com/wp-content/uploads/2026/09/26c0199_034.jpg",
+      "menciones": 1,
+      "fuentes": [
+        "Megautos"
+      ]
+    },
+    {
+      "titulo": "Se largó el XXIII Gran Premio Argentino Histórico y estuvimos ahí",
+      "link": "https://www.megautos.com/xxiii-gran-premio-argentino-historico-largada/",
+      "fuente": "Megautos",
+      "fecha": "2026-09-20T19:03:11Z",
+      "resumen": "La competencia de regularidad organizada por el Automóvil Club Argentino, reúne a 104 vehículos que recorrerán más de 3.300 kilómetros. La partida contó con la presencia de autoridades nacionales y porteñas, y el regreso estelar de Sobiesław Zasada a sus 96 años. La entrada Se largó el XXIII Gran Premio Argentino Histórico y estuvimos ahí aparece primero en Mega Autos .",
+      "imagen": "https://www.megautos.com/wp-content/uploads/2026/09/ACA-Gran-Premio-historico-2026-1.jpg",
+      "menciones": 1,
+      "fuentes": [
+        "Megautos"
+      ]
+    },
+    {
       "titulo": "El doble título convierte a Campos en referencia en Formula 3: «van a ir a por nosotros»",
       "link": "https://www.diariomotor.com/competicion/noticia/el-doble-titulo-convierte-a-campos-en-referencia-en-formula-3-van-a-ir-a-por-nosotros/",
       "fuente": "Diariomotor (ES)",
@@ -195,6 +219,18 @@
       "menciones": 1,
       "fuentes": [
         "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "El dueño de Aston Martin ha puesto una condición para renovar a Fernando Alonso: que Honda pague su sueldo",
+      "link": "https://www.motorpasion.com/formula1/dueno-aston-martin-ha-puesto-condicion-para-renovar-a-fernando-alonso-que-honda-pague-su-sueldo",
+      "fuente": "Motorpasión (ES)",
+      "fecha": "2026-09-20T17:13:01Z",
+      "resumen": "La renovación de Fernando Alonso sigue siendo el principal punto de conflicto del mercado de fichajes de la Fórmula 1. El piloto asturiano dijo en Madring que para continuar tenía que sentir que los nuevos coches eran algo más divertidos , algo que movilizó hasta al presidente de la FIA, Mohammed Ben Sulayem . Pero hay algo más. Según Marc Limacher, periodista especializado en finanzas de la…",
+      "imagen": "https://i.blogs.es/520643/alonso-stroll/1024_2000.jpeg",
+      "menciones": 3,
+      "fuentes": [
+        "Motorpasión (ES)"
       ]
     },
     {
@@ -268,42 +304,6 @@
       "menciones": 1,
       "fuentes": [
         "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "El sedán de BYD que supera en ventas al Toyota Corolla: 235 CV, dos motores y más barato",
-      "link": "https://autotest.com.ar/noticias/el-sedan-de-byd-que-supera-en-ventas-al-toyota-corolla-235-cv-dos-motores-y-mas-barato/",
-      "fuente": "Autotest",
-      "fecha": "2026-09-20T13:25:04Z",
-      "resumen": "BYD no para de crecer a nivel tanto regional como mundial y el King es uno de los tantos modelos que adquiere cada vez más protagonismo. Este sedán mediano combina un motor naftero con uno eléctrico mediante el sistema híbrido enchufable DM-i y compite directamente contra Toyota Corolla, al que ya superó en ventas en […]",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/BYD-King.jpg",
-      "menciones": 1,
-      "fuentes": [
-        "Autotest"
-      ]
-    },
-    {
-      "titulo": "Agentes de IA inventan su propio idioma para dejar fuera a los humanos",
-      "link": "https://www.iprofesional.com/autos/464789-agentes-de-ia-inventan-idioma-para-dejar-fuera-a-los-humanos",
-      "fuente": "iProfesional",
-      "fecha": "2026-09-20T13:06:00Z",
-      "resumen": "Un experimento sometió a 10 modelos a 16 días de convivencia. y generó un lenguaje indescifrable hasta en la mitad de los mensajes en algunos mundos (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
-      "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/08/624135.jpg",
-      "menciones": 1,
-      "fuentes": [
-        "iProfesional"
-      ]
-    },
-    {
-      "titulo": "Cómo saber qué aceite lleva mi coche: qué tipos hay y cómo elegir el adecuado",
-      "link": "https://www.motorpasion.com/revision/que-aceite-lleva-mi-coche",
-      "fuente": "Motorpasión (ES)",
-      "fecha": "2026-09-20T12:00:12Z",
-      "resumen": "Hace algún tiempo que los expertos desmintieron que el tiempo por sí solo no es razón para que el aceite sintético quede inutilizable . Aunque siempre hay que consultar el manual del vehículo y existen muchas excepciones y casuísticas, los indicios apuntan a que lo que hay que tener en cuenta son los kilómetros que recorremos. A partir de aquí, hay una serie de cosas que hay que tener en cuenta…",
-      "imagen": "https://i.blogs.es/d996e1/aceite-arrevi/1024_2000.jpeg",
-      "menciones": 1,
-      "fuentes": [
-        "Motorpasión (ES)"
       ]
     }
   ]
