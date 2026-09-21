@@ -1,7 +1,7 @@
 {
-  "actualizado": "2026-09-20T21:50:40Z",
-  "desde": "2026-09-13",
-  "hasta": "2026-09-20",
+  "actualizado": "2026-09-21T18:43:09Z",
+  "desde": "2026-09-14",
+  "hasta": "2026-09-21",
   "destacadas": [
     {
       "titulo": "Expo Auto Chino 2026: cuatro marcas anticipan los modelos que mostrarán en Costa Salguero",
@@ -18,17 +18,29 @@
       ]
     },
     {
-      "titulo": "Banco Provincia lanza créditos para autos y compite con el Banco Nación",
-      "link": "https://www.iprofesional.com/finanzas/464576-banco-provincia-lanza-creditos-para-autos-y-compite-con-el-banco-nacion",
-      "fuente": "iProfesional",
-      "fecha": "2026-09-17T12:32:00Z",
-      "resumen": "La nueva línea de préstamos permite financiar hasta el 100% de un 0 km o usado y ofrece opciones UVA y a tasa fija. Cómo acceder (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
-      "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/09/625809.jpg",
-      "menciones": 4,
+      "titulo": "Menos de 12000 dólares: Nissan lanza el nuevo SUV con 163 CV para competir con Renault Duster",
+      "link": "https://autotest.com.ar/noticias/menos-de-12000-dolares-nissan-lanza-el-nuevo-suv-con-163-cv-para-competir-con-renault-duster/",
+      "fuente": "Autotest",
+      "fecha": "2026-09-21T10:01:52Z",
+      "resumen": "Nissan continúa ampliando su oferta de SUV y lanza hoy el nuevo Tekton, un modelo que utiliza la misma base técnica del Renault Duster, pero incorpora una identidad propia y una propuesta de equipamiento más sofisticada para competirle con hasta 163 CV y un precio mucho más bajo. Te puede interesar: El SUV más barato de […]",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/Nissan-Tekton-2026.jpg",
+      "menciones": 6,
       "fuentes": [
-        "Autoblog Argentina",
-        "El Economista",
-        "iProfesional"
+        "Autotest",
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "No es un Cupra Formentor, pero tiene su tamaño, 177 CV y cuesta nada menos que 12.000 € menos",
+      "link": "https://www.diariomotor.com/noticia/baic-x55-promo-sept-2026/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-09-21T08:00:28Z",
+      "resumen": "¿Buscas un SUV compacto con una imagen deportiva pero los precios de los modelos más conocidos se te van de presupuesto? Hay una alternativa al Cupra Formentor mucho menos conocida que cuesta bastante menos y llega con un equipamiento muy completo, un diseño atractivo y unos acabados que sorprenden para lo que cuesta. Gasolina con 177 CV de potencia Estética atractiva Equipo completo Precio…",
+      "imagen": "https://www.diariomotor.com/imagenes/2025/10/BAIC-X5531-68dd73c335495.jpg?class=XL",
+      "menciones": 6,
+      "fuentes": [
+        "Autotest",
+        "Diariomotor (ES)"
       ]
     },
     {
@@ -42,45 +54,6 @@
       "fuentes": [
         "Autotest",
         "Megautos"
-      ]
-    },
-    {
-      "titulo": "Tan grande como un Audi A6 pero a precio de Toyota Yaris, esta berlina con motor turbo, cambio automático y 160 CV es el ofertón del momento",
-      "link": "https://www.diariomotor.com/noticia/bestune-b70-2026-sept/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-09-20T16:00:53Z",
-      "resumen": "Cada vez son menos las berlinas de tamaño medio disponibles en el mercado europeo debido a la moda crossover que parece no tener fin. Por suerte para los usuarios más tradicionales algunas marcas están apostando por volver a este segmento clásico , y el modelo del que hoy te hablamos aquí es un claro ejemplo de que se pueden vender en nuestro país berlinas con buen equipamiento a excelentes…",
-      "imagen": "https://www.diariomotor.com/imagenes/2025/05/bestune14-68161a98dac91.jpg?class=XL",
-      "menciones": 6,
-      "fuentes": [
-        "Autotest",
-        "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "El SUV de Renault que está arriba de Duster: tiene 160 CV y consume menos de 5 litros cada 100 km",
-      "link": "https://autotest.com.ar/noticias/el-suv-de-renault-que-esta-arriba-de-duster-tiene-160-cv-y-consume-menos-de-5-litros-cada-100-km/",
-      "fuente": "Autotest",
-      "fecha": "2026-09-20T11:14:26Z",
-      "resumen": "Renault cuenta con una amplia gama de SUV y, dentro de su oferta europea, hay uno que está un escalón por encima de Duster y ocupa un lugar intermedio entre los más accesibles y los más sofisticados: el Symbioz, que compite contra Toyota C-HR y Nissan Qashqai, entre otros. Su relación potencia-consumo es uno de […]",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/Renault-Symbioz-1.jpg",
-      "menciones": 10,
-      "fuentes": [
-        "Autotest",
-        "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "Ni SUV ni postureo: este 4x4 tiene reductora, chasis de largueros y cuesta 30.000 € menos que un Toyota Land Cruiser",
-      "link": "https://www.diariomotor.com/noticia/baw-212-yudo-6/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-09-19T19:36:14Z",
-      "resumen": "Hace apenas unos años parecía que los todoterrenos de verdad estaban condenados a desaparecer. La oferta se había reducido muchísimo y, salvo contadas excepciones, para comprar un 4x4 con reductora había que preparar una cantidad de dinero considerable. La situación está cambiando y poco a poco están apareciendo nuevas propuestas que recuperan esa filosofía más sencilla y campera que muchos…",
-      "imagen": "https://www.diariomotor.com/imagenes/2025/10/Yudo627-68de5e1ee29b2.jpg?class=XL",
-      "menciones": 6,
-      "fuentes": [
-        "Autotest",
-        "Diariomotor (ES)"
       ]
     },
     {
@@ -123,6 +96,18 @@
       ]
     },
     {
+      "titulo": "Hemos hecho un viaje hasta el fin del mundo con un coche híbrido pero, ¿realmente consume tan poco? (+vídeo)",
+      "link": "https://www.diariomotor.com/noticia/hemos-hecho-un-viaje-hasta-el-fin-del-mundo-con-un-coche-hibrido-pero-realmente-consume-tan-poco-video/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-09-21T20:00:58Z",
+      "resumen": "Llevamos años viendo una transición muy clara en el sector automovilístico. Primero los gasolina y los diésel eran casi las únicas opciones plausibles, pero el abanico se ha ampliado mucho. Hasta tal punto que hoy en día los coches híbridos HEV sean los más lógicos pero, ¿realmente consumen tan poco? Vamos a descubrirlo. Hemos viajado con un Nissan Qashqai e-Power hasta el fin del mundo Bueno, no…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/09/nissan-qashqai-e-power-video-prueba-6ab15d59415ae.jpg?class=XL",
+      "menciones": 1,
+      "fuentes": [
+        "Diariomotor (ES)"
+      ]
+    },
+    {
       "titulo": "Land Rover desvela el primer Defender pick-up que, de momento, nuestro dinero no puede pagar",
       "link": "https://www.diariomotor.com/noticia/land-rover-defender-wolf-series-utility/",
       "fuente": "Diariomotor (ES)",
@@ -136,171 +121,181 @@
       ]
     },
     {
-      "titulo": "El \"camión de Ford\" cambia para 2027, puede con 6.120 kilos de peso y ahora tiene un nuevo motor 3.0 V6 turbo",
-      "link": "https://www.diariomotor.com/noticia/ford-f-150-2027/",
+      "titulo": "No es un OPC, pero con 280 CV sí es el Opel Astra más picante en casi una década",
+      "link": "https://www.diariomotor.com/noticia/opel-astra-gse-line-2027/",
       "fuente": "Diariomotor (ES)",
-      "fecha": "2026-09-17T07:00:12Z",
-      "resumen": "Pocas veces en la historia se ha dado un caso, dentro del ámbito de producto, como el del coche más vendido de Estados Unidos , un modelo que no decae con el paso de los años y que se ha convertido en un icono del mundo del automóvil que, ahora, recibe una renovación para seguir estando al día. Hablamos de la Ford F-150 , la mítica pick-up del fabricante estadounidense, que ha recibido los…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/09/Ford-F-150-2027-22-6aaa73798a646.jpg?class=XL",
-      "menciones": 2,
-      "fuentes": [
-        "Autotest",
-        "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "Mercedes-Maybach lanzó el S 680 en Argentina",
-      "link": "https://www.megautos.com/mercedes-maybach-s-680/",
-      "fuente": "Megautos",
-      "fecha": "2026-09-20T21:22:21Z",
-      "resumen": "La división de lujo de Mercedes-Benz inició oficialmente sus operaciones comerciales en el país de la mano de Prestige Auto. El primer modelo disponible está equipado con un motor V12. La entrada Mercedes-Maybach lanzó el S 680 en Argentina aparece primero en Mega Autos .",
-      "imagen": "https://www.megautos.com/wp-content/uploads/2026/09/26c0199_034.jpg",
-      "menciones": 1,
-      "fuentes": [
-        "Megautos"
-      ]
-    },
-    {
-      "titulo": "Se largó el XXIII Gran Premio Argentino Histórico y estuvimos ahí",
-      "link": "https://www.megautos.com/xxiii-gran-premio-argentino-historico-largada/",
-      "fuente": "Megautos",
-      "fecha": "2026-09-20T19:03:11Z",
-      "resumen": "La competencia de regularidad organizada por el Automóvil Club Argentino, reúne a 104 vehículos que recorrerán más de 3.300 kilómetros. La partida contó con la presencia de autoridades nacionales y porteñas, y el regreso estelar de Sobiesław Zasada a sus 96 años. La entrada Se largó el XXIII Gran Premio Argentino Histórico y estuvimos ahí aparece primero en Mega Autos .",
-      "imagen": "https://www.megautos.com/wp-content/uploads/2026/09/ACA-Gran-Premio-historico-2026-1.jpg",
-      "menciones": 1,
-      "fuentes": [
-        "Megautos"
-      ]
-    },
-    {
-      "titulo": "El doble título convierte a Campos en referencia en Formula 3: «van a ir a por nosotros»",
-      "link": "https://www.diariomotor.com/competicion/noticia/el-doble-titulo-convierte-a-campos-en-referencia-en-formula-3-van-a-ir-a-por-nosotros/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-09-20T19:00:09Z",
-      "resumen": "La temporada 2026 consagró a Campos Racing como el equipo a batir en Formula 3. La formación española culminó en Madring un año de ensueño en la categoría de bronce, en el que se hizo con los títulos de pilotos y de equipos , este último por segundo año consecutivo. Ugo Ugochukwu brindó al equipo español la corona individual, que era el «objetivo» este 2026 después de que se escapase en 2025…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/09/Campos-celebracion-F3-Alejandro-6aaff6639ddcd.jpg?class=XL",
+      "fecha": "2026-09-21T19:00:14Z",
+      "resumen": "En el inminente Salón de París, Opel presentará la nueva versión tope de gama de su renovado compacto. Se llama Opel Astra GSE Line, y aunque no hablamos una versión deportiva, sí una declaración de intenciones . Porque el Opel Astra GSE Line es el Astra más deportivo que Opel ha parido desde que el OPC desapareciese allá por el lejano año 2016. Y es que este nuevo acabado es el reemplazo de las…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/09/opel-astra-gse-line-1-6ab12916d228d.jpg?class=XL",
       "menciones": 1,
       "fuentes": [
         "Diariomotor (ES)"
       ]
     },
     {
-      "titulo": "Es normal que estés mirando coches chinos, pero Skoda acaba de plantar, por 18.500 €, un SUV con 475 litros de maletero que me parece ideal para el día a día",
-      "link": "https://www.diariomotor.com/noticia/skoda-epiq-40-precio/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-09-16T15:00:01Z",
-      "resumen": "Skoda acaba de quitarle 4.300 euros al precio de acceso de su SUV eléctrico más pequeño. El nuevo Skoda Epiq 40 parte oficialmente desde 18.500 euros y conserva dos de los mejores argumentos del modelo: se fabrica en España y ofrece un enorme maletero de 475 litros. No estamos ante una rebaja del Epiq 55 de 211 CV y 437 kilómetros de autonomía del que os hablé recientemente , sino ante una nueva…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/09/Skoda_Epiq-105-6aa905489ec99.jpg?class=XL",
-      "menciones": 2,
-      "fuentes": [
-        "Diariomotor (ES)",
-        "Motorpasión (ES)"
-      ]
-    },
-    {
-      "titulo": "Los coches nuevos pitan por todo y no hay quien lo aguante. Las marcas por fin comprenden que es insufrible y están poniendo remedio",
-      "link": "https://www.motorpasion.com/revision/coches-nuevos-pitan-todo-no-hay-quien-aguante-marcas-fin-comprenden-que-insufrible-estan-poniendo-remedio",
-      "fuente": "Motorpasión (ES)",
-      "fecha": "2026-09-20T18:00:13Z",
-      "resumen": "Por normativa de Bruselas, todos los coches nuevos que se venden en la Unión Europea deben estar equipados con una serie de sistemas de asistencia a la conducción y, aunque se desactiven, vuelven a activarse de forma automática cada vez que se vuelven a arrancar. El resultado son cada vez más pitidos que suenan constantemente durante la conducción y desesperan a cualquiera . Lo bueno es que cada…",
-      "imagen": "https://i.blogs.es/4335a5/asistentes-9.jpg_1/1024_2000.jpeg",
-      "menciones": 1,
-      "fuentes": [
-        "Motorpasión (ES)"
-      ]
-    },
-    {
-      "titulo": "Un nuevo Alfa Romeo está en camino, un coche que será único y que tendrá mucho de 33 Stradale",
-      "link": "https://www.diariomotor.com/noticia/nuevo-alfa-romeo-salon-paris/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-09-20T18:00:10Z",
-      "resumen": "La espera para conocer un nuevo modelo de Alfa Romeo está próxima a su fin. El fabricante italiano ha puesto en marcha la cuenta atrás con motivo del salón del automóvil de París , y es que allí veremos un nuevo y misterioso prototipo que adelantará el futuro de la marca y alguno de sus lanzamientos más importantes para los próximos años. Esta edición del salón del automóvil de París está llamada…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/06/alfa-romeo-33-stradale-68-6a3798aa91e00.jpg?class=XL",
-      "menciones": 1,
-      "fuentes": [
-        "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "El dueño de Aston Martin ha puesto una condición para renovar a Fernando Alonso: que Honda pague su sueldo",
-      "link": "https://www.motorpasion.com/formula1/dueno-aston-martin-ha-puesto-condicion-para-renovar-a-fernando-alonso-que-honda-pague-su-sueldo",
-      "fuente": "Motorpasión (ES)",
-      "fecha": "2026-09-20T17:13:01Z",
-      "resumen": "La renovación de Fernando Alonso sigue siendo el principal punto de conflicto del mercado de fichajes de la Fórmula 1. El piloto asturiano dijo en Madring que para continuar tenía que sentir que los nuevos coches eran algo más divertidos , algo que movilizó hasta al presidente de la FIA, Mohammed Ben Sulayem . Pero hay algo más. Según Marc Limacher, periodista especializado en finanzas de la…",
-      "imagen": "https://i.blogs.es/520643/alonso-stroll/1024_2000.jpeg",
-      "menciones": 3,
-      "fuentes": [
-        "Motorpasión (ES)"
-      ]
-    },
-    {
-      "titulo": "Gran Premio de Azerbaiyán 2026: Horarios y cómo ver la carrera sabatina de la Fórmula 1",
-      "link": "https://www.diariomotor.com/competicion/noticia/gran-premio-azerbaiyan-2026-horarios/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-09-20T16:50:52Z",
-      "resumen": "De un urbano a otro. Después de que la Fórmula 1 debutara en MadRing, el Campeonato del Mundo se ha dirigido hacia el este, pasando de las calles de la capital española a las de Bakú. El Gran Premio de Azerbaiyán tendrá este año además la particularidad de que la carrera se disputará el sábado 26 de septiembre, dejando de esta forma libre el domingo 27 de septiembre, el denominado como “Día del…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/09/gp-azerbaiyan-2026-f1-horarios-6aa6f88f2905c.jpg?class=XL",
-      "menciones": 1,
-      "fuentes": [
-        "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "El coche más vendido de China aterriza en España. Su principal argumento es que cuesta menos de 20.000 euros",
-      "link": "https://www.motorpasion.com/compra-coches/coche-vendido-china-aterriza-espana-su-principal-argumento-que-cuesta-20-000-euros",
-      "fuente": "Motorpasión (ES)",
-      "fecha": "2026-09-16T12:00:13Z",
-      "resumen": "Geely amplía su gama en España con el Geely E2 , un utilitario eléctrico que en China se vende como EX2 y que se convirtió en el turismo más vendido del país en 2025, con casi 466.000 unidades matriculadas, por delante incluso de cualquier modelo gasolina. Llegó a los concesionarios españoles este mes de septiembre con un precio de acceso de 19.780 euros . El coche más vendido de China, ahora en…",
-      "imagen": "https://i.blogs.es/2f4e28/geely_e2635/1024_2000.jpeg",
-      "menciones": 2,
-      "fuentes": [
-        "Diariomotor (ES)",
-        "Motorpasión (ES)"
-      ]
-    },
-    {
-      "titulo": "Volkswagen presentó el ID.3 GTI (eléctrico)",
-      "link": "https://www.megautos.com/volkswagen-id-3-gti/",
-      "fuente": "Megautos",
-      "fecha": "2026-09-20T15:28:33Z",
-      "resumen": "El nuevo deportivo con cero emisiones combina 326 CV, tracción trasera y una batería que permite 601 kilómetros de autonomía. Será el GTI de producción en serie más potente de la historia de la marca. La entrada Volkswagen presentó el ID.3 GTI (eléctrico) aparece primero en Mega Autos .",
-      "imagen": "https://www.megautos.com/wp-content/uploads/2026/09/DB2026AU00615_large.jpg",
-      "menciones": 1,
-      "fuentes": [
-        "Megautos"
-      ]
-    },
-    {
-      "titulo": "Menos de 16000 dólares: la nueva pick up con 400 CV y el precio más bajo para superar a Toyota Hilux",
-      "link": "https://autotest.com.ar/noticias/menos-de-16000-dolares-la-nueva-pick-up-con-400-cv-y-el-precio-mas-bajo-para-superar-a-toyota-hilux/",
+      "titulo": "Mercedes-Benz anticipó la Sprinter 2027: versiones 100% eléctricas, diseño renovado y más cambios",
+      "link": "https://autotest.com.ar/transportes/mercedes-benz-anticipo-la-sprinter-2027-versiones-100-electricas-diseno-renovado-y-mas-cambios/",
       "fuente": "Autotest",
-      "fecha": "2026-09-20T15:02:59Z",
-      "resumen": "El auge de las pick ups chinas no cesa, pero la nueva Chery Himla promete no ser una más, ya que pertenece al segmento mediano y busca no solo competir contra las referentes, sino directamente superar a la Toyota Hilux, la líder, con un precio mucho más bajo, potencia de hasta 400 CV, dotación de […]",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/Chery-Himla-pick-up.jpg",
-      "menciones": 3,
+      "fecha": "2026-09-21T18:10:29Z",
+      "resumen": "Mercedes-Benz anticipó la próxima Sprinter en el Salón de Hannover 2026 con una escultura a tamaño real llamada The Boulder. No mostró todavía cómo será el modelo final, pero dejó ver proporciones, rasgos de diseño y parte del enfoque técnico que tendrá la cuarta generación del utilitario. La novedad principal pasa por la incorporación de […]",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/mercedes-benz-sprinter1.jpg",
+      "menciones": 1,
       "fuentes": [
         "Autotest"
       ]
     },
     {
-      "titulo": "Se compró el SUV más caro de Mercedes y lo vendió a los cinco meses. Con el dinero que perdió casi se podría haber comprado un CLA nuevo",
-      "link": "https://www.motorpasion.com/mercedes/se-compro-suv-caro-mercedes-vendio-a-cinco-meses-dinero-que-perdio-casi-se-podria-haber-comprado-cla-nuevo",
+      "titulo": "El todoterreno más vendido de su clase ya tiene su motor más deseado, no es diésel, y con él recorre 50 km sin gastar gota de gasolina",
+      "link": "https://www.diariomotor.com/noticia/ford-ranger-enchufable-alternativa-diesel/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-09-21T18:00:42Z",
+      "resumen": "Es uno de los reyes del todoterreno, el más vendido de su clase, y una de las compras más seguras si queremos una herramienta de trabajo indestructible , capaz de cargar con todo, y llegar a cualquier lugar con garantías. El Ford Ranger estrena una mecánica CV y 690 Nm. Puede recorrer alrededor de 50 kilómetros sin gastar gota de gasolina y disfruta de la etiqueta Cero Emisiones. Hasta hace poco…",
+      "imagen": "https://www.diariomotor.com/imagenes/2025/04/Ford-Ranger-PHEV-68079198b7319.jpg?class=XL",
+      "menciones": 4,
+      "fuentes": [
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "Nissan lanzó un SUV híbrido con 225 HP, bajo consumo y mucha tecnología para competir con Toyota",
+      "link": "https://autotest.com.ar/noticias/nissan-lanzo-un-suv-hibrido-con-225-hp-bajo-consumo-y-mucha-tecnologia-para-competir-con-toyota/",
+      "fuente": "Autotest",
+      "fecha": "2026-09-21T18:00:28Z",
+      "resumen": "Nissan presenta su Rogue Hybrid 2027 en EE.UU., con tracción integral estándar y un motor de 225 hp. Descubre cómo desafía al Toyota RAV4 Hybrid.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/Nissan-Rogue-Hybrid-2027-teaser.jpg",
+      "menciones": 6,
+      "fuentes": [
+        "Autotest"
+      ]
+    },
+    {
+      "titulo": "Inmovilizan cinco Lamborghini y un Mercedes Clase G en una autopista por circular a 27 km/h: \"No toleraremos un comportamiento peligroso al volante\"",
+      "link": "https://www.motorpasion.com/seguridad/policia-ha-inmovilizado-cinco-lamborghini-autopista-circular-a-27-km-h-autoridades-han-dejado-claro-que-no-toleraran-comportamiento-peligroso-al-volante",
       "fuente": "Motorpasión (ES)",
-      "fecha": "2026-09-20T14:00:13Z",
-      "resumen": "Se suele decir que los coches se devalúan según salen del concesionario, pero en el caso de modelos de lujo la depreciación es brutal. A menos que se trate de una serie muy limitada, una unidad de colección o bien de ilustre propietario , lo habitual es que los coches de alta gama sean una pésima inversión. Buen ejemplo es el de este Mercedes-Maybach GLS 600 , que su dueño compró el verano pasado…",
-      "imagen": "https://i.blogs.es/443ca5/maybach-gls-2025-compra-venta-02/1024_2000.jpeg",
+      "fecha": "2026-09-21T18:00:16Z",
+      "resumen": "Cinco Lamborghini y un Mercedes Clase G fueron requisados en Manchester por convertir la autopista en un circuito. La policía del área de Manchester intervino tras recibir avisos de un convoy de superdeportivos que circulaba de forma temeraria por la M66, con cambios de carril bruscos y por momentos circular a tan sólo 27 km/h en plena autopista . El aviso llegó la noche del 2 de septiembre. Según…",
+      "imagen": "https://i.blogs.es/c7c47a/lamborghini-aventador-sv/1024_2000.jpeg",
       "menciones": 1,
       "fuentes": [
         "Motorpasión (ES)"
       ]
     },
     {
-      "titulo": "Ni Land Cruiser ni Defender: esta bestia con motor DJI es el 4x4 de las dos ruedas para salir al monte haciendo ejercicio",
-      "link": "https://www.diariomotor.com/noticia/amflow-tl-carbon-dji/",
+      "titulo": "Nuevo Jeep Wrangler JL-2A 2027: de qué se trata",
+      "link": "https://www.megautos.com/jeep-wrangler-jl-2a-2027/",
+      "fuente": "Megautos",
+      "fecha": "2026-09-21T17:28:40Z",
+      "resumen": "La marca presentó una edición especial del todoterreno que recupera el espíritu del Willys CJ-2A, el primer modelo de la compañía desarrollado para uso civil. Las novedades. La entrada Nuevo Jeep Wrangler JL-2A 2027: de qué se trata aparece primero en Mega Autos .",
+      "imagen": "https://www.megautos.com/wp-content/uploads/2026/09/JP027_037WR.jpg",
+      "menciones": 1,
+      "fuentes": [
+        "Megautos"
+      ]
+    },
+    {
+      "titulo": "Volvo Group mostró en Argentina Mining su propuesta para la nueva etapa de la minería",
+      "link": "https://autotest.com.ar/transportes/volvo-group-argentina-mining-propuesta-nueva-etapa-mineria/",
+      "fuente": "Autotest",
+      "fecha": "2026-09-21T17:15:20Z",
+      "resumen": "La minería atraviesa una etapa de expansión en la Argentina, impulsada por el desarrollo de proyectos vinculados a minerales críticos y por las inversiones asociadas a infraestructura y nuevas operaciones. El Índice de Producción Industrial Minero (IPI minero) del INDEC acumuló un aumento del 7,7% entre enero y julio de 2026 frente al mismo período […]",
+      "imagen": "https://transportemundial.com.ar/wp-content/uploads/2026/09/Volvo-Group-Argentina-Mining.jpg",
+      "menciones": 1,
+      "fuentes": [
+        "Autotest"
+      ]
+    },
+    {
+      "titulo": "Se presentó un nuevo SUV de siete asientos con 199 CV y tracción integral: precio y versión",
+      "link": "https://autotest.com.ar/lanzamientos/se-presento-un-nuevo-suv-de-siete-asientos-con-199-cv-y-traccion-integral-precio-y-version/",
+      "fuente": "Autotest",
+      "fecha": "2026-09-21T17:00:46Z",
+      "resumen": "La Kia Sorento 2026 retorna al mercado argentino en su versión SX con grandes prestaciones, un motor turbodiésel y un equipamiento completo para toda la familia.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/SUV-KIA-Sorento-perfil.jpg",
+      "menciones": 1,
+      "fuentes": [
+        "Autotest"
+      ]
+    },
+    {
+      "titulo": "Por 24.800 € a estreno, el Cupra Tavascán de Changan es un crossover con motor híbrido que hace 100 km antes de empezar a gastar gasolina",
+      "link": "https://www.diariomotor.com/noticia/changan-s05-phev-pro-sept-2026/",
       "fuente": "Diariomotor (ES)",
-      "fecha": "2026-09-20T14:00:03Z",
-      "resumen": "Cuando pensamos en salir del asfalto y meternos por caminos, normalmente aparecen nombres como Toyota Land Cruiser o Land Rover Defender. Pero hay otra manera de hacerlo que cuesta muchísimo menos, ocupa una fracción del espacio y, de paso, obliga a mover las piernas. Se llama Amflow TL Carbon y probablemente sea una de las bicicletas eléctricas que mejor encajan con eso que ahora llamamos SUV.…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/09/Amflow-TL-Carbon-9-6aad196a0dfbb.webp?class=XL",
+      "fecha": "2026-09-21T17:00:34Z",
+      "resumen": "Hace escasos días afirmaba con vehemencia que a día de hoy era imposible encontrar un coche que, a igualdad de tamaño, tecnología de propulsión, calidad y equipamiento , igualase lo que propone el Geely Starray EM-i , pues situándose entre los segmentos C-SUV y D-SUV y haciendo uso de una competitiva motorización híbrida enchufable, anuncia un precio en oferta de exactamente 28.240 euros . Y puede…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/06/oferta-changan-deepal-s05-2-6a394ee67d37c.jpg?class=XL",
+      "menciones": 4,
+      "fuentes": [
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "Los niños de una aldea en China tenían que escalar una montaña para llegar al colegio. Lo han solucionado con dos ascensores colosales",
+      "link": "https://www.motorpasion.com/industria/ninos-aldea-china-tenian-que-escalar-montana-para-llegar-al-colegio-han-solucionado-dos-ascensores-colosales",
+      "fuente": "Motorpasión (ES)",
+      "fecha": "2026-09-21T17:00:16Z",
+      "resumen": "Ir al colegio cada mañana subiendo la pared vertical de una montaña de casi 300 m de altura en un ascensor. Lo hacen los niños de una pequeña aldea en el fondo de un perdido y exuberante cañón de la provincia de Yunnan, en China . Antes tardaban hasta cuatro horas en llegar a su escuela, por un empinado sendero y teniendo que escalar la montaña por peligrosos pasos . Ahora apenas necesitan media…",
+      "imagen": "https://i.blogs.es/c56719/portada-mop-1789987285292/1024_2000.jpeg",
+      "menciones": 1,
+      "fuentes": [
+        "Motorpasión (ES)"
+      ]
+    },
+    {
+      "titulo": "Banco Provincia lanza créditos para autos y compite con el Banco Nación",
+      "link": "https://www.iprofesional.com/finanzas/464576-banco-provincia-lanza-creditos-para-autos-y-compite-con-el-banco-nacion",
+      "fuente": "iProfesional",
+      "fecha": "2026-09-17T12:32:00Z",
+      "resumen": "La nueva línea de préstamos permite financiar hasta el 100% de un 0 km o usado y ofrece opciones UVA y a tasa fija. Cómo acceder (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
+      "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/09/625809.jpg",
+      "menciones": 3,
+      "fuentes": [
+        "Autoblog Argentina",
+        "iProfesional"
+      ]
+    },
+    {
+      "titulo": "Hay algo más importante que los accesorios de una camper: aislarla del ruido, el frío y el calor. Y estos errores pueden arruinar una camperización",
+      "link": "https://www.motorpasion.com/furgonetas-y-caravanas/hay-algo-importante-que-accesorios-camper-aislarla-ruido-frio-calor-estos-errores-pueden-arruinar-camperizacion",
+      "fuente": "Motorpasión (ES)",
+      "fecha": "2026-09-21T16:00:16Z",
+      "resumen": "La chapa metálica de una furgoneta camper tiene una peculiaridad que puede pasar desapercibida hasta que llega el invierno o una noche de lluvia: transmite prácticamente todo . El frío del exterior, el calor del sol, las vibraciones de la carretera y hasta la humedad de la respiración terminan teniendo su reflejo dentro del vehículo. Por eso, la insonorización y el aislamiento nunca jamás deberían…",
+      "imagen": "https://i.blogs.es/2c33cf/hilary-bird-mi63e1ulidc-unsplash/1024_2000.jpeg",
+      "menciones": 1,
+      "fuentes": [
+        "Motorpasión (ES)"
+      ]
+    },
+    {
+      "titulo": "Hace 720 km sin una gota de diésel y viene perfecto con los precios actuales del combustible, aunque Scania ha tenido que meter baterías hasta detrás de la cabina",
+      "link": "https://www.diariomotor.com/noticia/scania-electrico-720-km-autonomia/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-09-21T16:00:12Z",
+      "resumen": "Para convertir un camión eléctrico en una verdadera máquina de larga distancia , Scania ha optado por una solución drástica, pero lógica: aprovechar prácticamente todos los huecos disponibles para almacenar energía. Y su nueva configuración promete hasta 720 kilómetros de autonomía , una cifra con la que el camión eléctrico empieza a mirar de frente al diésel. Claves del Scania de 720 km de…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/09/scania-electrico-720-km-autonomia_port-6ab0ff0c3c1aa.jpg?class=XL",
+      "menciones": 1,
+      "fuentes": [
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "WRT alcanzó su primera victoria en la clase GTP tras imponerse en la Batalla de Los Ladrillos",
+      "link": "https://www.diariomotor.com/competicion/noticia/wrt-primera-victoria-batalla-de-los-ladrillos/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-09-21T15:56:12Z",
+      "resumen": "La penúltima fecha del Campeonato IMSA SportsCar resultó muy emocionante en su desenlace tanto en la clase GTP como en la GTD Pro. En la primera, un audaz Sheldon van der Linde protagonizó un duelo de alta factura con Earl Bamber en un escenario histórico como lo es el Circuito de Indianápolis. El piloto de fábrica de BMW logró el adelantamiento ganador casi sobre la hora, lo hizo a falta de seis…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/09/IMSA_6_Horas_Indianapolis_BMW_WRT_2_GTP_2026-6ab12147b3182.jpg?class=XL",
+      "menciones": 1,
+      "fuentes": [
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "El nuevo primo de Omoda y Ebro mide lo mismo que un Nissan Qashqai, tiene 218 CV y hace 450 km sin utilizar gasolina",
+      "link": "https://www.diariomotor.com/noticia/lepas-l4-fotos/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-09-21T15:30:05Z",
+      "resumen": "Tras el lanzamiento del L8, la marca china Lepas empieza a preparar el desembarco en suelo español de un nuevo SUV , más pequeño, del tamaño de un Nissan Qashqai , y en este caso completamente eléctrico. Se llama Lepas L4 EV y es el nuevo SUV compacto del grupo Chery, el gigante chino que también está detrás de Omoda y Jaecoo, y asociada con Ebro. El L4 EV ocupará el escalón inferior de la gama,…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/09/Lepas-L6-L4-7644-6ab1238d47c81.jpg?class=XL",
       "menciones": 1,
       "fuentes": [
         "Diariomotor (ES)"
