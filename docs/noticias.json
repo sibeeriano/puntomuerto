@@ -1,5 +1,493 @@
 [
   {
+    "titulo": "El 4x4 que nadie esperaba, pero todos querrán, lo ha creado Hyundai para que te olvides del Toyota RAV4",
+    "link": "https://www.diariomotor.com/noticia/hyundai-tucson-xrt-2027/",
+    "fuente": "Diariomotor (ES)",
+    "fecha": "2026-09-22T19:00:27Z",
+    "resumen": "Uno de los SUV más esperados del año por fin ha sido presentado. Hablamos de todo un superventas en el mercado español que estrena nueva generación y viene repleta de novedades, siendo una de las más importantes el estreno de un acabado específico para los amantes del off-road , buscando así plantar cara al Toyota RAV4 y al Subaru Forester con un 4x4 que promete combinar lo mejor de los SUV y los…",
+    "imagen": "https://www.diariomotor.com/imagenes/2026/09/Hyundai-Tucson-2027-15-6ab0f80c9bbfd.jpg?class=XL"
+  },
+  {
+    "titulo": "Antonio Lobato, 61 años: \"Desayuno siempre una barrita con aguacate, tomate y aceite. Después de escalar me tomo una cerveza\"",
+    "link": "https://www.motorpasion.com/formula1/antonio-lobato-61-anos-desayuno-siempre-barrita-aguacate-tomate-aceite-despues-escalar-me-tomo-cerveza",
+    "fuente": "Motorpasión (ES)",
+    "fecha": "2026-09-22T17:00:07Z",
+    "resumen": "Antonio Lobato es conocido por ser el narrador de la Fórmula 1 en España desde 2004, habiendo pasado por casi todas las cadenas de televisión del país. En abierto como Telecinco, LaSexta o Antena3 y de pago como Movistar Plus y DAZN, donde trabaja actualmente. Pero tiene otra faceta un poco más desconocida como deportista, en la que su alimentación es fundamental. El periodista deportivo ha…",
+    "imagen": "https://i.blogs.es/55f545/antonio-lobato/1024_2000.jpeg"
+  },
+  {
+    "titulo": "Toyota Corolla 2026: el rey de los coches híbridos se actualiza, 15 años de garantía y 60 años de historia de compacto japonés",
+    "link": "https://www.diariomotor.com/noticia/toyota-corolla-novedades-gama-2026/",
+    "fuente": "Diariomotor (ES)",
+    "fecha": "2026-09-22T18:00:56Z",
+    "resumen": "60 son los años que han pasado desde el nacimiento del Toyota Corolla. El compacto japonés por excelencia, un veterano que ha ido creciendo en Europa hasta convertirse en referente de la categoría, con impás incluido, durante el que lo conocimos como Auris. Mientras aguardamos la llegada del esperado relevo generacional, que probablemente supondrá un cambio radical, en todos los sentidos y…",
+    "imagen": "https://www.diariomotor.com/imagenes/2026/09/toyota-corolla-2026-5-6ab2978a8162f.jpg?class=XL"
+  },
+  {
+    "titulo": "Las autocaravanas tienen los mismos derechos que un coche: es la conclusión a la que han llegado en Sopela, un paraíso camper en Vizcaya",
+    "link": "https://www.motorpasion.com/furgonetas-y-caravanas/camper-tienen-mismos-derechos-que-coche-conclusion-a-que-han-llegado-sopela-paraiso-camper-vizcaya",
+    "fuente": "Motorpasión (ES)",
+    "fecha": "2026-09-22T16:00:07Z",
+    "resumen": "El boom camper en España, con decenas de miles de autocaravanas y furgonetas circulando por zonas turísticas en vacaciones y festivos, se ha traducido en prohibiciones en no pocos pueblos , ciudades o zonas de playa. Donde pueden estacionar y donde no. En gran parte, por el conflicto con los vecinos: ruido, basura, que no encuentran sitio para aparcar... Sopela es la excepción. Esta localidad…",
+    "imagen": "https://i.blogs.es/aa0aef/portada-mop-1790085656257/1024_2000.jpeg"
+  },
+  {
+    "titulo": "Lexus GX 550: V6 biturbo de 349 CV y chasis de Land Cruiser para destronar al Clase G",
+    "link": "https://autotest.com.ar/offroad/lexus-gx-550-v6-biturbo-de-349-cv-y-chasis-de-land-cruiser-para-destronar-al-clase-g/",
+    "fuente": "Autotest",
+    "fecha": "2026-09-22T17:05:48Z",
+    "resumen": "El Clase G ha sabido construir su leyenda sobre un chasis de viga y tres bloqueos de diferencial, pero su suspensión es más rígida y su mecánica menos moderna.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/lexus-gx-550-v6-biturbo-de-349-cv-y-chas-1200x740-1.jpg"
+  },
+  {
+    "titulo": "El SUV barato que parece un 4×4 retro: 220 mm de despeje y pura facha, pero tracción delantera",
+    "link": "https://autotest.com.ar/offroad/el-suv-barato-que-parece-un-4x4-retro-220-mm-de-despeje-y-pura-facha-pero-traccion-delantera/",
+    "fuente": "Autotest",
+    "fecha": "2026-09-22T17:05:42Z",
+    "resumen": "No falta nada del manual aventurero: estribos laterales, portaequipaje de techo y calcos DAMD que refuerzan la identidad de la preparación.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/el-suv-barato-que-parece-un-4x4-retro-22-1200x740-1.jpg"
+  },
+  {
+    "titulo": "La Silverado 1500 ya no es barata: la versión base arranca en 41.395 dólares y toda la gama sube",
+    "link": "https://autotest.com.ar/offroad/la-silverado-1500-ya-no-es-barata-la-version-base-arranca-en-41-395-dolares-y-toda-la-gama-sube/",
+    "fuente": "Autotest",
+    "fecha": "2026-09-22T17:05:37Z",
+    "resumen": "En la generación actual, la Silverado 1500 ya ofrece la compuerta Multi-Flex Tailgate, con varias posiciones para carga, acceso y trabajo.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/la-silverado-1500-ya-no-es-barata-la-ver-1200x740-1.jpg"
+  },
+  {
+    "titulo": "Arabia Saudita fabricará 170.000 eléctricos con componentes BMW: cómo es el plan de Ceer",
+    "link": "https://autotest.com.ar/offroad/arabia-saudita-fabricara-170-000-electricos-con-componentes-bmw-como-es-el-plan-de-ceer/",
+    "fuente": "Autotest",
+    "fecha": "2026-09-22T17:05:31Z",
+    "resumen": "Esa duplicidad tiene sentido industrial: mientras Lucid valida el ensamblaje local y el prestigio, Ceer busca construir una cadena de proveedores, empleo calificado y escala exportadora.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/arabia-saudita-fabricar-170-000-el-ctric-1200x740-1.jpg"
+  },
+  {
+    "titulo": "Toyota Hilux 2027: la pick up estrena diseño, motor híbrido y más equipamiento",
+    "link": "https://autotest.com.ar/noticias/toyota-hilux-2027-la-pick-up-estrena-diseno-motor-hibrido-y-mas-equipamiento/",
+    "fuente": "Autotest",
+    "fecha": "2026-09-22T17:00:59Z",
+    "resumen": "La Toyota Hilux 2027 llega a México con un diseño renovado, tecnología avanzada y opciones de motores que se adaptan a diferentes necesidades, desde el trabajo hasta el uso recreativo.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/Toyota-Hilux-2027-teaser.jpg"
+  },
+  {
+    "titulo": "Parece una superbike de muchos miles de euros, pero esta moto española tiene 82 CV y un precio difícil de creer",
+    "link": "https://www.diariomotor.com/noticia/oferta-mitt-775r-sept/",
+    "fuente": "Diariomotor (ES)",
+    "fecha": "2026-09-22T17:00:13Z",
+    "resumen": "Tener una motocicleta deportiva, potente y bien equipada no tiene por qué implicar un presupuesto disparatado . Hay opciones que se salen bastante de lo habitual y esta que hoy te traemos es un buen ejemplo: cuesta menos que una Yamaha X-Max 300 Tech Max y pone sobre la mesa 82 CV , una imagen espectacular y una dotación que poco tiene que envidiar a motos bastante más caras. Liviana y manejable…",
+    "imagen": "https://www.diariomotor.com/imagenes/2025/09/mitt-775r-2-68d25cfdaec5b.jpg?class=XL"
+  },
+  {
+    "titulo": "La nueva furgoneta con 9 asientos que va por la de Volkswagen: es más barata y muy completa",
+    "link": "https://autotest.com.ar/transportes/la-nueva-furgoneta-con-9-asientos-que-va-por-volkswagen-es-mas-barata-y-muy-completa/",
+    "fuente": "Autotest",
+    "fecha": "2026-09-22T16:51:36Z",
+    "resumen": "Hyundai lanzó la nueva Staria Electric, la furgoneta 100% sostenible que ya está disponible en Europa y apunta directo a Volkswagen ID. Buzz. Es más barata y, además, tiene un tamaño superior, nueve asientos y carga de 10 al 80% en solo 20 minutos, entre otros puntos destacados. El modelo a batería se presentó en […]",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/Nueva-Hyundai-Staria.jpg"
+  },
+  {
+    "titulo": "No es Volkswagen Tera: el nuevo SUV de 118 CV con motor turbo y 7 años de garantía",
+    "link": "https://autotest.com.ar/noticias/no-es-volkswagen-tera-el-nuevo-suv-de-118-cv-con-motor-turbo-y-7-anos-de-garantia/",
+    "fuente": "Autotest",
+    "fecha": "2026-09-22T16:29:18Z",
+    "resumen": "Hyundai lanza la Venue 2027 en México, un SUV compacto y urbano, disponible desde 395,000 pesos.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/hyundai-venue-suv2.jpg"
+  },
+  {
+    "titulo": "Mercedes 190E 2.3-16: 50.000 km a 247,94 km/h durante 8 días y solo paró para cargar nafta",
+    "link": "https://autotest.com.ar/noticias/mercedes-190e-2-3-16-50-000-km-a-247-94-km-h-durante-8-dias-y-solo-paro-para-cargar-nafta/",
+    "fuente": "Autotest",
+    "fecha": "2026-09-22T16:15:45Z",
+    "resumen": "El corazón del récord fue un 2.299 cm³ de cuatro cilindros con tapa de 16 válvulas desarrollada junto a Cosworth, la firma inglesa que ya era sinónimo de competición.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/mercedes-190e-2-3-16-50-000-km-a-247-94-1200x740-1.jpg"
+  },
+  {
+    "titulo": "El SUV eléctrico con más autonomía en 2026 no es barato, pero ya se han vendido más de 100.000 y BMW ha puesto su fábrica a trabajar 24 horas al día, 7 días a la semana",
+    "link": "https://www.diariomotor.com/noticia/pedidos-bmw-ix3-produccion/",
+    "fuente": "Diariomotor (ES)",
+    "fecha": "2026-09-22T16:00:24Z",
+    "resumen": "A ciertos fabricantes les está costando vender eléctricos. No parece ser el caso de BMW . La marca bávara ha superado los 100.000 pedidos de su nuevo iX3 en apenas un año, y la demanda es tal que ha obligado al fabricante alemán a llevar al límite su nueva fábrica de Debrecen, que ya trabaja las 24 horas del día mediante tres turnos. El BMW iX3 es el primer coche de producción de la Neue Klasse ,…",
+    "imagen": "https://www.diariomotor.com/imagenes/2026/09/produccion-bmw-ix3-debrecen_port-6ab266b3cf385.jpg?class=XL"
+  },
+  {
+    "titulo": "Aston Martin concede total respaldo a YRB Racing para la clase GTD Pro de 2027",
+    "link": "https://www.diariomotor.com/competicion/noticia/aston-martin-equipo-clase-gtd-pro-2027/",
+    "fuente": "Diariomotor (ES)",
+    "fecha": "2026-09-22T16:00:23Z",
+    "resumen": "Aston Martin Racing confirmó que los pilotos Valentin Hasse-Clot y Marco Sørensen estarán a tiempo completo el año que viene en la clase GTD Pro del Campeonato IMSA SportsCar. Es una alineación de lujo la propuesta por el fabricante británico toda vez que el francés dispone de una licencia Oro y el danés de una de Platino al ser reconocido como uno de los mejores pilotos de GT, es ganador de las…",
+    "imagen": "https://www.diariomotor.com/imagenes/2026/09/Aston_Martin_Racing_Car_Blanche_IMSA_GTD_Pro_2027_27-6ab27a7fde8dd.jpg?class=XL"
+  },
+  {
+    "titulo": "He probado el Skoda Peaq: el buque insignia eléctrico de la marca checa me ha dejado fuera de juego porque es enorme, pero gasta poquísimo",
+    "link": "https://www.motorpasion.com/pruebas-de-coches/prueba-skoda-peaq-2026",
+    "fuente": "Motorpasión (ES)",
+    "fecha": "2026-09-22T14:00:07Z",
+    "resumen": "El curso ha empezado fuerte para Skoda. Mientras las primeras unidades del Skoda Epiq llegan a las calles, el Skoda Peaq está a punto de aterrizar en los concesionarios españoles. Este SUV de 4,87 metros de largo es el nuevo buque insignia eléctrico de la marca checa y llega con dos variantes, una de 286 CV y tracción trasera y otra de 299 CV y tracción total, ambas con más de 600 km de autonomía…",
+    "imagen": "https://i.blogs.es/51fe16/skoda-peaq-2026-1/1024_2000.jpeg"
+  },
+  {
+    "titulo": "Ford Territory vs Toyota Corolla Cross: ¿cuál es más barato?",
+    "link": "https://autotest.com.ar/comparativos/ford-territory-vs-toyota-corolla-cross-cual-es-mas-barato/",
+    "fuente": "Autotest",
+    "fecha": "2026-09-22T15:49:24Z",
+    "resumen": "Ford presenta su Territory híbrida en Argentina, desafiando al previamente destacado Toyota Corolla Cross. Los analizamos en detalle en cuanto a espacio, potencia y equipamiento.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/Ford-Territory-vs-Toyota-Corolla-Cross.jpg"
+  },
+  {
+    "titulo": "Toyota actualiza su modelo híbrido: consume menos que Corolla y ahora ofrece más tecnología",
+    "link": "https://autotest.com.ar/noticias/toyota-actualiza-su-modelo-hibrido-consume-menos-que-corolla-y-ahora-ofrece-mas-tecnologia/",
+    "fuente": "Autotest",
+    "fecha": "2026-09-22T15:30:51Z",
+    "resumen": "Descubre las novedades del Toyota Prius 2027 en México, incluyendo sus avanzados servicios conectados, diseño mejorado y rendimiento híbrido eficiente.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/Toyota-Prius-2027-perfil.jpg"
+  },
+  {
+    "titulo": "El SUV híbrido de 330 CV y tracción 4×4 que busca desafiar a Ford y Toyota",
+    "link": "https://autotest.com.ar/noticias/el-suv-hibrido-de-330-cv-y-traccion-4x4-que-busca-desafiar-a-ford-y-toyota/",
+    "fuente": "Autotest",
+    "fecha": "2026-09-22T15:16:36Z",
+    "resumen": "El BAIC BJ30 híbrido se destaca en el mercado argentino con precios competitivos y un equipamiento completo. Conoce más sobre este SUV que está dando que hablar.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2025/10/SUV-Baic-BJ30-accion.jpg"
+  },
+  {
+    "titulo": "La nueva pick up híbrida con 416 HP y tracción 4×4 que busca competir contra Toyota Hilux",
+    "link": "https://autotest.com.ar/noticias/la-nueva-pick-up-hibrida-con-416-hp-y-traccion-4x4-que-busca-competir-contra-toyota-hilux/",
+    "fuente": "Autotest",
+    "fecha": "2026-09-22T15:00:46Z",
+    "resumen": "La nueva GWM P300, ahora híbrida enchufable, llega a México con un diseño ambicioso orientado tanto para el trabajo como para el uso recreativo.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/Pick-up-GWM-P300-caja.jpg"
+  },
+  {
+    "titulo": "Compraron un coche eléctrico y nunca les llegó la subvención: el error en la plataforma del Plan MOVES III que bloquea 2.700 ayudas",
+    "link": "https://www.motorpasion.com/industria/compraron-coche-electrico-nunca-les-llego-subvencion-error-plataforma-plan-moves-iii-que-bloquea-2-700-ayudas",
+    "fuente": "Motorpasión (ES)",
+    "fecha": "2026-09-22T13:00:07Z",
+    "resumen": "El Plan Moves III de ayudas a la compra de coches eléctricos e híbridos enchufables ya es historia: desde hace muy poco y tras mucho retraso ha sido reemplazado por el Plan Auto+ , que ofrece ayudas de hasta 4.500 euros. Pero al igual que existen serias dudas de que los fondos de este nuevo plan duren mucho, con el Plan Moves ha habido muchos problemas. Desde las demoras extremas en el cobro de la…",
+    "imagen": "https://i.blogs.es/e79f1e/gobierno-4/1024_2000.jpeg"
+  },
+  {
+    "titulo": "Llega a Europa la alternativa 'Made in Japan' a la Toyota Hilux y Ford Ranger, con un duro motor 2.4 diésel de Mitsubishi",
+    "link": "https://www.diariomotor.com/noticia/mitsubishi-l200-llegada-europa/",
+    "fuente": "Diariomotor (ES)",
+    "fecha": "2026-09-22T15:00:03Z",
+    "resumen": "Puede que no sea el segmento más favorecido por la situación actual, pues no está formado, precisamente, por el tipo de coche que más aboga por la eficiencia, pero desde luego los segmentos de los todoterrenos y las pick-up se están beneficiando de las posibilidades que ofrece su electrificación . El ejemplo más claro de ello es que la versión más vendida en España de la Ford Ranger es,…",
+    "imagen": "https://www.diariomotor.com/imagenes/2026/09/Desembarca-en-Europa-un-4x4-mitico-de-nuevo-6ab25a9328121.jpg?class=XL"
+  },
+  {
+    "titulo": "Toyota Corolla cumple 60 años y estrena una versión especial con más equipamiento",
+    "link": "https://autotest.com.ar/noticias/toyota-corolla-cumple-60-anos-y-estrena-una-version-especial-con-mas-equipamiento/",
+    "fuente": "Autotest",
+    "fecha": "2026-09-22T14:57:19Z",
+    "resumen": "La nueva gama del Toyota Corolla en España incorpora ediciones especiales y mejoras de seguridad. Descubre precios desde 25.450 €.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/Toyota-Corolla-60-Aniversario-4.jpg"
+  },
+  {
+    "titulo": "Isack Hadjar volverá a la acción en el Gran Premio de Azerbaiyán",
+    "link": "https://www.diariomotor.com/competicion/noticia/isack-hadjar-regresa-a-la-accion/",
+    "fuente": "Diariomotor (ES)",
+    "fecha": "2026-09-22T14:34:28Z",
+    "resumen": "Desde Red Bull Racing comunicaron que Isack Hadjar regresará a la alineación titular para el Gran Premio de Azerbaiyán tras ser evaluado y demostrar que está plenamente recuperado de la lesión que sufrió en la muñeca durante las vacaciones de verano. El piloto francés se ausentó de tres fechas: Zandvoort, Monza y Madrid, debido a que la escudería austriaca no quiso apresurar su vuelta hasta que…",
+    "imagen": "https://www.diariomotor.com/imagenes/2026/09/Isack_Hadjar_Red_Bull_Racing_2026_R_26-6ab26e3158a1c.jpg?class=XL"
+  },
+  {
+    "titulo": "Cuesta menos que Toyota Yaris y tiene 191 CV: el hatchback que sorprende por precio y potencia",
+    "link": "https://autotest.com.ar/noticias/cuesta-menos-que-toyota-yaris-y-tiene-191-cv-el-hatchback-que-sorprende-por-precio-y-potencia/",
+    "fuente": "Autotest",
+    "fecha": "2026-09-22T14:15:25Z",
+    "resumen": "El MG3 llega a Argentina como el híbrido más accesible del mercado, destacándose por su potencia y consumo eficiente.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/MG-3-Hybrid-teaser.jpg"
+  },
+  {
+    "titulo": "El sedán más barato de Volkswagen: cuesta menos de 14000 dólares y consume 3 litros cada 100 km",
+    "link": "https://autotest.com.ar/noticias/el-sedan-mas-barato-de-volkswagen-cuesta-menos-de-14000-dolares-y-consume-3-litros-cada-100-km/",
+    "fuente": "Autotest",
+    "fecha": "2026-09-22T14:11:48Z",
+    "resumen": "Volkswagen ya vende en China el ID. Era 5S, un sedán híbrido enchufable que tiene el precio más bajo de la gama, es más potente que un Vento/Jetta y puede consumir solo 3 litros cada 100 km recorridos, además de alcanzar una autonomía récord de 2000 kilómetros. La compañía alemana presentó este modelo durante el […]",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/Nuevo-Volkswagen-ID.-Era-5S.jpg"
+  },
+  {
+    "titulo": "El país del petróleo ya tiene su coche propio y no utiliza gasolina: tiene puertas de 3 metros, 1.111 CV y batería de 112 kWh",
+    "link": "https://www.diariomotor.com/noticia/ceer-exobot-arabia-saudi/",
+    "fuente": "Diariomotor (ES)",
+    "fecha": "2026-09-22T14:00:47Z",
+    "resumen": "Arabia Saudí ha presentado sus primeros coches eléctricos propios, los Ceer Exobot Sedan y SUV. Tienen hasta 1.111 CV, unas puertas descomunales de 3 metros y una batería de 112 kWh. Comenzarán a venderse en el país a principios de 2027, y detrás de su identidad saudí hay tecnología de BMW y Foxconn. Claves del Ceer Exobot, el coche eléctrico saudí El Exobot se ofrecerá como berlina y SUV de más…",
+    "imagen": "https://www.diariomotor.com/imagenes/2026/09/Ceer-EXOBOT-Sedan_port-6ab25680d302f.jpg?class=XL"
+  },
+  {
+    "titulo": "EEUU resucita el acorazado: un monstruo nuclear de 41.000 toneladas que quiere dominar los océanos. El problema es que es un blanco perfecto para los drones",
+    "link": "https://www.motorpasion.com/tecnologia/eeuu-resucita-acorazado-monstruo-nuclear-41-000-toneladas-que-quiere-dominar-oceanos-problema-que-blanco-perfecto-para-drones",
+    "fuente": "Motorpasión (ES)",
+    "fecha": "2026-09-22T12:00:07Z",
+    "resumen": "Los acorazados dejaron de ser los dueños de los océanos cuando los aviones y los misiles demostraron que el tamaño y el blindaje ya no bastaban para ganar una guerra naval, pero ahora EEUU quiere devolverles el trono con un buque de más de 40.000 toneladas, propulsión nuclear y una capacidad de fuego pensada para el siglo XXI. El proyecto se conoce como BBG(X) o “clase Trump” y pretende…",
+    "imagen": "https://i.blogs.es/fdb4f3/us-navy/1024_2000.jpeg"
+  },
+  {
+    "titulo": "Por debajo de Renegade: el SUV de Jeep que llegará antes de fin de año para enfrentar a Volkswagen Tera",
+    "link": "https://autotest.com.ar/noticias/por-debajo-de-renegade-el-suv-de-jeep-que-llegara-antes-de-fin-de-ano-para-enfrentar-a-volkswagen-tera/",
+    "fuente": "Autotest",
+    "fecha": "2026-09-22T13:30:18Z",
+    "resumen": "El Jeep Avenger 2027 llega a Brasil con motor híbrido y un diseño compacto, apuntando a competir con modelos como el Toyota Yaris Cross.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/08/Jeep-Avenger-2027-Limited-perfil.jpg"
+  },
+  {
+    "titulo": "El Range Rover Velar del pueblo tiene ahora un interior de mayor calidad y el mismo motor híbrido de BYD de 204 CV de potencia",
+    "link": "https://www.diariomotor.com/noticia/cambios-kgm-torres-actyon-2027/",
+    "fuente": "Diariomotor (ES)",
+    "fecha": "2026-09-22T13:00:15Z",
+    "resumen": "A menudo, elegir un coche de gran tamaño suele ir ligado a un desembolso que crece de manera proporcional a lo que lo hace el tamaño conforme valoramos opciones, aunque, como siempre, cuanto más profundicemos en el mercado podremos encontrar alternativas que más pueden sorprendernos . Ese exactamente puede ser el caso del KGM Torres Actyon , el buque insignia en la gama SUV de la firma que dió…",
+    "imagen": "https://www.diariomotor.com/imagenes/2026/09/KGM-Actyon-Hybrid-2-6ab24b9f48300.jpg?class=XL"
+  },
+  {
+    "titulo": "El coche eléctrico ya es un problema para los talleres, pero una ventaja para los conductores por una sencilla razón",
+    "link": "https://www.motorpasion.com/observatorio-motorpasion/coche-electrico-problema-para-talleres-ventaja-para-conductores-sencilla-razon",
+    "fuente": "Motorpasión (ES)",
+    "fecha": "2026-09-22T11:00:07Z",
+    "resumen": "Bueno para los conductores, pero no tanto para los talleres. El coche eléctrico se está llevando por delante buena parte de las reparaciones mecánicas: menos piezas se traduce en eliminar muchas tareas de mantenimiento , en un sector que depende mucho de los recambios. Los dueños de este tipo de coches tienen que pasar menos por el taller y, aunque un problema en la batería puede suponer una…",
+    "imagen": "https://i.blogs.es/0d76d0/taller-mecanico-01/1024_2000.jpeg"
+  },
+  {
+    "titulo": "El Nissan Kicks baja de precio: cuánto cuesta ahora el SUV con motor turbo",
+    "link": "https://autotest.com.ar/noticias/el-nissan-kicks-baja-de-precio-cuanto-cuesta-ahora-el-suv-con-motor-turbo/",
+    "fuente": "Autotest",
+    "fecha": "2026-09-22T12:49:16Z",
+    "resumen": "El Nissan Kicks Advance 2027 se ofrece con un atractivo descuento de R$ 22.000 en Brasil, destacándose por su motor 1.0 turbo y su seguridad mejorada.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/Nissan-Kicks-Advance-perfil.jpg"
+  },
+  {
+    "titulo": "Tecnología BYD y hasta 503 km de autonomía: estos SUV reciben una actualización",
+    "link": "https://autotest.com.ar/noticias/descubre-las-nuevas-mejoras-del-suv-kgm-torres-actyon-hev-y-torres-evx/",
+    "fuente": "Autotest",
+    "fecha": "2026-09-22T12:26:34Z",
+    "resumen": "KGM presenta actualizaciones en los modelos Torres Actyon HEV y EVX, mejorando su interior, conectividad y seguridad, sin cambiar su posicionamiento en el mercado.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/Proyecto-nuevo-2.jpg"
+  },
+  {
+    "titulo": "Dongfeng Motor presenta la plataforma T1 y tres vehículos de hidrógeno",
+    "link": "https://autotest.com.ar/transportes/dongfeng-motor-presenta-la-plataforma-t1-y-tres-vehiculos-de-hidrogeno/",
+    "fuente": "Autotest",
+    "fecha": "2026-09-22T12:13:24Z",
+    "resumen": "Bajo el lema «With DONGFENG, Drive HYDROGEN» («Con DONGFENG, impulsa el HIDRÓGENO»), Dongfeng Motor hizo su presentación con tres vehículos impulsados por hidrógeno, además del debut mundial de su celda de combustible de 400 kW y tecnologías clave. Posicionándose como un «socio global de valor cero carbono», Dongfeng exhibió casi tres décadas de experiencia y logros en energía de […]",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/dongfeng-motor1.jpg"
+  },
+  {
+    "titulo": "Récord de ventas para este SUV chino: ya supera las 30.000 unidades y se posiciona entre los más exitosos de 2026",
+    "link": "https://autotest.com.ar/noticias/omoda-5-suv-revoluciona-las-ventas-en-espana-el-hibrido-conquista-el-mercado/",
+    "fuente": "Autotest",
+    "fecha": "2026-09-22T12:01:50Z",
+    "resumen": "El OMODA 5 alcanza las 30.000 ventas en España con un notable crecimiento de su versión híbrida, que representa el 88% de las ventas en 2026.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/Omoda-5-SUV.jpg"
+  },
+  {
+    "titulo": "Renault fabricará en España su Rafale más exclusivo, 200 unidades con 300 CV y capaz de hacer 105 km sin encender su motor de gasolina",
+    "link": "https://www.diariomotor.com/noticia/renault-rafale-hypnotic/",
+    "fuente": "Diariomotor (ES)",
+    "fecha": "2026-09-22T12:00:52Z",
+    "resumen": "Renault ha convertido su buque insignia, el SUV más grande y prestacional de la gama, en una edición limitada a 1.500 unidades para toda Europa, de las que solo 200 llegarán a España. Se trata del nuevo Renault Rafale Hypnotic y combina la mecánica híbrida enchufable de 300 CV con una estética oscura , más equipamiento y una placa numerada. Claves del Renault Rafale Hypnotic, el más exclusivo Solo…",
+    "imagen": "https://www.diariomotor.com/imagenes/2026/09/Renault-Rafale-Hypnotic_port-6ab23c5258910.jpg?class=XL"
+  },
+  {
+    "titulo": "El SUV híbrido con precio competitivo y 278 CV que desafía al Toyota Corolla Cross",
+    "link": "https://autotest.com.ar/noticias/el-suv-hibrido-con-precio-competitivo-y-278-cv-que-desafia-al-toyota-corolla-cross/",
+    "fuente": "Autotest",
+    "fecha": "2026-09-22T12:00:11Z",
+    "resumen": "Chery presenta en Argentina su nuevo SUV híbrido enchufable, el Tiggo 7 CSH, con 278 CV y una impresionante autonomía eléctrica y combinada. Conoce su precio, características y equipamiento.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/07/Chery-Tiggo-7-Pro-CSH-5.jpg"
+  },
+  {
+    "titulo": "Francia se está quedando sin diésel: ya tiene 1.500 gasolineras donde no se puede repostar, y es el aviso de lo que viene",
+    "link": "https://www.motorpasion.com/industria/francia-tiene-1-500-estaciones-servicio-diesel-aviso-que-que-nos-espera",
+    "fuente": "Motorpasión (ES)",
+    "fecha": "2026-09-22T10:00:07Z",
+    "resumen": "No, las cosas no pintan nada bien . Se acerca el invierno y Occidente se encuentra sumido en una crisis energética que pocos hubieran imaginado: la guerra contra Irán ha precipitado aquella advertencia de que \" la era del petróleo llega a su fin \", pero no porque la demanda caiga, sino porque la oferta ya es escasa. Francia ha advertido de que se está quedando sin diésel , mientras que países como…",
+    "imagen": "https://i.blogs.es/735b47/portada-mop-1790068056007/1024_2000.jpeg"
+  },
+  {
+    "titulo": "Renault y su SUV más exclusivo con 300 CV que estrena una edición limitada de solo 1.500 unidades",
+    "link": "https://autotest.com.ar/noticias/renault-y-su-suv-mas-exclusivo-con-300-cv-que-estrena-una-edicion-limitada-de-solo-1-500-unidades/",
+    "fuente": "Autotest",
+    "fecha": "2026-09-22T11:45:12Z",
+    "resumen": "Renault lanza una edición limitada del Rafale con detalles exclusivos y tecnología híbrida enchufable.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/Renault-Rafale-4.jpg"
+  },
+  {
+    "titulo": "La Guardia Civil investiga a un conductor tras cazarle a casi 220 km/h por la A-3 en Utiel",
+    "link": "https://www.motorpasion.com/seguridad/guardia-civil-investiga-a-conductor-cazarle-a-casi-220-km-h-a-3-utiel",
+    "fuente": "Motorpasión (ES)",
+    "fecha": "2026-09-22T09:30:06Z",
+    "resumen": "No todas las multas de velocidad son iguales y algunas te pueden llevar a la cárcel : sobrepasar la velocidad en una autovía en más de 80 km/h se considera delito de tráfico. Este conductor en Valencia superó esa cifra con creces: circulaba a 98 km/h por encima del límite. Un radar móvil de la Guardia Civil lo cazó circulando por la A-3 a nada menos que 218 km/h . Ahora se le investiga por un…",
+    "imagen": "https://i.blogs.es/c1a59b/guardia-civil-control-velocidad-radar/1024_2000.jpeg"
+  },
+  {
+    "titulo": "El SUV con motor turbo rival de Toyota Yaris Cross que tiene un descuento de casi 2.000 dólares",
+    "link": "https://autotest.com.ar/noticias/el-suv-con-motor-turbo-rival-de-toyota-yaris-cross-que-tiene-un-descuento-de-casi-2-000-dolares/",
+    "fuente": "Autotest",
+    "fecha": "2026-09-22T11:19:48Z",
+    "resumen": "Durante septiembre, el Jetour X50 tiene una bonificación de USD 1.900, quedando a un precio sugerido de USD 25.000. Incluye motor 1.5 turbo, caja DCT y cámara 360°.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/Jetour-X50-SUV-3.jpg"
+  },
+  {
+    "titulo": "Una marca presentó un nuevo modelo: 9 asientos, gran relación potencia-autonomía y más",
+    "link": "https://autotest.com.ar/transportes/una-marca-presento-un-nuevo-modelo-9-asientos-gran-relacion-potencia-autonomia-y-mas/",
+    "fuente": "Autotest",
+    "fecha": "2026-09-22T11:15:37Z",
+    "resumen": "KIA presentó en el Salón IAA Transportation 2026 de Hannover la PV7 2027, la van 100% eléctrica y que se ubicará por encima del PV5. Allí se mostró -en pocas palabras- una propuesta pensada para pasajeros, reparto y flotas que necesitan más espacio sin pasar a un vehículo comercial pesado. El modelo tendrá hasta nueve […]",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/Kia-PV7.jpg"
+  },
+  {
+    "titulo": "El SUV de 7 plazas que bajó 2.000 dólares y ahora cuesta menos de 30.000",
+    "link": "https://autotest.com.ar/noticias/aprovecha-la-promocion-del-jetour-x70-fl-suv-ahora-por-debajo-de-usd-30-000/",
+    "fuente": "Autotest",
+    "fecha": "2026-09-22T11:08:54Z",
+    "resumen": "El Jetour X70 FL, un SUV de siete plazas, recibe una bonificación de USD 2.000, quedando en USD 29.900. Descubrí sus características y beneficios.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/Jetour-X70-SUV.jpg"
+  },
+  {
+    "titulo": "Sedán chino con tamaño de Audi A6, 160 CV turbo y precio de Toyota Yaris",
+    "link": "https://autotest.com.ar/noticias/sedan-chino-con-tamano-de-audi-a6-160-cv-turbo-y-precio-de-toyota-yaris/",
+    "fuente": "Autotest",
+    "fecha": "2026-09-22T11:00:36Z",
+    "resumen": "Ese salto de segmento no es casual: responde a la estrategia de penetración de las marcas chinas, que ponen el precio como argumento de entrada mientras construyen reputación.",
+    "imagen": "https://www.diariomotor.com/imagenes/2025/05/bestune14-68161a98dac91.jpg?class=XL"
+  },
+  {
+    "titulo": "Alfa Romeo prepara un 33 Stradale único: el one-off que debutará en el Salón de París",
+    "link": "https://autotest.com.ar/noticias/alfa-romeo-prepara-un-33-stradale-unico-el-one-off-que-debutara-en-el-salon-de-paris/",
+    "fuente": "Autotest",
+    "fecha": "2026-09-22T11:00:32Z",
+    "resumen": "El programa Fuoriserie, también conocido como Bottega en sus versiones más exclusivas, funciona como un taller de diseño a puertas cerradas.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/alfa-romeo-prepara-un-33-stradale-nico-e-1200x740-1.jpg"
+  },
+  {
+    "titulo": "Mustang patrullero: 480 CV, frenos Brembo y suspensión Steeda para perseguir a 250 km/h",
+    "link": "https://autotest.com.ar/noticias/mustang-patrullero-480-cv-frenos-brembo-y-suspension-steeda-para-perseguir-a-250-km-h/",
+    "fuente": "Autotest",
+    "fecha": "2026-09-22T11:00:27Z",
+    "resumen": "El proyecto de Steeda retoma esa lógica, pero con una diferencia central: no se trata de una variante de fábrica, sino de un desarrollo a medida de un preparador.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/mustang-patrullero-480-cv-frenos-brembo-1200x740-1.jpg"
+  },
+  {
+    "titulo": "Con 204 CV, etiqueta ECO y tracción total a las cuatro ruedas, es la opción más atractiva de la gama de este súper ventas alemán",
+    "link": "https://www.diariomotor.com/noticia/vw-troc-4motion-2026/",
+    "fuente": "Diariomotor (ES)",
+    "fecha": "2026-09-22T11:00:20Z",
+    "resumen": "No hay demasiadas alternativas en el mercado nacional que combinen unas dimensiones contenidas, etiqueta ECO y tracción total . Este superventas alemán acaba de incorporar una nueva versión que reúne precisamente esos ingredientes y que, por prestaciones y versatilidad, se coloca entre las opciones más interesantes de la gama. La parte menos atractiva está en el precio, bastante elevado para un…",
+    "imagen": "https://www.diariomotor.com/imagenes/2026/08/Volkswagen-TROC-4motion5-6a859c1b8d5dc.jpg?class=XL"
+  },
+  {
+    "titulo": "Fernando Alonso pide cambios ya en la Fórmula 1: \"No podemos esperar hasta 2031 para tener un deporte al nivel. Siento que es mi responsabilidad\"",
+    "link": "https://www.motorpasion.com/formula1/fernando-alonso-pide-cambios-formula-1-no-podemos-esperar-2031-para-tener-deporte-al-nivel-siento-que-mi-responsabilidad",
+    "fuente": "Motorpasión (ES)",
+    "fecha": "2026-09-22T09:00:07Z",
+    "resumen": "La Fórmula 1 ha logrado convencer a todos los replicantes salvo a uno. Mientras que los Max Verstappen , Lando Norris y otros pilotos críticos con el reglamento técnico han renovado y se ha comprometido a largo plazos con el campeonato, Fernando Alonso sigue dando la batalla . El piloto asturiano no quiere renovar hasta ver cambios. Fernando Alonso ha recalcado que quiere ver cambios en el…",
+    "imagen": "https://i.blogs.es/233253/alonso-aston-martin-f1-2026/1024_2000.jpeg"
+  },
+  {
+    "titulo": "El SUV chino rival de Toyota Corolla Cross que ahora es USD 2.400 más barato",
+    "link": "https://autotest.com.ar/noticias/el-suv-chino-rival-de-toyota-corolla-cross-que-ahora-es-usd-2-400-mas-barato/",
+    "fuente": "Autotest",
+    "fecha": "2026-09-22T10:52:44Z",
+    "resumen": "El Jetour Dashing se presenta en Argentina con una versión de entrada que combina motor turbo y equipamiento destacado a un precio similar al del Toyota Yaris Cross.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2024/10/SUV-Jetour-Dashing-accion.jpg"
+  },
+  {
+    "titulo": "El dato que muestra cuánto se financian los autos 0 km en Argentina",
+    "link": "https://www.iprofesional.com/autos/464922-casi-la-mitad-de-los-autos-0-km-se-compro-con-financiacion-en-agosto",
+    "fuente": "iProfesional",
+    "fecha": "2026-09-22T13:49:00Z",
+    "resumen": "La mitad de las operaciones de compra de cero kilómetros se realizan con crédito y las financieras de las automotrices ganan protagonismo (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
+    "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2025/02/591547.jpg"
+  },
+  {
+    "titulo": "Aparcar en un vado permanente tiene una multa de 200 euros, incluso si es tu coche en tu propio vado",
+    "link": "https://www.motorpasion.com/revision/coche-aparcado-vado-permanente",
+    "fuente": "Motorpasión (ES)",
+    "fecha": "2026-09-22T08:00:07Z",
+    "resumen": "Sales de casa, vas a buscar el coche, y de buenas a primeras te escuchas decir la típica frase de: \" Me han aparcado en el vado. ¿Y ahora qué hago? \". Cuando encontramos un vehículo estacionado frente al vado que estamos pagando, estamos ante el resultado de una infracción de Tráfico que, además, supone un fastidio considerable para el que la sufre. ¿Qué podemos hacer? ¿Cómo debemos actuar?…",
+    "imagen": "https://i.blogs.es/ec6de3/portada-mop-1789992913383/1024_2000.jpeg"
+  },
+  {
+    "titulo": "Volvo tiene un plan, convencerte con coches que hacen 200 km sin gastar gota de gasolina y apenas visiten la gasolinera",
+    "link": "https://www.diariomotor.com/noticia/volvo-plan-200-km-sin-gastar-gasolina/",
+    "fuente": "Diariomotor (ES)",
+    "fecha": "2026-09-22T10:00:05Z",
+    "resumen": "Mientras escribo estas líneas, son muchas las novedades que están aconteciendo alrededor de Volvo. Se acaba de anunciar la sucesión en la posición de CEO de la marca, que a partir de octubre ocupará Klaus Zellmer, hasta ahora CEO de Skoda. Y mientras la marca actualiza su catálogo de productos, anuncia un plan de futuro con el que la marca quiere desmarcarse, no solo de la competencia, sino…",
+    "imagen": "https://www.diariomotor.com/imagenes/2026/09/Volvo-XC90-PHEV-2027-8-6aa91fc33b747.jpg?class=XL"
+  },
+  {
+    "titulo": "He probado la Kärcher K5 y ya no quiero volver a meter el coche en el lavado a presión de la gasolinera. Es adictiva, pero necesitas tener sitio",
+    "link": "https://www.motorpasion.com/pruebas-de-coches/prueba-karcher-k5-2026",
+    "fuente": "Motorpasión (ES)",
+    "fecha": "2026-09-22T07:30:06Z",
+    "resumen": "Posiblemente si estás leyendo esto seas un friki de la limpieza como yo, o no. Quizá simplemente te guste tener las cosas limpias y, especialmente, el coche. En cualquiera de esos casos: bienvenido. Hoy vamos a limpiar cosas . Lo que doy por hecho es que alguna vez has pensado que sería buen momento para dejar de gastarte dinero en los lavados de las gasolineras y hacerte con una hidrolimpiadora.…",
+    "imagen": "https://i.blogs.es/1e5b8d/cats5/1024_2000.jpeg"
+  },
+  {
+    "titulo": "En Europa nos faltan, diariamente, 81 millones de litros de queroseno y estamos recorriendo medio mundo para encontrarlo",
+    "link": "https://www.diariomotor.com/noticia/escasez-queroseno-europa/",
+    "fuente": "Diariomotor (ES)",
+    "fecha": "2026-09-22T09:00:43Z",
+    "resumen": "Tenemos no uno sino varios problemas con los combustibles. A la escasez de diésel y su alto precio , que está por las nubes, ahora hay que sumar otro problema con el queroseno. Según las últimas previsiones, en el cuarto trimestre del año Europa afrontará un déficit de combustible para aviación equivalente a unos 81 millones de litros diarios . Claves Energy Aspects proyecta un déficit de 510.000…",
+    "imagen": "https://www.diariomotor.com/imagenes/2025/09/queroseno-sintetico-shell-68b85700187fc.jpg?class=XL"
+  },
+  {
+    "titulo": "Las obras de desvío de una carretera en Córdoba encuentran una calzada romana y una almazara que pueden reescribir la historia del aceite en Andalucía",
+    "link": "https://www.motorpasion.com/industria/obras-desvio-carretera-cordoba-encuentran-calzada-romana-almazara-que-pueden-reescribir-historia-aceite-andalucia",
+    "fuente": "Motorpasión (ES)",
+    "fecha": "2026-09-22T07:00:06Z",
+    "resumen": "En un territorio con rica historia como lo es España, es habitual que, en mitad de unas obras, se encuentren auténticos hitos del pasado. Es lo que ha pasado en las labores de la variante de Las Angosturas, en Priego de Córdoba, que escondían bajo tierra mucho más que un simple yacimiento arqueológico. Empezó como una intervención preventiva para arrancar una nueva carretera. Pero ha acabado…",
+    "imagen": "https://i.blogs.es/710cc4/portada-mop-1789989879924/1024_2000.jpeg"
+  },
+  {
+    "titulo": "En estos lugares se pueden comprar motos usadas en buen estado y evitar estafas",
+    "link": "https://www.iprofesional.com/autos/464749-guia-para-comprar-motos-usadas-y-como-hacer-la-transferencia",
+    "fuente": "iProfesional",
+    "fecha": "2026-09-22T11:56:00Z",
+    "resumen": "Paso a paso para transferir una moto usada en la DNRPA y las precauciones mecanicas fundamentales para evitar fraudes en la compra (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
+    "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/05/616216.jpg"
+  },
+  {
+    "titulo": "Una marca china bajó hasta US$ 2.400 sus precios",
+    "link": "https://eleconomista.com.ar/autos/una-marca-china-us-2400-sus-precios-n98330",
+    "fuente": "El Economista",
+    "fecha": "2026-09-22T11:37:00Z",
+    "resumen": "Durante septiembre, Jetour Argentina ofrece condiciones comerciales especiales para sus SUV X50, X70 y Dashing. A esto le suma financiación a tasa 0%.",
+    "imagen": "https://statics.eleconomista.com.ar/2026/09/crop/6ab26b06556d2__950x512.webp"
+  },
+  {
+    "titulo": "El roadster japonés más icónico de la historia se ha travestido para parecer un Corvette de los 50",
+    "link": "https://www.diariomotor.com/noticia/mitsuoka-la1-adelanto/",
+    "fuente": "Diariomotor (ES)",
+    "fecha": "2026-09-22T08:00:04Z",
+    "resumen": "Los trabajos de Mitsuoka son de lo más peculiares. No es una empresa demasiado conocida fuera de los círculos más \"frikis\" del motor, pero ambición y empeño no les falta . Se dedican fundamentalmente a evocar iconos del automóvil clásico usando como base coches modernos . Y aunque su ejecución en ocasiones no sea la más agraciada, tienen un gran éxito comercial en su Japón natal . Y la prueba no…",
+    "imagen": "https://www.diariomotor.com/imagenes/2026/09/mitsuoka-la1-adelanto-5-6ab12ccb9b6f2.jpg?class=XL"
+  },
+  {
+    "titulo": "Jetour rebaja hasta 2400 dólares tres modelos de SUV y ofrece financiamiento en 12 cuotas",
+    "link": "https://www.iprofesional.com/autos/464904-jetour-rebaja-hasta-usd2400-tres-suv-y-ofrece-financiamiento-en-12-cuotas",
+    "fuente": "iProfesional",
+    "fecha": "2026-09-22T10:18:00Z",
+    "resumen": "La marca china lanzó una acción especial para tres de sus productos durante septiembre. Además, una parte se puede pagar en cuotas (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
+    "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/09/626081.jpg"
+  },
+  {
+    "titulo": "Premium, e indestructible, la alternativa a la TMAX de Honda es más barata, más potente, y la puedes comprar por 149 euros al mes",
+    "link": "https://www.diariomotor.com/noticia/honda-forza-750-oferta-septiembre-2026/",
+    "fuente": "Diariomotor (ES)",
+    "fecha": "2026-09-22T07:00:15Z",
+    "resumen": "Es el feudo de las premium y, por supuesto, de Honda y Yamaha. Hablamos de motos de una calidad altísima, indestructibles, y con una legión de seguidores a su alrededor. Motos que concilian la practicidad que uno espera de una moto urbana, de un scooter, con una parte ciclo, tecnología, y motores, propios de motos grandes. Motos que no son precisamente baratas, en un mercado dominado por las…",
+    "imagen": "https://www.diariomotor.com/imagenes/2026/06/honda-forza-750-my-2025-1-6a3cd0e3d8026.jpg?class=XL"
+  },
+  {
+    "titulo": "Llega el Kia Sorento de Nissan, un todocamino con 4x4 que potencia su fórmula de diseño y que ahora tiene el mejor motor híbrido",
+    "link": "https://www.diariomotor.com/noticia/nissan-x-trail-rogue-hybrid-datos-motor/",
+    "fuente": "Diariomotor (ES)",
+    "fecha": "2026-09-22T06:00:31Z",
+    "resumen": "Cuando se trata de renovar uno de los buques insignia que mantienen sobre sus hombros todo el peso como es el de un conglomerado tan grande como el de Nissan , los japoneses no se la juegan, por eso el coche que acompaña estas línea no varía su fórmula de diseño, sino que la mejora para seguir siendo el todocamino de tamaño medio/grande que siempre ha sido. Las imágenes que acompañan estas líneas…",
+    "imagen": "https://www.diariomotor.com/imagenes/2026/09/Nissan-Rogue-Hybrid-es-X-Trail-e-Power-26-6ab142392297c.jpg?class=XL"
+  },
+  {
     "titulo": "Mientras Europa se carga el diésel, General Motors anuncia su nuevo turbodiésel, un enorme V8 de 8.3 litros, y no, no se han vuelto locos",
     "link": "https://www.diariomotor.com/noticia/adelanto-general-motors-duramax-8-3-litros/",
     "fuente": "Diariomotor (ES)",
@@ -30,6 +518,14 @@
     "fecha": "2026-09-21T21:55:42Z",
     "resumen": "La garantía, la disponibilidad de repuestos y la densidad de la red de servicio son los interrogantes centrales para cualquier comprador que evalúe el X55 frente a un Formentor.",
     "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/baic-x55-177-cv-caja-autom-tica-de-7-mar-1200x740-1.jpg"
+  },
+  {
+    "titulo": "Toyota lanza líneas de financiamiento para 0km: tasa 0% y créditos UVA de hasta 60 meses",
+    "link": "https://www.iprofesional.com/autos/464397-toyota-lanza-lineas-de-financiamiento-para-cero-kilometro-tasa-0-y-creditos-uva-de-hasta-60-meses",
+    "fuente": "iProfesional",
+    "fecha": "2026-09-21T21:08:00Z",
+    "resumen": "Nuevos planes ofrecen acceso a vehículos con cuotas fijas y opciones actualizadas por UVA, adaptadas a diferentes perfiles de compradores (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
+    "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/09/626044.jpg"
   },
   {
     "titulo": "3 superdeportivos menos y un SUV más, la radical transformación de McLaren ha comenzado",
@@ -102,14 +598,6 @@
     "fecha": "2026-09-21T18:10:29Z",
     "resumen": "Mercedes-Benz anticipó la próxima Sprinter en el Salón de Hannover 2026 con una escultura a tamaño real llamada The Boulder. No mostró todavía cómo será el modelo final, pero dejó ver proporciones, rasgos de diseño y parte del enfoque técnico que tendrá la cuarta generación del utilitario. La novedad principal pasa por la incorporación de […]",
     "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/mercedes-benz-sprinter1.jpg"
-  },
-  {
-    "titulo": "Toyota lanza líneas de financiamiento para 0km: tasa 0% y créditos UVA de hasta 60 meses",
-    "link": "https://www.iprofesional.com/autos/464397-toyota-lanza-lineas-de-financiamiento-para-cero-kilometro-tasa-0-y-creditos-uva-de-hasta-60-meses",
-    "fuente": "iProfesional",
-    "fecha": "2026-09-21T21:08:00Z",
-    "resumen": "Nuevos planes ofrecen acceso a vehículos con cuotas fijas y opciones actualizadas por UVA, adaptadas a diferentes perfiles de compradores (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
-    "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/09/626044.jpg"
   },
   {
     "titulo": "El todoterreno más vendido de su clase ya tiene su motor más deseado, no es diésel, y con él recorre 50 km sin gastar gota de gasolina",
@@ -256,6 +744,14 @@
     "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/Nuevo-Renault-Arkana-teaser.jpg"
   },
   {
+    "titulo": "Honda es la primera empresa en obtener 5 estrellas del FIA Road Safety Index",
+    "link": "https://eleconomista.com.ar/autos/honda-primera-empresa-obtener-5-estrellas-fia-road-safety-index-n98314",
+    "fuente": "El Economista",
+    "fecha": "2026-09-21T17:00:00Z",
+    "resumen": "El reconocimiento internacional, otorgado por la FIA, destaca las iniciativas de la compañía japonesa para mejorar la seguridad vial y su compromiso con una sociedad libre de colisiones.",
+    "imagen": "https://statics.eleconomista.com.ar/2026/09/crop/6ab14ca9d336b__950x512.webp"
+  },
+  {
     "titulo": "Ford Territory: la híbrida consume casi la mitad que la naftera en ciudad",
     "link": "https://autotest.com.ar/comparativos/ford-territory-la-hibrida-consume-casi-la-mitad-que-la-naftera-en-ciudad/",
     "fuente": "Autotest",
@@ -326,6 +822,22 @@
     "fecha": "2026-09-21T13:00:15Z",
     "resumen": "La esperada semana de Williams ha llegado. El Gran Premio de Azerbaiyán está a la vuelta de la esquina, y era precisamente en Bakú donde el equipo de Carlos Sainz había prometido introducir un nuevo paquete de mejoras que diesen la vuelta a la temporada. Pero ahora que ha llegado la cita, los planes parecen haber cambiado. James Vowles, el jefe del equipo Williams, ha explicado por qué no esperan…",
     "imagen": "https://i.blogs.es/7a8d66/carlos-sainz-williams-f1/1024_2000.jpeg"
+  },
+  {
+    "titulo": "El peligro invisible en las rutas: cuando ceder el paso a una moto se vuelve una trampa mortal",
+    "link": "https://www.iprofesional.com/autos/464633-con-mas-motos-en-la-calle-cuando-hay-que-ceder-el-paso-y-que-no-hacer",
+    "fuente": "iProfesional",
+    "fecha": "2026-09-21T12:56:00Z",
+    "resumen": "La venta de motos crece más de 30% en el año, miles de personas salen más seguido a rodar, y es más importante conocer las reglas para convivir en la ruta (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
+    "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/09/625849.jpg"
+  },
+  {
+    "titulo": "Creció la financiación de 0 KM y alcanzó el 50% de los patentamientos",
+    "link": "https://eleconomista.com.ar/autos/crecio-financiacion-0-km-alcanzo-50-patentamientos-n98310",
+    "fuente": "El Economista",
+    "fecha": "2026-09-21T15:45:00Z",
+    "resumen": "El informe sobre la financiación en Argentina de ACARA da cuenta de una leve alza para la compra de autos nuevos, a pesar de la caída de más de 14% en el acumulado del año. ¿Qué pasó con los autos usados?",
+    "imagen": "https://statics.eleconomista.com.ar/2026/09/crop/6ab1455feefd3__950x512.webp"
   },
   {
     "titulo": "Ford EcoSport de seis ruedas: la insólita transformación que sorprende por su diseño",
@@ -462,14 +974,6 @@
     "fecha": "2026-09-21T10:00:03Z",
     "resumen": "China está conquistando España. Y ya no solo hablamos de la presencia de sus coches, cada vez mayor, en nuestras carreteras y calles, en las listas de los más vendidos. Hablamos también de otro efecto que tiene muchos pros, y no está exento de algunos contras, el de que cada vez sean más las marcas chinas que están decidiendo ensamblar sus coches en nuestro país como fundamento estratégico para…",
     "imagen": "https://www.diariomotor.com/imagenes/2026/09/volkswagen-id-cross-fabrica-navarra-6-6ab0d3897a18b.jpg?class=XL"
-  },
-  {
-    "titulo": "El peligro invisible en las rutas: cuando ceder el paso a una moto se vuelve una trampa mortal",
-    "link": "https://www.iprofesional.com/autos/464633-con-mas-motos-en-la-calle-cuando-hay-que-ceder-el-paso-y-que-no-hacer",
-    "fuente": "iProfesional",
-    "fecha": "2026-09-21T12:56:00Z",
-    "resumen": "La venta de motos crece más de 30% en el año, miles de personas salen más seguido a rodar, y es más importante conocer las reglas para convivir en la ruta (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
-    "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/09/625849.jpg"
   },
   {
     "titulo": "Honda WR-V 2026 llegó a la Argentina para competir con los SUV más chicos",
