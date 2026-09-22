@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-22T19:46:53Z",
+  "actualizado": "2026-09-22T22:26:38Z",
   "desde": "2026-09-15",
   "hasta": "2026-09-22",
   "destacadas": [
@@ -24,7 +24,7 @@
       "fecha": "2026-09-22T21:00:54Z",
       "resumen": "Los SUV dominan el mercado y suelen ser, casi siempre, la respuesta para quien busca un coche práctico. Pero por algo digo «casi siempre». Porque todavía es posible tener por 200 euros al mes una berlina con etiqueta ECO, 600 litros de maletero y un consumo de apenas 5 l/100 km. El Skoda Octavia sigue siendo, por 200 euros al mes, la respuesta a los SUV Es uno de los coches más sensatos a la venta…",
       "imagen": "https://www.diariomotor.com/imagenes/2025/08/skoda-octavia-oferta-agosto-2025-68ad9d3d23a05.png?class=XL",
-      "menciones": 6,
+      "menciones": 5,
       "fuentes": [
         "Autotest",
         "Diariomotor (ES)"
@@ -131,6 +131,18 @@
       "menciones": 2,
       "fuentes": [
         "Autotest",
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "Esapekka Lappi vuelve a decir adiós a los rallyes: “Es hora de centrarme en mi familia”",
+      "link": "https://www.diariomotor.com/competicion/noticia/esapekka-lappi-adios-rallyes/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-09-22T22:53:44Z",
+      "resumen": "En un Mundial de Rallyes en el que apenas ha habido rotación de competidores durante la última década, se hace cada vez más raro el ver cómo los pilotos anuncian su decisión de retirarse del WRC y finalizar ahí su carrera deportiva. Nombres como Esapekka Lappi, Kris Meeke o Dani Sordo se han mantenido en activo compitiendo en eventos nacionales, mientras que Andreas Mikkelsen o Teemu Suninen han…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/09/esapekka-lappi-retirada-2026-wrc-1-6ab2eaa8196d0.jpg?class=XL",
+      "menciones": 1,
+      "fuentes": [
         "Diariomotor (ES)"
       ]
     },
@@ -290,18 +302,6 @@
       "menciones": 1,
       "fuentes": [
         "Motorpasión (ES)"
-      ]
-    },
-    {
-      "titulo": "La nueva furgoneta con 9 asientos que va por la de Volkswagen: es más barata y muy completa",
-      "link": "https://autotest.com.ar/transportes/la-nueva-furgoneta-con-9-asientos-que-va-por-volkswagen-es-mas-barata-y-muy-completa/",
-      "fuente": "Autotest",
-      "fecha": "2026-09-22T16:51:36Z",
-      "resumen": "Hyundai lanzó la nueva Staria Electric, la furgoneta 100% sostenible que ya está disponible en Europa y apunta directo a Volkswagen ID. Buzz. Es más barata y, además, tiene un tamaño superior, nueve asientos y carga de 10 al 80% en solo 20 minutos, entre otros puntos destacados. El modelo a batería se presentó en […]",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/Nueva-Hyundai-Staria.jpg",
-      "menciones": 1,
-      "fuentes": [
-        "Autotest"
       ]
     }
   ]
