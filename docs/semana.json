@@ -1,8 +1,21 @@
 {
-  "actualizado": "2026-09-23T17:51:50Z",
+  "actualizado": "2026-09-23T19:43:08Z",
   "desde": "2026-09-16",
   "hasta": "2026-09-23",
   "destacadas": [
+    {
+      "titulo": "Toyota baja el precio de su SUV por debajo de Corolla Cross: tiene 130 CV y bajo consumo",
+      "link": "https://autotest.com.ar/noticias/toyota-baja-el-precio-de-su-suv-por-debajo-de-corolla-cross-tiene-130-cv-y-bajo-consumo/",
+      "fuente": "Autotest",
+      "fecha": "2026-09-23T18:00:46Z",
+      "resumen": "Toyota España lanza una campaña para el Yaris Cross, destacando su motor híbrido de 130 CV, su precio ajustado y un consumo desde 4,5 l/100 km.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/Toyota-Yaris-Cross-2026-teaser-1.jpg",
+      "menciones": 24,
+      "fuentes": [
+        "Autotest",
+        "Diariomotor (ES)"
+      ]
+    },
     {
       "titulo": "El Toyota RAV4 de Omoda apunta a ser el chollo de 2026, cuesta 7.000 € menos, tiene 279 CV y durante 92 km funciona como un eléctrico",
       "link": "https://www.diariomotor.com/noticia/oferta-omoda-7-septiembre-2026/",
@@ -10,7 +23,7 @@
       "fecha": "2026-09-23T18:00:15Z",
       "resumen": "Tal y como están las cosas a día de hoy es muy posible que el coche más equilibrado sea el PHEV. Sin embargo, suele ser una de las opciones más caras, o al menos eso pensábamos. Y es que resulta que el Toyota RAV4 de Omoda es no solo 7.000 euros más barato , sino que también ofrece 279 CV y una autonomía de 92 km en modo eléctrico. El Omoda 7 quiere ser el chollo PHEV de 2026 Tiene una buena…",
       "imagen": "https://www.diariomotor.com/imagenes/2025/12/3.-OMODA-7-side-clear-6950156d09b4a.jpg?class=XL",
-      "menciones": 25,
+      "menciones": 9,
       "fuentes": [
         "Autotest",
         "Diariomotor (ES)"
@@ -109,6 +122,42 @@
       ]
     },
     {
+      "titulo": "Probamos el mayor chollo scooter del mercado: esta 125 de calidad, con 11 CV y 2,2 l/100 km que por 2.490 euros puedes llevar con carnet de coche",
+      "link": "https://www.diariomotor.com/noticia/prueba-kymco-agility-nx-125/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-09-23T20:00:03Z",
+      "resumen": "Que las marcas chinas están arrasando en el mercado de motos de España no es ninguna novedad. Pero no debemos olvidar que en España hay marcas con décadas de tradición, posventa y experiencia comercial. Marcas como la taiwanesa Kymco, que no tira la toalla ante China y redobla su oferta con el que posiblemente es el mayor chollo scooter del momento . Un 125 de calidad, con un motor 11 CV y 2,2…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/09/prueba-kymco-agility-nx-125-59-6ab4049b8adda.jpg?class=XL",
+      "menciones": 1,
+      "fuentes": [
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "Planta de Mercedes-Benz busca asegurar su futuro con un acuerdo con la marca china BYD",
+      "link": "https://www.iprofesional.com/autos/464991-planta-mercedes-benz-busca-salvarse-byd-podria-generar-miles-empleos-argentina",
+      "fuente": "iProfesional",
+      "fecha": "2026-09-23T19:33:00Z",
+      "resumen": "Tras la salida de Mercedes-Benz, una negociación avanza para reactivar la fábrica con producción local de autos eléctricos y empleo nacional (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
+      "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/06/620192.jpg",
+      "menciones": 1,
+      "fuentes": [
+        "iProfesional"
+      ]
+    },
+    {
+      "titulo": "Aparca el coche de rally con el que ha arrasado en Europa y se sube a un coche eléctrico para batir un récord Guinness: conducir 1.338 km con una carga",
+      "link": "https://www.motorpasion.com/coches-electricos/aparca-coche-rally-que-ha-arrasado-europa-se-sube-a-coche-electrico-para-batir-record-guinness-conducir-1-338-km-carga",
+      "fuente": "Motorpasión (ES)",
+      "fecha": "2026-09-23T19:01:03Z",
+      "resumen": "Miko Marczyk es piloto de rally, de hecho, en 2025 ganó el Campeonato de Europa de Rally, pero también es experto en conducción eficiente. Acaba de lograr un Guinness World Records al conseguir recorrer 1.338 km con una sola carga en un coche eléctrico, concretamente en un Audi A6 Sportback e-tron performance . Todavía falta para igualar las cifras de un diésel Algunas personas tienen un talento…",
+      "imagen": "https://i.blogs.es/0dd850/audi-record-1/1024_2000.jpeg",
+      "menciones": 1,
+      "fuentes": [
+        "Motorpasión (ES)"
+      ]
+    },
+    {
       "titulo": "Parece un coche, casi un 600 descapotable, pero esconde el Fiat más barato de todos, a precio de scooter, que podrías llevar con carné de coche",
       "link": "https://www.diariomotor.com/noticia/fiat-topolino-top-j-top-l/",
       "fuente": "Diariomotor (ES)",
@@ -118,6 +167,30 @@
       "menciones": 2,
       "fuentes": [
         "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "El SUV de Chevrolet con motor turbo de 149 HP, seis airbags y amplio equipamiento",
+      "link": "https://autotest.com.ar/noticias/el-suv-de-chevrolet-con-motor-turbo-de-149-hp-seis-airbags-y-amplio-equipamiento/",
+      "fuente": "Autotest",
+      "fecha": "2026-09-23T19:00:03Z",
+      "resumen": "La Chevrolet Groove 2026 llega a México con un precio reducido, motor turbo y un equipamiento de seguridad avanzado desde la versión base. Entérate de todas sus características.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/Chevrolet-Groove-2026-trasera-2.jpg",
+      "menciones": 1,
+      "fuentes": [
+        "Autotest"
+      ]
+    },
+    {
+      "titulo": "Imágenes de satélite revelan la pieza que le faltaba a China para sus gigantescos submarinos robot: un buque nodriza",
+      "link": "https://www.motorpasion.com/industria/imagenes-satelite-revelan-pieza-que-le-faltaba-a-china-para-sus-gigantescos-submarinos-robot-buque-nodriza",
+      "fuente": "Motorpasión (ES)",
+      "fecha": "2026-09-23T18:01:02Z",
+      "resumen": "A principios de este siglo, la Marina china era una fuerza principalmente costera, muy por detrás de las grandes potencias navales. Hoy China construye buques de guerra a un ritmo sin precedentes y está convirtiendo el mar en uno de sus grandes escenarios de expansión militar. Especialmente el Mar de China Meridional, una de las zonas estratégicas más disputadas del planeta. En esta suerte de…",
+      "imagen": "https://i.blogs.es/b62f81/portada-mop-1790166522918/1024_2000.jpeg",
+      "menciones": 1,
+      "fuentes": [
+        "Motorpasión (ES)"
       ]
     },
     {
@@ -163,7 +236,7 @@
       "fecha": "2026-09-23T17:00:03Z",
       "resumen": "Descubre todo sobre el Renault Kardian 2023, un SUV compacto equipado con motor turbo, caja automática EDC y avanzadas asistencias a la conducción.",
       "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/Renault-Kardian-Evolution-MT-trasera.jpg",
-      "menciones": 5,
+      "menciones": 4,
       "fuentes": [
         "Autotest"
       ]
@@ -223,78 +296,6 @@
       "fecha": "2026-09-23T15:27:46Z",
       "resumen": "El Nissan GT-R Nismo GT3 debutó en las pistas en el año 2012 y desde entonces se acentuó el mito del conocido \"Godzilla\", un coche excepcional que todavía está dando de que hablar, esta vez fue Shinichi Kiga, vicepresidente de Nissan Motor Corporation, quien admitió que, tras lo ocurrido en los 1000 Kms de Suzuka, un grupo de ingenieros pidió investigar nuevas formas para desarrollar al GT-R GT3…",
       "imagen": "https://www.diariomotor.com/imagenes/2026/09/Team_5ZIGEN_Nissan_GT-R_1000-Kms_Suzuka_2026_4_26-6ab295fb44de2.jpg?class=XL",
-      "menciones": 1,
-      "fuentes": [
-        "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "Conoció a Lewis Hamilton con 13 años y apostó 100 libras a que sería campeón del mundo de F1 antes de los 25. Ahora es millonario",
-      "link": "https://www.motorpasion.com/formula1/conocio-a-lewis-hamilton-13-anos-aposto-100-libras-a-que-seria-campeon-mundo-f1-antes-25-ahora-millonario",
-      "fuente": "Motorpasión (ES)",
-      "fecha": "2026-09-23T15:01:02Z",
-      "resumen": "A posteriori es muy sencillo decir que ya se sabía que una joven promesa de niño iba a llegar lejos, pero poca gente tiene mejor forma de demostrarlo que este apostante inglés. Un británico vio en 1998 a un niño de 13 correr en un karting. Le sorprendió. Tanto que hizo una apuesta: ganará un mundial antes de los 25 años. Ese niño era Lewis Hamilton . La casa de apuestas Ladbrokes nunca desveló la…",
-      "imagen": "https://i.blogs.es/3afabc/hamilton-1998/1024_2000.jpeg",
-      "menciones": 1,
-      "fuentes": [
-        "Motorpasión (ES)"
-      ]
-    },
-    {
-      "titulo": "Entre todos los matamos y ellos solos se murieron, pero aún hay vida más allá de los SUV, y ahora Opel quiere revivirlos",
-      "link": "https://www.diariomotor.com/noticia/opel-adelanto-familiar-alternativa-suv/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-09-23T15:00:10Z",
-      "resumen": "Los SUV han acabado con todo. Acabaron con los monovolúmenes, que durante años fueron la mejor opción para una familia, espacio a raudales y modularidad. Acabaron con los coupés, porque los SUV de línea más deportiva se convirtieron en el coche preferido del que buscaba un vehículo con presencia. Casi han acabado con los familiares de tres cuerpos, un tipo de carrocería que durante tanto tiempo…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/09/opel-olympia-rekord-caravan-1953-14-6ab3bca94622f.jpg?class=XL",
-      "menciones": 1,
-      "fuentes": [
-        "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "La pick up con 200 CV que carga hasta 1.020 kg y es más barata que Toyota Hilux",
-      "link": "https://autotest.com.ar/noticias/la-pick-up-con-200-cv-que-carga-hasta-1-020-kg-y-es-mas-barata-que-toyota-hilux/",
-      "fuente": "Autotest",
-      "fecha": "2026-09-23T15:00:07Z",
-      "resumen": "La Fiat Titano 2026 llega con novedades en precios y características, destacándose por su motor turbodiesel y su fabricación en Córdoba.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2025/11/Fiat-Titano-perfil-2.jpg",
-      "menciones": 2,
-      "fuentes": [
-        "Autotest"
-      ]
-    },
-    {
-      "titulo": "Chevrolet Sonic más barato: tiene 116 CV, seis airbags y frena solo",
-      "link": "https://autotest.com.ar/noticias/chevrolet-sonic-mas-barato-tiene-116-cv-seis-airbags-y-frena-solo/",
-      "fuente": "Autotest",
-      "fecha": "2026-09-23T14:51:15Z",
-      "resumen": "El Chevrolet Sonic Premier 1.0T AT es la opción más accesible con un motor turbo de 116 CV y una avanzada dotación de seguridad y tecnología.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/05/Chevrolet-Sonic-Premier-trasera.jpg",
-      "menciones": 1,
-      "fuentes": [
-        "Autotest"
-      ]
-    },
-    {
-      "titulo": "Fin de la producción nacional de Amarok: cierran dos autopartistas multinacionales",
-      "link": "https://www.iprofesional.com/autos/465035-fin-de-la-produccion-nacional-de-amarok-cierran-dos-autopartistas-multinacionales",
-      "fuente": "iProfesional",
-      "fecha": "2026-09-23T14:27:00Z",
-      "resumen": "La sustitución de componentes nacionales por importados en la pickup amenaza a cientos de empleados del sector autopartista argentino (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
-      "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2024/08/582760.jpg",
-      "menciones": 1,
-      "fuentes": [
-        "iProfesional"
-      ]
-    },
-    {
-      "titulo": "Red Bull renovó a Isack Hadjar y asegura su alineación para 2027",
-      "link": "https://www.diariomotor.com/competicion/noticia/red-bull-renovo-contrato-hadjar-2027/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-09-23T14:17:51Z",
-      "resumen": "Un día después de anunciar su retorno a las pistas, Red Bull Racing oficializó la renovación de Isack Hadjar para 2027, así que el joven francés acompañará a Max Verstappen, quien tiene un contrato hasta el 2030. Si bien no se tenían dudas acerca de la continuidad de Hadjar dentro de la organización de Milton Keynes, es de esperar que en este nuevo trato se le pida a Hadjar no asumir riesgos…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/09/Isack_Hadjar_Red_Bull_Racing_2026_R3_26-6ab3bd871eb73.jpg?class=XL",
       "menciones": 1,
       "fuentes": [
         "Diariomotor (ES)"
