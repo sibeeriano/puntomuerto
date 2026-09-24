@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-24T20:02:39Z",
+  "actualizado": "2026-09-24T22:44:45Z",
   "desde": "2026-09-17",
   "hasta": "2026-09-24",
   "destacadas": [
@@ -118,6 +118,18 @@
       "fuentes": [
         "Autotest",
         "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "Nissan Armada Dark Armor: el SUV negro total que supera al V8 con 516 lb-pie de torque",
+      "link": "https://autotest.com.ar/offroad/nissan-armada-dark-armor-el-suv-negro-total-que-supera-al-v8-con-516-lb-pie-de-torque/",
+      "fuente": "Autotest",
+      "fecha": "2026-09-24T20:21:19Z",
+      "resumen": "El apodo que recibe la edición, “el nuevo Caballero Negro del barrio”, describe la propuesta: una carrocería que elimina todo brillo cromado y lo reemplaza por piezas oscurecidas.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/nissan-armada-dark-armor-el-suv-negro-to-1200x740-1.jpg",
+      "menciones": 1,
+      "fuentes": [
+        "Autotest"
       ]
     },
     {
@@ -286,18 +298,6 @@
       "menciones": 1,
       "fuentes": [
         "Motorpasión (ES)"
-      ]
-    },
-    {
-      "titulo": "El B10 ya está fabricándose en España, un SUV con tamaño de Hyundai Tucson que puedes comprar por solo 22.500 euros (con condiciones)",
-      "link": "https://www.diariomotor.com/noticia/precio-leapmotor-b10-fabricado-zaragoza/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-09-24T16:00:36Z",
-      "resumen": "Amplio, bien equipado y barato. La receta mágica que busca mucha gente, pero no siempre encuentra, y que en este caso se cumple. Me refiero al Leapmotor B10 , un SUV eléctrico de origen chino que ya ha empezado a salir de la fábrica de Stellantis en Figueruelas (Zaragoza). Ya se hacen B10 en España, pero todavía son de preproducción Los primeros Leapmotor B10 ya están saliendo de Figueruelas , una…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/04/Leapmotor-B10-REEV3-69ef3c352f11a.jpg?class=XL",
-      "menciones": 1,
-      "fuentes": [
-        "Diariomotor (ES)"
       ]
     }
   ]
