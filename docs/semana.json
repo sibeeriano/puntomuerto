@@ -1,16 +1,55 @@
 {
-  "actualizado": "2026-09-24T22:44:45Z",
-  "desde": "2026-09-17",
-  "hasta": "2026-09-24",
+  "actualizado": "2026-09-25T17:57:35Z",
+  "desde": "2026-09-18",
+  "hasta": "2026-09-25",
   "destacadas": [
     {
-      "titulo": "España sigue obsesionada con los alemanes cuando el Mercedes Clase E de Lexus tiene, por 4.000 € menos, fama de no romperse, etiqueta ECO y gasta 4,8 l/100 km",
-      "link": "https://www.diariomotor.com/noticia/oferta-lexus-es-septiembre-2026/",
+      "titulo": "Para hacer 100 km al día sin gasolina no necesitas un eléctrico, el Kia Sportage de MG tiene 272 CV, etiqueta CERO y cuesta 28.000 €",
+      "link": "https://www.diariomotor.com/noticia/oferta-mg-hs-phev-septiembre-2026/",
       "fuente": "Diariomotor (ES)",
-      "fecha": "2026-09-24T20:00:03Z",
-      "resumen": "Cuando en España pensamos en comprar un coche premium o de representación solemos recurrir a los alemanes. Y no me malinterpretéis, porque suelen ser una buena apuesta, pero cuando el Mercedes Clase E de Lexus cuesta casi 4.000 euros menos , tiene etiqueta ECO, homologa 4,8 l/100 km y presume de fama de no romperse... la cosa puede cambiar. El nuevo Lexus ES quiere ser la apuesta segura frente a…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/05/Lexus-ES-300h-hibrido-2026-1-6a19575ad018c.jpg?class=XL",
-      "menciones": 8,
+      "fecha": "2026-09-25T16:00:14Z",
+      "resumen": "Uno podría pensar que el coche eléctrico es la única alternativa al coche de combustión. Nada más lejos de la realidad, especialmente cuando nos encontramos con coches como el Kia Sportage de MG, o lo que es lo mismo, un SUV con 272 CV, etiqueta CERO y capaz de hacer 100 km sin gastar gasolina... por 28.582 euros y no, no es eléctrico. El MG HS quiere ser el PHEV con mejor relación calidad-precio…",
+      "imagen": "https://www.diariomotor.com/imagenes/2025/06/MG-HS-Hybrid-1-685d207c4b4fb.jpg?class=XL",
+      "menciones": 31,
+      "fuentes": [
+        "Autotest",
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "George Russell conquista la Pole en Bakú, Andrea Kimi Antonelli falla y Carlos Sainz es penalizado",
+      "link": "https://www.diariomotor.com/competicion/noticia/george-russell-conquista-pole-baku/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-09-25T15:29:22Z",
+      "resumen": "Rara vez hemos visto a Andrea Kimi Antonelli fallar en lo que llevamos de temporada 2026, sin embargo, el italiano se equivocó en la sesión de clasificación de este viernes y terminó siendo uno de los pocos que ha impactado con las protecciones en la lucha por la Pole Position de cara al Gran Premio de Azerbaiyán que se disputará este sábado. El de Mercedes cometió un error similar al de Lance…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/09/clasificacion-gran-premio-azerbaiyan-2026-f1-1-6ab6767915fbb.jpg?class=XL",
+      "menciones": 5,
+      "fuentes": [
+        "Diariomotor (ES)",
+        "Motorpasión (ES)"
+      ]
+    },
+    {
+      "titulo": "Dacia prepara para 2027 un eléctrico de 3 metros, más corto que el Mini original, con cuatro plazas y un precio inferior a 11.000 euros",
+      "link": "https://www.diariomotor.com/noticia/dacia-hipster-llegara-2027/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-09-25T14:00:22Z",
+      "resumen": "El Dacia Hipster parecía un prototipo demasiado radical como para llegar a los concesionarios. Pero Dacia está trabajando para convertirlo en realidad en 2027 y, si se cumplen los objetivos del proyecto, podría hacerlo con un precio difícil de creer hoy en Europa: unos 11.000 euros, según las últimas informaciones. Será un eléctrico de apenas tres metros, cuatro plazas y una batería diminuta de…",
+      "imagen": "https://www.diariomotor.com/imagenes/2025/10/dacia-hipster-concept-2025-31-68e379f0ee88d.jpg?class=XL",
+      "menciones": 2,
+      "fuentes": [
+        "Diariomotor (ES)",
+        "Motorpasión (ES)"
+      ]
+    },
+    {
+      "titulo": "Compite contra Toyota Corolla Cross pero cuesta como un Yaris Cross: el SUV que bajó de precio y tiene 147 CV",
+      "link": "https://autotest.com.ar/noticias/compite-contra-toyota-corolla-cross-pero-cuesta-como-un-yaris-cross-el-suv-que-bajo-de-precio-y-tiene-147-cv/",
+      "fuente": "Autotest",
+      "fecha": "2026-09-25T12:00:12Z",
+      "resumen": "El Jetour Dashing 1.5T recibe una bonificación notable, posicionándose como una opción atractiva frente a competidores como Toyota Corolla Cross y Volkswagen Taos gracias a su relación precio-tamaño.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/SUV-Jetour-Dashing-1.5T-perfil.jpg",
+      "menciones": 3,
       "fuentes": [
         "Autotest",
         "Diariomotor (ES)"
@@ -23,20 +62,7 @@
       "fecha": "2026-09-24T18:00:07Z",
       "resumen": "¿Buscando un coche bonito por fuera, bien terminado, con una dotación suficiente y una mecánica que sirva para cualquier tipo de desplazamiento, y todo esto sin dejarte un riñón por el camino ? Ojito al ofertón que hoy te traemos y que te permitirá llevarte uno de los SUVs más \"chic\" del mercado nacional a precio de polivalente sencillito y eso que se acaba de actualizar con cambios importantes.…",
       "imagen": "https://www.diariomotor.com/imagenes/2026/09/Jeep-Avenger-G4-6ab5128b38a6b.jpg?class=XL",
-      "menciones": 4,
-      "fuentes": [
-        "Autotest",
-        "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "El hatchback rival de Toyota Yaris que cuesta menos de 33 millones y tiene motor turbo de 116 CV",
-      "link": "https://autotest.com.ar/noticias/el-hatchback-rival-de-toyota-yaris-que-cuesta-menos-de-33-millones-y-tiene-motor-turbo-de-116-cv/",
-      "fuente": "Autotest",
-      "fecha": "2026-09-24T18:00:05Z",
-      "resumen": "Chevrolet Argentina ofrece un configurador online para el Onix, permitiendo personalizar versión, transmisión y color, y solicitar una cotización antes de visitar el concesionario.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/Chevrolet-Onix-LT-Turbo-MT-perfil.jpg",
-      "menciones": 31,
+      "menciones": 2,
       "fuentes": [
         "Autotest",
         "Diariomotor (ES)"
@@ -121,180 +147,156 @@
       ]
     },
     {
-      "titulo": "Nissan Armada Dark Armor: el SUV negro total que supera al V8 con 516 lb-pie de torque",
-      "link": "https://autotest.com.ar/offroad/nissan-armada-dark-armor-el-suv-negro-total-que-supera-al-v8-con-516-lb-pie-de-torque/",
-      "fuente": "Autotest",
-      "fecha": "2026-09-24T20:21:19Z",
-      "resumen": "El apodo que recibe la edición, “el nuevo Caballero Negro del barrio”, describe la propuesta: una carrocería que elimina todo brillo cromado y lo reemplaza por piezas oscurecidas.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/nissan-armada-dark-armor-el-suv-negro-to-1200x740-1.jpg",
-      "menciones": 1,
-      "fuentes": [
-        "Autotest"
-      ]
-    },
-    {
-      "titulo": "La pick up que llega con precio agresivo y tracción 4×4 para competir contra Toyota Hilux",
-      "link": "https://autotest.com.ar/noticias/la-pick-up-que-llega-con-precio-agresivo-y-traccion-4x4-para-competir-contra-toyota-hilux/",
-      "fuente": "Autotest",
-      "fecha": "2026-09-24T19:30:20Z",
-      "resumen": "La nueva Rely R8 llega a Argentina para competir en el segmento de pick ups medianas. Con un motor 2.3 turbodiésel y tracción 4x4, se posiciona como una opción formidable frente a sus competidores.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/06/Pick-up-Rely-R8-perfil.jpg",
-      "menciones": 8,
-      "fuentes": [
-        "Autotest"
-      ]
-    },
-    {
-      "titulo": "¿Un coche dentro de una burbuja? El truco de un británico para esconder del tiempo pero a plena vista una de las joyas de Renault",
-      "link": "https://www.motorpasion.com/clasicos/coche-dentro-burbuja-truco-britanico-para-esconder-tiempo-a-plena-vista-joyas-renault",
-      "fuente": "Motorpasión (ES)",
-      "fecha": "2026-09-24T19:01:08Z",
-      "resumen": "No tener garaje no es un impedimento para que el dueño de este Renault 5 GT Turbo de los años 80 tenga su coche impecable y perfectamente protegido de las inclemencias del tiempo. Su solución es aparcar el coche dentro de una burbuja de aire . Sin duda, es más eficaz que la típica funda de plástico que dura solo unos meses porque el sol y el aire acaban destrozándola. Este tipo de fundas burbuja…",
-      "imagen": "https://i.blogs.es/bdc8fe/renault-5/1024_2000.jpeg",
-      "menciones": 1,
-      "fuentes": [
-        "Motorpasión (ES)"
-      ]
-    },
-    {
-      "titulo": "Patada al diésel y la gasolina, China presenta una tecnología que recarga un coche en lo que tardas en repostar combustible",
-      "link": "https://www.diariomotor.com/noticia/geely-carga-ultrarrapida/",
+      "titulo": "He probado el nuevo DS Nº7, el híbrido y el eléctrico, y tengo clarísimo qué motor elegiría y por qué merece la pena frente a los SUV alemanes",
+      "link": "https://www.diariomotor.com/noticia/prueba-ds-n7-2026/",
       "fuente": "Diariomotor (ES)",
-      "fecha": "2026-09-24T19:00:58Z",
-      "resumen": "Ha sido uno de los mayores defectos del coche eléctrico. No por mucho tiempo. Y no, no hablamos del hecho de que su autonomía sea - más o menos en función de la batería del coche - limitada, y requiera que en viajes de larga distancia tengamos que parar a repostar. Hablamos del tiempo que hemos de parar a repostar. China lidera la carrera para acabar con este problema. En el pasado ya hemos visto…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/09/geely-carga-ultra-rapida-10-6ab52d5339f74.png?class=XL",
+      "fecha": "2026-09-25T19:00:04Z",
+      "resumen": "El nuevo DS Nº7 anuncia 740 kilómetros de autonomía en su versión eléctrica , más de los que ofrecen muchos SUV eléctricos bastante más caros. DS ha hecho además un coche grande, muy cómodo, silencioso y mejor equipado que sus rivales, con opción también de un microhíbrido. El problema no está en lo que ofrece, sino en otra pregunta incómoda: ¿puede convencer DS a alguien dispuesto a gastar 50.000…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/09/ds-numero-7_port-6ab2783fd33b7.jpg?class=XL",
       "menciones": 1,
       "fuentes": [
         "Diariomotor (ES)"
       ]
     },
     {
-      "titulo": "La escudería Cadillac anunció nuevos fichajes para su departamento técnico",
-      "link": "https://www.diariomotor.com/competicion/noticia/cadillac-anuncio-nuevos-fichajes-tecnico/",
+      "titulo": "Alex Dunne y Martinius Stenshorne confirman la superioridad de Rodin en Bakú con un doblete",
+      "link": "https://www.diariomotor.com/competicion/noticia/alex-dunne-y-martinius-stenshorne-confirman-la-superioridad-de-rodin-en-baku-con-un-doblete/",
       "fuente": "Diariomotor (ES)",
-      "fecha": "2026-09-24T19:00:14Z",
-      "resumen": "Marcin Budkowski continúa realizando cambios a nivel interno en la escudería Cadillac para dejar atrás la pasada gestión de Graeme Lowdon, a principios de este mes detuvo la agenda establecida para seguir desarrollando el MAC-26 tras considerar que es suficiente con lo que ha mostrado para determinar que se requiere un proyecto de transformación más profundo, con una metodología distinta a la…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/09/Cadillac_F1_Team_NC4_Baku_2026_26-6ab54fd1ccb1c.jpg?class=XL",
+      "fecha": "2026-09-25T18:25:55Z",
+      "resumen": "Alex Dunne y Martinius Stenshorne confirman la superioridad de Rodin Motorsport en Bakú con un doblete en la primera carrera larga de la Formula 2 en Bakú. Ni siquiera una bandera roja que recortó seis vueltas la distancia total de carrera evitó que ambos mantuviesen sus posiciones de inicio. Dino Beganovic, vencedor de la carrera sprint , completó el podio. Esta victoria, primera de la temporada,…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/09/Dunne-Baku-2026-Gasperotti-6ab6a00a9a51c.jpg?class=XL",
       "menciones": 1,
       "fuentes": [
         "Diariomotor (ES)"
       ]
     },
     {
-      "titulo": "Project Rally One exprime su WRC27 por primera vez y muestra cómo será la nueva era de los rallyes",
-      "link": "https://www.diariomotor.com/competicion/noticia/project-rally-one-exprime-wrc27/",
+      "titulo": "El nuevo SUV que estrena diseño, una versión híbrida de 771 HP y más tecnología",
+      "link": "https://autotest.com.ar/noticias/el-nuevo-suv-que-estrena-diseno-una-version-hibrida-de-771-hp-y-mas-tecnologia/",
+      "fuente": "Autotest",
+      "fecha": "2026-09-25T17:00:27Z",
+      "resumen": "El Jetour T2 2027 presenta un refrescado diseño, características compartidas con el G700 y una potente versión híbrida plug-in. Este SUV familiar redefine lujo y eficiencia en el mercado chino.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/Nuevo-Jetour-T2-trasera.jpg",
+      "menciones": 1,
+      "fuentes": [
+        "Autotest"
+      ]
+    },
+    {
+      "titulo": "Carlos Sainz brilla y Fernando Alonso sufre en la veloz qualy de Bakú",
+      "link": "https://www.diariomotor.com/competicion/noticia/carlos-sainz-brilla-y-fernando-alonso-sufre-en-la-veloz-qualy-de-baku/",
       "fuente": "Diariomotor (ES)",
-      "fecha": "2026-09-24T18:15:42Z",
-      "resumen": "Con la fecha del 1 de noviembre marcada en rojo , la estructura de Project Rally One está trabajando a marchas forzadas con el objetivo de temer listo su nuevo WRC27 para su homologación. Después de acumular durante la semana pasada un millar de kilómetros de test, este miércoles se ha podido ver de nuevo el nuevo modelo de la compañía belga rodando sobre el asfalto, mostrando parte de su…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/09/project-rally-one-wrc27-test-6ab54c446533e.jpg?class=XL",
+      "fecha": "2026-09-25T16:30:55Z",
+      "resumen": "Día de extremos en Azerbaiyán , donde las calles de su capital vieron una qualy más aburrida de lo esperado debido al límite extremo al que suele someter el circuito callejero a sus pilotos. Carlos Sainz destacó con un Williams de motor potente y obtuvo el acceso a la Q3 , hecho que no lograba desde el Gran Premio de Qatar del año pasado. Sainz arrancará noveno y Fernando Alonso será 19º en…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/09/carlos-sainz-f1-qualy-baku-2026-6ab68393f3408.jpg?class=XL",
+      "menciones": 1,
+      "fuentes": [
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "El nuevo SUV chino Haval H7 4x4 sale 20.000 dólares menos que los rivales",
+      "link": "https://www.iprofesional.com/autos/465225-el-nuevo-suv-chino-haval-h7-4x4-sale-us20-000-menos-que-los-rivales",
+      "fuente": "iProfesional",
+      "fecha": "2026-09-25T16:15:00Z",
+      "resumen": "La marca sumó dos versiones del modelo para el segmento D. Tienen todas las prestaciones para todoterreno, seguridad y confort. Los detalles (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
+      "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/09/626336.jpg",
       "menciones": 2,
       "fuentes": [
-        "Diariomotor (ES)"
+        "iProfesional"
       ]
     },
     {
-      "titulo": "Álex Nasu, administrador de fincas, sobre los vecinos que invaden plazas de garaje: “Es usurpación de la propiedad privada y está castigado en el Código Penal”",
-      "link": "https://www.motorpasion.com/revision/alex-nasu-administrador-fincas-vecinos-que-invaden-plazas-garaje-usurpacion-propiedad-privada-esta-castigado-codigo-penal",
+      "titulo": "“Estaba constantemente estresada en los pueblos”. Esta pareja vivía en autocaravanas enormes, hasta que descubrieron que la clave era una camper más pequeña",
+      "link": "https://www.motorpasion.com/furgonetas-y-caravanas/estaba-constantemente-estresada-pueblos-esta-pareja-vivia-autocaravanas-enormes-que-descubrieron-que-clave-era-camper-pequena",
       "fuente": "Motorpasión (ES)",
-      "fecha": "2026-09-24T18:01:08Z",
-      "resumen": "Unos centímetros de más al aparcar bastan para encender la mecha. Una rueda o parte del coche está sobre la línea divisoria , y la plaza contigua se vuelve inservible o la maniobra de aparcar se complica. En las comunidades de propietarios, este tipo de fricción entre vecinos es de las más habituales, y la ley tiene una respuesta clara para quien la sufre. La Ley de Propiedad Horizontal (LPH)…",
-      "imagen": "https://i.blogs.es/35e8f4/dos-plazas-de-parking-juntas/1024_2000.jpeg",
+      "fecha": "2026-09-25T16:01:08Z",
+      "resumen": "Existe una creencia bastante extendida en el mundo camper: cuanto más grande es la autocaravana, más cómoda será la vida a bordo, pero Georges y Evelyne han descubierto después de años viajando que la ecuación no siempre funciona así. Tras pasar por siete autocaravanas, decidieron abandonar un vehículo de 4,25 toneladas para viajar en una furgoneta mucho más compacta. La razón no fue económica ni…",
+      "imagen": "https://i.blogs.es/6eb4aa/pareja-camper/1024_2000.jpeg",
       "menciones": 1,
       "fuentes": [
         "Motorpasión (ES)"
       ]
     },
     {
-      "titulo": "El Renault más barato: cuesta mucho menos que una Duster y consume 5 litros cada 100 km",
-      "link": "https://autotest.com.ar/noticias/el-renault-mas-barato-cuesta-mucho-menos-que-una-duster-y-consume-5-litros-cada-100-km/",
-      "fuente": "Autotest",
-      "fecha": "2026-09-24T17:44:51Z",
-      "resumen": "Renault tiene en India una gama de modelos que se diferencia de la ofrecida en otros mercados. Entre ellos se encuentra el Kiger, un SUV urbano que es el más barato de la compañía en todo el mundo y cumple y hasta supera las expectativas. Cuesta hasta cinco veces menos que una Duster y menos […]",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/Renault-Kiger.jpg",
+      "titulo": "Benda, una nueva marca china de motos, llega a la Argentina",
+      "link": "https://eleconomista.com.ar/autos/benda-una-nueva-marca-china-motos-llega-argentina-n98415",
+      "fuente": "El Economista",
+      "fecha": "2026-09-25T15:30:00Z",
+      "resumen": "Grupo La Emilia agranda su porfolio marcario con modelos para el segmento custom y cruiser de media cilindrada. Serán comercializados en los concesionarios de Keeway Group.",
+      "imagen": "https://statics.eleconomista.com.ar/2026/09/crop/6ab5f6f82f43a__950x512.webp",
       "menciones": 1,
       "fuentes": [
-        "Autotest"
+        "El Economista"
       ]
     },
     {
-      "titulo": "Dinamarca y Alemania están construyendo el túnel submarino más largo del mundo sin excavar: el primer módulo ya descansa en el Báltico. Faltan 88",
-      "link": "https://www.motorpasion.com/videos-de-coches/dinamarca-alemania-estan-construyendo-tunel-submarino-largo-mundo-excavar-primer-modulo-descansa-baltico-faltan-88",
-      "fuente": "Motorpasión (ES)",
-      "fecha": "2026-09-24T17:31:09Z",
-      "resumen": "La pequeña isla de Fehmarn , en el Mar Báltico , es uno de los destinos turísticos estivales favoritos del norte de Europa. A un tiro de piedra del continente y de Dinamarca, esta tranquila isla con una naturaleza preservada está en el corazón de la construcción de un megatúnel bajo el mar. Cuando se ponga en marcha en 2031 será el túnel ferroviario y de carretera submarino más largo del mundo .…",
-      "imagen": "https://i.blogs.es/76b1d5/dsc_0257/1024_2000.jpeg",
-      "menciones": 1,
-      "fuentes": [
-        "Motorpasión (ES)"
-      ]
-    },
-    {
-      "titulo": "Este nuevo sedán premium tiene versiones híbridas y eléctricas y un asiento trasero tipo primera clase",
-      "link": "https://autotest.com.ar/noticias/descubre-el-nuevo-lexus-sedan-es-2026-innovacion-hibrida-y-electrica-con-precios-irresistibles/",
-      "fuente": "Autotest",
-      "fecha": "2026-09-24T17:30:48Z",
-      "resumen": "El sedán premium de Lexus ofrece opciones híbridas y eléctricas, tracción delantera o total y precios desde 61.500 euros.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/Lexus-ES-2026-sedan-3.jpg",
-      "menciones": 1,
-      "fuentes": [
-        "Autotest"
-      ]
-    },
-    {
-      "titulo": "El Toyota más barato del mercado es híbrido, tiene 116 CV y consume apenas 3,8 litros",
-      "link": "https://autotest.com.ar/noticias/el-toyota-mas-barato-del-mercado-es-hibrido-tiene-116-cv-y-consume-apenas-38-litros/",
-      "fuente": "Autotest",
-      "fecha": "2026-09-24T17:11:00Z",
-      "resumen": "El Toyota Aygo X Cross se destaca por su bajo consumo, pero el Yaris compite fuertemente ofreciendo más espacio por una diferencia mínima de precio.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/toyota-aygo-x-cross2.jpg",
-      "menciones": 1,
-      "fuentes": [
-        "Autotest"
-      ]
-    },
-    {
-      "titulo": "Milmarcos es un pequeño pueblo de Guadalajara que tiene 63 habitantes, y también un tesoro escondido: la mayor colección privada de SEAT que existe",
-      "link": "https://www.motorpasion.com/clasicos/milmarcos-pequeno-pueblo-guadalajara-que-tiene-63-habitantes-tesoro-escondido-mayor-coleccion-privada-seat-que-existe",
-      "fuente": "Motorpasión (ES)",
-      "fecha": "2026-09-24T17:01:09Z",
-      "resumen": "La familia Sánchez lleva décadas coleccionado SEAT , tantos como para tener la mejor colección privada que existe. La colección, llamada 'SEAT en rodaje' , está en una nave de Milmarcos , un pueblo de la provincia de Guadalajara que se encuentra a pocos kilómetros de la frontera con Aragón. Una pasión que permite conservar en perfectas condiciones parte de nuestra historia Milmarcos es un pequeño…",
-      "imagen": "https://i.blogs.es/62ffd7/seat-en-rodaje/1024_2000.jpeg",
-      "menciones": 1,
-      "fuentes": [
-        "Motorpasión (ES)"
-      ]
-    },
-    {
-      "titulo": "Parecía la berlina de tu padre, pero el Renault 8 Gordini ganó tres veces el Tour de Córcega con el motor colgado atrás y hoy es un clásico que nos enamora",
-      "link": "https://www.diariomotor.com/noticia/renault-8-gordini-clasico/",
+      "titulo": "Dino Beganovic gana con comodidad la sprint de la Formula 2 en Bakú",
+      "link": "https://www.diariomotor.com/competicion/noticia/dino-beganovic-gana-con-comodidad-la-sprint-de-la-formula-2-en-baku/",
       "fuente": "Diariomotor (ES)",
-      "fecha": "2026-09-24T17:00:10Z",
-      "resumen": "Renault acaba de recuperar el nombre Gordini para un prototipo eléctrico de 270 CV, un nombre mítico en la marca francesa cuya historia empezó con un coche no tan espectacular a primera vista. El Renault 8 Gordini original tenía cuatro puertas, una carrocería cuadrada y el motor colocado detrás. Era, en esencia, una berlina familiar transformada en una máquina para correr. Y en 1964, el mismo año…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/09/Renault-8-Gordini-Rallye-de-Monte-Carlo-Historique-2017_port-6ab4f2506df7c.jpeg?class=XL",
+      "fecha": "2026-09-25T15:23:19Z",
+      "resumen": "Dino Beganovic vence con contundencia la carrera sprint de la Formula 2 en Bakú, seguido de Laurens van Hoepen y Alex Dunne. La progresión de Dunne y de Martinius Stenshorne confirmó el excelente rendimiento de los monoplazas de Rodin Motorsport, después de haber dominado la sesión de clasificación. La falta de ritmo privó a Nikola Tsolov, líder del campeonato, de luchar por la victoria. Aun así,…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/09/Beganovic-Azerbaiyan-2026-DPA-DAMS-6ab672dc32527.jpg?class=XL",
       "menciones": 1,
       "fuentes": [
         "Diariomotor (ES)"
       ]
     },
     {
-      "titulo": "F1 2030: el V8 biturbo que pesa 50 kg menos y baja a 100 kW eléctricos",
-      "link": "https://autotest.com.ar/carreras/f1-2030-el-v8-biturbo-que-pesa-50-kg-menos-y-baja-a-100-kw-electricos/",
+      "titulo": "Reino Unido y Canadá iban a tener los aviones con la tecnología más letal de la Guerra Fría. Se quedaron obsoletos en el minuto uno de vuelo",
+      "link": "https://www.motorpasion.com/industria/reino-unido-canada-iban-a-tener-aviones-tecnologia-letal-guerra-fria-se-quedaron-obsoletos-minuto-uno-vuelo",
+      "fuente": "Motorpasión (ES)",
+      "fecha": "2026-09-25T15:01:08Z",
+      "resumen": "En plena Guerra Fría , Reino Unido y Canadá estuvieron a punto de tener dos de los aviones caza más avanzados del mundo, o eso prometían porque nunca pudieron demostrar nada. Los dos aviones fueron cancelados y esas decisiones provocaron una gran polémica en ambos países. La controversia llega hasta nuestros días. Nacieron en el momento equivocado... y en los sitios equivocados Podríamos decir que…",
+      "imagen": "https://i.blogs.es/cfffb8/cazas-cancelados/1024_2000.jpeg",
+      "menciones": 1,
+      "fuentes": [
+        "Motorpasión (ES)"
+      ]
+    },
+    {
+      "titulo": "¿Mejor que Ford Territory? El SUV híbrido que sorprende por su precio y tiene 299 CV",
+      "link": "https://autotest.com.ar/noticias/mejor-que-ford-territory-el-suv-hibrido-que-sorprende-por-su-precio-y-tiene-299-cv/",
       "fuente": "Autotest",
-      "fecha": "2026-09-24T16:01:10Z",
-      "resumen": "En la práctica, el motor eléctrico pasaría de ser un socio casi igualitario a un complemento moderado, enfocado en la recuperación cinética y en la entrega de potencia en momentos puntuales.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/f1-2030-el-v8-biturbo-que-pesa-50-kg-men-1200x740-1.jpg",
+      "fecha": "2026-09-25T15:00:04Z",
+      "resumen": "Descubre el Lynk & Co 06, un SUV híbrido enchufable que combina potencia, autonomía y tecnología avanzada. Disponibilidad en Argentina con un precio competitivo.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/SUV-Lynk-Co-06-teaser-1.jpg",
+      "menciones": 13,
+      "fuentes": [
+        "Autotest"
+      ]
+    },
+    {
+      "titulo": "La importante marca china que analiza fabricar autos en Argentina: «Ellos quieren hacerlo»",
+      "link": "https://autotest.com.ar/noticias/la-importante-marca-china-que-analiza-fabricar-autos-en-argentina-ellos-quieren-hacerlo/",
+      "fuente": "Autotest",
+      "fecha": "2026-09-25T14:40:57Z",
+      "resumen": "La marca china Geely podría comenzar a fabricar autos en Argentina, tras incluirlo en su acuerdo con Autos Sustentables del Sur y discutirlo con sus ejecutivos.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/geely-suv1-150x150.jpg",
       "menciones": 1,
       "fuentes": [
         "Autotest"
       ]
     },
     {
-      "titulo": "Si vas a vender tu autocaravana, mucho ojo: una nueva estafa te puede dejar sin dinero y sin camper",
-      "link": "https://www.motorpasion.com/furgonetas-y-caravanas/vas-a-vender-tu-autocaravana-mucho-ojo-nueva-estafa-te-puede-dejar-dinero-camper",
+      "titulo": "El sedán rival de Nissan Versa que arranca en 25.000 dólares y se destaca por su seguridad",
+      "link": "https://autotest.com.ar/noticias/el-sedan-rival-de-nissan-versa-que-arranca-en-25-000-dolares-y-se-destaca-por-su-seguridad/",
+      "fuente": "Autotest",
+      "fecha": "2026-09-25T14:00:04Z",
+      "resumen": "Explora los modelos, promociones y servicios de postventa de Kia Argentina, diseñados para satisfacer diversas necesidades en el mercado automotriz local.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/05/Kia-k3-sedan-perfil.jpg",
+      "menciones": 2,
+      "fuentes": [
+        "Autotest"
+      ]
+    },
+    {
+      "titulo": "Expulsan del mundial al seleccionador español de ciclismo por hacer esta bestialidad con el coche durante una prueba ciclista",
+      "link": "https://www.motorpasion.com/seguridad/expulsan-mundial-al-seleccionador-espanol-ciclismo-hacer-esta-bestialidad-coche-durante-prueba-ciclista",
       "fuente": "Motorpasión (ES)",
-      "fecha": "2026-09-24T16:01:09Z",
-      "resumen": "Desde el móvil podemos hacer transferencias de miles de euros. Y también poner a la venta nuestra camper o autocaravana en apps como Wallapop o Facebook . Es una manera sencilla y cómoda de llegar a más posibles compradores y gestionar la venta. En una compraventa de miles de euros, hay una regla de oro: no entregar el vehículo sin antes comprobar que nos han ingresado el dinero. Es justo lo que…",
-      "imagen": "https://i.blogs.es/69b073/portada-mop-1790252949306/1024_2000.jpeg",
+      "fecha": "2026-09-25T13:22:13Z",
+      "resumen": "El joven ciclista español Benjamín Noval ha ganado la prueba en ruta júnior masculina en el Campeonato del Mundo de ciclismo de Montreal . Por desgracia, su victoria ha quedado eclipsada por la temeridad protagonizada por el seleccionador español de ciclismo al volante del coche del equipo español. Expulsión del mundial y multa Los protagonistas en una competición de ciclismo deben ser los…",
+      "imagen": "https://i.blogs.es/5e1d61/mundial-ciclismo/1024_2000.jpeg",
       "menciones": 1,
       "fuentes": [
         "Motorpasión (ES)"

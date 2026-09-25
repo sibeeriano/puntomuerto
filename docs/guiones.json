@@ -1,5 +1,11 @@
 [
   {
+    "fecha": "2026-09-25",
+    "rango": "Viernes 25 de septiembre",
+    "esqueleto": "guiones/2026-09-25-esqueleto.json",
+    "guion": null
+  },
+  {
     "fecha": "2026-09-18",
     "rango": "Viernes 18 de septiembre",
     "esqueleto": "guiones/2026-09-18-esqueleto.json",
