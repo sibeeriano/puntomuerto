@@ -1,21 +1,5 @@
 [
   {
-    "titulo": "Mucho antes que iPhone o Tesla, el Buick Riviera de 1986 fue el primer coche con una pantalla táctil. Nadie sabía utilizarla",
-    "link": "https://www.motorpasion.com/tecnologia/mucho-iphone-tesla-buick-riviera-1986-fue-primer-coche-pantalla-tactil-nadie-sabia-utilizarla",
-    "fuente": "Motorpasión (ES)",
-    "fecha": "2026-09-25T18:31:08Z",
-    "resumen": "Aunque parezca extraño, hace como 540 años que el Buick Riviera se presentó en Estados Unidos con el Graphic Control Center , un invento que evocaba tanta modernidad como todo lo tecnológico por aquella época ya lejana. Con el siglo XXI a la vuelta de la esquina, el año 2000 se nos vendía como una insólita frontera que estábamos a punto de cruzar, para llegar de repente al futuro. Y un ejemplo de…",
-    "imagen": "https://i.blogs.es/14e63a/portada-mop-1790331933612/1024_2000.jpeg"
-  },
-  {
-    "titulo": "Diana Fernández, perito judicial, sobre financiar la compra de un coche: “Es una operación financiera malísima”",
-    "link": "https://www.motorpasion.com/revision/diana-fernandez-perito-judicial-financiar-compra-coche-operacion-financiera-malisima",
-    "fuente": "Motorpasión (ES)",
-    "fecha": "2026-09-25T18:01:08Z",
-    "resumen": "Diana Fernández , perito judicial en Atila Legal , aconseja no financiar jamás la compra de un coche porque lo considera un enorme error financiero. Explica que los intereses pueden ser tan abusivos que el precio del coche puede acabar siendo muchísimo más alto, por lo que recomienda comprarse coches que se ajusten a las posibilidades económicas de cada uno, aunque sean de segunda mano. “Es que…",
-    "imagen": "https://i.blogs.es/ab9d24/financiacion-3_1/1024_2000.jpeg"
-  },
-  {
     "titulo": "El sedán de Ford que sigue vigente con 284 CV y una pantalla de 27 pulgadas",
     "link": "https://autotest.com.ar/noticias/el-sedan-de-ford-que-sigue-vigente-con-284-cv-y-una-pantalla-de-27-pulgadas/",
     "fuente": "Autotest",
@@ -32,12 +16,44 @@
     "imagen": "https://www.diariomotor.com/imagenes/2026/09/ds-numero-7_port-6ab2783fd33b7.jpg?class=XL"
   },
   {
+    "titulo": "Citroën vuelve a fabricar el 2 CV que dejó de producir en 1990 y será eléctrico",
+    "link": "https://www.iprofesional.com/autos/465260-citroen-vuelve-a-fabricar-un-auto-que-dejo-de-producir-en-1990",
+    "fuente": "iProfesional",
+    "fecha": "2026-09-25T18:37:00Z",
+    "resumen": "Fue un clásico modelo de la industria automotriz, económico y práctico. Ahora, volverá a fabricarse en versión 100 por ciento eléctrica (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
+    "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/09/626377.jpg"
+  },
+  {
+    "titulo": "Mucho antes que iPhone o Tesla, el Buick Riviera de 1986 fue el primer coche con una pantalla táctil. Nadie sabía utilizarla",
+    "link": "https://www.motorpasion.com/tecnologia/mucho-iphone-tesla-buick-riviera-1986-fue-primer-coche-pantalla-tactil-nadie-sabia-utilizarla",
+    "fuente": "Motorpasión (ES)",
+    "fecha": "2026-09-25T18:31:08Z",
+    "resumen": "Aunque parezca extraño, hace como 540 años que el Buick Riviera se presentó en Estados Unidos con el Graphic Control Center , un invento que evocaba tanta modernidad como todo lo tecnológico por aquella época ya lejana. Con el siglo XXI a la vuelta de la esquina, el año 2000 se nos vendía como una insólita frontera que estábamos a punto de cruzar, para llegar de repente al futuro. Y un ejemplo de…",
+    "imagen": "https://i.blogs.es/14e63a/portada-mop-1790331933612/1024_2000.jpeg"
+  },
+  {
     "titulo": "Alex Dunne y Martinius Stenshorne confirman la superioridad de Rodin en Bakú con un doblete",
     "link": "https://www.diariomotor.com/competicion/noticia/alex-dunne-y-martinius-stenshorne-confirman-la-superioridad-de-rodin-en-baku-con-un-doblete/",
     "fuente": "Diariomotor (ES)",
     "fecha": "2026-09-25T18:25:55Z",
     "resumen": "Alex Dunne y Martinius Stenshorne confirman la superioridad de Rodin Motorsport en Bakú con un doblete en la primera carrera larga de la Formula 2 en Bakú. Ni siquiera una bandera roja que recortó seis vueltas la distancia total de carrera evitó que ambos mantuviesen sus posiciones de inicio. Dino Beganovic, vencedor de la carrera sprint , completó el podio. Esta victoria, primera de la temporada,…",
     "imagen": "https://www.diariomotor.com/imagenes/2026/09/Dunne-Baku-2026-Gasperotti-6ab6a00a9a51c.jpg?class=XL"
+  },
+  {
+    "titulo": "Los patentamientos de autos caen 13% en septiembre, pese a descuentos y más financiamiento",
+    "link": "https://www.iprofesional.com/autos/465276-las-ventas-de-autos-caen-en-septiembre-2026-pese-a-rebajas-y-cuotas",
+    "fuente": "iProfesional",
+    "fecha": "2026-09-25T18:23:00Z",
+    "resumen": "Se mantiene la tendencia de los últimos meses y se registra una fuerte contracción en las ventas en la comparación contra septiembre del 2025 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
+    "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/09/625690.jpg"
+  },
+  {
+    "titulo": "Diana Fernández, perito judicial, sobre financiar la compra de un coche: “Es una operación financiera malísima”",
+    "link": "https://www.motorpasion.com/revision/diana-fernandez-perito-judicial-financiar-compra-coche-operacion-financiera-malisima",
+    "fuente": "Motorpasión (ES)",
+    "fecha": "2026-09-25T18:01:08Z",
+    "resumen": "Diana Fernández , perito judicial en Atila Legal , aconseja no financiar jamás la compra de un coche porque lo considera un enorme error financiero. Explica que los intereses pueden ser tan abusivos que el precio del coche puede acabar siendo muchísimo más alto, por lo que recomienda comprarse coches que se ajusten a las posibilidades económicas de cada uno, aunque sean de segunda mano. “Es que…",
+    "imagen": "https://i.blogs.es/ab9d24/financiacion-3_1/1024_2000.jpeg"
   },
   {
     "titulo": "Así es la pick up base con precio accesible, motor turbodiésel y hasta 1.110 kg de carga",
@@ -88,14 +104,6 @@
     "imagen": "https://www.diariomotor.com/imagenes/2025/06/MG-HS-Hybrid-1-685d207c4b4fb.jpg?class=XL"
   },
   {
-    "titulo": "Citroën vuelve a fabricar el 2 CV que dejó de producir en 1990 y será eléctrico",
-    "link": "https://www.iprofesional.com/autos/465260-citroen-vuelve-a-fabricar-un-auto-que-dejo-de-producir-en-1990",
-    "fuente": "iProfesional",
-    "fecha": "2026-09-25T18:37:00Z",
-    "resumen": "Fue un clásico modelo de la industria automotriz, económico y práctico. Ahora, volverá a fabricarse en versión 100 por ciento eléctrica (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
-    "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/09/626377.jpg"
-  },
-  {
     "titulo": "Benda, una nueva marca china de motos, llega a la Argentina",
     "link": "https://eleconomista.com.ar/autos/benda-una-nueva-marca-china-motos-llega-argentina-n98415",
     "fuente": "El Economista",
@@ -118,14 +126,6 @@
     "fecha": "2026-09-25T15:23:19Z",
     "resumen": "Dino Beganovic vence con contundencia la carrera sprint de la Formula 2 en Bakú, seguido de Laurens van Hoepen y Alex Dunne. La progresión de Dunne y de Martinius Stenshorne confirmó el excelente rendimiento de los monoplazas de Rodin Motorsport, después de haber dominado la sesión de clasificación. La falta de ritmo privó a Nikola Tsolov, líder del campeonato, de luchar por la victoria. Aun así,…",
     "imagen": "https://www.diariomotor.com/imagenes/2026/09/Beganovic-Azerbaiyan-2026-DPA-DAMS-6ab672dc32527.jpg?class=XL"
-  },
-  {
-    "titulo": "Los patentamientos de autos caen 13% en septiembre, pese a descuentos y más financiamiento",
-    "link": "https://www.iprofesional.com/autos/465276-las-ventas-de-autos-caen-en-septiembre-2026-pese-a-rebajas-y-cuotas",
-    "fuente": "iProfesional",
-    "fecha": "2026-09-25T18:23:00Z",
-    "resumen": "Se mantiene la tendencia de los últimos meses y se registra una fuerte contracción en las ventas en la comparación contra septiembre del 2025 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
-    "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/09/625690.jpg"
   },
   {
     "titulo": "Reino Unido y Canadá iban a tener los aviones con la tecnología más letal de la Guerra Fría. Se quedaron obsoletos en el minuto uno de vuelo",
