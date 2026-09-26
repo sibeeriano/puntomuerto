@@ -1,8 +1,112 @@
 {
-  "actualizado": "2026-09-25T22:50:31Z",
-  "desde": "2026-09-18",
-  "hasta": "2026-09-25",
+  "actualizado": "2026-09-26T17:11:14Z",
+  "desde": "2026-09-19",
+  "hasta": "2026-09-26",
   "destacadas": [
+    {
+      "titulo": "Ojito a este nuevo monovolumen PHEV de 7 plazas que mide casi 5 metros, tiene etiqueta CERO y cuesta menos de 29.000 €",
+      "link": "https://www.diariomotor.com/noticia/yooudooo-8-max/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-09-26T18:00:46Z",
+      "resumen": "Las familias que necesitan un vehículo con más de cinco asientos no lo tienen nada fácil en los tiempos actuales , con muy poca variedad en la oferta y además precios absurdos. Para aquellos que además buscan la etiqueta CERO, las cosas se complican. Por suerte para ellos ahora llega un nuevo vehículo que recupera el formato MPV pero a un precio realmente competitivo, y sí, con etiqueta ambiental…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/09/Yudo-8-MAX12-6ab7d16e8f465.jpg?class=XL",
+      "menciones": 27,
+      "fuentes": [
+        "Autotest",
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "Carlos Sainz rescata un punto para Williams y Fernando Alonso vuelve a sufrir el calvario de Aston Martin",
+      "link": "https://www.diariomotor.com/competicion/noticia/pilotos-espanoles-baku-2026-carrera/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-09-26T16:47:40Z",
+      "resumen": "Carrera el sábado , pero hay cosas que siguen sin cambiar. Especialmente en el caso de Fernando Alonso, que sigue estando lastrado por un Aston Martin que sigue padeciendo muchos problemas de fiabilidad . En el caso de Carlos Sainz Jr. se notó que en Williams estaban deseando poder competir por algo, una situación que ha llegado favorecida por el estreno del primer gran paquete de evoluciones del…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/09/pilotos-espanoles-f1-2026-gran-premio-azerbaiyan-5-6ab7dac19b52f.jpg?class=XL",
+      "menciones": 3,
+      "fuentes": [
+        "Diariomotor (ES)",
+        "Motorpasión (ES)"
+      ]
+    },
+    {
+      "titulo": "Stellantis tiene una nueva pick-up, manual y con motor diésel, pero con un pequeño truco",
+      "link": "https://www.diariomotor.com/noticia/opel-vivaro-flatbed/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-09-26T16:00:38Z",
+      "resumen": "Cuando piensas en una pick-up posiblemente se te vienen a la cabeza imágenes de monstruos como las Ford Ranger o las Toyota Hilux , trepando por un cortafuegos o cargando material de construcción. El último lanzamiento de Stellantis es una pick-up, pero no una pick-up al uso. ¿O sí? Dejaré que juzguéis por vosotros mismos, porque se trata de un vehículo triplaza, diésel, manual y con una enorme…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/09/opel-vivaro-flatbed-8-6ab6ba63160be.jpg?class=XL",
+      "menciones": 2,
+      "fuentes": [
+        "Autotest",
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "El SUV rival del Toyota Yaris Cross con precio competitivo y amplio equipamiento",
+      "link": "https://autotest.com.ar/noticias/el-suv-rival-del-toyota-yaris-cross-con-precio-competitivo-y-amplio-equipamiento/",
+      "fuente": "Autotest",
+      "fecha": "2026-09-26T14:00:12Z",
+      "resumen": "La Hyundai Nueva Creta llega a Argentina con un diseño modernizado, doble pantalla de 10,25 pulgadas y un enfoque renovado en seguridad.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/Hyundai-Creta-trasera.jpg",
+      "menciones": 21,
+      "fuentes": [
+        "Autotest",
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "George Russell gana una de las carreras más ajustadas de la historia de la Fórmula 1 y Carlos Sainz puntúa cuatro meses después",
+      "link": "https://www.motorpasion.com/formula1/george-russell-gana-carreras-ajustadas-historia-formula-1-carlos-sainz-puntua-cuatro-meses-despues",
+      "fuente": "Motorpasión (ES)",
+      "fecha": "2026-09-26T13:18:00Z",
+      "resumen": "Este Gran Premio de Azerbaiyán no solo será histórico porque se haya corrido la carrera en sábado. George Russell y Max Verstappen han protagonizado uno de los finales más ajustados de la historia de la Fórmula 1. 196 milésimas le han dado el triunfo a Russell . En el siglo XXI solo ha habido una carrera con un margen menor. Russell parecía tener la carrera muy controlada hasta que se ha…",
+      "imagen": "https://i.blogs.es/c54b27/russell-baku-f1-2026/1024_2000.jpeg",
+      "menciones": 6,
+      "fuentes": [
+        "Diariomotor (ES)",
+        "Motorpasión (ES)"
+      ]
+    },
+    {
+      "titulo": "El Renault 8 Gordini vuelve con 270 CV: el mito argentino que pasó de 95 a 270 caballos",
+      "link": "https://autotest.com.ar/noticias/el-renault-8-gordini-vuelve-con-270-cv-el-mito-argentino-que-paso-de-95-a-270-caballos/",
+      "fuente": "Autotest",
+      "fecha": "2026-09-26T11:01:21Z",
+      "resumen": "Lo concreto es que el gancho funciona: 270 CV, apellido Gordini y una silueta que con solo verla en azul Francia con franjas blancas activa la nostalgia.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/el-renault-8-gordini-vuelve-con-270-cv-e-1200x740-1.jpg",
+      "menciones": 2,
+      "fuentes": [
+        "Autotest",
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "Hyundai i20 N híbrido: 300 CV y 5,5 L/100 km, el primer GTI híbrido de la historia",
+      "link": "https://autotest.com.ar/noticias/hyundai-i20-n-hibrido-300-cv-y-5-5-l-100-km-el-primer-gti-hibrido-de-la-historia/",
+      "fuente": "Autotest",
+      "fecha": "2026-09-26T11:01:08Z",
+      "resumen": "La información no está confirmada por Hyundai, pero los datos que circulan en el entorno de proveedores y concesionarios europeos describen un proyecto concreto para 2027.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/hyundai-i20-n-h-brido-300-cv-y-5-5-l-100-1200x740-1.jpg",
+      "menciones": 2,
+      "fuentes": [
+        "Autotest",
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "La marca china de autos que \"está en conversaciones\" para fabricar en Argentina",
+      "link": "https://www.iprofesional.com/autos/465303-que-marca-china-puede-empezar-a-fabricar-autos-en-argentina",
+      "fuente": "iProfesional",
+      "fecha": "2026-09-25T23:16:00Z",
+      "resumen": "Negociaciones avanzadas abrirían la puerta para que una nueva automotriz asiática fabrique vehículos en plantas locales y sume empleos (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
+      "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2025/09/603669.jpg",
+      "menciones": 2,
+      "fuentes": [
+        "Autotest",
+        "iProfesional"
+      ]
+    },
     {
       "titulo": "El nuevo SUV chino Haval H7 4x4 sale 20.000 dólares menos que los rivales",
       "link": "https://www.iprofesional.com/autos/465225-el-nuevo-suv-chino-haval-h7-4x4-sale-us20-000-menos-que-los-rivales",
@@ -10,63 +114,10 @@
       "fecha": "2026-09-25T16:15:00Z",
       "resumen": "La marca sumó dos versiones del modelo para el segmento D. Tienen todas las prestaciones para todoterreno, seguridad y confort. Los detalles (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
       "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/09/626336.jpg",
-      "menciones": 22,
-      "fuentes": [
-        "Autotest",
-        "Diariomotor (ES)",
-        "iProfesional"
-      ]
-    },
-    {
-      "titulo": "Para hacer 100 km al día sin gasolina no necesitas un eléctrico, el Kia Sportage de MG tiene 272 CV, etiqueta CERO y cuesta 28.000 €",
-      "link": "https://www.diariomotor.com/noticia/oferta-mg-hs-phev-septiembre-2026/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-09-25T16:00:14Z",
-      "resumen": "Uno podría pensar que el coche eléctrico es la única alternativa al coche de combustión. Nada más lejos de la realidad, especialmente cuando nos encontramos con coches como el Kia Sportage de MG, o lo que es lo mismo, un SUV con 272 CV, etiqueta CERO y capaz de hacer 100 km sin gastar gasolina... por 28.582 euros y no, no es eléctrico. El MG HS quiere ser el PHEV con mejor relación calidad-precio…",
-      "imagen": "https://www.diariomotor.com/imagenes/2025/06/MG-HS-Hybrid-1-685d207c4b4fb.jpg?class=XL",
-      "menciones": 11,
-      "fuentes": [
-        "Autotest",
-        "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "George Russell conquista la Pole en Bakú, Andrea Kimi Antonelli falla y Carlos Sainz es penalizado",
-      "link": "https://www.diariomotor.com/competicion/noticia/george-russell-conquista-pole-baku/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-09-25T15:29:22Z",
-      "resumen": "Rara vez hemos visto a Andrea Kimi Antonelli fallar en lo que llevamos de temporada 2026, sin embargo, el italiano se equivocó en la sesión de clasificación de este viernes y terminó siendo uno de los pocos que ha impactado con las protecciones en la lucha por la Pole Position de cara al Gran Premio de Azerbaiyán que se disputará este sábado. El de Mercedes cometió un error similar al de Lance…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/09/clasificacion-gran-premio-azerbaiyan-2026-f1-1-6ab6767915fbb.jpg?class=XL",
-      "menciones": 5,
-      "fuentes": [
-        "Diariomotor (ES)",
-        "Motorpasión (ES)"
-      ]
-    },
-    {
-      "titulo": "Dacia prepara para 2027 un eléctrico de 3 metros, más corto que el Mini original, con cuatro plazas y un precio inferior a 11.000 euros",
-      "link": "https://www.diariomotor.com/noticia/dacia-hipster-llegara-2027/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-09-25T14:00:22Z",
-      "resumen": "El Dacia Hipster parecía un prototipo demasiado radical como para llegar a los concesionarios. Pero Dacia está trabajando para convertirlo en realidad en 2027 y, si se cumplen los objetivos del proyecto, podría hacerlo con un precio difícil de creer hoy en Europa: unos 11.000 euros, según las últimas informaciones. Será un eléctrico de apenas tres metros, cuatro plazas y una batería diminuta de…",
-      "imagen": "https://www.diariomotor.com/imagenes/2025/10/dacia-hipster-concept-2025-31-68e379f0ee88d.jpg?class=XL",
-      "menciones": 2,
-      "fuentes": [
-        "Diariomotor (ES)",
-        "Motorpasión (ES)"
-      ]
-    },
-    {
-      "titulo": "Compite contra Toyota Corolla Cross pero cuesta como un Yaris Cross: el SUV que bajó de precio y tiene 147 CV",
-      "link": "https://autotest.com.ar/noticias/compite-contra-toyota-corolla-cross-pero-cuesta-como-un-yaris-cross-el-suv-que-bajo-de-precio-y-tiene-147-cv/",
-      "fuente": "Autotest",
-      "fecha": "2026-09-25T12:00:12Z",
-      "resumen": "El Jetour Dashing 1.5T recibe una bonificación notable, posicionándose como una opción atractiva frente a competidores como Toyota Corolla Cross y Volkswagen Taos gracias a su relación precio-tamaño.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/SUV-Jetour-Dashing-1.5T-perfil.jpg",
       "menciones": 3,
       "fuentes": [
         "Autotest",
-        "Diariomotor (ES)"
+        "iProfesional"
       ]
     },
     {
@@ -135,6 +186,66 @@
       ]
     },
     {
+      "titulo": "El Rally de Llanes, suspendido tras un accidente que tiñe de luto al automovilismo español",
+      "link": "https://www.diariomotor.com/competicion/noticia/rally-de-llanes-scer-2026/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-09-26T19:08:25Z",
+      "resumen": "Estaba llamado a ser de nuevo una de las pruebas más especiales del calendario, lamentablemente, el Rally de Llanes finalizó con la peor de las noticias . La cita llanisca, siempre caracterizada por una atmósfera de competición clásica, se veía interrumpida este mediodía después de conocerse el grave accidente de uno de los vehículos . El suceso ocurría en el cuarto tramo de la etapa de este…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/09/rally-llanes-2026-scer-rfeda-5-6ab7faf230b70.jpg?class=XL",
+      "menciones": 1,
+      "fuentes": [
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "Lando Norris carga contra Franco Colapinto y reclama una sanción ejemplar tras el accidente de Bakú",
+      "link": "https://www.diariomotor.com/competicion/noticia/lando-norris-carga-contra-franco-colapinto/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-09-26T18:04:31Z",
+      "resumen": "En un fin de semana en el que el ambiente ya llegaba tenso después de las declaraciones realizadas por Flavio Briatore al respecto de lo sucedido tras el Gran Premio de España, Franco Colapinto cometió un costoso error para el equipo Alpine después de pasarse de frenada en la siempre complicada curva 1 del Circuito de Bakú. La acción del piloto argentino no sólo supuso el abandono de los dos…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/09/5-baku-saturday-2026-6ab7ece7d8ae5.jpg?class=XL",
+      "menciones": 1,
+      "fuentes": [
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "Un alce de 320 kilos le ha declarado la guerra a los coches y a los carritos de golf, y está haciendo ricos a los talleres de chapa y pintura",
+      "link": "https://www.motorpasion.com/videos-de-coches/alce-320-kilos-le-ha-declarado-guerra-a-coches-a-carritos-golf-esta-haciendo-ricos-a-talleres-chapa-pintura",
+      "fuente": "Motorpasión (ES)",
+      "fecha": "2026-09-26T17:00:51Z",
+      "resumen": "Animales y vehículos no suelen ser buenos amigos; suelen cruzarse en la carretera (especialmente de noche) cuando menos lo esperas, y aunque lo habitual es que intenten evitar a los coches, algunos, por el susto, se quedan inmóviles. Luego está ‘Smash’ , un alce que ha declarado abiertamente la guerra a los vehículos, son su enemigo número uno. E l nuevo terror sobre ruedas de Colorado ‘Smash’ es…",
+      "imagen": "https://i.blogs.es/3d1eca/portada-mop-1790425171697/1024_2000.jpeg",
+      "menciones": 1,
+      "fuentes": [
+        "Motorpasión (ES)"
+      ]
+    },
+    {
+      "titulo": "Destripando el Toyota Corolla 2027, el más radical de la historia y con mucha vida más allá del híbrido",
+      "link": "https://www.diariomotor.com/noticia/novedades-toyota-corolla-2027/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-09-26T17:00:07Z",
+      "resumen": "Mientras escribo estas líneas, la imagen que tengo del mercado este mes de septiembre no puede ser más esclarecedora. Tesla arrasa , y cerrará el mes con el Model 3 como el coche más vendido en España, gracias a la llegada de un stock muy elevado y el éxito que están teniendo sus promociones en conjunción con las ayudas del Plan Auto+. Tras ella, el segundo modelo más vendido será el Toyota C-HR…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/09/toyota-corolla-concept-6ab686159a6d2.jpeg?class=XL",
+      "menciones": 1,
+      "fuentes": [
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "Llegó la Ford Ranger 2027: así es la renovada pick up para enfrentar a Hilux y Frontier",
+      "link": "https://autotest.com.ar/noticias/ford-ranger-2027-asi-es-la-renovada-pick-up-mejor-equipada-para-enfrentar-a-hilux-y-frontier/",
+      "fuente": "Autotest",
+      "fecha": "2026-09-26T16:30:18Z",
+      "resumen": "La Ranger 2027 ya está disponible en México con una renovación enfocada en equipamiento, conectividad y seguridad. Ford mantiene la oferta conocida, pero retocó la imagen exterior, agrega más confort y seguridad y aplicó otros cambios para enfrentar a Toyota Hilux y Nissan Frontier, dos de las pick ups medianas líderes. La gama queda compuesta […]",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/ford-ranger-20271.jpg",
+      "menciones": 1,
+      "fuentes": [
+        "Autotest"
+      ]
+    },
+    {
       "titulo": "Renault fabricará en España su Rafale más exclusivo, 200 unidades con 300 CV y capaz de hacer 105 km sin encender su motor de gasolina",
       "link": "https://www.diariomotor.com/noticia/renault-rafale-hypnotic/",
       "fuente": "Diariomotor (ES)",
@@ -144,6 +255,42 @@
       "menciones": 3,
       "fuentes": [
         "Autotest",
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "El pueblo pesquero más tradicional de España está en Fuerteventura: un paraíso para recorrer en camper, por ahora",
+      "link": "https://www.motorpasion.com/furgonetas-y-caravanas/pueblo-pesquero-tradicional-espana-esta-fuerteventura-paraiso-para-recorrer-camper-ahora",
+      "fuente": "Motorpasión (ES)",
+      "fecha": "2026-09-26T16:00:51Z",
+      "resumen": "Escondido entre acantilados y roca volcánica, hay un rincón en Fuerteventura esculpido por el viento frente al Atlántico donde el tiempo parece haberse detenido décadas atrás. Un pequeño pueblo de pescadores cuyo epicentro es una playa de arena negra, que conserva su tradición y esencia, pese a los viajeros que se acercan a descubrirlo. Hablamos de Ajuy , al que se llega por una sinuosa carretera…",
+      "imagen": "https://i.blogs.es/54964a/ajuy-fuerteventura/1024_2000.jpeg",
+      "menciones": 1,
+      "fuentes": [
+        "Motorpasión (ES)"
+      ]
+    },
+    {
+      "titulo": "George Russell vence de forma apurada un Gran Premio de Azerbaiyán de dos mitades",
+      "link": "https://www.diariomotor.com/competicion/noticia/george-russell-vence-de-forma-apurada-un-gran-premio-de-azerbaiyan-de-dos-mitades/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-09-26T15:08:17Z",
+      "resumen": "Bakú es un circuito de Fórmula 1 que no tiene término medio. Da carreras tensas u olvidables, accidentadas o calmadas y la edición de 2026 formó parte del grupo tenso. George Russell lideró en todo momento aunque siempre tuvo que mirar en los retrovisores para aguantar a un espectacular Max Verstappen por 196 milésimas, el final más estrecho desde el Gran Premio de Estados Unidos de 2002 en…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/09/final-f1-baku-2026-6ab7c35407363.jpg?class=XL",
+      "menciones": 1,
+      "fuentes": [
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "Mitad 4x4, mitad monstruo, es el Mercedes que sólo 10 personas podrán llevar al fin del mundo",
+      "link": "https://www.diariomotor.com/noticia/brabus-900-rocket-edition-cabrio/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-09-26T15:00:59Z",
+      "resumen": "Si eres de esos que piensa que sólo AMG es capaz de mejorar un Mercedes Clase G , siento decirte que estás bastante equivocado. En el inmenso universo del fabricante alemán existen mejoras formas de aumentar prestaciones, lujo y exclusividad, destacando el último trabajo de Brabus ya que sólo 10 personas en todo el mundo podrán disfrutar de este descomunal 4x4 . Aunque este monstruo nació…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/09/brabus-900-rocket-edition-cabrio-mercedes-clase-g-80-6ab59ff89ddf0.jpg?class=XL",
+      "menciones": 1,
+      "fuentes": [
         "Diariomotor (ES)"
       ]
     },
@@ -158,150 +305,6 @@
       "fuentes": [
         "Autotest",
         "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "El sedán de Ford que sigue vigente con 284 CV y una pantalla de 27 pulgadas",
-      "link": "https://autotest.com.ar/noticias/el-sedan-de-ford-que-sigue-vigente-con-284-cv-y-una-pantalla-de-27-pulgadas/",
-      "fuente": "Autotest",
-      "fecha": "2026-09-25T19:00:12Z",
-      "resumen": "Ford actualiza el Mondeo 2026 con nuevo diseño, tecnología avanzada y opciones de motores turbo e híbridos, manteniendo su presencia en mercados clave.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/Ford-Taurus-2026-teaser.jpg",
-      "menciones": 1,
-      "fuentes": [
-        "Autotest"
-      ]
-    },
-    {
-      "titulo": "He probado el nuevo DS Nº7, el híbrido y el eléctrico, y tengo clarísimo qué motor elegiría y por qué merece la pena frente a los SUV alemanes",
-      "link": "https://www.diariomotor.com/noticia/prueba-ds-n7-2026/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-09-25T19:00:04Z",
-      "resumen": "El nuevo DS Nº7 anuncia 740 kilómetros de autonomía en su versión eléctrica , más de los que ofrecen muchos SUV eléctricos bastante más caros. DS ha hecho además un coche grande, muy cómodo, silencioso y mejor equipado que sus rivales, con opción también de un microhíbrido. El problema no está en lo que ofrece, sino en otra pregunta incómoda: ¿puede convencer DS a alguien dispuesto a gastar 50.000…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/09/ds-numero-7_port-6ab2783fd33b7.jpg?class=XL",
-      "menciones": 1,
-      "fuentes": [
-        "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "Citroën vuelve a fabricar el 2 CV que dejó de producir en 1990 y será eléctrico",
-      "link": "https://www.iprofesional.com/autos/465260-citroen-vuelve-a-fabricar-un-auto-que-dejo-de-producir-en-1990",
-      "fuente": "iProfesional",
-      "fecha": "2026-09-25T18:37:00Z",
-      "resumen": "Fue un clásico modelo de la industria automotriz, económico y práctico. Ahora, volverá a fabricarse en versión 100 por ciento eléctrica (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
-      "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/09/626377.jpg",
-      "menciones": 1,
-      "fuentes": [
-        "iProfesional"
-      ]
-    },
-    {
-      "titulo": "Mucho antes que iPhone o Tesla, el Buick Riviera de 1986 fue el primer coche con una pantalla táctil. Nadie sabía utilizarla",
-      "link": "https://www.motorpasion.com/tecnologia/mucho-iphone-tesla-buick-riviera-1986-fue-primer-coche-pantalla-tactil-nadie-sabia-utilizarla",
-      "fuente": "Motorpasión (ES)",
-      "fecha": "2026-09-25T18:31:08Z",
-      "resumen": "Aunque parezca extraño, hace como 540 años que el Buick Riviera se presentó en Estados Unidos con el Graphic Control Center , un invento que evocaba tanta modernidad como todo lo tecnológico por aquella época ya lejana. Con el siglo XXI a la vuelta de la esquina, el año 2000 se nos vendía como una insólita frontera que estábamos a punto de cruzar, para llegar de repente al futuro. Y un ejemplo de…",
-      "imagen": "https://i.blogs.es/14e63a/portada-mop-1790331933612/1024_2000.jpeg",
-      "menciones": 1,
-      "fuentes": [
-        "Motorpasión (ES)"
-      ]
-    },
-    {
-      "titulo": "Alex Dunne y Martinius Stenshorne confirman la superioridad de Rodin en Bakú con un doblete",
-      "link": "https://www.diariomotor.com/competicion/noticia/alex-dunne-y-martinius-stenshorne-confirman-la-superioridad-de-rodin-en-baku-con-un-doblete/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-09-25T18:25:55Z",
-      "resumen": "Alex Dunne y Martinius Stenshorne confirman la superioridad de Rodin Motorsport en Bakú con un doblete en la primera carrera larga de la Formula 2 en Bakú. Ni siquiera una bandera roja que recortó seis vueltas la distancia total de carrera evitó que ambos mantuviesen sus posiciones de inicio. Dino Beganovic, vencedor de la carrera sprint , completó el podio. Esta victoria, primera de la temporada,…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/09/Dunne-Baku-2026-Gasperotti-6ab6a00a9a51c.jpg?class=XL",
-      "menciones": 1,
-      "fuentes": [
-        "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "Los patentamientos de autos caen 13% en septiembre, pese a descuentos y más financiamiento",
-      "link": "https://www.iprofesional.com/autos/465276-las-ventas-de-autos-caen-en-septiembre-2026-pese-a-rebajas-y-cuotas",
-      "fuente": "iProfesional",
-      "fecha": "2026-09-25T18:23:00Z",
-      "resumen": "Se mantiene la tendencia de los últimos meses y se registra una fuerte contracción en las ventas en la comparación contra septiembre del 2025 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
-      "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/09/625690.jpg",
-      "menciones": 1,
-      "fuentes": [
-        "iProfesional"
-      ]
-    },
-    {
-      "titulo": "Diana Fernández, perito judicial, sobre financiar la compra de un coche: “Es una operación financiera malísima”",
-      "link": "https://www.motorpasion.com/revision/diana-fernandez-perito-judicial-financiar-compra-coche-operacion-financiera-malisima",
-      "fuente": "Motorpasión (ES)",
-      "fecha": "2026-09-25T18:01:08Z",
-      "resumen": "Diana Fernández , perito judicial en Atila Legal , aconseja no financiar jamás la compra de un coche porque lo considera un enorme error financiero. Explica que los intereses pueden ser tan abusivos que el precio del coche puede acabar siendo muchísimo más alto, por lo que recomienda comprarse coches que se ajusten a las posibilidades económicas de cada uno, aunque sean de segunda mano. “Es que…",
-      "imagen": "https://i.blogs.es/ab9d24/financiacion-3_1/1024_2000.jpeg",
-      "menciones": 1,
-      "fuentes": [
-        "Motorpasión (ES)"
-      ]
-    },
-    {
-      "titulo": "Así es la pick up base con precio accesible, motor turbodiésel y hasta 1.110 kg de carga",
-      "link": "https://autotest.com.ar/noticias/asi-es-la-pick-up-base-con-precio-accesible-motor-turbodiesel-y-hasta-1-110-kg-de-carga/",
-      "fuente": "Autotest",
-      "fecha": "2026-09-25T18:00:03Z",
-      "resumen": "La Maxus T60 llega a Argentina con un precio competitivo, motor turbodiésel, opciones de tracción y un equipamiento que compite con los grandes del mercado de pick ups.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/Pick-up-Maxus-T60-teaser-1.jpg",
-      "menciones": 1,
-      "fuentes": [
-        "Autotest"
-      ]
-    },
-    {
-      "titulo": "El nuevo SUV que estrena diseño, una versión híbrida de 771 HP y más tecnología",
-      "link": "https://autotest.com.ar/noticias/el-nuevo-suv-que-estrena-diseno-una-version-hibrida-de-771-hp-y-mas-tecnologia/",
-      "fuente": "Autotest",
-      "fecha": "2026-09-25T17:00:27Z",
-      "resumen": "El Jetour T2 2027 presenta un refrescado diseño, características compartidas con el G700 y una potente versión híbrida plug-in. Este SUV familiar redefine lujo y eficiencia en el mercado chino.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/Nuevo-Jetour-T2-trasera.jpg",
-      "menciones": 1,
-      "fuentes": [
-        "Autotest"
-      ]
-    },
-    {
-      "titulo": "Carlos Sainz brilla y Fernando Alonso sufre en la veloz qualy de Bakú",
-      "link": "https://www.diariomotor.com/competicion/noticia/carlos-sainz-brilla-y-fernando-alonso-sufre-en-la-veloz-qualy-de-baku/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-09-25T16:30:55Z",
-      "resumen": "Día de extremos en Azerbaiyán , donde las calles de su capital vieron una qualy más aburrida de lo esperado debido al límite extremo al que suele someter el circuito callejero a sus pilotos. Carlos Sainz destacó con un Williams de motor potente y obtuvo el acceso a la Q3 , hecho que no lograba desde el Gran Premio de Qatar del año pasado. Sainz arrancará noveno y Fernando Alonso será 19º en…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/09/carlos-sainz-f1-qualy-baku-2026-6ab68393f3408.jpg?class=XL",
-      "menciones": 1,
-      "fuentes": [
-        "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "“Estaba constantemente estresada en los pueblos”. Esta pareja vivía en autocaravanas enormes, hasta que descubrieron que la clave era una camper más pequeña",
-      "link": "https://www.motorpasion.com/furgonetas-y-caravanas/estaba-constantemente-estresada-pueblos-esta-pareja-vivia-autocaravanas-enormes-que-descubrieron-que-clave-era-camper-pequena",
-      "fuente": "Motorpasión (ES)",
-      "fecha": "2026-09-25T16:01:08Z",
-      "resumen": "Existe una creencia bastante extendida en el mundo camper: cuanto más grande es la autocaravana, más cómoda será la vida a bordo, pero Georges y Evelyne han descubierto después de años viajando que la ecuación no siempre funciona así. Tras pasar por siete autocaravanas, decidieron abandonar un vehículo de 4,25 toneladas para viajar en una furgoneta mucho más compacta. La razón no fue económica ni…",
-      "imagen": "https://i.blogs.es/6eb4aa/pareja-camper/1024_2000.jpeg",
-      "menciones": 1,
-      "fuentes": [
-        "Motorpasión (ES)"
-      ]
-    },
-    {
-      "titulo": "Benda, una nueva marca china de motos, llega a la Argentina",
-      "link": "https://eleconomista.com.ar/autos/benda-una-nueva-marca-china-motos-llega-argentina-n98415",
-      "fuente": "El Economista",
-      "fecha": "2026-09-25T15:30:00Z",
-      "resumen": "Grupo La Emilia agranda su porfolio marcario con modelos para el segmento custom y cruiser de media cilindrada. Serán comercializados en los concesionarios de Keeway Group.",
-      "imagen": "https://statics.eleconomista.com.ar/2026/09/crop/6ab5f6f82f43a__950x512.webp",
-      "menciones": 1,
-      "fuentes": [
-        "El Economista"
       ]
     }
   ]
