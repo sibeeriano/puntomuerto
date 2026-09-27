@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-27T17:44:52Z",
+  "actualizado": "2026-09-27T19:48:02Z",
   "desde": "2026-09-20",
   "hasta": "2026-09-27",
   "destacadas": [
@@ -119,6 +119,18 @@
       "menciones": 2,
       "fuentes": [
         "Autotest",
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "Todo lo que necesitas saber del Rally de Italia-Cerdeña 2026",
+      "link": "https://www.diariomotor.com/competicion/noticia/previo-rally-italia-cerdena-2026/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-09-27T20:39:19Z",
+      "resumen": "El Mundial de Rallyes se despedirá el próximo domingo 4 de octubre en el Rally de Italia-Cerdeña antes de afrontar una de las pretemporadas más largas de la era moderna del WRC. Tras doce eventos disputados, la cita sarda pondrá el punto y final al año después de que la FIA y el promotor del WRC tomarán la decisión de no viajar a Arabia Saudí. De esta forma, las series intercontinentales pondrán…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/09/previo-rally-italia-cerdena-2026-wrc-10-6ab9618187813.jpg?class=XL",
+      "menciones": 1,
+      "fuentes": [
         "Diariomotor (ES)"
       ]
     },
@@ -289,18 +301,6 @@
       "menciones": 1,
       "fuentes": [
         "Motorpasión (ES)"
-      ]
-    },
-    {
-      "titulo": "SUV chino con 955 CV y 0 a 100 en 3,7 s: el eléctrico que va directo por el Tesla Model Y",
-      "link": "https://autotest.com.ar/noticias/suv-chino-con-955-cv-y-0-a-100-en-3-7-s-el-electrico-que-va-directo-por-el-tesla-model-y/",
-      "fuente": "Autotest",
-      "fecha": "2026-09-27T11:01:11Z",
-      "resumen": "Tesla sigue siendo el líder de referencia, pero los chinos vienen recortando terreno con una combinación agresiva de equipamiento y precios.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/suv-chino-con-955-cv-y-0-a-100-en-3-7-s-1200x740-1.jpg",
-      "menciones": 1,
-      "fuentes": [
-        "Autotest"
       ]
     }
   ]
