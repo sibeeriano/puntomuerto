@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-28T22:07:42Z",
+  "actualizado": "2026-09-28T23:58:07Z",
   "desde": "2026-09-21",
   "hasta": "2026-09-28",
   "destacadas": [
@@ -133,6 +133,18 @@
       "fuentes": [
         "Autotest",
         "iProfesional"
+      ]
+    },
+    {
+      "titulo": "Manthey cierra su primera participación en la Copa de Resistencia con una decoración especial",
+      "link": "https://www.diariomotor.com/competicion/noticia/manthey-decoracion-especial/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-09-29T01:33:56Z",
+      "resumen": "Llegó Petit Le Mans y con ello el final del Campeonato IMSA SportsCar, lo que también representa el cierre de la primera participación de Manthey Racing en la Copa de Resistencia, en la clase GTD Pro. Por tal razón, el equipo alemán anunció que correrá con una decoración especial dedicada a la lucha contra el cáncer. Así que el Porsche 911 GT3 R no asistirá a Road América con su distintiva librea…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/09/Manthey_Racing_Petit_Le_Mans_IMSA_GTD_Pro_2026_3_26-6abac7d275d53.jpg?class=XL",
+      "menciones": 1,
+      "fuentes": [
+        "Diariomotor (ES)"
       ]
     },
     {
@@ -290,18 +302,6 @@
       "menciones": 1,
       "fuentes": [
         "Autotest"
-      ]
-    },
-    {
-      "titulo": "Un técnico raspó la pintura de un Airbus y descubrió un defecto que va a obligar a reparar 500 A321neo con una factura millonaria",
-      "link": "https://www.diariomotor.com/noticia/defecto-pintura-airbus-obliga-reparar-500-a321neo/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-09-28T17:00:59Z",
-      "resumen": "Airbus tendrá que reparar unos 500 A321neo después de detectar un defecto en la imprimación que protege determinados componentes estructurales contra la corrosión. El fabricante sostiene que la seguridad no está comprometida y no inmovilizará inmediatamente los aviones, pero cada intervención puede mantenerlos hasta nueve días fuera de servicio. La historia comenzó con una comprobación manual. Un…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/09/airbus-a321neo-CathayPacific-6aba4c59ac25e.jpg?class=XL",
-      "menciones": 1,
-      "fuentes": [
-        "Diariomotor (ES)"
       ]
     }
   ]
