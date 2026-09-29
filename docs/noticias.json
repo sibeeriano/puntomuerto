@@ -1,11 +1,419 @@
 [
   {
+    "titulo": "No hace falta comprar un coche chino para pagar solo 100 € al mes, este Made in Spain lo demuestra junto con 10 años de garantía y 5,3 l/100 km",
+    "link": "https://www.diariomotor.com/noticia/oferta-seat-ibiza-septiembre-2026/",
+    "fuente": "Diariomotor (ES)",
+    "fecha": "2026-09-29T20:00:51Z",
+    "resumen": "Parece que comprar un coche económico pasa, necesariamente, por comprar un coche chino, pero no es así. Y así lo deja patente este Made in Spain que, por 100 euros al mes , nos ofrece 10 años de garantía y 5,3 l/100 km. El SEAT Ibiza puede ser nuestro por 100 euros al mes Su mecánica es sencilla y barata de mantener . No es especialmente rápido . Ofrece un consumo contenido . Y es que SEAT, pese a…",
+    "imagen": "https://www.diariomotor.com/imagenes/2026/09/oferta-seat-ibiza-septiembre-2026-6abba6cf5e368.png?class=XL"
+  },
+  {
+    "titulo": "Los coches de los años 30 tenían una solución surrealista para los atropellos: atrapar al peatón antes de que golpeara el coche",
+    "link": "https://www.motorpasion.com/videos-de-coches/coches-anos-30-tenian-solucion-surrealista-para-atropellos-atrapar-al-peaton-golpeara-coche",
+    "fuente": "Motorpasión (ES)",
+    "fecha": "2026-09-29T18:00:27Z",
+    "resumen": "Hoy los coches equipan sistemas específicos para reducir las consecuencias de un atropello, pero hubo un tiempo en el que la seguridad del peatón estaba fuera de la ecuación. Cuando el automóvil empezó a llenar las calles durante las primeras décadas del siglo XX, también aumentaron los accidentes y las muertes, y algunos inventores buscaron soluciones tan ingeniosas como extrañas . Una de ellas…",
+    "imagen": "https://i.blogs.es/3f2696/atrapa-peatones-ok/1024_2000.jpeg"
+  },
+  {
+    "titulo": "El juguete para adultos que cualquier loco de los coches querría tener: un todoterreno de bolsillo de 125 cc que alcanza 45 km/h",
+    "link": "https://www.motorpasion.com/todoterrenos/juguete-para-adultos-que-cualquier-loco-coches-querria-tener-todoterreno-bolsillo-125-cc-que-alcanza-45-km-h",
+    "fuente": "Motorpasión (ES)",
+    "fecha": "2026-09-29T17:00:27Z",
+    "resumen": "A primera vista cuesta saber qué es exactamente este Massimo Mini Truck : tiene el tamaño de un kart y su diseño recuerda incluso a un Land Rover Defender clásico. Sin embargo, no es un juguete infantil: está diseñado para conductores de 16 años en adelante y puede llevar a dos personas. Parece un juguete, pero está pensado para adultos Esta maravilla mide sólo 1,93 m de largo, 1,03 m de ancho y…",
+    "imagen": "https://i.blogs.es/f71ad4/massimo-portada---ok/1024_2000.jpeg"
+  },
+  {
+    "titulo": "Más tecnológico que Hilux, y un rival serio para Ranger, el BYD Shark 2027 es el todoterreno de 436 CV por el que merece la pena esperar",
+    "link": "https://www.diariomotor.com/noticia/byd-shark-2027-rival-serio-ford-ranger/",
+    "fuente": "Diariomotor (ES)",
+    "fecha": "2026-09-29T19:00:26Z",
+    "resumen": "Su progresión es imparable. Mientras escribo estas líneas, BYD ya se ha posicionado como la primera marca china de coches, la más vendida, en España, por delante de MG y Omoda. Y eso es solo el principio. BYD tiene un plan por el cual su gama aún debería crecer significativamente en los últimos años, con propuestas todoterreno y con productos que, inicialmente, no imáginabamos fueran a llegar a…",
+    "imagen": "https://www.diariomotor.com/imagenes/2026/07/BYD-Shark3-6a51274cdd0a4.jpg?class=XL"
+  },
+  {
+    "titulo": "Con un motor bóxer de 180 CV y tracción 4x4, el Volkswagen Golf de Subaru tiene demasiada personalidad para España",
+    "link": "https://www.diariomotor.com/noticia/subaru-impreza-base-2027/",
+    "fuente": "Diariomotor (ES)",
+    "fecha": "2026-09-29T18:00:55Z",
+    "resumen": "El mercado del automóvil es cada vez más gris. A la falta de identidad de la cada vez mayor oferta de que se ha de sumar que tanto unos como otros fabricantes están articulando sus gamas, mayormente, en torno a coches de tipo SUV y mecánicas electrificadas, lo que hace que, en general, la personalidad de los coches y el color de los mismos brille por su ausencia . Es por eso por lo que parece que…",
+    "imagen": "https://www.diariomotor.com/imagenes/2026/09/Subaru-Impreza-2027-13-6abb9a55130f0.jpg?class=XL"
+  },
+  {
+    "titulo": "Mucho cuidado con vender tu camper en Wallapop: esta nueva estafa te puede dejar sin furgoneta y sin dinero",
+    "link": "https://www.motorpasion.com/furgonetas-y-caravanas/mucho-cuidado-vender-tu-camper-wallapop-esta-nueva-estafa-te-puede-dejar-furgoneta-dinero",
+    "fuente": "Motorpasión (ES)",
+    "fecha": "2026-09-29T16:00:27Z",
+    "resumen": "Vender una furgoneta camper y quedarse sin camper y sin 45.000 euros . Un vizcaíno ha sido víctima de esta estafa que empieza a repetirse con coches y vehículos que sus propietarios anuncian en Internet o aplicaciones como Wallapop. Los supuestos compradores consiguen engañarlos con un justificante de transferencia falso, pero el dinero nunca se ingresa en su cuenta. En Italia ya le ha pasado a…",
+    "imagen": "https://i.blogs.es/de6884/portada-mop-1790688578610/1024_2000.jpeg"
+  },
+  {
+    "titulo": "La pick up más barata de Ford que desafía a Fiat Toro: precio competitivo, 253 CV y tracción integral",
+    "link": "https://autotest.com.ar/noticias/la-pick-up-mas-barata-de-ford-que-desafia-a-fiat-toro-precio-competitivo-253-cv-y-traccion-integral/",
+    "fuente": "Autotest",
+    "fecha": "2026-09-29T18:00:16Z",
+    "resumen": "La Ford Maverick XLT 2026 se presenta como la opción más accesible de Ford con un potente motor, tracción integral y amplio equipamiento tecnológico.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/07/Ford-Maverick-XLT-teaser.jpg"
+  },
+  {
+    "titulo": "Bartone Bros con GetSpeed se une a la Copa de Resistencia de la IMSA 2027",
+    "link": "https://www.diariomotor.com/competicion/noticia/bartone-getspeed-copa-de-resistencia-imsa-2027/",
+    "fuente": "Diariomotor (ES)",
+    "fecha": "2026-09-29T17:26:57Z",
+    "resumen": "Siguiendo la iniciativa de Manthey Racing, ahora es Bartone Bros, en operación conjunta con GetSpeed, la estructura que anunció su participación en la próxima edición de la Copa de Resistencia del Campeonato IMSA SportsCar. Este año Bartone Bros, equipo que participa en el GT World Challenge Europa, se presentó a competir en las 24 Horas de Daytona en la clase GTD Pro con los pilotos Anthony…",
+    "imagen": "https://www.diariomotor.com/imagenes/2026/09/Bartone_Bros_Racing_Mercedes_AMG_GT3_IMSA_TC_2027_27-6abbceb14c7bb.jpg?class=XL"
+  },
+  {
+    "titulo": "Juan Carlos Toribio, guardia civil de Tráfico, critica la nueva norma de la DGT para adelantar a los ciclistas: “Será el día de la marmota”",
+    "link": "https://www.motorpasion.com/seguridad/juan-carlos-toribio-ex-guardia-civil-trafico-alerta-que-nueva-norma-dgt-puede-provocar-largas-colas-detras-ciclistas-sera-dia-marmota",
+    "fuente": "Motorpasión (ES)",
+    "fecha": "2026-09-29T15:07:00Z",
+    "resumen": "El próximo 1 de octubre entra en vigor una de las reformas más importantes de los últimos años en materia de tráfico, y afecta a prácticamente todos. El nuevo Reglamento General de Circulación trae cambios para motoristas, conductores de coches, ciclistas y usuarios de ciclomotores, pero hay una medida que está concentrando gran parte del debate: el reducir la velocidad en al menos 20 km/h cuando…",
+    "imagen": "https://i.blogs.es/ec73be/guardia-civil-adelantamientos-ok/1024_2000.jpeg"
+  },
+  {
+    "titulo": "Jamás podrás tener este Alfa Romeo que acaban de fabricar, no solo por el precio, también porque se ha convertido en irrepetible con nombre registrado",
+    "link": "https://www.diariomotor.com/noticia/alfa-romeo-33-stradale-perla-nera/",
+    "fuente": "Diariomotor (ES)",
+    "fecha": "2026-09-29T17:00:34Z",
+    "resumen": "Parece el coche del malo , pero el Alfa Romeo 33 Stradale \"Perla Nera\" es un superdeportivo que se señala como exclusivo dentro de lo exclusivo . Porque de las 33 unidades que se fabricarán de este modelo, esta de aquí ha sido la única en la que su dueño ha metido mano durante el proceso de creación hasta el punto de que a eso de, \"Perla Nera\", haya que ponerle una \"®\" de estas por estar…",
+    "imagen": "https://www.diariomotor.com/imagenes/2026/09/Alfa-Romeo-33-Stradale-Perla-Nera_2_1-6abb694d2897a.jpg?class=XL"
+  },
+  {
+    "titulo": "Es oficial: Volkswagen vende la mitad de la gigafactoría de baterías de Sagunto a China",
+    "link": "https://www.motorpasion.com/industria/oficial-volkswagen-vende-casi-mitad-gigafactoria-baterias-sagunto-a-china",
+    "fuente": "Motorpasión (ES)",
+    "fecha": "2026-09-29T15:00:27Z",
+    "resumen": "Fue en 2022 cuando Volkswagen eligió Valencia , en concreto Sagunto, para instalar su fábrica de baterías. Sin embargo, las obras se han ido retrasando: Volkswagen tenía un calendario que pasaba por tener lista la fabricación de las primeras unidades preserie de celdas de baterías en septiembre de 2026 para que la fabricación en masa llegara en 2027. Y en medio del gigantesco plan de…",
+    "imagen": "https://i.blogs.es/7db39b/portada-mop-1790688666452/1024_2000.jpeg"
+  },
+  {
+    "titulo": "El hatchback eléctrico con 201 HP y hasta 500 km de autonomía que busca competir contra BYD",
+    "link": "https://autotest.com.ar/noticias/el-hatchback-electrico-con-201-hp-y-hasta-500-km-de-autonomia-que-busca-competir-contra-byd/",
+    "fuente": "Autotest",
+    "fecha": "2026-09-29T17:00:04Z",
+    "resumen": "El GAC AION UT llega a Argentina ofreciendo una autonomía de hasta 500 km, ideal para el uso diario y escapadas urbanas. Con batería LFP y carga rápida, redefine la experiencia de conducir un eléctrico.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/Hatchback-GAC-AION-UT-trasera.jpg"
+  },
+  {
+    "titulo": "Ni Renault 5, ni Twingo, octubre será el mes del regreso de un clásico, el nuevo Citroën 2CV 2027",
+    "link": "https://www.diariomotor.com/noticia/citroen-2cv-regreso-paris-octubre/",
+    "fuente": "Diariomotor (ES)",
+    "fecha": "2026-09-29T16:00:58Z",
+    "resumen": "Parece increíble, pero otro clásico emblemático está de regreso. Y octubre será su mes. Citroën desvelará el regreso del 2CV en el Salón de París de octubre. Buscará recuperar la idea de un coche sencillo y accesible, con un precio inferior a 15.000 euros. El proyecto forma parte de una nueva familia de pequeños eléctricos europeos cuya producción está prevista para 2028. Vivimos tiempos de vuelta…",
+    "imagen": "https://www.diariomotor.com/imagenes/2026/09/citroen-2cv-2026-recreacion-aigen-1-6aa1152f11641.png?class=XL"
+  },
+  {
+    "titulo": "Cuesta casi 15 millones menos que una Toyota Hilux: así es la pick up china con diseño off-road y 242 CV",
+    "link": "https://autotest.com.ar/noticias/cuesta-casi-15-millones-menos-que-una-toyota-hilux-asi-es-la-pick-up-china-con-diseno-off-road-y-242-cv/",
+    "fuente": "Autotest",
+    "fecha": "2026-09-29T16:00:46Z",
+    "resumen": "La JMC Grand Avenue GL 4x4 llega a Argentina con un motor de 242 CV y un precio competitivo para desafiar a la popular Toyota Hilux.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/Pick-up-JMC-Grand-Avenue-4x4-teaser.jpg"
+  },
+  {
+    "titulo": "Del interior de los coches a los drones militares: Francia moviliza su industria del automóvil para fabricar armas en masa",
+    "link": "https://www.motorpasion.com/industria/europa-necesita-miles-drones-ha-encontrado-solucion-inesperada-utilizar-sus-fabricas-coches",
+    "fuente": "Motorpasión (ES)",
+    "fecha": "2026-09-29T14:00:27Z",
+    "resumen": "Forvia es uno de los grandes proveedores mundiales de componentes para automóviles y está acostumbrado a fabricar a una escala difícil de igualar por muchas empresas de defensa. Ahora quiere aprovechar precisamente esa capacidad industrial para entrar en un mercado completamente distinto: el de los drones militares. La compañía francesa anunció a finales de julio un acuerdo con una empresa europea…",
+    "imagen": "https://i.blogs.es/da95ea/forvia/1024_2000.jpeg"
+  },
+  {
+    "titulo": "Chip Ganassi confirma el fichaje de Christian Lungaard y completa su formación para 2027",
+    "link": "https://www.diariomotor.com/competicion/noticia/chip-ganassi-christian-lungaard/",
+    "fuente": "Diariomotor (ES)",
+    "fecha": "2026-09-29T15:53:08Z",
+    "resumen": "Sin duda, el peor secreto dentro del paddock de la IndyCar ha salido a la luz. Chip Ganassi Racing confirmó que Christian Lungaard será piloto oficial del equipo a partir de la próxima temporada heredando el coche que deja Scott Dixon. No está fácil para el piloto danés de 25 años reemplazar a un seis veces campeón de la categoría y se mantuvo entre los mejores durante más de dos décadas. En este…",
+    "imagen": "https://www.diariomotor.com/imagenes/2026/09/Christian_Lungaard_Chip_Ganassi_Racing_2026_26-6abbbbb9cbe14.jpg?class=XL"
+  },
+  {
+    "titulo": "Este es el ciclomotor de gasolina más barato del mercado, una scooter muy pintona a precio de patinete",
+    "link": "https://www.diariomotor.com/noticia/sharmax-jet-x-50/",
+    "fuente": "Diariomotor (ES)",
+    "fecha": "2026-09-29T15:30:33Z",
+    "resumen": "Los ciclomotores siguen teniendo su público en España , aunque sus ventas están muy lejos de las cifras que alcanzaban hace años. El problema está en unos precios que se han disparado y que en muchos casos hacen difícil justificar su compra. Por suerte todavía aparecen alternativas como la que hoy te traemos, una opción sencilla y económica que cuesta tan poco que incluso hay patinetes eléctricos…",
+    "imagen": "https://www.diariomotor.com/imagenes/2026/09/Sharmax-Jet-50X4-6abbb9420ba14.jpg?class=XL"
+  },
+  {
+    "titulo": "El Gobierno quiere cambiar la tasa de alcohol al volante: con una cerveza ya se daría positivo. \"España tiene tasas de hace 25 años\"",
+    "link": "https://www.motorpasion.com/industria/gobierno-quiere-cambiar-tasa-alcohol-al-volante-cerveza-se-daria-positivo-espana-tiene-tasas-hace-25-anos",
+    "fuente": "Motorpasión (ES)",
+    "fecha": "2026-09-29T13:00:27Z",
+    "resumen": "El Gobierno va a poner hoy sobre la mesa en el Pleno una Proposición de Ley cuyo objetivo es reducir el límite de la tasa máxima de alcohol permitida para conducir. “Reducir la tasa máxima de alcohol al volante no es una ocurrencia ni una medida simbólica. Es una decisión de seguridad vial que busca evitar accidentes, lesiones y muertes en nuestras carreteras”, ha asegurado el portavoz socialista…",
+    "imagen": "https://i.blogs.es/e86e60/portada-mop-1790681115657/1024_2000.jpeg"
+  },
+  {
+    "titulo": "El Renault Boreal más barato: cuánto cuesta y qué ofrece la versión de entrada con 156 CV",
+    "link": "https://autotest.com.ar/noticias/el-renault-boreal-mas-barato-cuanto-cuesta-y-que-ofrece-la-version-de-entrada-con-156-cv/",
+    "fuente": "Autotest",
+    "fecha": "2026-09-29T15:00:16Z",
+    "resumen": "Descubre el nuevo Renault Boreal en Argentina, equipado con un potente motor 1.3 TCe y una caja automática EDC de 6 marchas, acompañado de avanzadas tecnologías de confort y seguridad.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/06/Renault-Boreal-Evolution-trasera-1.jpg"
+  },
+  {
+    "titulo": "Japonés y fabricado en UK, la alternativa a China y Tesla es un coche bueno, bonito y barato con 10 años o 200.000 km de garantía",
+    "link": "https://www.diariomotor.com/noticia/nissan-leaf-oferta-2026/",
+    "fuente": "Diariomotor (ES)",
+    "fecha": "2026-09-29T15:00:12Z",
+    "resumen": "Así comenzó todo y Nissan fue la responsable de ello. Cuando llegó al mercado el primer Nissan Leaf, y tuvimos ocasión de probarlo, para nosotros Tesla era esa marca que había transformado un Lotus en deportivo eléctrico. Y poco más. China no estaba… ni se la esperaba. El Nissan Leaf dispone de hasta 622 kilómetros de autonomía. Sus 4,35 metros de longitud y su maletero de 437 litros encajan con…",
+    "imagen": "https://www.diariomotor.com/imagenes/2025/06/Nissan-LEAF-2025-03-68518746d0502.jpg?class=XL"
+  },
+  {
+    "titulo": "Esteban Ocon ahora tiene su mirada puesta en el WEC",
+    "link": "https://www.diariomotor.com/competicion/noticia/esteban-ocon-mirada-puesta-wec/",
+    "fuente": "Diariomotor (ES)",
+    "fecha": "2026-09-29T14:42:57Z",
+    "resumen": "Prácticamente la parrilla de la Fórmula 1 de 2027 está cerrada, hace pocos instantes se anunció que la formación titular de Aston Martin ha sido renovada , lo que dejó sin opciones a Esteban Ocon, cuya salida de Haas F1 parece un asunto de trámite, toda vez que Ayao Komatsu ha comunicado en varias ocasiones que no extenderá su contrato. El piloto francés ha sido notificado con bastante antelación…",
+    "imagen": "https://www.diariomotor.com/imagenes/2026/09/Esteban_Ocon_Haas_F1_NR3_2026_F_26-6abbab67b94e3.jpg?class=XL"
+  },
+  {
+    "titulo": "Más barato que Corolla Cross: Toyota lanzó un renovado SUV con 223 CV y 10 versiones",
+    "link": "https://autotest.com.ar/noticias/toyota-lanzo-un-renovado-suv-con-223-cv-y-10-versiones-mas-barato-que-corolla-cross/",
+    "fuente": "Autotest",
+    "fecha": "2026-09-29T14:42:09Z",
+    "resumen": "El Toyota C-HR inicia una nueva etapa comercial con el arribo de su gama 2027 a España. Acumula 2.1 millones de unidadesvendidas a nivel mundial desde su lanzamiento hace una década y ahora suma novedades en diseño, equipamiento, motorización y más, con una opción de hasta 223 CV. Es más barato que el Corolla Cross […]",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/Nuevo-Toyota-C-HR.jpg"
+  },
+  {
+    "titulo": "Superior al Versa: el sedán de Nissan que se renueva con diseño deportivo y más tecnología",
+    "link": "https://autotest.com.ar/noticias/superior-al-versa-el-sedan-de-nissan-que-se-renueva-con-diseno-deportivo-y-mas-tecnologia/",
+    "fuente": "Autotest",
+    "fecha": "2026-09-29T14:03:35Z",
+    "resumen": "El Nissan Sentra 2027 llega con un diseño audaz, doble pantalla de 12.3 pulgadas y un amplio paquete de asistencias a la conducción. Conoce todos sus detalles aquí.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/08/Nuevo-Nissan-Sentra-perfil-5.jpg"
+  },
+  {
+    "titulo": "Lidl rebaja la mini hidrolimpiadora Parkside a menos de 44 euros: cabe en cualquier armario y sirve para limpiar el coche y la terraza",
+    "link": "https://www.motorpasion.com/revision/lidl-rebaja-mini-hidrolimpiadora-parkside-a-43-99-euros-cualquier-armario-sirve-para-limpiar-coche-terraza",
+    "fuente": "Motorpasión (ES)",
+    "fecha": "2026-09-29T12:00:27Z",
+    "resumen": "El bazar de Lidl se ha convertido en una especie de Meca para cualquier manitas gracias a las herramientas de la marca Parkside que el supermercado trae cada semana, pero no hace falta ir a las tiendas para encontrarse con buenos chollos: en la web de Lidl también hay cosas muy interesantes. Es el caso de la mini hidrolimpiadora Parkside PHDM 110 A1 , una lanza de agua a presión que ocupa…",
+    "imagen": "https://i.blogs.es/c5798a/lidl-_1/1024_2000.jpeg"
+  },
+  {
+    "titulo": "Con pintura mate y el mismo motor híbrido de 4,7 litros de consumo, el Toyota C-HR de 2027 ya está en España",
+    "link": "https://www.diariomotor.com/noticia/toyota-c-hr-2027-gama/",
+    "fuente": "Diariomotor (ES)",
+    "fecha": "2026-09-29T14:00:13Z",
+    "resumen": "Imitado por muchos, Toyota supo dar antes que nadie con una fórmula de diseño que cientos de miles de unidades vendidas después, sigue dando sus frutos, incluso con una oferta en contra entre la que figuran coches de precio tan agresivo como el Omoda 5 . Hablamos del Toyota C-HR , que con casi 16.000 matriculaciones hasta el cierre de agosto, es el cuarto coche más vendido de España en lo que va…",
+    "imagen": "https://www.diariomotor.com/imagenes/2026/09/Toyota-C-HR-2027-2-6abba098ab4e0.jpg?class=XL"
+  },
+  {
+    "titulo": "Cetilar Racing formalizó la inscripción de dos prototipos Ferrari 499P en la Asian Le Mans Series",
+    "link": "https://www.diariomotor.com/competicion/noticia/cetilar-inscripcion-dos-ferrari-499p-asian-le-mans-series/",
+    "fuente": "Diariomotor (ES)",
+    "fecha": "2026-09-29T13:49:49Z",
+    "resumen": "Tal como se había especulado, Cetilar Racing en conjunto con AF Corse, presentó formalmente su inscripción en la clase Hypercar de la próxima temporada de la Asian Le Mans Series, la cual se disputará en Europa, en los circuitos Paul Ricard, Jerez y Portimao, debido a la tensión que se experimenta en Oriente Medio. Si bien todavía existen dudas en lo que respecta a la factibilidad de la nueva…",
+    "imagen": "https://www.diariomotor.com/imagenes/2026/09/Cetilar_Racing_Ferrari_499P_ALMS_2026_26-6abb99078d3b0.jpg?class=XL"
+  },
+  {
+    "titulo": "La nueva Ford Maverick que se viene con motor V8, doble turbo, casi 600 CV y más",
+    "link": "https://autotest.com.ar/noticias/la-nueva-ford-maverick-que-se-viene-con-motor-v8-doble-turbo-casi-600-cv-y-mas/",
+    "fuente": "Autotest",
+    "fecha": "2026-09-29T13:37:23Z",
+    "resumen": "Tucci Hot Rods, un taller ubicado en Nueva York, está preparando la Ford Maverick que muchos fanáticos de la performance anhelan: una pick up compacta con motor V8 Coyote 5.0, dos turbos, caja automática ZF de ocho marchas y casi 600 CV de potencia, entre otras cosas que explican por qué implicará un antes y […]",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/Nueva-Ford-Maverick.webp"
+  },
+  {
+    "titulo": "BMW prueba el nuevo Serie 3 eléctrico en Brasil",
+    "link": "https://www.megautos.com/bmw-serie-3-electrico-pruebas/",
+    "fuente": "Megautos",
+    "fecha": "2026-09-29T13:31:43Z",
+    "resumen": "El sedán eléctrico de la marca alemana fue fotografiado durante ensayos en rutas brasileñas. Es el segundo modelo de la nueva familia Neue Klasse. La entrada BMW prueba el nuevo Serie 3 eléctrico en Brasil aparece primero en Mega Autos .",
+    "imagen": "https://www.megautos.com/wp-content/uploads/2026/09/BMW-i3-1.jpg"
+  },
+  {
+    "titulo": "Ford mostró las nuevas Ranger que se fabricarán en el país y llegarán en 2027",
+    "link": "https://autotest.com.ar/noticias/ford-mostro-las-nuevas-ranger-que-se-fabricaran-en-el-pais-y-llegaran-en-2027/",
+    "fuente": "Autotest",
+    "fecha": "2026-09-29T13:30:50Z",
+    "resumen": "Ford ha revelado las nuevas versiones de su pickup Ranger: la aventurera Tremor y la híbrida enchufable PHEV, con producción en la planta de Pacheco el próximo año.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/Nueva-Ford-Ranger-Tremor-trompa.jpg"
+  },
+  {
+    "titulo": "194 CV y 4,4 litros por menos de 18.000 euros: MG mejora el híbrido más barato de 2026 donde más lo notará el conductor",
+    "link": "https://www.diariomotor.com/noticia/mg3-hybrid-my26-5/",
+    "fuente": "Diariomotor (ES)",
+    "fecha": "2026-09-29T13:30:27Z",
+    "resumen": "Es el coche híbrido más barato del mercado y acaba de recibir cambios bastante interesantes. Hablo del MG3 Hybrid+ , que en esta actualización denominada \"MY 26,5\" mantiene los 194 CV, la etiqueta ECO y un consumo de 4,4 l/100 km, además de un precio muy ajustado, pero es más interesante que antes porque MG ha revisado la parte eléctrica para que haga menos ruido, vibre menos y responda mejor al…",
+    "imagen": "https://www.diariomotor.com/imagenes/2026/09/MG3-Hybrid-my26-5-08-6abb9a5d6a721.jpg?class=XL"
+  },
+  {
+    "titulo": "Fernando Alonso: \"Me retiraré de la Fórmula 1, pero no todavía\". El asturiano renueva con Aston Martin para 2027",
+    "link": "https://www.motorpasion.com/formula1/me-retirare-no-todavia-fernando-alonso-renueva-aston-martin-seguira-siendo-piloto-formula-1-2027",
+    "fuente": "Motorpasión (ES)",
+    "fecha": "2026-09-29T11:30:08Z",
+    "resumen": "Aston Martin confirma que Fernando Alonso y Lance Stroll seguirán siendo los pilotos del equipo de Fórmula 1 en la temporada 2027. El anuncio ha llegado acompañado de un vídeo en el que el propio Fernando Alonso ha anunciado que se retirará de la Fórmula 1... pero más adelante. Parecía que era un adiós... pero no La posible renovación (o no) de Fernando Alonso como piloto del Aston Martin Aramco…",
+    "imagen": "https://i.blogs.es/ece77d/alonso/1024_2000.jpeg"
+  },
+  {
+    "titulo": "OFICIAL: se deshoja la margarita y Fernando Alonso seguirá en la F1 tras renovar con Aston Martin",
+    "link": "https://www.diariomotor.com/competicion/noticia/oficial-fernando-alonso-renovacion/",
+    "fuente": "Diariomotor (ES)",
+    "fecha": "2026-09-29T13:22:24Z",
+    "resumen": "Se despejaron las dudas . Aston Martin emplazaba a medios y aficionados a las 12 del mediodía, hora británica con un vídeo que parecía adelantar el anuncio inevitable de la decisión que iba a tomar Fernando Alonso acerca de su futuro. El asturiano reposteaba la publicación de la escudería alada y sus fieles fans aguardaron descontando cada minuto para saber cuál iba a ser la opción elegida.…",
+    "imagen": "https://www.diariomotor.com/imagenes/2026/09/2296902327-6abb9ecc13b1e.jpg?class=XL"
+  },
+  {
+    "titulo": "Volkswagen prepara el ID. Tiguan",
+    "link": "https://www.megautos.com/volkswagen-id-tiguan-pruebas/",
+    "fuente": "Megautos",
+    "fecha": "2026-09-29T13:12:25Z",
+    "resumen": "El nuevo SUV eléctrico se presentará mundialmente a comienzos de octubre y llegará a los mercados durante 2027. Reemplazará a los actuales ID.4 e ID.5 y convivirá con la Tiguan de combustión e híbrida. La entrada Volkswagen prepara el ID. Tiguan aparece primero en Mega Autos .",
+    "imagen": "https://www.megautos.com/wp-content/uploads/2026/09/ID.-Tiguan-3.jpg"
+  },
+  {
+    "titulo": "Todavía no está fabricando celdas y Volkswagen ha vendido el 49% de su fábrica española de baterías a un socio chino por 1.100 millones de eueros",
+    "link": "https://www.diariomotor.com/noticia/volkswagen-vende-49-fabrica-baterias-sagunto-gotion/",
+    "fuente": "Diariomotor (ES)",
+    "fecha": "2026-09-29T13:00:31Z",
+    "resumen": "El fabricante chino Gotion invertirá 1.100 millones de euros para adquirir el 49% de la gigafábrica de baterías que Volkswagen está construyendo en Sagunto (Valencia). PowerCo, la filial de baterías de Volkswagen, conservará el 51% y, con él, el control de una instalación estratégica para los coches eléctricos baratos fabricados en España. China entra en Sagunto Gotion tendrá el 49% y PowerCo…",
+    "imagen": "https://www.diariomotor.com/imagenes/2026/09/fabrica-baterias-powerco-sagunto_port-6abb8adf31351.jpg?class=XL"
+  },
+  {
+    "titulo": "Unai Simón, el mejor portero del Mundial, tiene un Renault de segunda mano desde hace ocho años: \"Y si sigo con él ocho más, mejor\"",
+    "link": "https://www.motorpasion.com/renault/unai-simon-mejor-portero-mundial-tiene-renault-segunda-mano-hace-ocho-anos-sigo-ocho-mejor",
+    "fuente": "Motorpasión (ES)",
+    "fecha": "2026-09-29T11:00:28Z",
+    "resumen": "Mucho se ha alabado a Rodri Hernández Cascante , ahora jugador del Barça, por ser un futbolista diferente: no tiene ni redes sociales ni tatuajes. Pero otro internacional español y campeón del mundo está también en ese barco: Unai Simón , portero de \"la Roja\". El de Murgía (Álava), nominado a mejor guardameta del año en el Balón de Oro 2026 y que solo encajó un gol en el Mundial llevándose el…",
+    "imagen": "https://i.blogs.es/8e889d/unai-simon-coche-renault-rarisimo/1024_2000.jpeg"
+  },
+  {
+    "titulo": "Cuesta menos de 30.000 dólares y tiene 212 CV: así es el nuevo sedán híbrido rival de Toyota Corolla",
+    "link": "https://autotest.com.ar/noticias/cuesta-menos-de-30-000-dolares-y-tiene-212-cv-asi-es-el-nuevo-sedan-hibrido-rival-de-toyota-corolla/",
+    "fuente": "Autotest",
+    "fecha": "2026-09-29T12:45:55Z",
+    "resumen": "El Changan Eado Plus irrumpe en el mercado argentino con un atractivo precio de preventa y equipamiento destacado frente a competidores como el Toyota Corolla.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/08/Sedan-Changan-Eado-Plus-perfil.jpg"
+  },
+  {
+    "titulo": "Se presentó un nuevo SUV que cuesta menos de 24.000 dólares y compite contra Toyota Corolla Cross: precios y versiones",
+    "link": "https://autotest.com.ar/lanzamientos/se-presento-un-nuevo-suv-que-cuesta-menos-de-24-000-dolares-y-compite-contra-toyota-corolla-cross-precios-y-versiones/",
+    "fuente": "Autotest",
+    "fecha": "2026-09-29T12:00:34Z",
+    "resumen": "MG amplía su oferta en Argentina con las versiones nafteras del ZS, ofreciendo opciones para distintos perfiles de conductores con sus modelos Comfort y Luxury.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/SUV-MG-ZS-Naftero-Luxury-faro.jpg"
+  },
+  {
+    "titulo": "Los arqueólogos se llevan una sorpresa monumental bajo una autopista de Sevilla: aparece un acueducto romano de casi 2.000 años",
+    "link": "https://www.motorpasion.com/industria/arqueologos-se-llevan-sorpresa-monumental-autopista-sevilla-aparece-acueducto-romano-casi-2-000-anos",
+    "fuente": "Motorpasión (ES)",
+    "fecha": "2026-09-29T10:00:28Z",
+    "resumen": "Parece ya un patrón habitual: cada vez que se empieza a construir una gran infraestructura y se remueve tierra en Andalucía, existe una probabilidad muy alta de encontrarse con algo inesperado. Bajo carreteras, campos de cultivos y urbanizaciones todavía aguarda gran parte de la historia de la península. Es lo que acaba de pasar en las obras de la autopista SE-40 , donde han aparecido decenas de…",
+    "imagen": "https://i.blogs.es/90d234/portada-mop-1790610713616/1024_2000.jpeg"
+  },
+  {
+    "titulo": "Llega a España el Honda Prelude de 2027, con este diseño y el motor híbrido de 5,2 litros de consumo del Honda Civic",
+    "link": "https://www.diariomotor.com/noticia/honda-prelude-2027-limited-edition/",
+    "fuente": "Diariomotor (ES)",
+    "fecha": "2026-09-29T12:00:08Z",
+    "resumen": "Por su planteamiento es, sin duda ninguna, uno de los coches más peculiares de todos cuantos se comercializan en Europa , pues con una parte ciclo marcadamente deportiva que incluso hereda componentes de manera directa del radical Honda Civic Type R estamos, en realidad, ante un eficiente coupé de bajo consumo de gasolina . Hablamos del Honda Prelude , que durante este último trimestre del año y…",
+    "imagen": "https://www.diariomotor.com/imagenes/2026/09/Honda-Prelude-2027-Limited-Edition-9-6abb7e07e53fd.jpg?class=XL"
+  },
+  {
+    "titulo": "\"Hoy no estamos donde tenemos que estar para competir\"",
+    "link": "https://eleconomista.com.ar/autos/hoy-estamos-donde-tenemos-estar-competir-n98492",
+    "fuente": "El Economista",
+    "fecha": "2026-09-29T14:59:00Z",
+    "resumen": "Martín Galdeano, Presidente de Ford Sudamérica, enfatizó su pedido de reducción de presión impositiva para exportar: \"Los aranceles tienen que ser cero\". Puso el foco en China y advirtió que \"a la Argentina le está costando entender y adaptarse a las nuevas reglas de juego de la industria automotriz global\".",
+    "imagen": "https://statics.eleconomista.com.ar/2026/09/crop/6abba4d1303e0__950x512.webp"
+  },
+  {
+    "titulo": "Toyota Corolla 2028: así será el sedán con otro diseño, 4 motores y un precio inferior a 30000 dólares",
+    "link": "https://autotest.com.ar/noticias/toyota-corolla-2028-asi-sera-el-sedan-con-otro-diseno-4-motores-y-por-menos-de-30000-dolares/",
+    "fuente": "Autotest",
+    "fecha": "2026-09-29T11:02:31Z",
+    "resumen": "Toyota renovará fuerte el Corolla, a tal punto de que promete un antes y después como pocas veces en sus 60 años de historia. Contará con cuatro posibles motores a partir de variantes nafteras, híbridas, híbridas enchufables y eléctricas y, para eso, su plataforma será revisada. A primera vista sorprende y mucho, ya que dejará […]",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/Nuevo-Toyota-Corolla-1.jpg"
+  },
+  {
+    "titulo": "Personalizar la matrícula de tu coche ya es posible en Gibraltar pero, ¿puedes usarla en España?",
+    "link": "https://www.diariomotor.com/noticia/matriculas-personalizadas-gibraltar/",
+    "fuente": "Diariomotor (ES)",
+    "fecha": "2026-09-29T11:00:52Z",
+    "resumen": "La personalización de matrículas es un tema que, no sabemos muy bien por qué, aún no ha llegado a España y eso que se le ha planteado no pocas veces a la DGT. Numerosos países en todo el mundo están demostrando que se trata de una iniciativa muy bien acogida por el público y muy lucrativa para los estados que lo aplican. Es por ello que Gibraltar se ha unido a esta tendencia y sí, tú también…",
+    "imagen": "https://www.diariomotor.com/imagenes/2026/09/matriculas-personalizadas-gibraltar-dmwm-06-6ab98e8115e23.jpg?class=XL"
+  },
+  {
+    "titulo": "Es oficial: el Gobierno prorroga los descuentos al diésel e incluye a la gasolina, y también va a meter mano al precio del gas",
+    "link": "https://www.motorpasion.com/industria/se-vienen-cambios-1-octubre-gobierno-prorroga-descuentos-al-diesel-gasolina-tambien-va-a-meter-mano-al-precio-gas",
+    "fuente": "Motorpasión (ES)",
+    "fecha": "2026-09-29T08:21:45Z",
+    "resumen": "El Consejo de Ministros va a aprobar este martes, justo antes de que decaigan las medidas actuales, un nuevo escudo anticrisis que tendrá sus pilares en los carburantes y el gas. Según ha adelantado elDiario.es , el Gobierno va a prorrogar las rebajas fiscales en la gasolina y el diésel hasta finales de diciembre , y además pondrá en marcha un mecanismo para limitar las subidas de la tarifa…",
+    "imagen": "https://i.blogs.es/618fbc/pedro-sanchez/1024_2000.jpeg"
+  },
+  {
+    "titulo": "He probado el GWM ORA 5 y tengo algo claro: no es el enésimo SUV chino que llega a España, sino un aviso muy serio para las marcas europeas",
+    "link": "https://www.motorpasion.com/pruebas-de-coches/prueba-gwm-ora-5-2026",
+    "fuente": "Motorpasión (ES)",
+    "fecha": "2026-09-29T08:00:27Z",
+    "resumen": "Ya es habitual que, cada pocas semanas, hablemos de una nueva marca china que llega a Europa. Esta vez es el turno de GWM , una compañía china que se fundó en 1990 y que ahora da el salto a nuestro mercado. El primer coche que vende aquí es el GWM Ora 5 , un SUV compacto que está disponible en versión gasolina, en versión híbrida y en versión 100% eléctrica. Primero un SUV, luego más SUV... y…",
+    "imagen": "https://i.blogs.es/16a957/gwm-ora-5-2026-4/1024_2000.jpeg"
+  },
+  {
+    "titulo": "El increíble y secreto proyecto de Volkswagen, y por qué construyó un BMW M5 E39 con motor W10",
+    "link": "https://www.diariomotor.com/noticia/subasta-bmw-m5-e39-motor-w10-volkswagen/",
+    "fuente": "Diariomotor (ES)",
+    "fecha": "2026-09-29T10:00:15Z",
+    "resumen": "Durante muchos años Volkswagen fue responsable de algunos de los proyectos más espectaculares, y geniales , y de algunos de los motores más impresionantes que hayamos conocido. Ya hemos hablado largo y tendido de sus maravillosos motores en uve estrecha que, en última instancia, darían vida a otros motores mucho más grandes y exóticos, de los W12, hasta incluso un V12 diésel. Ferdinand Piëch…",
+    "imagen": "https://www.diariomotor.com/imagenes/2025/02/BMW-m5-w10-vw-engine_6-67a201353601b.png?class=XL"
+  },
+  {
+    "titulo": "Habrá Mustang manual para rato, pero cuando le preguntaron al jefe de Ford por el V8, su respuesta ya no fue tan rotunda",
+    "link": "https://www.diariomotor.com/noticia/ford-mustang-manual-futuro-v8/",
+    "fuente": "Diariomotor (ES)",
+    "fecha": "2026-09-29T09:00:48Z",
+    "resumen": "El Mustang es el último deportivo con motor V8 y cambio manual que tenemos en España y Ford quiere que siga teniendo tres pedales durante muchos años. Jim Farley , consejero delegado de la marca, lo dijo con una frase muy clara: tendrían que arrancarle el cambio manual \"de sus manos frías y muertas\". Pero cuando le preguntaron por el V8, respondió hablando de la caja de cambios. Y eso abre un…",
+    "imagen": "https://www.diariomotor.com/imagenes/2026/08/Ford-Mustang-Dark-Horse-SC-6a79a9149214c.jpg?class=XL"
+  },
+  {
+    "titulo": "\"Las petroleras están inflando los precios y aumentando sus beneficios con la crisis\": seis países europeos piden impuestos a los beneficios \"excesivos\"",
+    "link": "https://www.motorpasion.com/industria/petroleras-estan-inflando-precios-aumentando-sus-beneficios-crisis-seis-paises-europeos-piden-impuestos-a-beneficios-excesivos",
+    "fuente": "Motorpasión (ES)",
+    "fecha": "2026-09-29T07:00:27Z",
+    "resumen": "Europa está pagando actualmente un sobrecoste de 203 millones de euros al día por el gasóleo como consecuencia de las guerras: es la conclusión a la que ha llegado un informe del grupo de presión Transport & Environment (T&E). Y es que el gasóleo es vital para mantener la economía funcionando: cuatro de cada 10 coches que circulan por las carreteras europeas son diésel, además de los camiones de…",
+    "imagen": "https://i.blogs.es/f8e084/diesel-3/1024_2000.jpeg"
+  },
+  {
+    "titulo": "Cuanto más avanza la tecnología el problema ya no es fabricar coches; es que los fabricantes de coches no saben hacer software, y eso está costando un dineral",
+    "link": "https://www.motorpasion.com/industria/cuanto-avanza-tecnologia-problema-no-fabricar-coches-que-fabricantes-coches-no-saben-hacer-software-eso-esta-costando-dineral",
+    "fuente": "Motorpasión (ES)",
+    "fecha": "2026-09-29T06:30:26Z",
+    "resumen": "Hasta hace poco, los coches eran considerados simples máquinas mecánicas. Los automóviles modernos, en cambio, se están convirtiendo en auténticos ordenadores con ruedas . El software es cada vez más importante, incluso esencial. En un mercado dominado por la estandarización, el software puede ser un valor diferencial . Aunque esta evolución puede parecer poco palpable para los clientes,…",
+    "imagen": "https://i.blogs.es/1d26ab/arene_toyota-rav4/1024_2000.jpeg"
+  },
+  {
+    "titulo": "En medio de una transformación, Ford celebró el 65 aniversario de Planta Pacheco",
+    "link": "https://eleconomista.com.ar/autos/en-medio-una-transformacion-ford-celebro-65-aniversario-planta-pacheco-n98479",
+    "fuente": "El Economista",
+    "fecha": "2026-09-29T11:30:00Z",
+    "resumen": "Como parte de los festejos, se realizó una exhibición de modelos clásicos y la avant-premiere de la Ranger Tremor. El Centro Industrial de Pacheco, del cual salieron 3,5 millones de unidades, recibió recientemente una inversión de US$ 170 millones para fabricar la Ranger PHEV.",
+    "imagen": "https://statics.eleconomista.com.ar/2026/09/crop/6abba59567585__950x512.webp"
+  },
+  {
+    "titulo": "Ni Opel Astra ni Peugeot 308, por menos de 18.000 € puedes estrenar este compacto con 149 CV, caja automática y bien equipado",
+    "link": "https://www.diariomotor.com/noticia/oferta-mg4-urban-sept/",
+    "fuente": "Diariomotor (ES)",
+    "fecha": "2026-09-29T08:00:44Z",
+    "resumen": "Si buscas un coche compacto para moverte a diario, con una etiqueta ambiental que te evite problemas con las Zonas de Bajas Emisiones y sin disparar el presupuesto, este nuevo compacto que lleva unas pocas semanas a la venta en España puede ser una alternativa muy interesante, convirtiéndose en una alternativa que cuesta bastante menos que los equivalentes en las gamas de los Opel Astra y Peugeot…",
+    "imagen": "https://www.diariomotor.com/imagenes/2026/05/MG-4-URBAN44-6a05dd42bd5a4.jpg?class=XL"
+  },
+  {
     "titulo": "Manthey cierra su primera participación en la Copa de Resistencia con una decoración especial",
     "link": "https://www.diariomotor.com/competicion/noticia/manthey-decoracion-especial/",
     "fuente": "Diariomotor (ES)",
     "fecha": "2026-09-29T01:33:56Z",
     "resumen": "Llegó Petit Le Mans y con ello el final del Campeonato IMSA SportsCar, lo que también representa el cierre de la primera participación de Manthey Racing en la Copa de Resistencia, en la clase GTD Pro. Por tal razón, el equipo alemán anunció que correrá con una decoración especial dedicada a la lucha contra el cáncer. Así que el Porsche 911 GT3 R no asistirá a Road América con su distintiva librea…",
     "imagen": "https://www.diariomotor.com/imagenes/2026/09/Manthey_Racing_Petit_Le_Mans_IMSA_GTD_Pro_2026_3_26-6abac7d275d53.jpg?class=XL"
+  },
+  {
+    "titulo": "MG lanzó en Argentina el ZS naftero",
+    "link": "https://www.megautos.com/mg-zs-ice/",
+    "fuente": "Megautos",
+    "fecha": "2026-09-29T00:20:24Z",
+    "resumen": "La marca suma las variantes ICE a la gama híbrida del SUV de origen chino. Dos motores, caja CVT y dos niveles de equipamiento confort y seguridad. La entrada MG lanzó en Argentina el ZS naftero aparece primero en Mega Autos .",
+    "imagen": "https://www.megautos.com/wp-content/uploads/2026/09/CVT_LUX_Red.jpg"
   },
   {
     "titulo": "El Renault Twingo de BYD ya es un éxito en España, pero apuesta fuerte por seguir siendo la alternativa 'Made in China' más dura al francés",
@@ -462,6 +870,14 @@
     "fecha": "2026-09-28T00:47:44Z",
     "resumen": "La marca prepara una nueva generación del sedán con un diseño renovado y una gama mecánica que incluiría opciones de combustión, híbridas y eléctricas. La entrada Así sería el nuevo Toyota Corolla aparece primero en Mega Autos .",
     "imagen": "https://www.megautos.com/wp-content/uploads/2026/09/toyota-corolla-next-gen-1.jpg"
+  },
+  {
+    "titulo": "Los consumos de KIA TASMAN \uD83D\uDEA8\uD83D\uDE98",
+    "link": "https://autotest.com.ar/?mp_video=los-consumos-de-kia-tasman-\uD83D\uDEA8\uD83D\uDE98",
+    "fuente": "Autotest",
+    "fecha": "2026-09-28T00:00:00Z",
+    "resumen": "",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2025/08/logo-AUTO-TEST.jpg"
   },
   {
     "titulo": "Rally de Italia-Cerdeña 2026: horarios y cómo seguir la definición del título y la despedida de los Rally1",
