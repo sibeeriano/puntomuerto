@@ -1,16 +1,16 @@
 {
-  "actualizado": "2026-09-30T18:26:54Z",
+  "actualizado": "2026-09-30T20:51:32Z",
   "desde": "2026-09-23",
   "hasta": "2026-09-30",
   "destacadas": [
     {
-      "titulo": "Cuesta 29.000 dólares: el SUV híbrido con 147 CV que compite contra Ford Territory",
-      "link": "https://autotest.com.ar/noticias/cuesta-29-000-dolares-el-suv-hibrido-con-147-cv-que-compite-contra-ford-territory/",
-      "fuente": "Autotest",
-      "fecha": "2026-09-30T14:30:09Z",
-      "resumen": "El Chery Tiggo 7 Pro Hybrid ofrece un rendimiento eficiente con su sistema Mild Hybrid, junto con un equipamiento tecnológico y de seguridad avanzado para el segmento SUV familiar.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2025/12/Chery-Tiggo-Pro-7-accion-perfil.jpg",
-      "menciones": 35,
+      "titulo": "La alternativa japonesa al Toyota Corolla cuesta 230 € al mes, tiene etiqueta ECO, gasta 4,7 l/100 km y su marca confía tanto en ella que le da garantía hasta 2034",
+      "link": "https://www.diariomotor.com/noticia/oferta-honda-civic-septiembre-2026/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-09-30T21:00:17Z",
+      "resumen": "Cuando pensamos en fiabilidad, coche japonés y bajos consumos pensamos, de manera casi irremediable, en Toyota. ¿La realidad? Que existen alternativas igual o más interesantes, pudiendo llevarnos a su rival más directo por 230 euros al mes con etiqueta ECO, 4,7 l/100 km y garantía hasta 2034. El Honda Civic quiere ser la peor pesadilla del Corolla Tiene una de las mejores dinámicas . Ofrece 184 CV…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/03/Honda-Civic-2026-compra-maestra-espana-7-69a6d02f2218f.jpg?class=XL",
+      "menciones": 33,
       "fuentes": [
         "Autotest",
         "Diariomotor (ES)",
@@ -25,7 +25,7 @@
       "fecha": "2026-09-30T16:00:53Z",
       "resumen": "La Z9 Diésel redefine el concepto de pickup al combinar un potente motor turboalimentado con un diseño imponente y equipamiento de lujo.",
       "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/Pick-up-Dongfeng-Z9-Diesel-perfil.jpg",
-      "menciones": 3,
+      "menciones": 2,
       "fuentes": [
         "Autotest",
         "Diariomotor (ES)"
@@ -110,6 +110,18 @@
       ]
     },
     {
+      "titulo": "Toyota ya 'rueda' en Cataluña su nuevo WRC27 con Kalle Rovanperä y Ott Tänak como probadores de lujo",
+      "link": "https://www.diariomotor.com/competicion/noticia/toyota-test-catalunya-wrc27-rovanpera-tanak/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-09-30T20:58:48Z",
+      "resumen": "Mientras que el título se juega a apenas 600 kilómetros de distancia, Toyota GAZOO Racing ha desplazado su equipo de test a Cataluña para seguir probando el que será su nuevo WRC27 o Rally1 de la próxima temporada. El equipo nipón todavía no ha hecho oficial su continuidad en el Mundial de Rallyes la próxima temporada, pero es complicado no darlo por hecho y parece que únicamente se ha retrasado…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/09/TANAK-_-TOYOTA-YARIS-2027-_-TEST--6abd5bc7d3da0.png?class=XL",
+      "menciones": 1,
+      "fuentes": [
+        "Diariomotor (ES)"
+      ]
+    },
+    {
       "titulo": "Elfyn Evans, Sami Pajari y Oliver Solberg se juegan el Mundial: todas las cuentas del Rally de Italia-Cerdeña",
       "link": "https://www.diariomotor.com/competicion/noticia/todas-las-cuentas-del-rally-de-italia-cerdena/",
       "fuente": "Diariomotor (ES)",
@@ -119,6 +131,18 @@
       "menciones": 1,
       "fuentes": [
         "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "Toyota anuncia la mayor inversión en la historia de la industria automotriz argentina",
+      "link": "https://www.iprofesional.com/autos/465611-toyota-anuncia-la-mayor-inversion-de-la-historia-en-la-industria-automotriz-argentina",
+      "fuente": "iProfesional",
+      "fecha": "2026-09-30T20:20:00Z",
+      "resumen": "La marca recibió la aprobación del Comité Evaluador del RIGI para un proyecto de producción de un vehículo electrificado en su planta de Zárate (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
+      "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/09/626676.jpg",
+      "menciones": 1,
+      "fuentes": [
+        "iProfesional"
       ]
     },
     {
@@ -144,6 +168,42 @@
       "fuentes": [
         "Autotest",
         "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "Una automotriz busca bajar a la mitad el tiempo de producción para competir con los chinos",
+      "link": "https://eleconomista.com.ar/autos/una-automotriz-busca-bajar-mitad-tiempo-produccion-competir-chinos-n98530",
+      "fuente": "El Economista",
+      "fecha": "2026-09-30T19:45:00Z",
+      "resumen": "La avanzada tecnológica de las compañías del Gigante asiático está obligando al resto de las empresas a tomar decisiones inéditas. Ahora es una firma japonesa la que busca alternativas pero con el foco en India.",
+      "imagen": "https://statics.eleconomista.com.ar/2026/09/crop/6abd69840ef92__950x512.webp?v=1790798808",
+      "menciones": 1,
+      "fuentes": [
+        "El Economista"
+      ]
+    },
+    {
+      "titulo": "Se presentó un nuevo SUV híbrido con 224 CV y precio competitivo que llega para enfrentar a Toyota Yaris Cross",
+      "link": "https://autotest.com.ar/noticias/se-presento-un-nuevo-suv-hibrido-con-224-cv-y-precio-competitivo-que-llega-para-enfrentar-a-toyota-yaris-cross/",
+      "fuente": "Autotest",
+      "fecha": "2026-09-30T19:00:57Z",
+      "resumen": "Omoda Jaecoo lanza en Brasil el Jaecoo 5, un SUV híbrido destacado por su bajo precio, gran potencia de 224 CV y un consumo eficiente de hasta 15,5 km/l en ciudad.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/SUV-Jaecoo-5-trompa.jpg",
+      "menciones": 2,
+      "fuentes": [
+        "Autotest"
+      ]
+    },
+    {
+      "titulo": "Un desconocido colocó una señal falsa de 70 km/h junto a un radar y casi 400 conductores acabaron multados en tres días",
+      "link": "https://www.motorpasion.com/tecnologia/desconocido-coloco-senal-falsa-70-km-h-a-radar-casi-400-conductores-acabaron-multados-tres-dias",
+      "fuente": "Motorpasión (ES)",
+      "fecha": "2026-09-30T18:31:53Z",
+      "resumen": "Pocos elementos generan más confianza que una señal de tráfico porque no deja de representar una decisión oficial… O eso es lo que todo el mundo cree, hasta que alguien la cambia. Eso es lo que ha pasado precisamente en una localidad alemana, y ha provocado un tremendo revuelo: alguien instaló una señal falsa de limitación a 70 km/h junto a un radar fijo y consiguió engañar a cientos de…",
+      "imagen": "https://i.blogs.es/63f575/portada-mop-1790792317783/1024_2000.jpeg",
+      "menciones": 1,
+      "fuentes": [
+        "Motorpasión (ES)"
       ]
     },
     {
@@ -214,7 +274,7 @@
       "fecha": "2026-09-30T17:00:19Z",
       "resumen": "El Volkswagen Polo Robust se presenta como la variante más accesible del hatchback en Argentina, con un precio por debajo de los 30 millones de pesos, motor 1.6 MSI y equipamiento tecnológico destacado.",
       "imagen": "https://autotest.com.ar/wp-content/uploads/2026/07/Volkswagen-Polo-Robust-trasera-1.jpg",
-      "menciones": 5,
+      "menciones": 4,
       "fuentes": [
         "Autotest"
       ]
@@ -241,66 +301,6 @@
       "menciones": 1,
       "fuentes": [
         "Motorpasión (ES)"
-      ]
-    },
-    {
-      "titulo": "El Smart de \"Hacendado\" llega a Europa, un urbano a precio de moto y cero emisiones perfecto para ciudad",
-      "link": "https://www.diariomotor.com/noticia/bentu-bte-05-sept/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-09-30T16:00:06Z",
-      "resumen": "Los cuadriciclos están ganando terreno en Europa con una oferta cada vez más amplia, tanto entre los ligeros como en las alternativas más prestacionales. Su tamaño contenido los convierte en una solución muy práctica para el tráfico urbano y ahora llega una propuesta de apenas tres metros de longitud que recuerda en cierto modo al desaparecido Smart ForTwo, pero apostando por una receta mucho más…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/06/Bontu-BTE052-6a301eaa0d54e.jpg?class=XL",
-      "menciones": 1,
-      "fuentes": [
-        "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "Subaru sube el BRZ a 271 CV y lo iguala al WRX turbo: 40 CV más y solo 350 autos",
-      "link": "https://autotest.com.ar/noticias/subaru-sube-el-brz-a-271-cv-y-lo-iguala-al-wrx-turbo-40-cv-mas-y-solo-350-autos/",
-      "fuente": "Autotest",
-      "fecha": "2026-09-30T15:56:08Z",
-      "resumen": "El WRX GD25 se apoya en la generación actual del sedán deportivo: motor bóxer 2.4 turbo que entrega 271 hp (unos 275 CV) y 350 Nm de par, con tracción integral simétrica y caja manual de seis velocidades.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/subaru-sube-el-brz-a-271-cv-y-lo-iguala-1200x740-1.jpg",
-      "menciones": 1,
-      "fuentes": [
-        "Autotest"
-      ]
-    },
-    {
-      "titulo": "Mustang Dark Horse SC: 795 CV, 0 a 100 en 3 segundos y más potente que el Shelby GT500",
-      "link": "https://autotest.com.ar/noticias/mustang-dark-horse-sc-795-cv-0-a-100-en-3-segundos-y-mas-potente-que-el-shelby-gt500/",
-      "fuente": "Autotest",
-      "fecha": "2026-09-30T15:51:47Z",
-      "resumen": "El interior acompaña con butacas deportivas, volante con costuras en contraste y una pantalla digital que permite configurar los modos de manejo, algo que ya estaba presente en el Dark Horse aspirado.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/mustang-dark-horse-sc-795-cv-0-a-100-en-1200x740-1.jpg",
-      "menciones": 1,
-      "fuentes": [
-        "Autotest"
-      ]
-    },
-    {
-      "titulo": "Condenado a muerte por corrupción el expresidente de BAIC, al frente del gigante chino del automóvil durante 14 años",
-      "link": "https://www.motorpasion.com/industria/condenado-a-muerte-corrupcion-expresidente-baic-al-frente-gigante-chino-automovil-durante-14-anos",
-      "fuente": "Motorpasión (ES)",
-      "fecha": "2026-09-30T15:07:00Z",
-      "resumen": "Hoy, BAIC es uno de los gigantes de la industria del automóvil en China . El año pasado vendió un total de 1,75 millones de coches y en 2024 superó los 70.000 millones de dólares de beneficio. Una de las figuras clave en el enorme crecimiento de esta marca asiática fue Xu Heyi , al frente de la firma durante casi 15 años y figura esencial para su expansión nacional e internacional. Por ejemplo, a…",
-      "imagen": "https://i.blogs.es/9261a7/portada-mop-1790778685881/1024_2000.jpeg",
-      "menciones": 1,
-      "fuentes": [
-        "Motorpasión (ES)"
-      ]
-    },
-    {
-      "titulo": "Alfa Romeo 33 Stradale Perla Nera: 620 CV y carrocería de carbono sin pintar, una de solo 33 unidades",
-      "link": "https://autotest.com.ar/noticias/alfa-romeo-33-stradale-perla-nera-620-cv-y-carroceria-de-carbono-sin-pintar-una-de-solo-33-unidades/",
-      "fuente": "Autotest",
-      "fecha": "2026-09-30T15:06:43Z",
-      "resumen": "Ese recurso —conocido como carbono expuesto o visible carbon— ya es una categoría propia entre los autos de altísima gama.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/alfa-romeo-33-stradale-perla-nera-620-cv-1200x740-1.jpg",
-      "menciones": 1,
-      "fuentes": [
-        "Autotest"
       ]
     }
   ]
