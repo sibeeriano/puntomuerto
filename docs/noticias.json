@@ -1,5 +1,13 @@
 [
   {
+    "titulo": "Geely negocia comprar Alpine: dos ofertas por la F1 y el futuro de Colapinto en juego",
+    "link": "https://autotest.com.ar/carreras/geely-negocia-comprar-alpine-dos-ofertas-por-la-f1-y-el-futuro-de-colapinto-en-juego/",
+    "fuente": "Autotest",
+    "fecha": "2026-09-30T21:21:23Z",
+    "resumen": "Su paso por Williams dejó una marca en el público argentino, pero también un aprendizaje: en la Fórmula 1 el respaldo deportivo no alcanza si la estructura cambia de dueño.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/geely-negocia-comprar-alpine-dos-ofertas-1200x740-1.jpg"
+  },
+  {
     "titulo": "La alternativa japonesa al Toyota Corolla cuesta 230 € al mes, tiene etiqueta ECO, gasta 4,7 l/100 km y su marca confía tanto en ella que le da garantía hasta 2034",
     "link": "https://www.diariomotor.com/noticia/oferta-honda-civic-septiembre-2026/",
     "fuente": "Diariomotor (ES)",
@@ -16,20 +24,20 @@
     "imagen": "https://www.diariomotor.com/imagenes/2026/09/TANAK-_-TOYOTA-YARIS-2027-_-TEST--6abd5bc7d3da0.png?class=XL"
   },
   {
-    "titulo": "Un desconocido colocó una señal falsa de 70 km/h junto a un radar y casi 400 conductores acabaron multados en tres días",
-    "link": "https://www.motorpasion.com/tecnologia/desconocido-coloco-senal-falsa-70-km-h-a-radar-casi-400-conductores-acabaron-multados-tres-dias",
-    "fuente": "Motorpasión (ES)",
-    "fecha": "2026-09-30T18:31:53Z",
-    "resumen": "Pocos elementos generan más confianza que una señal de tráfico porque no deja de representar una decisión oficial… O eso es lo que todo el mundo cree, hasta que alguien la cambia. Eso es lo que ha pasado precisamente en una localidad alemana, y ha provocado un tremendo revuelo: alguien instaló una señal falsa de limitación a 70 km/h junto a un radar fijo y consiguió engañar a cientos de…",
-    "imagen": "https://i.blogs.es/63f575/portada-mop-1790792317783/1024_2000.jpeg"
-  },
-  {
     "titulo": "Elfyn Evans, Sami Pajari y Oliver Solberg se juegan el Mundial: todas las cuentas del Rally de Italia-Cerdeña",
     "link": "https://www.diariomotor.com/competicion/noticia/todas-las-cuentas-del-rally-de-italia-cerdena/",
     "fuente": "Diariomotor (ES)",
     "fecha": "2026-09-30T20:20:58Z",
     "resumen": "Todo se decide este fin de semana. Tres son los pilotos de Toyota GAZOO Racing que pueden conseguir el título Mundial de Rallyes, los tres, todavía con su palmarés a la espera de sumar su primer entorchado intercontinental de la máxima categoría. Elfyn Evans, Sami Pajari y Oliver Solberg , acompañados por sus copilotos de confianza, Scott Martin, Marko Salminen y Elliott Edmondson, pelearán hasta…",
     "imagen": "https://www.diariomotor.com/imagenes/2026/09/Atmosphere13ITA26mj002-6abd52d643e51.jpg?class=XL"
+  },
+  {
+    "titulo": "Toyota anuncia la mayor inversión en la historia de la industria automotriz argentina",
+    "link": "https://www.iprofesional.com/autos/465611-toyota-anuncia-la-mayor-inversion-de-la-historia-en-la-industria-automotriz-argentina",
+    "fuente": "iProfesional",
+    "fecha": "2026-09-30T20:20:00Z",
+    "resumen": "La marca recibió la aprobación del Comité Evaluador del RIGI para un proyecto de producción de un vehículo electrificado en su planta de Zárate (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
+    "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/09/626676.jpg"
   },
   {
     "titulo": "Con 550 CV, 609 km de autonomía y mucha deportividad, el Range Rover Sport eléctrico hará que no eches de menos un V8",
@@ -40,12 +48,36 @@
     "imagen": "https://www.diariomotor.com/imagenes/2026/09/range-rover-sport-electric-2027-28-6abd047e08f48.jpg?class=XL"
   },
   {
+    "titulo": "Una automotriz busca bajar a la mitad el tiempo de producción para competir con los chinos",
+    "link": "https://eleconomista.com.ar/autos/una-automotriz-busca-bajar-mitad-tiempo-produccion-competir-chinos-n98530",
+    "fuente": "El Economista",
+    "fecha": "2026-09-30T19:45:00Z",
+    "resumen": "La avanzada tecnológica de las compañías del Gigante asiático está obligando al resto de las empresas a tomar decisiones inéditas. Ahora es una firma japonesa la que busca alternativas pero con el foco en India.",
+    "imagen": "https://statics.eleconomista.com.ar/2026/09/crop/6abd69840ef92__950x512.webp?v=1790798808"
+  },
+  {
+    "titulo": "En septiembre crecieron los patentamientos pero acumulan una caída de 13%",
+    "link": "https://eleconomista.com.ar/autos/en-septiembre-crecieron-patentamientos-pero-acumulan-una-caida-13-n98537",
+    "fuente": "El Economista",
+    "fecha": "2026-09-30T22:26:00Z",
+    "resumen": "La Asociación de Concesionarios de Automotores de la República Argentina informó que en el noveno mes de 2026 se matricularon casi 50.000 unidades, un 10,7% más que en agosto. Ranking de las marcas y modelos más vendidos.",
+    "imagen": "https://statics.eleconomista.com.ar/2024/09/crop/66fb13fb2a56f__950x512.webp"
+  },
+  {
     "titulo": "Se presentó un nuevo SUV híbrido con 224 CV y precio competitivo que llega para enfrentar a Toyota Yaris Cross",
     "link": "https://autotest.com.ar/noticias/se-presento-un-nuevo-suv-hibrido-con-224-cv-y-precio-competitivo-que-llega-para-enfrentar-a-toyota-yaris-cross/",
     "fuente": "Autotest",
     "fecha": "2026-09-30T19:00:57Z",
     "resumen": "Omoda Jaecoo lanza en Brasil el Jaecoo 5, un SUV híbrido destacado por su bajo precio, gran potencia de 224 CV y un consumo eficiente de hasta 15,5 km/l en ciudad.",
     "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/SUV-Jaecoo-5-trompa.jpg"
+  },
+  {
+    "titulo": "Un desconocido colocó una señal falsa de 70 km/h junto a un radar y casi 400 conductores acabaron multados en tres días",
+    "link": "https://www.motorpasion.com/tecnologia/desconocido-coloco-senal-falsa-70-km-h-a-radar-casi-400-conductores-acabaron-multados-tres-dias",
+    "fuente": "Motorpasión (ES)",
+    "fecha": "2026-09-30T18:31:53Z",
+    "resumen": "Pocos elementos generan más confianza que una señal de tráfico porque no deja de representar una decisión oficial… O eso es lo que todo el mundo cree, hasta que alguien la cambia. Eso es lo que ha pasado precisamente en una localidad alemana, y ha provocado un tremendo revuelo: alguien instaló una señal falsa de limitación a 70 km/h junto a un radar fijo y consiguió engañar a cientos de…",
+    "imagen": "https://i.blogs.es/63f575/portada-mop-1790792317783/1024_2000.jpeg"
   },
   {
     "titulo": "El carguero europeo de 111 toneladas que desafía a Boeing ya vuela, y su enorme puerta de 4,3 x 3,15 m se fabrica en España",
@@ -64,6 +96,14 @@
     "imagen": "https://i.blogs.es/4d0696/gaz-apertura/1024_2000.jpeg"
   },
   {
+    "titulo": "Así es la nueva camioneta Hilux electrificada que Toyota fabricará en Argentina",
+    "link": "https://www.iprofesional.com/autos/465612-asi-es-la-nueva-hilux-electrificada-que-toyota-fabricara-en-argentina",
+    "fuente": "iProfesional",
+    "fecha": "2026-09-30T20:31:00Z",
+    "resumen": "La automotriz japonesa realizará el mayor desembolso de la historia del sector. Lo hará bajo el regimen del RIGI que otorga el Gobierno nacional (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
+    "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2025/08/601176.jpg"
+  },
+  {
     "titulo": "Ya es oficial: regresa HF Integrale a Lancia, tracción 4x4, 375 CV... y un espíritu completamente diferente al del clásico",
     "link": "https://www.diariomotor.com/noticia/lancia-gamma-hf-integrale-adelanto/",
     "fuente": "Diariomotor (ES)",
@@ -72,12 +112,12 @@
     "imagen": "https://www.diariomotor.com/imagenes/2026/09/lancia-gamma-adelanto-1-6abd1fc2658bd.jpeg?class=XL"
   },
   {
-    "titulo": "Toyota anuncia la mayor inversión en la historia de la industria automotriz argentina",
-    "link": "https://www.iprofesional.com/autos/465611-toyota-anuncia-la-mayor-inversion-de-la-historia-en-la-industria-automotriz-argentina",
-    "fuente": "iProfesional",
-    "fecha": "2026-09-30T20:20:00Z",
-    "resumen": "La marca recibió la aprobación del Comité Evaluador del RIGI para un proyecto de producción de un vehículo electrificado en su planta de Zárate (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
-    "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/09/626676.jpg"
+    "titulo": "Es oficial: Toyota entra al RIGI con US$ 1.300 millones",
+    "link": "https://eleconomista.com.ar/autos/es-oficial-toyota-entra-rigi-us-1300-millones-n98532",
+    "fuente": "El Economista",
+    "fecha": "2026-09-30T20:07:00Z",
+    "resumen": "Se trata de la mayor en la historia de la industria automotriz argentina. El proyecto generará unos 3.600 puestos de trabajo durante la etapa de construcción y cerca de 2.600 durante la etapa de operación. ¿Qué modelo se producirá en Zárate?",
+    "imagen": "https://statics.eleconomista.com.ar/2020/07/crop/614e3d3eee9f8__950x512.webp"
   },
   {
     "titulo": "Ya llega GTA 6 y esta es la camper Volkswagen perfecta, con un interior de madera tipo \"sala gaming\", para aislarte del mundo",
@@ -102,14 +142,6 @@
     "fecha": "2026-09-30T16:52:49Z",
     "resumen": "A través de un comunicado emitido por la escudería Haas F1, se confirmó que Esteban Ocon no será renovado, así que una vez que culmine la presente temporada de Fórmula 1 estará en libertad para proseguir su carrera profesional en otro lugar. Desde hace varios meses se venía especulando sobre este asunto porque el equipo estadounidense no se reunió con los representantes del piloto francés para…",
     "imagen": "https://www.diariomotor.com/imagenes/2026/09/Esteban_Ocon_Haas_F1_NR4_2026_F_26-6abd1bbf6d017.jpg?class=XL"
-  },
-  {
-    "titulo": "Una automotriz busca bajar a la mitad el tiempo de producción para competir con los chinos",
-    "link": "https://eleconomista.com.ar/autos/una-automotriz-busca-bajar-mitad-tiempo-produccion-competir-chinos-n98530",
-    "fuente": "El Economista",
-    "fecha": "2026-09-30T19:45:00Z",
-    "resumen": "La avanzada tecnológica de las compañías del Gigante asiático está obligando al resto de las empresas a tomar decisiones inéditas. Ahora es una firma japonesa la que busca alternativas pero con el foco en India.",
-    "imagen": "https://statics.eleconomista.com.ar/2026/09/crop/6abd69840ef92__950x512.webp?v=1790798808"
   },
   {
     "titulo": "Parece Menorca pero es Castellón: un rincón al que puedes ir en camper entre acantilados, aguas cristalinas y un manjar que hay que probar",
