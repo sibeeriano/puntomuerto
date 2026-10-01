@@ -1,11 +1,75 @@
 [
   {
-    "titulo": "Su hijo y sus nietos le regalaron la maqueta de su coche favorito por su 74 cumpleaños. Lo que no esperaba era la sorpresa que le dieron después",
-    "link": "https://www.motorpasion.com/videos-de-coches/su-hijo-sus-nietos-le-regalan-maqueta-su-coche-favorito-su-74-cumpleanos-que-no-esperaba-sorpresa-que-le-dieron-despues",
-    "fuente": "Motorpasión (ES)",
-    "fecha": "2026-10-01T19:01:23Z",
-    "resumen": "Hay regalos y regalos, y el que hizo esta familia al abuelo por su 74 cumpleaños es de lo que están a otro nivel. De hecho, su hijo y sus nietos le hicieron dos regalos, pero fue el segundo el que le hizo llorar porque era lo último que se esperaba. A sus 74 años, estrenó el coche con el que llevaba soñando desde que era joven. Su familia lo grabó todo y se ha convertido en uno de los vídeos más…",
-    "imagen": "https://i.blogs.es/46eb38/corvette-1/1024_2000.jpeg"
+    "titulo": "¿Puede este SUV chino de 892 hp destronar a Jeep y Land Rover en el off-road?",
+    "link": "https://autotest.com.ar/offroad/puede-este-suv-chino-de-892-hp-destronar-a-jeep-y-land-rover-en-el-off-road/",
+    "fuente": "Autotest",
+    "fecha": "2026-10-01T23:06:34Z",
+    "resumen": "Chery tiene presencia consolidada en la región, pero no hay confirmación oficial de que el Jetour G700 vaya a ofrecerse en el mercado argentino.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/puede-este-suv-chino-de-892-hp-destrona-1200x740-1.jpg"
+  },
+  {
+    "titulo": "Con 1.113 CV y más de 1.770 km de autonomía, el Geely Battleship 700 ya acumula 44.000 reservas",
+    "link": "https://autotest.com.ar/offroad/con-1-113-cv-y-mas-de-1-770-km-de-autonomia-el-geely-battleship-700-ya-acumula-44-000-reservas/",
+    "fuente": "Autotest",
+    "fecha": "2026-10-01T23:06:30Z",
+    "resumen": "La electrificación en el off-road trae una contradicción que las marcas chinas todavía están resolviendo: la batería suma peso y el peso juega en contra en terrenos blandos.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/con-1-113-cv-y-m-s-de-1-770-km-de-autono-1200x740-1.jpg"
+  },
+  {
+    "titulo": "Mercedes Sprinter 4×4 camper: 2,06 m de altura interior, 3.550 litros y aislamiento para -20°C",
+    "link": "https://autotest.com.ar/offroad/mercedes-sprinter-4x4-camper-2-06-m-de-altura-interior-3-550-litros-y-aislamiento-para-20c/",
+    "fuente": "Autotest",
+    "fecha": "2026-10-01T23:06:26Z",
+    "resumen": "El concepto de fondo es overlanding: viajes autosuficientes de larga distancia donde importan la autonomía, la fortaleza y la habitabilidad por sobre la velocidad.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/mercedes-sprinter-4x4-camper-2-06-m-de-a-1200x740-1.jpg"
+  },
+  {
+    "titulo": "El último V8 de la CHP: el Camaro SS 1LE de 455 CV que patrulla California a 290 km/h",
+    "link": "https://autotest.com.ar/noticias/el-ultimo-v8-de-la-chp-el-camaro-ss-1le-de-455-cv-que-patrulla-california-a-290-km-h/",
+    "fuente": "Autotest",
+    "fecha": "2026-10-01T23:06:21Z",
+    "resumen": "La unidad develada por la CHP parte de la base del Camaro SS con paquete 1LE, la versión orientada a uso en pista de la sexta generación.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/el-ltimo-v8-de-la-chp-el-camaro-ss-1le-d-1200x740-1.jpg"
+  },
+  {
+    "titulo": "Aston Martin DBX GT: 727 CV, dos más que el Ferrari Purosangue y 61 más que el Urus",
+    "link": "https://autotest.com.ar/noticias/aston-martin-dbx-gt-727-cv-dos-mas-que-el-ferrari-purosangue-y-61-mas-que-el-urus/",
+    "fuente": "Autotest",
+    "fecha": "2026-10-01T23:06:13Z",
+    "resumen": "El GT llega en un momento donde la electrificación avanza pero el motor de combustión todavía define la identidad de los superdeportivos.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/aston-martin-dbx-gt-727-cv-dos-m-s-que-e-1200x740-1.jpg"
+  },
+  {
+    "titulo": "Jeep Cherokee Trailhawk 2027: la híbrida con reductora que vadea 61 cm y deja atrás a la RAV4",
+    "link": "https://autotest.com.ar/offroad/jeep-cherokee-trailhawk-2027-la-hibrida-con-reductora-que-vadea-61-cm-y-deja-atras-a-la-rav4/",
+    "fuente": "Autotest",
+    "fecha": "2026-10-01T23:06:08Z",
+    "resumen": "Con placas protectoras, ganchos rojos y modos de manejo off-road en la pantalla, la Trailhawk 2027 recupera el legado de la XJ y demuestra que la Cherokee todavía tiene barro en el ADN.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/jeep-cherokee-trailhawk-2027-la-h-brida-1200x740-1.jpg"
+  },
+  {
+    "titulo": "Verstappen vs. Rossi en Portimao: el duelo de 9 títulos de MotoGP contra el campeón de F1 en un GT3 de 600 CV",
+    "link": "https://autotest.com.ar/noticias/verstappen-vs-rossi-en-portimao-el-duelo-de-9-titulos-de-motogp-contra-el-campeon-de-f1-en-un-gt3-de-600-cv/",
+    "fuente": "Autotest",
+    "fecha": "2026-10-01T22:16:23Z",
+    "resumen": "Max Verstappen ya ganó todo en Fórmula 1 con Red Bull, pero su interés por las carreras de resistencia y por los autos de producción viene de antes.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/verstappen-vs-rossi-en-portimao-el-duelo-1200x740-1.jpg"
+  },
+  {
+    "titulo": "Los autos más vendidos en Argentina en septiembre",
+    "link": "https://www.megautos.com/venta-autos-0-km-septiembre-2026/",
+    "fuente": "Megautos",
+    "fecha": "2026-10-01T21:25:48Z",
+    "resumen": "El mercado alcanzó las 49.814 unidades patentadas, lo que generó una caída interanual y un aumento mensual. Toyota y la Hilux nacional continúan liderando el mercado. La entrada Los autos más vendidos en Argentina en septiembre aparece primero en Mega Autos .",
+    "imagen": "https://www.megautos.com/wp-content/uploads/2026/10/autos-mas-vendidos-9-2026.jpg"
+  },
+  {
+    "titulo": "La venta de autos usados pegó un salto en septiembre",
+    "link": "https://eleconomista.com.ar/autos/la-venta-autos-usados-pego-salto-septiembre-n98565",
+    "fuente": "El Economista",
+    "fecha": "2026-10-01T20:37:00Z",
+    "resumen": "Los concesionarios señalaron que se trata del \"segundo mejor septiembre desde 1995\", año en que se empezaron a computar las transferencias. No obstante, el sector se mantiene abajo en relación a 2025.",
+    "imagen": "https://statics.eleconomista.com.ar/2026/07/crop/6a4bd14062615__950x512.webp"
   },
   {
     "titulo": "Sébastien Ogier da un paso atrás en el WRC: no disputará el Rally de Monte-Carlo 2027",
@@ -32,6 +96,14 @@
     "imagen": "https://www.diariomotor.com/imagenes/2026/10/Solberg13ITA26sg135-6abe9ebfbe31d.jpg?class=XL"
   },
   {
+    "titulo": "Su hijo y sus nietos le regalaron la maqueta de su coche favorito por su 74 cumpleaños. Lo que no esperaba era la sorpresa que le dieron después",
+    "link": "https://www.motorpasion.com/videos-de-coches/su-hijo-sus-nietos-le-regalan-maqueta-su-coche-favorito-su-74-cumpleanos-que-no-esperaba-sorpresa-que-le-dieron-despues",
+    "fuente": "Motorpasión (ES)",
+    "fecha": "2026-10-01T19:01:23Z",
+    "resumen": "Hay regalos y regalos, y el que hizo esta familia al abuelo por su 74 cumpleaños es de lo que están a otro nivel. De hecho, su hijo y sus nietos le hicieron dos regalos, pero fue el segundo el que le hizo llorar porque era lo último que se esperaba. A sus 74 años, estrenó el coche con el que llevaba soñando desde que era joven. Su familia lo grabó todo y se ha convertido en uno de los vídeos más…",
+    "imagen": "https://i.blogs.es/46eb38/corvette-1/1024_2000.jpeg"
+  },
+  {
     "titulo": "No es 208: el hatchback que superó en ventas al Toyota Yaris en septiembre 2026",
     "link": "https://autotest.com.ar/noticias/no-es-208-el-hatchback-que-supero-en-ventas-al-toyota-yaris-en-septiembre-2026/",
     "fuente": "Autotest",
@@ -54,6 +126,14 @@
     "fecha": "2026-10-01T19:00:35Z",
     "resumen": "El SUV se ha convertido en el coche \"todo en uno\" para muchos, y no es de extrañar. Ofrece buen espacio, versatilidad y es válido tanto para la ciudad como para viajar. Pero hay una opción injustamente ignorada: un coche fabricado en España que, por 25.764 euros , ofrece 850 litros de maletero, 1.000 km de autonomía y 5,4 l/100 km. Citroën tiene la alternativa definitiva a los SUV Es un coche…",
     "imagen": "https://www.diariomotor.com/imagenes/2025/04/citroen-berlingo-asientos-traseros-67efbbbddd6a8.jpg?class=XL"
+  },
+  {
+    "titulo": "Un modelo chino lidera el ranking de autos y SUV híbridos más vendidos de Argentina",
+    "link": "https://www.iprofesional.com/autos/465701-un-modelo-chino-lidera-ranking-de-autos-y-suv-hibridos-mas-vendidos",
+    "fuente": "iProfesional",
+    "fecha": "2026-10-01T19:00:00Z",
+    "resumen": "Con ventas que siguen cayendo en el mercado automotor, tres SUV lideran el ranking de ventas con nuevas tecnologías de propulsión y algunos modelos crecen (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
+    "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2025/06/598109.jpg"
   },
   {
     "titulo": "Qué pasará con los precios de los autos tras los cambios en el régimen de importación",
@@ -86,14 +166,6 @@
     "fecha": "2026-10-01T18:00:04Z",
     "resumen": "Conoce la nueva oferta del Toyota Yaris Cross en septiembre de 2026, diseñado para liderar el mercado de SUV en Argentina con opciones nafteras e híbridas.",
     "imagen": "https://autotest.com.ar/wp-content/uploads/2026/07/toyota-yaris-cross1.jpg"
-  },
-  {
-    "titulo": "La venta de autos usados pegó un salto en septiembre",
-    "link": "https://eleconomista.com.ar/autos/la-venta-autos-usados-pego-salto-septiembre-n98565",
-    "fuente": "El Economista",
-    "fecha": "2026-10-01T20:37:00Z",
-    "resumen": "Los concesionarios señalaron que se trata del \"segundo mejor septiembre desde 1995\", año en que se empezaron a computar las transferencias. No obstante, el sector se mantiene abajo en relación a 2025.",
-    "imagen": "https://statics.eleconomista.com.ar/2026/07/crop/6a4bd14062615__950x512.webp"
   },
   {
     "titulo": "Franco Colapinto comenta la renovación de Fernando Alonso: \"Nos va a retirar a todos. Va a correr hasta que ya no pueda más\"",
@@ -136,12 +208,12 @@
     "imagen": "https://www.diariomotor.com/imagenes/2026/09/bmw-i3-2027-48-6abca396b1ff3.jpg?class=XL"
   },
   {
-    "titulo": "Un modelo chino lidera el ranking de autos y SUV híbridos más vendidos de Argentina",
-    "link": "https://www.iprofesional.com/autos/465701-un-modelo-chino-lidera-ranking-de-autos-y-suv-hibridos-mas-vendidos",
-    "fuente": "iProfesional",
-    "fecha": "2026-10-01T19:00:00Z",
-    "resumen": "Con ventas que siguen cayendo en el mercado automotor, tres SUV lideran el ranking de ventas con nuevas tecnologías de propulsión y algunos modelos crecen (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
-    "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2025/06/598109.jpg"
+    "titulo": "Una automotriz quiere bajar a la mitad el tiempo de producción para competir con los chinos",
+    "link": "https://eleconomista.com.ar/autos/una-automotriz-quiere-bajar-mitad-tiempo-produccion-competir-chinos-n98530",
+    "fuente": "El Economista",
+    "fecha": "2026-10-01T16:00:00Z",
+    "resumen": "La avanzada tecnológica de las compañías del Gigante asiático está obligando al resto de las empresas a tomar decisiones inéditas. Ahora es una firma japonesa la que busca alternativas pero con el foco en India.",
+    "imagen": "https://statics.eleconomista.com.ar/2026/09/crop/6abd69840ef92__950x512.webp"
   },
   {
     "titulo": "Toyota aumentó los precios del Yaris: cuánto cuesta cada versión en octubre 2026",
@@ -240,14 +312,6 @@
     "imagen": "https://autotest.com.ar/wp-content/uploads/2026/03/Ford-Territory-trompa-1.jpg"
   },
   {
-    "titulo": "Una automotriz quiere bajar a la mitad el tiempo de producción para competir con los chinos",
-    "link": "https://eleconomista.com.ar/autos/una-automotriz-quiere-bajar-mitad-tiempo-produccion-competir-chinos-n98530",
-    "fuente": "El Economista",
-    "fecha": "2026-10-01T16:00:00Z",
-    "resumen": "La avanzada tecnológica de las compañías del Gigante asiático está obligando al resto de las empresas a tomar decisiones inéditas. Ahora es una firma japonesa la que busca alternativas pero con el foco en India.",
-    "imagen": "https://statics.eleconomista.com.ar/2026/09/crop/6abd69840ef92__950x512.webp"
-  },
-  {
     "titulo": "La nueva versión de un SUV de Renault que está encima de Duster, con 300 CV y mucho equipamiento",
     "link": "https://autotest.com.ar/noticias/la-nueva-version-de-un-suv-de-renault-que-esta-encima-de-duster-con-300-cv-y-mucho-equipamiento/",
     "fuente": "Autotest",
@@ -286,6 +350,14 @@
     "fecha": "2026-10-01T12:00:01Z",
     "resumen": "Se llama Offtrack Verge y si la ves por la carretera, te puede parecer un vehículo de las fuerzas especiales, pero por dentro es todo un mini loft de lujo pensado para dar comodidad a los más aventureros. Se trata de una camper construida sobre un Mercedes-Benz Sprinter 417 CDI . Offtrack abandonó lo de simplemente equipar el interior de una furgoneta y decidió desarrollar una carrocería propia…",
     "imagen": "https://www.diariomotor.com/imagenes/2026/10/offtrack-verge-front-6abe041c82f5f.png?class=XL"
+  },
+  {
+    "titulo": "¿Cuáles son las inversiones más importantes de la industria automotriz argentina?",
+    "link": "https://eleconomista.com.ar/autos/cuales-son-inversiones-mas-importantes-industria-automotriz-argentina-n98535",
+    "fuente": "El Economista",
+    "fecha": "2026-10-01T12:00:00Z",
+    "resumen": "Toyota acaba de anunciar la más relevante de todos los tiempos, pero en los últimos 30 años el sector experimentó transformaciones a través del aporte relevante de capital.",
+    "imagen": "https://statics.eleconomista.com.ar/2024/05/crop/664f33e52b2b9__950x512.webp"
   },
   {
     "titulo": "Honda lanzará esta edición exclusiva de un modelo superior a Civic: 184 CV, diseño coupé y otra imagen",
@@ -328,6 +400,14 @@
     "imagen": "https://www.diariomotor.com/imagenes/2026/09/Bugatti-Veyron-Grand-Sport-Vitesse-Jean-Pierre-Wimille-70-6abd09b261271.jpeg?class=XL"
   },
   {
+    "titulo": "Mercedes-Benz Camiones y Buses celebra las 10.000 piezas REMAN entregadas",
+    "link": "https://eleconomista.com.ar/autos/mercedes-benz-camiones-buses-celebra-10000-piezas-reman-entregadas-n98528",
+    "fuente": "El Economista",
+    "fecha": "2026-10-01T11:00:00Z",
+    "resumen": "La primera y única planta de remanufactura del país alcanzó un nuevo récord de producción. Ahora, el proceso opera desde el nuevo Centro Industrial Zárate, reafirmando el compromiso de la marca con la inversión nacional y la posventa integral.",
+    "imagen": "https://statics.eleconomista.com.ar/2026/09/crop/6abd5b80c1b04__950x512.webp"
+  },
+  {
     "titulo": "Creíamos que Fernando Alonso estaba a punto de retirarse. Ahora dice que podría correr en Fórmula 1 hasta los 50 años",
     "link": "https://www.motorpasion.com/formula1/fernando-alonso-avisa-renovar-aston-martin-no-creo-que-sea-mi-ultimo-contrato-formula-1-puedo-seguir-varios-anos",
     "fuente": "Motorpasión (ES)",
@@ -360,28 +440,12 @@
     "imagen": "https://www.diariomotor.com/imagenes/2026/01/Jaecoo-8-PHEV77-696f6038a18cb.jpg?class=XL"
   },
   {
-    "titulo": "¿Cuáles son las inversiones más importantes de la industria automotriz argentina?",
-    "link": "https://eleconomista.com.ar/autos/cuales-son-inversiones-mas-importantes-industria-automotriz-argentina-n98535",
-    "fuente": "El Economista",
-    "fecha": "2026-10-01T12:00:00Z",
-    "resumen": "Toyota acaba de anunciar la más relevante de todos los tiempos, pero en los últimos 30 años el sector experimentó transformaciones a través del aporte relevante de capital.",
-    "imagen": "https://statics.eleconomista.com.ar/2024/05/crop/664f33e52b2b9__950x512.webp"
-  },
-  {
     "titulo": "Aston Martin DBX GT, lujo y deportividad a partes iguales, además de 727 de puro carácter",
     "link": "https://www.diariomotor.com/noticia/aston-martin-dbx-gt/",
     "fuente": "Diariomotor (ES)",
     "fecha": "2026-10-01T08:00:28Z",
     "resumen": "El mundo de los SUV de altas prestaciones está al rojo vivo. La batalla entre los grandes fabricantes de lujo sigue en auge y lo último de Aston Martin da buena cuenta de ello. Buscando conseguir la mejor combinación entre lujo y deportividad, el Aston Martin DBX estrena nueva variante y no podría ser más apatecible. Bajo el nombre de Aston Martin DBX GT , el fabricante inglés presenta una nueva…",
     "imagen": "https://www.diariomotor.com/imagenes/2026/09/aston-martin-dbx-gt-2026-11-6abce71276246.jpg?class=XL"
-  },
-  {
-    "titulo": "Mercedes-Benz Camiones y Buses celebra las 10.000 piezas REMAN entregadas",
-    "link": "https://eleconomista.com.ar/autos/mercedes-benz-camiones-buses-celebra-10000-piezas-reman-entregadas-n98528",
-    "fuente": "El Economista",
-    "fecha": "2026-10-01T11:00:00Z",
-    "resumen": "La primera y única planta de remanufactura del país alcanzó un nuevo récord de producción. Ahora, el proceso opera desde el nuevo Centro Industrial Zárate, reafirmando el compromiso de la marca con la inversión nacional y la posventa integral.",
-    "imagen": "https://statics.eleconomista.com.ar/2026/09/crop/6abd5b80c1b04__950x512.webp"
   },
   {
     "titulo": "\"La vergüenza está en temer fracasar\": así fueron los batacazos de Henry Ford antes de dominar el mundo del motor",
