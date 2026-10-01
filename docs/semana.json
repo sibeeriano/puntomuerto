@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-01T18:53:48Z",
+  "actualizado": "2026-10-01T21:05:11Z",
   "desde": "2026-09-24",
   "hasta": "2026-10-01",
   "destacadas": [
@@ -10,7 +10,7 @@
       "fecha": "2026-10-01T18:00:04Z",
       "resumen": "Conoce la nueva oferta del Toyota Yaris Cross en septiembre de 2026, diseñado para liderar el mercado de SUV en Argentina con opciones nafteras e híbridas.",
       "imagen": "https://autotest.com.ar/wp-content/uploads/2026/07/toyota-yaris-cross1.jpg",
-      "menciones": 23,
+      "menciones": 22,
       "fuentes": [
         "Autotest",
         "Diariomotor (ES)",
@@ -71,6 +71,19 @@
       ]
     },
     {
+      "titulo": "Mercedes-Benz Camiones y Buses celebra las 10.000 piezas REMAN entregadas",
+      "link": "https://eleconomista.com.ar/autos/mercedes-benz-camiones-buses-celebra-10000-piezas-reman-entregadas-n98528",
+      "fuente": "El Economista",
+      "fecha": "2026-10-01T11:00:00Z",
+      "resumen": "La primera y única planta de remanufactura del país alcanzó un nuevo récord de producción. Ahora, el proceso opera desde el nuevo Centro Industrial Zárate, reafirmando el compromiso de la marca con la inversión nacional y la posventa integral.",
+      "imagen": "https://statics.eleconomista.com.ar/2026/09/crop/6abd5b80c1b04__950x512.webp",
+      "menciones": 2,
+      "fuentes": [
+        "Autotest",
+        "El Economista"
+      ]
+    },
+    {
       "titulo": "Tesla desembarca en Argentina y busca empleados: qué puestos y cómo postularse",
       "link": "https://www.iprofesional.com/autos/465541-tesla-desembarca-en-argentina-y-busca-empleados-como-postularse",
       "fuente": "iProfesional",
@@ -110,6 +123,18 @@
       ]
     },
     {
+      "titulo": "La venta de autos usados pegó un salto en septiembre",
+      "link": "https://eleconomista.com.ar/autos/la-venta-autos-usados-pego-salto-septiembre-n98565",
+      "fuente": "El Economista",
+      "fecha": "2026-10-01T20:37:00Z",
+      "resumen": "Los concesionarios señalaron que se trata del \"segundo mejor septiembre desde 1995\", año en que se empezaron a computar las transferencias. No obstante, el sector se mantiene abajo en relación a 2025.",
+      "imagen": "https://statics.eleconomista.com.ar/2026/07/crop/6a4bd14062615__950x512.webp",
+      "menciones": 1,
+      "fuentes": [
+        "El Economista"
+      ]
+    },
+    {
       "titulo": "Sébastien Ogier da un paso atrás en el WRC: no disputará el Rally de Monte-Carlo 2027",
       "link": "https://www.diariomotor.com/competicion/noticia/sebastien-ogier-paso-atras-wrc/",
       "fuente": "Diariomotor (ES)",
@@ -146,6 +171,30 @@
       ]
     },
     {
+      "titulo": "Su hijo y sus nietos le regalaron la maqueta de su coche favorito por su 74 cumpleaños. Lo que no esperaba era la sorpresa que le dieron después",
+      "link": "https://www.motorpasion.com/videos-de-coches/su-hijo-sus-nietos-le-regalan-maqueta-su-coche-favorito-su-74-cumpleanos-que-no-esperaba-sorpresa-que-le-dieron-despues",
+      "fuente": "Motorpasión (ES)",
+      "fecha": "2026-10-01T19:01:23Z",
+      "resumen": "Hay regalos y regalos, y el que hizo esta familia al abuelo por su 74 cumpleaños es de lo que están a otro nivel. De hecho, su hijo y sus nietos le hicieron dos regalos, pero fue el segundo el que le hizo llorar porque era lo último que se esperaba. A sus 74 años, estrenó el coche con el que llevaba soñando desde que era joven. Su familia lo grabó todo y se ha convertido en uno de los vídeos más…",
+      "imagen": "https://i.blogs.es/46eb38/corvette-1/1024_2000.jpeg",
+      "menciones": 1,
+      "fuentes": [
+        "Motorpasión (ES)"
+      ]
+    },
+    {
+      "titulo": "No es 208: el hatchback que superó en ventas al Toyota Yaris en septiembre 2026",
+      "link": "https://autotest.com.ar/noticias/no-es-208-el-hatchback-que-supero-en-ventas-al-toyota-yaris-en-septiembre-2026/",
+      "fuente": "Autotest",
+      "fecha": "2026-10-01T19:00:58Z",
+      "resumen": "El Chevrolet Onix HB 2027 ofrece motor turbo, 6 airbags, conectividad Wi-Fi y opciones de financiación accesibles en Argentina.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/Chevrolet-Onix-perfil.jpg",
+      "menciones": 1,
+      "fuentes": [
+        "Autotest"
+      ]
+    },
+    {
       "titulo": "Parece imposible, pero aún puedes comprar una Honda nueva, para el carné de coche, por 2.299 €",
       "link": "https://www.diariomotor.com/noticia/honda-nueva-2299-euros/",
       "fuente": "Diariomotor (ES)",
@@ -155,6 +204,18 @@
       "menciones": 1,
       "fuentes": [
         "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "Un modelo chino lidera el ranking de autos y SUV híbridos más vendidos de Argentina",
+      "link": "https://www.iprofesional.com/autos/465701-un-modelo-chino-lidera-ranking-de-autos-y-suv-hibridos-mas-vendidos",
+      "fuente": "iProfesional",
+      "fecha": "2026-10-01T19:00:00Z",
+      "resumen": "Con ventas que siguen cayendo en el mercado automotor, tres SUV lideran el ranking de ventas con nuevas tecnologías de propulsión y algunos modelos crecen (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
+      "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2025/06/598109.jpg",
+      "menciones": 1,
+      "fuentes": [
+        "iProfesional"
       ]
     },
     {
@@ -239,66 +300,6 @@
       "menciones": 3,
       "fuentes": [
         "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "Durante más de 100 años la industria del automóvil ha estado dominada por quienes mejor sabían fabricar motores. Eso ha cambiado, y es una ventaja para China",
-      "link": "https://www.motorpasion.com/industria/durante-100-anos-industria-automovil-ha-estado-dominada-quienes-mejor-sabian-fabricar-motores-eso-ha-cambiado-ventaja-para-china",
-      "fuente": "Motorpasión (ES)",
-      "fecha": "2026-10-01T15:01:23Z",
-      "resumen": "A lo largo de los más de 100 años de historia de la industria del automóvil, hemos podido hablar de varias potencias automovilísticas, pero siempre ha habido un denominador común para tener el liderazgo: dominar la ingeniería mecánica . Ahora, la ingeniería mecánica ha dejado de tener tanta importancia y la clave ha pasado a estar en las baterías, los chips, el software y la inteligencia…",
-      "imagen": "https://i.blogs.es/ff2ba6/china-3/1024_2000.jpeg",
-      "menciones": 1,
-      "fuentes": [
-        "Motorpasión (ES)"
-      ]
-    },
-    {
-      "titulo": "El Toyota RAV4 de Jeep es, con esta versión, más todoterreno que SUV y además tiene un motor híbrido de 211 CV perfecto para Europa",
-      "link": "https://www.diariomotor.com/noticia/jeep-cherokee-trailhawk-2027/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-10-01T14:00:07Z",
-      "resumen": "Cuando se trata de Jeep lo primero que se viene a la mente es todoterreno, dificultades fuera de carretera y una marca americana por encima de todo. Dentro de Jeep, además, el Cherokee siempre ha sido uno de sus caballos de batalla, un coche que aunque en Europa no tenemos, sí que se trata de un coche que puede encajar perfectamente con los gustos de los europeos. Sin embargo, bien sabemos que…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/10/Jeep-Cherokee-Trailhawk-2027-1-6abe362631984.jpg?class=XL",
-      "menciones": 4,
-      "fuentes": [
-        "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "Volvo Trucks & Buses renueva su promoción “Transmisión” con precios reducidos",
-      "link": "https://autotest.com.ar/transportes/volvo-trucks-buses-renueva-su-promocion-transmision-con-precios-reducidos/",
-      "fuente": "Autotest",
-      "fecha": "2026-10-01T13:57:27Z",
-      "resumen": "Volvo Trucks & Buses Argentina renovó su campaña “Transmisión”, una acción comercial que busca facilitar el acceso a repuestos originales para componentes vinculados con la caja de cambios y el embrague de sus vehículos. La promoción estará vigente desde el 1 de octubre hasta el 30 de diciembre de 2026 en la red oficial de […]",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/volvo-trucks-promocion1.jpg",
-      "menciones": 1,
-      "fuentes": [
-        "Autotest"
-      ]
-    },
-    {
-      "titulo": "Jeep presentó un nuevo SUV: está arriba de Compass, tiene 3 motores, 213 CV y más",
-      "link": "https://autotest.com.ar/noticias/jeep-presento-un-nuevo-suv-esta-arriba-de-compass-tiene-3-motores-213-cv-y-mas/",
-      "fuente": "Autotest",
-      "fecha": "2026-10-01T13:52:36Z",
-      "resumen": "Jeep presentó la Cherokee Trailhawk 2027, la versión más preparada para salir del asfalto dentro de la nueva generación del SUV que se posiciona por encima de Renegade y de Compass. Así, recupera una configuración clave para ese nombre: 213 CV, suspensión elevada, neumáticos all-terrain, chapones protectores, un sistema 4×4 con caja de transferencia de […]",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/Nuevo-Jeep-Cherokee-Trailhawk.jpg",
-      "menciones": 1,
-      "fuentes": [
-        "Autotest"
-      ]
-    },
-    {
-      "titulo": "El SUV chino más vendido: superó a Jeep Compass y Volkswagen Taos en septiembre 2026",
-      "link": "https://autotest.com.ar/noticias/el-suv-chino-mas-vendido-supero-a-jeep-compass-y-volkswagen-taos-en-septiembre-2026/",
-      "fuente": "Autotest",
-      "fecha": "2026-10-01T13:45:06Z",
-      "resumen": "El BAIC BJ30, SUV híbrido de origen chino, logró patentar más unidades que sus competidores Jeep Compass y Volkswagen Taos en agosto de 2026, destacándose en el mercado argentino.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2025/11/SUV-Baic-BJ30-techo.jpg",
-      "menciones": 1,
-      "fuentes": [
-        "Autotest"
       ]
     }
   ]
