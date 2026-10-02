@@ -1,19 +1,19 @@
 [
   {
-    "titulo": "He visitado el lugar al que cualquier amante de los coches debería ir: está escondido en medio de un barrio residencial y es gratis",
-    "link": "https://www.motorpasion.com/superlujo/he-visitado-lugar-al-que-cualquier-amante-coches-deberia-ir-esta-escondido-medio-barrio-residencial-gratis",
-    "fuente": "Motorpasión (ES)",
-    "fecha": "2026-10-02T19:01:23Z",
-    "resumen": "Si te gustan los coches, probablemente intentas hacer planes relacionados con el mundo del motor cuando haces turismo , ya sea visitar un museo del automóvil, ir a un circuito o asistir a un evento, como una feria de clásicos o una concentración de deportivos. Alemania es uno de los países más interesantes para hacer este tipo de planes porque está lleno de museos y circuitos míticos, pero el…",
-    "imagen": "https://i.blogs.es/e8c1dd/classic-remise-mop-4/1024_2000.jpeg"
-  },
-  {
     "titulo": "Fiat muestra las primeras imágenes del Argo X",
     "link": "https://www.megautos.com/fiat-argo-x-primeras-imagenes/",
     "fuente": "Megautos",
     "fecha": "2026-10-02T19:40:42Z",
     "resumen": "El nuevo modelo derivado del Grande Panda europeo será producido en Brasil y lanzado próximamente en ese mercado. Lo esperamos en Argentina. La entrada Fiat muestra las primeras imágenes del Argo X aparece primero en Mega Autos .",
     "imagen": "https://www.megautos.com/wp-content/uploads/2026/10/Argo-X-teaser-1.jpg"
+  },
+  {
+    "titulo": "He visitado el lugar al que cualquier amante de los coches debería ir: está escondido en medio de un barrio residencial y es gratis",
+    "link": "https://www.motorpasion.com/superlujo/he-visitado-lugar-al-que-cualquier-amante-coches-deberia-ir-esta-escondido-medio-barrio-residencial-gratis",
+    "fuente": "Motorpasión (ES)",
+    "fecha": "2026-10-02T19:01:23Z",
+    "resumen": "Si te gustan los coches, probablemente intentas hacer planes relacionados con el mundo del motor cuando haces turismo , ya sea visitar un museo del automóvil, ir a un circuito o asistir a un evento, como una feria de clásicos o una concentración de deportivos. Alemania es uno de los países más interesantes para hacer este tipo de planes porque está lleno de museos y circuitos míticos, pero el…",
+    "imagen": "https://i.blogs.es/e8c1dd/classic-remise-mop-4/1024_2000.jpeg"
   },
   {
     "titulo": "Una marca china llegó a Argentina con cuatro SUV electrificados y hasta 346 HP",
@@ -254,6 +254,14 @@
     "fecha": "2026-10-02T12:27:32Z",
     "resumen": "Cuando valoramos la compra de un SUV bien equipado, con etiqueta CERO y más de 500 CV siempre nos encontramos con el mismo problema: el precio. Sin embargo, existe una opción que no solo cumple con todo ello, sino que también tiene tamaño de BMW X3... pero costando 29.000 euros menos . Omoda sigue queriendo reventar el mercado con un SUV 29.000 euros más barato que los alemanes Ofrece una relación…",
     "imagen": "https://www.diariomotor.com/imagenes/2025/03/Omoda-9-Espana-18-67c98aaa4aece.jpg?class=XL"
+  },
+  {
+    "titulo": "Tesla podrá importar autos de hasta u$s35.000 sin arancel tras el cambio de Milei",
+    "link": "https://www.iprofesional.com/autos/465778-milei-amplio-a-us35000-el-limite-para-que-tesla-importe-sin-arancel",
+    "fuente": "iProfesional",
+    "fecha": "2026-10-02T15:08:00Z",
+    "resumen": "El nuevo tope permite sumar modelos de Tesla y otras marcas al régimen. El cupo anual continúa en 50.000 unidades, frente a una demanda mucho mayor (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
+    "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/09/626605.jpg"
   },
   {
     "titulo": "Finlandia se prepara para una posible Tercera Guerra Mundial: está convirtiendo una autopista en pista de aterrizaje para cazas",
