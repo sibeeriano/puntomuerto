@@ -1,34 +1,47 @@
 {
-  "actualizado": "2026-10-01T23:25:52Z",
-  "desde": "2026-09-24",
-  "hasta": "2026-10-01",
+  "actualizado": "2026-10-02T18:25:38Z",
+  "desde": "2026-09-25",
+  "hasta": "2026-10-02",
   "destacadas": [
     {
-      "titulo": "El SUV más vendido de Toyota: cuánto cuesta y qué ofrece el Yaris Cross en octubre 2026",
-      "link": "https://autotest.com.ar/noticias/el-suv-mas-vendido-de-toyota-cuanto-cuesta-y-que-ofrece-el-yaris-cross-en-octubre-2026/",
+      "titulo": "Superior a Toyota Corolla: el nuevo sedán híbrido enchufable con 278 CV y hasta 1.200 km de autonomía",
+      "link": "https://autotest.com.ar/noticias/superior-a-toyota-corolla-el-nuevo-sedan-hibrido-enchufable-con-278-cv-y-hasta-1-200-km-de-autonomia/",
       "fuente": "Autotest",
-      "fecha": "2026-10-01T18:00:04Z",
-      "resumen": "Conoce la nueva oferta del Toyota Yaris Cross en septiembre de 2026, diseñado para liderar el mercado de SUV en Argentina con opciones nafteras e híbridas.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/07/toyota-yaris-cross1.jpg",
-      "menciones": 22,
-      "fuentes": [
-        "Autotest",
-        "Diariomotor (ES)",
-        "iProfesional"
-      ]
-    },
-    {
-      "titulo": "Cuesta menos de 32.000 dólares y tiene 215 CV: el SUV con más de 900 km de autonomía que desafía a Ford Territory",
-      "link": "https://autotest.com.ar/noticias/cuesta-menos-de-32-000-dolares-y-tiene-215-cv-el-suv-con-mas-de-900-km-de-autonomia-que-desafia-a-ford-territory/",
-      "fuente": "Autotest",
-      "fecha": "2026-10-01T17:00:20Z",
-      "resumen": "El Leapmotor B10 llega a Argentina con una impresionante autonomía superior a 900 kilómetros, 215 CV de potencia y un precio competitivo de 31.990 dólares.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/SUV-Leapmotor-B10-perfil-accion.jpg",
-      "menciones": 13,
+      "fecha": "2026-10-02T18:00:12Z",
+      "resumen": "Descubre el nuevo Chery Arrizo 8, un sedán híbrido enchufable con casi 1.000 km de autonomía y un equipamiento destacado por solo 34.600 dólares.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/Sedan-Chery-Arrizo-8-CSH-Luxury-teaser.jpg",
+      "menciones": 20,
       "fuentes": [
         "Autotest",
         "Diariomotor (ES)",
         "Megautos"
+      ]
+    },
+    {
+      "titulo": "El nuevo Leapmotor B03X es el SUV eléctrico chino de Stellantis más barato que un BYD: cuesta menos de 24.000 euros",
+      "link": "https://www.motorpasion.com/compra-coches/nuevo-leapmotor-b03x-suv-electrico-chino-stellantis-barato-que-byd-cuesta-24-000-euros",
+      "fuente": "Motorpasión (ES)",
+      "fecha": "2026-10-02T08:01:23Z",
+      "resumen": "Leapmotor amplía su gama en España de la mano del grupo Stellantis, que lo fabricará en Villaverde (Madrid) a partir de 2027, con el B03X , un SUV eléctrico urbano que se sitúa por debajo del Leapmotor B10 . Es el primer modelo de la nueva plataforma A y llega con dos baterías a escoger, mucho maletero y un precio muy competitivo. Mide 4,27 metros de largo por 1,81 m de ancho y 1,64 m de alto.…",
+      "imagen": "https://i.blogs.es/03c126/leapmotor_b03x1/1024_2000.jpeg",
+      "menciones": 9,
+      "fuentes": [
+        "Autotest",
+        "Diariomotor (ES)",
+        "Motorpasión (ES)"
+      ]
+    },
+    {
+      "titulo": "Venta de autos usados: septiembre fue el segundo mejor mes de los últimos 31 años",
+      "link": "https://www.iprofesional.com/autos/465766-autos-usados-septiembre-marco-uno-de-los-mejores-registros-en-31-anos",
+      "fuente": "iProfesional",
+      "fecha": "2026-10-02T13:32:00Z",
+      "resumen": "La venta de usados subió 10% frente a agosto y llegó a 170.768 unidades. En nueve meses acumula 1,37 millones, todavía debajo de 2025 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
+      "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2024/08/581943.jpg",
+      "menciones": 2,
+      "fuentes": [
+        "El Economista",
+        "iProfesional"
       ]
     },
     {
@@ -58,19 +71,6 @@
       ]
     },
     {
-      "titulo": "Todos en España comprando SUV como locos y llegan los franceses y ofrecen, por 25.000 €, 5,4 l/100 km, 1.000 km de autonomía y 850 l de maletero en esta perfecta alternativa Made in Spain",
-      "link": "https://www.diariomotor.com/noticia/oferta-citroen-berlingo-octubre-2026/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-10-01T19:00:35Z",
-      "resumen": "El SUV se ha convertido en el coche \"todo en uno\" para muchos, y no es de extrañar. Ofrece buen espacio, versatilidad y es válido tanto para la ciudad como para viajar. Pero hay una opción injustamente ignorada: un coche fabricado en España que, por 25.764 euros , ofrece 850 litros de maletero, 1.000 km de autonomía y 5,4 l/100 km. Citroën tiene la alternativa definitiva a los SUV Es un coche…",
-      "imagen": "https://www.diariomotor.com/imagenes/2025/04/citroen-berlingo-asientos-traseros-67efbbbddd6a8.jpg?class=XL",
-      "menciones": 3,
-      "fuentes": [
-        "Diariomotor (ES)",
-        "Motorpasión (ES)"
-      ]
-    },
-    {
       "titulo": "He probado el Mazda CX-6e: un SUV eléctrico con tanta tecnología china que ya no parece un coche japonés, para lo bueno y para lo malo",
       "link": "https://www.motorpasion.com/pruebas-de-coches/prueba-mazda-cx-6e-2026",
       "fuente": "Motorpasión (ES)",
@@ -90,7 +90,7 @@
       "fecha": "2026-10-01T11:20:37Z",
       "resumen": "Va a ser difícil, al menos a corto y medio plazo, volver a ver un coche que generase tanto revuelo como lo hizo el Renault 5 con su llegada al mercado, pues ni tan siquiera el Citroen 2CV, parece, que puede llegar a suscitar el interés que despertó el R5 en toda Europa. Ahora llega el momento de recibir cambios por primera vez desde que se pusiera a la venta el Renault 5 del Siglo XXI, con mejoras…",
       "imagen": "https://www.diariomotor.com/imagenes/2026/10/Renault-5-2027-1-6abe2478b2b36.jpg?class=XL",
-      "menciones": 6,
+      "menciones": 4,
       "fuentes": [
         "Autotest",
         "Diariomotor (ES)"
@@ -129,7 +129,7 @@
       "fecha": "2026-09-29T13:22:24Z",
       "resumen": "Se despejaron las dudas . Aston Martin emplazaba a medios y aficionados a las 12 del mediodía, hora británica con un vídeo que parecía adelantar el anuncio inevitable de la decisión que iba a tomar Fernando Alonso acerca de su futuro. El asturiano reposteaba la publicación de la escudería alada y sus fieles fans aguardaron descontando cada minuto para saber cuál iba a ser la opción elegida.…",
       "imagen": "https://www.diariomotor.com/imagenes/2026/09/2296902327-6abb9ecc13b1e.jpg?class=XL",
-      "menciones": 4,
+      "menciones": 3,
       "fuentes": [
         "Diariomotor (ES)",
         "Motorpasión (ES)"
@@ -149,159 +149,159 @@
       ]
     },
     {
-      "titulo": "¿Puede este SUV chino de 892 hp destronar a Jeep y Land Rover en el off-road?",
-      "link": "https://autotest.com.ar/offroad/puede-este-suv-chino-de-892-hp-destronar-a-jeep-y-land-rover-en-el-off-road/",
-      "fuente": "Autotest",
-      "fecha": "2026-10-01T23:06:34Z",
-      "resumen": "Chery tiene presencia consolidada en la región, pero no hay confirmación oficial de que el Jetour G700 vaya a ofrecerse en el mercado argentino.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/puede-este-suv-chino-de-892-hp-destrona-1200x740-1.jpg",
-      "menciones": 1,
-      "fuentes": [
-        "Autotest"
-      ]
-    },
-    {
-      "titulo": "Con 1.113 CV y más de 1.770 km de autonomía, el Geely Battleship 700 ya acumula 44.000 reservas",
-      "link": "https://autotest.com.ar/offroad/con-1-113-cv-y-mas-de-1-770-km-de-autonomia-el-geely-battleship-700-ya-acumula-44-000-reservas/",
-      "fuente": "Autotest",
-      "fecha": "2026-10-01T23:06:30Z",
-      "resumen": "La electrificación en el off-road trae una contradicción que las marcas chinas todavía están resolviendo: la batería suma peso y el peso juega en contra en terrenos blandos.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/con-1-113-cv-y-m-s-de-1-770-km-de-autono-1200x740-1.jpg",
-      "menciones": 1,
-      "fuentes": [
-        "Autotest"
-      ]
-    },
-    {
-      "titulo": "El último V8 de la CHP: el Camaro SS 1LE de 455 CV que patrulla California a 290 km/h",
-      "link": "https://autotest.com.ar/noticias/el-ultimo-v8-de-la-chp-el-camaro-ss-1le-de-455-cv-que-patrulla-california-a-290-km-h/",
-      "fuente": "Autotest",
-      "fecha": "2026-10-01T23:06:21Z",
-      "resumen": "La unidad develada por la CHP parte de la base del Camaro SS con paquete 1LE, la versión orientada a uso en pista de la sexta generación.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/el-ltimo-v8-de-la-chp-el-camaro-ss-1le-d-1200x740-1.jpg",
-      "menciones": 1,
-      "fuentes": [
-        "Autotest"
-      ]
-    },
-    {
-      "titulo": "Jeep Cherokee Trailhawk 2027: la híbrida con reductora que vadea 61 cm y deja atrás a la RAV4",
-      "link": "https://autotest.com.ar/offroad/jeep-cherokee-trailhawk-2027-la-hibrida-con-reductora-que-vadea-61-cm-y-deja-atras-a-la-rav4/",
-      "fuente": "Autotest",
-      "fecha": "2026-10-01T23:06:08Z",
-      "resumen": "Con placas protectoras, ganchos rojos y modos de manejo off-road en la pantalla, la Trailhawk 2027 recupera el legado de la XJ y demuestra que la Cherokee todavía tiene barro en el ADN.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/jeep-cherokee-trailhawk-2027-la-h-brida-1200x740-1.jpg",
-      "menciones": 1,
-      "fuentes": [
-        "Autotest"
-      ]
-    },
-    {
-      "titulo": "Verstappen vs. Rossi en Portimao: el duelo de 9 títulos de MotoGP contra el campeón de F1 en un GT3 de 600 CV",
-      "link": "https://autotest.com.ar/noticias/verstappen-vs-rossi-en-portimao-el-duelo-de-9-titulos-de-motogp-contra-el-campeon-de-f1-en-un-gt3-de-600-cv/",
-      "fuente": "Autotest",
-      "fecha": "2026-10-01T22:16:23Z",
-      "resumen": "Max Verstappen ya ganó todo en Fórmula 1 con Red Bull, pero su interés por las carreras de resistencia y por los autos de producción viene de antes.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/verstappen-vs-rossi-en-portimao-el-duelo-1200x740-1.jpg",
-      "menciones": 1,
-      "fuentes": [
-        "Autotest"
-      ]
-    },
-    {
-      "titulo": "Los autos más vendidos en Argentina en septiembre",
-      "link": "https://www.megautos.com/venta-autos-0-km-septiembre-2026/",
-      "fuente": "Megautos",
-      "fecha": "2026-10-01T21:25:48Z",
-      "resumen": "El mercado alcanzó las 49.814 unidades patentadas, lo que generó una caída interanual y un aumento mensual. Toyota y la Hilux nacional continúan liderando el mercado. La entrada Los autos más vendidos en Argentina en septiembre aparece primero en Mega Autos .",
-      "imagen": "https://www.megautos.com/wp-content/uploads/2026/10/autos-mas-vendidos-9-2026.jpg",
-      "menciones": 1,
-      "fuentes": [
-        "Megautos"
-      ]
-    },
-    {
-      "titulo": "La venta de autos usados pegó un salto en septiembre",
-      "link": "https://eleconomista.com.ar/autos/la-venta-autos-usados-pego-salto-septiembre-n98565",
-      "fuente": "El Economista",
-      "fecha": "2026-10-01T20:37:00Z",
-      "resumen": "Los concesionarios señalaron que se trata del \"segundo mejor septiembre desde 1995\", año en que se empezaron a computar las transferencias. No obstante, el sector se mantiene abajo en relación a 2025.",
-      "imagen": "https://statics.eleconomista.com.ar/2026/07/crop/6a4bd14062615__950x512.webp",
-      "menciones": 1,
-      "fuentes": [
-        "El Economista"
-      ]
-    },
-    {
-      "titulo": "Sébastien Ogier da un paso atrás en el WRC: no disputará el Rally de Monte-Carlo 2027",
-      "link": "https://www.diariomotor.com/competicion/noticia/sebastien-ogier-paso-atras-wrc/",
+      "titulo": "España convencida de que todo lo que fabrica China es malo y ahora toca explicar qué hace una de sus marcas de coches entre las 10 más fiables",
+      "link": "https://www.diariomotor.com/noticia/mg-marca-china-top-10-fiable/",
       "fuente": "Diariomotor (ES)",
-      "fecha": "2026-10-01T20:18:26Z",
-      "resumen": "No había dado pistas acerca de su futuro hasta el momento, pero todo parece indicar que Sébastien Ogier podría alejarse aún más del Mundial de Rallyes con la despedida de los actuales Rally1 y la llegada de la nueva normativa WRC27. El francés había admitido que no tenía mucho interés en los coches del año que viene y sorprendentemente hemos terminado viendo antes a Kalle Rovanperä y a Ott Tänak…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/10/Ogier01MC26cm1040-6abea373aa279.jpg?class=XL",
+      "fecha": "2026-10-02T19:00:29Z",
+      "resumen": "Cuando una nueva marca llega al mercado es normal que surjan dudas, incertidumbre y miedo. Algo que ha pasado -y sigue pasando- con las firmas chinas pero, ¿el hecho de que una de ellas haya conseguido entrar en el Top 10 de fiabilidad es suficiente para desmontar prejuicios? MG ha conseguido entrar en el Top 10 de marcas más fiables en un estudio británico MG ha quedado novena en un ranking de…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/10/mg-top10-ranking-fiabilidad-6abfb2cbae673.jpg?class=XL",
       "menciones": 1,
       "fuentes": [
         "Diariomotor (ES)"
       ]
     },
     {
-      "titulo": "Su todoterreno más ligera ahora tiene una prima naked y barata, la nueva BMW F 450 R, con la receta perfecta para triunfar en 2027",
-      "link": "https://www.diariomotor.com/motos/bmw-f-450-r/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-10-01T20:16:35Z",
-      "resumen": "BMW sabe lo que se hace. Y uno de los mejores ejemplos lo encontramos en la nueva BMW F 450 GS, una aventurera ligera, de precio dentro de lo razonable para una marca premium, a la medida del A2, pero a la vez tremendamente atractiva, con un catálogo de personalización muy completo y una dotación tecnológica de primer nivel. ¿Qué mejor receta que esa para convencer al cliente de comprar una BMW?…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/10/bmw-f-450-r-76-6abe9f088f28e.jpg?class=XL",
-      "menciones": 2,
-      "fuentes": [
-        "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "Rally de Italia-Cerdeña: Oliver Solberg empieza mandando y avisa en la batalla por el Mundial",
-      "link": "https://www.diariomotor.com/competicion/noticia/rally-de-italia-cerdena-oliver-solberg-tc1/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-10-01T19:57:31Z",
-      "resumen": "El Rally de Italia-Cerdeña 2026 dio su pistoletazo de salida, con todos los ojos centrados en la lucha por el título Mundial y el gran anuncio del regreso de Ford Racing como equipo oficial a partir de 2028. La batalla entre los tres candidatos a alzarse con el entorchado ha tenido como gran protagonista a Oliver Solberg , autor del segundo mejor tiempo tanto en el shakedown matinal y el scratch…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/10/Solberg13ITA26sg135-6abe9ebfbe31d.jpg?class=XL",
-      "menciones": 2,
-      "fuentes": [
-        "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "Su hijo y sus nietos le regalaron la maqueta de su coche favorito por su 74 cumpleaños. Lo que no esperaba era la sorpresa que le dieron después",
-      "link": "https://www.motorpasion.com/videos-de-coches/su-hijo-sus-nietos-le-regalan-maqueta-su-coche-favorito-su-74-cumpleanos-que-no-esperaba-sorpresa-que-le-dieron-despues",
+      "titulo": "Juan José Ebenezer, mecánico: “Mi coche es una mierda. No os dejéis engañar, es muy bonito, pero es una mierda. Y probablemente el tuyo también, me da igual la marca”",
+      "link": "https://www.motorpasion.com/revision/juan-jose-ebenezer-mecanico-mi-coche-mierda-no-os-dejeis-enganar-muy-bonito-mierda-probablemente-tuyo-tambien-me-da-igual-marca",
       "fuente": "Motorpasión (ES)",
-      "fecha": "2026-10-01T19:01:23Z",
-      "resumen": "Hay regalos y regalos, y el que hizo esta familia al abuelo por su 74 cumpleaños es de lo que están a otro nivel. De hecho, su hijo y sus nietos le hicieron dos regalos, pero fue el segundo el que le hizo llorar porque era lo último que se esperaba. A sus 74 años, estrenó el coche con el que llevaba soñando desde que era joven. Su familia lo grabó todo y se ha convertido en uno de los vídeos más…",
-      "imagen": "https://i.blogs.es/46eb38/corvette-1/1024_2000.jpeg",
+      "fecha": "2026-10-02T18:01:23Z",
+      "resumen": "Se supone que los coches nuevos son más fiables que nunca, de hecho, de un tiempo a esta parte, son muchos los fabricantes que han ampliado la garantía oficial que ofrecen en todos los modelos. Sin embargo, el mecánico Juan José Ebenezer , que cada vez es más popular en redes sociales, opina lo contrario y considera que, hoy por hoy, hay muy pocos coches fiables y buenos. Es más, asegura que su…",
+      "imagen": "https://i.blogs.es/c79293/coches-nuevos-vs-viejos-6_1/1024_2000.jpeg",
+      "menciones": 2,
+      "fuentes": [
+        "Motorpasión (ES)"
+      ]
+    },
+    {
+      "titulo": "Es como un Toyota RAV4, pero mucho más barato sin ser chino, con 292 CV, 4x4 y hace 81 km sin gastar una gota de gasolina",
+      "link": "https://www.diariomotor.com/noticia/hyundai-tucson-2027-hibrido-enchufable/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-10-02T18:00:12Z",
+      "resumen": "El Toyota RAV4 ha sido y sigue siendo referencia en muchos sentidos y probablemente sea el mejor de su clase. Ejemplo de cómo debe ser un SUV que aún conserva ciertas aptitudes fuera del asfalto. Ahora también un buen ejemplo de cómo debe ser un SUV en estos tiempos que corren, con mecánicas tremendamente eficientes, que parten del archiconocido sistema híbrido de Toyota, pero también incluyen la…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/10/hyundai-tucson-2026-interior-1-6abf274826916.jpg?class=XL",
+      "menciones": 1,
+      "fuentes": [
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "Rally de Italia-Cerdeña: Thierry Neuville lidera, Oliver Solberg aprieta y Evans termina sexto con el Mundial en juego",
+      "link": "https://www.diariomotor.com/competicion/noticia/rally-de-italia-cerdena-thierry-neuville-lidera-tc7/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-10-02T17:48:29Z",
+      "resumen": "Un viernes que puede valer un Mundial. La lucha en el Rally de Italia-Cerdeña se ha recrudecido en dos frentes, con los competidores que pelean por el título Mundial por un lado enfrentándose a los problemas derivados de abrir pista para no perder demasiadas posiciones en la clasificación de la cita sarda y salir muy pronto en el orden de arranque de este sábado, mientras que, por el otro, los…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/10/2026italy-_fd_-215-6abfd1f14ad6a.jpg?class=XL",
+      "menciones": 4,
+      "fuentes": [
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "El Ferrari 550 de Michael Jordan se vendió por 2,7 millones: 4 veces más que cualquier otro",
+      "link": "https://autotest.com.ar/noticias/el-ferrari-550-de-michael-jordan-se-vendio-por-2-7-millones-4-veces-mas-que-cualquier-otro/",
+      "fuente": "Autotest",
+      "fecha": "2026-10-02T17:40:19Z",
+      "resumen": "En el mercado de los autos de colección, la procedencia es un factor tan determinante como el estado del motor o la cantidad de kilómetros.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/el-ferrari-550-de-michael-jordan-se-vend-1200x740-1.jpg",
+      "menciones": 1,
+      "fuentes": [
+        "Autotest"
+      ]
+    },
+    {
+      "titulo": "Ni Seur ni DHL: el mismísimo dueño de Bugatti les llevó a casa el Bugatti Chiron de LEGO que compraron por internet... en un Bugatti Chiron real",
+      "link": "https://www.motorpasion.com/cine-tv-juegos/seur-dhl-mismisimo-dueno-bugatti-les-llevo-a-casa-bugatti-chiron-lego-que-compraron-internet-bugatti-chiron-real",
+      "fuente": "Motorpasión (ES)",
+      "fecha": "2026-10-02T17:01:22Z",
+      "resumen": "Aprovechando el lanzamiento del Bugatti Chiron Pur Sport de LEGO TECHNIC, el CEO de Bugatti, Mate Rimac, llevó varios de estos coches a escala a los domicilios de los niños que habían comprado uno. Ya puestos, utilizó un Bugatti Chiron real como vehículo de reparto. Sin duda, el coche más especial de su colección de LEGO LEGO tiene tantas colaboraciones que es difícil acordarse de todas y buena…",
+      "imagen": "https://i.blogs.es/f45b5b/bugatti-lego-2/1024_2000.jpeg",
       "menciones": 1,
       "fuentes": [
         "Motorpasión (ES)"
       ]
     },
     {
-      "titulo": "No es 208: el hatchback que superó en ventas al Toyota Yaris en septiembre 2026",
-      "link": "https://autotest.com.ar/noticias/no-es-208-el-hatchback-que-supero-en-ventas-al-toyota-yaris-en-septiembre-2026/",
+      "titulo": "Furgón, minibús o camper, esta nueva marca llega dispuesta a meterse en todos los jardines",
+      "link": "https://www.diariomotor.com/noticia/wuling-atlas-2027-europa/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-10-02T17:00:57Z",
+      "resumen": "Antes de que termine el año , una nueva marca de vehículos comerciales pondrá a la venta su primer furgón mediano con algunos derivados. Es un vehículo sencillo, pensado para trabajar y con un precio tal vez no tan ajustado como nos gustaría, o al menos respecto a los rivales directos. Lo tendrá difícil para convencer a las empresas que ya cuentan con muchas opciones de las marcas de siempre y con…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/10/wuling-atlas-6abfa4b7c5f1c.png?class=XL",
+      "menciones": 1,
+      "fuentes": [
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "Desde USD 32.500: se lanzó una nueva pick up con precio competitivo y motor turbodiésel que compite contra Toyota Hilux",
+      "link": "https://autotest.com.ar/noticias/desde-usd-32-500-se-lanzo-una-nueva-pick-up-con-precio-competitivo-y-motor-turbodiesel-que-compite-contra-toyota-hilux/",
       "fuente": "Autotest",
-      "fecha": "2026-10-01T19:00:58Z",
-      "resumen": "El Chevrolet Onix HB 2027 ofrece motor turbo, 6 airbags, conectividad Wi-Fi y opciones de financiación accesibles en Argentina.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/Chevrolet-Onix-perfil.jpg",
+      "fecha": "2026-10-02T17:00:14Z",
+      "resumen": "Chery presenta en Argentina su innovadora línea con modelos destacados como la pick-up HIMLA, el SUV Tiggo 4 Pro y el sedán híbrido Arrizo 8 CSH, mientras anticipa el revolucionario concepto Tiggo V.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/Chery-Himla-caja.jpg",
+      "menciones": 8,
+      "fuentes": [
+        "Autotest"
+      ]
+    },
+    {
+      "titulo": "Tiene 81 años, vive en una autocaravana y sigue trabajando gracias al \"workamping\", la fórmula que le permite viajar por Estados Unidos",
+      "link": "https://www.motorpasion.com/furgonetas-y-caravanas/tiene-81-anos-vive-autocaravana-sigue-trabajando-gracias-al-workamping-formula-que-le-permite-viajar-estados-unidos",
+      "fuente": "Motorpasión (ES)",
+      "fecha": "2026-10-02T16:01:23Z",
+      "resumen": "Es bastante habitual asociar la jubilación al descanso después de toda una vida de trabajo: aunque sin lujos para muchos, lo suyo es poder relajarse y vivir más tranquilos. Sin embargo, las cosas no siempre salen como estaban previstas. Que se lo digan a Richard Smith, un estadounidense de 81 años cuya historia demuestra cómo una mala planificación financiera puede cambiar por completo los años de…",
+      "imagen": "https://i.blogs.es/dd5786/portada-mop-1790846030385/1024_2000.jpeg",
+      "menciones": 1,
+      "fuentes": [
+        "Motorpasión (ES)"
+      ]
+    },
+    {
+      "titulo": "Del tamaño de un SEAT León, este futuro súper ventas ya está en España a precio de urbano con 218 CV y a tope de equipo",
+      "link": "https://www.diariomotor.com/noticia/leapmotor-b05-promo-octubre/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-10-02T16:00:39Z",
+      "resumen": "Encontrar un vehículo de tamaño compacto bien equipado, con libertad para entrar en las Zonas de Bajas Emisiones y que además no se dispare de precio empieza a ser bastante complicado. Una de las últimas novedades en llegar a España quiere precisamente hacerse un hueco como alternativa real a los Peugeot 308 y Opel Astra equivalentes ofreciendo una dotación de serie muy completa y un precio…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/04/leapmotorb05-3-69eb46ca2c90b.jpeg?class=XL",
+      "menciones": 1,
+      "fuentes": [
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "Chery presentó tres modelos en Argentina: una pick up, un sedán híbrido enchufable y un SUV",
+      "link": "https://autotest.com.ar/lanzamientos/chery-presento-tres-modelos-en-argentina-una-pick-up-un-sedan-hibrido-enchufable-y-un-suv/",
+      "fuente": "Autotest",
+      "fecha": "2026-10-02T15:30:27Z",
+      "resumen": "Chery presenta su nueva línea, incluyendo un SUV conceptual, una pick-up mediana, y un sedán híbrido enchufable en la Expo Auto Chino.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/Chery-logo.jpg",
       "menciones": 1,
       "fuentes": [
         "Autotest"
       ]
     },
     {
-      "titulo": "Parece imposible, pero aún puedes comprar una Honda nueva, para el carné de coche, por 2.299 €",
-      "link": "https://www.diariomotor.com/noticia/honda-nueva-2299-euros/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-10-01T19:00:45Z",
-      "resumen": "No tiene demasiado misterio. El precio está siendo clave para que las chinas conquisten el mercado español. No solo el precio, sino también la sensación cada vez más real de que sus productos son cada vez más atractivos, en todos los sentidos. A punto de que termine septiembre, ya sabemos que Zontes será la marca más vendida en España este mes, superando a Honda y Yamaha. ¿Pero no hay sitio en las…",
-      "imagen": "https://www.diariomotor.com/imagenes/2024/10/hueco-honda-vision-110-scooter-1111452.jpg?class=XL",
+      "titulo": "Tesla podrá importar autos de hasta u$s35.000 sin arancel tras el cambio de Milei",
+      "link": "https://www.iprofesional.com/autos/465778-milei-amplio-a-us35-000-el-limite-para-que-tesla-importe-sin-arancel",
+      "fuente": "iProfesional",
+      "fecha": "2026-10-02T15:08:00Z",
+      "resumen": "El nuevo tope permite sumar modelos de Tesla y otras marcas al régimen. El cupo anual continúa en 50.000 unidades, frente a una demanda mucho mayor (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
+      "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/09/626605.jpg",
       "menciones": 1,
       "fuentes": [
-        "Diariomotor (ES)"
+        "iProfesional"
+      ]
+    },
+    {
+      "titulo": "Llegó otro SUV híbrido enchufable con 218 CV y pantalla de 15,4 pulgadas: cuánto cuesta",
+      "link": "https://autotest.com.ar/lanzamientos/llego-otro-suv-hibrido-enchufable-con-218-cv-y-pantalla-de-154-pulgadas-cuanto-cuesta/",
+      "fuente": "Autotest",
+      "fecha": "2026-10-02T14:30:26Z",
+      "resumen": "El nuevo Deepal S05 llega a Argentina con una oferta atractiva: SUV híbrido enchufable de 100 km de autonomía eléctrica. Conocé sus características, precio y tecnología.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/SUV-Deepal-S05-trasera.jpg",
+      "menciones": 3,
+      "fuentes": [
+        "Autotest"
       ]
     }
   ]
