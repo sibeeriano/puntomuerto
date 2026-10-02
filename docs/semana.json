@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-02T18:25:38Z",
+  "actualizado": "2026-10-02T20:49:13Z",
   "desde": "2026-09-25",
   "hasta": "2026-10-02",
   "destacadas": [
@@ -29,6 +29,19 @@
         "Autotest",
         "Diariomotor (ES)",
         "Motorpasión (ES)"
+      ]
+    },
+    {
+      "titulo": "Una marca china llegó a Argentina con cuatro SUV electrificados y hasta 346 HP",
+      "link": "https://autotest.com.ar/noticias/una-marca-china-llego-a-argentina-con-cuatro-suv-electrificados-y-hasta-346-hp/",
+      "fuente": "Autotest",
+      "fecha": "2026-10-02T19:00:35Z",
+      "resumen": "Las marcas chinas Omoda y Jaecoo desembarcan en Argentina con sus innovadores SUV híbridos, mostrando un enfoque comercial directo desde la fábrica.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/SUV-Omoda-5-trompa.jpg",
+      "menciones": 3,
+      "fuentes": [
+        "Autotest",
+        "iProfesional"
       ]
     },
     {
@@ -149,6 +162,30 @@
       ]
     },
     {
+      "titulo": "Fiat muestra las primeras imágenes del Argo X",
+      "link": "https://www.megautos.com/fiat-argo-x-primeras-imagenes/",
+      "fuente": "Megautos",
+      "fecha": "2026-10-02T19:40:42Z",
+      "resumen": "El nuevo modelo derivado del Grande Panda europeo será producido en Brasil y lanzado próximamente en ese mercado. Lo esperamos en Argentina. La entrada Fiat muestra las primeras imágenes del Argo X aparece primero en Mega Autos .",
+      "imagen": "https://www.megautos.com/wp-content/uploads/2026/10/Argo-X-teaser-1.jpg",
+      "menciones": 1,
+      "fuentes": [
+        "Megautos"
+      ]
+    },
+    {
+      "titulo": "He visitado el lugar al que cualquier amante de los coches debería ir: está escondido en medio de un barrio residencial y es gratis",
+      "link": "https://www.motorpasion.com/superlujo/he-visitado-lugar-al-que-cualquier-amante-coches-deberia-ir-esta-escondido-medio-barrio-residencial-gratis",
+      "fuente": "Motorpasión (ES)",
+      "fecha": "2026-10-02T19:01:23Z",
+      "resumen": "Si te gustan los coches, probablemente intentas hacer planes relacionados con el mundo del motor cuando haces turismo , ya sea visitar un museo del automóvil, ir a un circuito o asistir a un evento, como una feria de clásicos o una concentración de deportivos. Alemania es uno de los países más interesantes para hacer este tipo de planes porque está lleno de museos y circuitos míticos, pero el…",
+      "imagen": "https://i.blogs.es/e8c1dd/classic-remise-mop-4/1024_2000.jpeg",
+      "menciones": 1,
+      "fuentes": [
+        "Motorpasión (ES)"
+      ]
+    },
+    {
       "titulo": "España convencida de que todo lo que fabrica China es malo y ahora toca explicar qué hace una de sus marcas de coches entre las 10 más fiables",
       "link": "https://www.diariomotor.com/noticia/mg-marca-china-top-10-fiable/",
       "fuente": "Diariomotor (ES)",
@@ -266,42 +303,6 @@
       "menciones": 1,
       "fuentes": [
         "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "Chery presentó tres modelos en Argentina: una pick up, un sedán híbrido enchufable y un SUV",
-      "link": "https://autotest.com.ar/lanzamientos/chery-presento-tres-modelos-en-argentina-una-pick-up-un-sedan-hibrido-enchufable-y-un-suv/",
-      "fuente": "Autotest",
-      "fecha": "2026-10-02T15:30:27Z",
-      "resumen": "Chery presenta su nueva línea, incluyendo un SUV conceptual, una pick-up mediana, y un sedán híbrido enchufable en la Expo Auto Chino.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/Chery-logo.jpg",
-      "menciones": 1,
-      "fuentes": [
-        "Autotest"
-      ]
-    },
-    {
-      "titulo": "Tesla podrá importar autos de hasta u$s35.000 sin arancel tras el cambio de Milei",
-      "link": "https://www.iprofesional.com/autos/465778-milei-amplio-a-us35-000-el-limite-para-que-tesla-importe-sin-arancel",
-      "fuente": "iProfesional",
-      "fecha": "2026-10-02T15:08:00Z",
-      "resumen": "El nuevo tope permite sumar modelos de Tesla y otras marcas al régimen. El cupo anual continúa en 50.000 unidades, frente a una demanda mucho mayor (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
-      "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/09/626605.jpg",
-      "menciones": 1,
-      "fuentes": [
-        "iProfesional"
-      ]
-    },
-    {
-      "titulo": "Llegó otro SUV híbrido enchufable con 218 CV y pantalla de 15,4 pulgadas: cuánto cuesta",
-      "link": "https://autotest.com.ar/lanzamientos/llego-otro-suv-hibrido-enchufable-con-218-cv-y-pantalla-de-154-pulgadas-cuanto-cuesta/",
-      "fuente": "Autotest",
-      "fecha": "2026-10-02T14:30:26Z",
-      "resumen": "El nuevo Deepal S05 llega a Argentina con una oferta atractiva: SUV híbrido enchufable de 100 km de autonomía eléctrica. Conocé sus características, precio y tecnología.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/SUV-Deepal-S05-trasera.jpg",
-      "menciones": 3,
-      "fuentes": [
-        "Autotest"
       ]
     }
   ]
