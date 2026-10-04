@@ -1,44 +1,31 @@
 {
-  "actualizado": "2026-10-03T22:26:17Z",
-  "desde": "2026-09-26",
-  "hasta": "2026-10-03",
+  "actualizado": "2026-10-04T17:35:01Z",
+  "desde": "2026-09-27",
+  "hasta": "2026-10-04",
   "destacadas": [
     {
-      "titulo": "No todo lo barato viene de China, este SUV Made in Spain cuesta 149 € al mes, tiene 7 plazas, etiqueta ECO y gasta 5,3 l/100 km",
-      "link": "https://www.diariomotor.com/noticia/oferta-citroen-c3-aircross-octubre-2026/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-10-03T17:00:46Z",
-      "resumen": "Solemos asociar que el coche barato es irremediablemente chino, pero no es así. Y así lo deja patente nuestro protagonista, un SUV de hasta 7 plazas, etiqueta ECO y 5,3 l/100 km que se fabrica en España y que puede ser nuestro por 149 euros al mes . Citroën tiene la fórmula para frenar a los chinos con un SUV Made in Spain Es uno de los coches más baratos de su segmento . Recurre a un sistema MHEV…",
-      "imagen": "https://www.diariomotor.com/imagenes/2024/12/c3-aircross-citroen-2cv-siglo-xxi-1128845.jpg?class=XL",
-      "menciones": 16,
-      "fuentes": [
-        "Autotest",
-        "Diariomotor (ES)",
-        "Megautos"
-      ]
-    },
-    {
-      "titulo": "El nuevo Leapmotor B03X es el SUV eléctrico chino de Stellantis más barato que un BYD: cuesta menos de 24.000 euros",
-      "link": "https://www.motorpasion.com/compra-coches/nuevo-leapmotor-b03x-suv-electrico-chino-stellantis-barato-que-byd-cuesta-24-000-euros",
+      "titulo": "He probado el OModa 9 SHS: tiene 537 CV, recorre más de 800 km con un solo depósito de gasolina y cuesta menos de 45.000 euros, pero conducirlo me ha dejado frío",
+      "link": "https://www.motorpasion.com/pruebas-de-coches/omoda-9-shs-prueba",
       "fuente": "Motorpasión (ES)",
-      "fecha": "2026-10-02T08:01:23Z",
-      "resumen": "Leapmotor amplía su gama en España de la mano del grupo Stellantis, que lo fabricará en Villaverde (Madrid) a partir de 2027, con el B03X , un SUV eléctrico urbano que se sitúa por debajo del Leapmotor B10 . Es el primer modelo de la nueva plataforma A y llega con dos baterías a escoger, mucho maletero y un precio muy competitivo. Mide 4,27 metros de largo por 1,81 m de ancho y 1,64 m de alto.…",
-      "imagen": "https://i.blogs.es/03c126/leapmotor_b03x1/1024_2000.jpeg",
-      "menciones": 6,
+      "fecha": "2026-10-04T10:01:23Z",
+      "resumen": "Omoda 9 SHS . Suena a nave espacial de serie B, pero no. Se trata de uno de los modelos que ha contribuido a hacer de Omoda-Jaecoo -una no va sin la otra- la decimosegunda marca más vendida en España en lo que va de año matriculando casi 30.000 coches. El Omoda 9 SHS es el tope de gama de estas dos marcas del grupo Chery. Y su aportación no es anecdótica, pues se vende a una media de 420 unidades…",
+      "imagen": "https://i.blogs.es/7b1653/omoda_9_shs_20260726_131328386/1024_2000.jpeg",
+      "menciones": 25,
       "fuentes": [
         "Autotest",
         "Diariomotor (ES)",
+        "Megautos",
         "Motorpasión (ES)"
       ]
     },
     {
-      "titulo": "Fernando Alonso y Carlos Sainz se citan de nuevo en pista: 12º y 13º en una sorprendente clasificación en Sepang",
-      "link": "https://www.diariomotor.com/competicion/noticia/fernando-alonso-y-carlos-sainz-se-citan-de-nuevo-en-pista-12o-y-13o-en-una-sorprendente-clasificacion-en-sepang/",
+      "titulo": "Fernando Alonso convierte el caos en su mejor resultado del año y Carlos Sainz se queda sin premio",
+      "link": "https://www.diariomotor.com/competicion/noticia/pilotos-espanoles-sepang-alonso-sainz-carrera/",
       "fuente": "Diariomotor (ES)",
-      "fecha": "2026-10-03T12:49:35Z",
-      "resumen": "Se volverán a encontrar en pista los dos españoles después de lo sucedido en Madring y tras lo que ha sido una de las mejores clasificaciones de ambos en lo que vamos de temporada, especialmente para el piloto de Williams el cual esperaba un fin de semana de sufrimiento teniendo en cuenta que el Circuito de Sepang es seguramente una de las Nemesis en cuanto a trazado de lo que se puede encontrar…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/10/2298329879-6ac0dd66e0160.jpg?class=XL",
-      "menciones": 2,
+      "fecha": "2026-10-04T14:12:48Z",
+      "resumen": "Todo lo que ha tenido de indignante el arranque y el final de este Gran Premio de Bahréin en Sepang, lo ha tenido de especial para dos pilotos. Max Verstappen y Fernando Alonso han conseguido dar la vuelta a un domingo que prometía ser incluso más rocambolesco y vergonzoso que aquel Gran Premio de Bélgica del año 2021. A los apagones, el caos y los retrasos del inicio, se ha sumado un cierre con…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/10/espanoles-carrera-domingo-sepang-bahrein-2026-f1-5-6ac23f7eb12f8.jpg?class=XL",
+      "menciones": 3,
       "fuentes": [
         "Diariomotor (ES)",
         "Motorpasión (ES)"
@@ -123,185 +110,195 @@
       ]
     },
     {
-      "titulo": "Tesla desembarca en Argentina y busca empleados: qué puestos y cómo postularse",
-      "link": "https://www.iprofesional.com/autos/465541-tesla-desembarca-en-argentina-y-busca-empleados-como-postularse",
-      "fuente": "iProfesional",
-      "fecha": "2026-09-29T22:41:00Z",
-      "resumen": "La marca de Elon Musk amplió sus búsquedas de personal y ya hay indicios concretos sobre las ubicaciones donde operará en el país (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
-      "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/09/626605.jpg",
-      "menciones": 2,
-      "fuentes": [
-        "El Economista",
-        "iProfesional"
-      ]
-    },
-    {
-      "titulo": "Oriente Medio espera una decisión de la FIA: el 15 de octubre, fecha clave para la Fórmula 1",
-      "link": "https://www.diariomotor.com/competicion/noticia/oriente-medio-grandes-premios-octubre/",
+      "titulo": "La FIA explica el caos de Sepang: un fallo de software no conocido dejó a los Fórmula 1 sin potencia",
+      "link": "https://www.diariomotor.com/competicion/noticia/fia-explicacion-caos-de-sepang/",
       "fuente": "Diariomotor (ES)",
-      "fecha": "2026-10-03T21:41:38Z",
-      "resumen": "El próximo 15 de octubre seguramente sea el día elegido para anunciar cuál es la decisión definitiva de las próximas carreras FIA que se disputarán en la zona de Oriente Medio. En ese día, el Consejo Mundial del Motor terminará por definir los últimos elementos que quedan por definir tanto para esta temporada como para la próxima, algo que afecta especialmente en materia de calendarios . En los…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/10/SI202610030180_hires_jpeg_24bit_rgb-6ac15a685cbc2.jpg?class=XL",
+      "fecha": "2026-10-04T19:04:38Z",
+      "resumen": "Ha sido una de las imágenes de la mañana . El Gran Premio de Bahréin posponía su arranque después de lo que parecía ser un fallo múltiple en la electrónica de los Fórmula 1. La instantánea era dantesca. Los monoplazas más evolucionados del planeta, equipados con unidades de potencia de 50:50 alimentadas por combustible sostenible, se quedaban parados en medio de la vuelta de formación del Circuito…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/10/SI202610040283_hires_jpeg_24bit_rgb-6ac286e241d11.jpg?class=XL",
       "menciones": 1,
       "fuentes": [
         "Diariomotor (ES)"
       ]
     },
     {
-      "titulo": "La FIA abre el grifo de los WRC27: más potencia para distanciarse de los Rally2 'originales'",
-      "link": "https://www.diariomotor.com/competicion/noticia/wrc27-mas-potencia-rally2/",
+      "titulo": "Porsche Penske Motorsport conquista Petit Le Mans en medio de la noche que definió la temporada",
+      "link": "https://www.diariomotor.com/competicion/noticia/porsche-conquista-petit-le-mans/",
       "fuente": "Diariomotor (ES)",
-      "fecha": "2026-10-03T20:43:40Z",
-      "resumen": "El final de la temporada adelantado parece haber precipitado los anuncios de las novedades de cara a 2027 y de los movimientos que se realizan entre las bambalinas del parque de asistencia. Aunque seguimos sin conocer cuál será el calendario de la próxima temporada, sí que hemos conocido en los últimos días que Portugal no estará sorpresivamente dentro del programa , además de confirmarse este…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/10/wrc-rally1-2057-6ac14c206c40e.jpg?class=XL",
+      "fecha": "2026-10-04T17:02:29Z",
+      "resumen": "Las diez horas que suelen definir el Campeonato IMSA SportsCar este año tuvo una noche caótica con numerosas banderas amarillas, incluyendo una tras un impresionante accidente protagonizado por Felipe Nasr, cuyo Porsche 963 salió catapultado hacia el muro tras tocarse con el Cadillac tripulado por Louis Deletraz. También la noche dejó sin opciones de ganar al Cadillac de Action Express tras…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/10/Petit_Le_Mans_Porsche_Penske_Motorsport_GTP_2026_2_26-6ac23921e5798.jpg?class=XL",
       "menciones": 1,
       "fuentes": [
         "Diariomotor (ES)"
       ]
     },
     {
-      "titulo": "Kalle Rovanperä vuelve a acercarse al WRC y Toyota deja la puerta abierta a su posible regreso",
-      "link": "https://www.diariomotor.com/competicion/noticia/kalle-rovanpera-wrc-2027/",
+      "titulo": "Así es el todoterreno por el que merece la pena esperar a 2027... Toyota y Honda tienen razones para preocuparse",
+      "link": "https://www.diariomotor.com/noticia/hyundai-tucson-2027-xrt-pro-estados-unidos-mas-detalles/",
       "fuente": "Diariomotor (ES)",
-      "fecha": "2026-10-03T19:57:59Z",
-      "resumen": "Después de reconocer que no se sentía especialmente atraído por la nueva reglamentación, Kalle Rovanperä apareció durante esa semana por sorpresa en los test que Toyota GAZOO Racing estaba celebrando en Catalunya para ponerse al volante del prototipo del WRC27 . Jornada de pruebas sobre asfalto y la duda de cuál era la razón para que un piloto que aparentemente estaba enfocado en los circuitos…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/10/Rovanpera12CER25cm179-6ac141f3b1bcd.jpg?class=XL",
-      "menciones": 1,
-      "fuentes": [
-        "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "Soueast lanzó el S06 en Argentina",
-      "link": "https://www.megautos.com/soueast-s06/",
-      "fuente": "Megautos",
-      "fecha": "2026-10-03T19:57:57Z",
-      "resumen": "La marca china debuta en el país con un SUV híbrido enchufable de 265 CV que ofrece hasta 120 kilómetros de autonomía eléctrica. La entrada Soueast lanzó el S06 en Argentina aparece primero en Mega Autos .",
-      "imagen": "https://www.megautos.com/wp-content/uploads/2026/10/Soueast-S06-05.jpg",
-      "menciones": 2,
-      "fuentes": [
-        "Megautos"
-      ]
-    },
-    {
-      "titulo": "Contrataron a un experto en ciberseguridad para hackear este BYD, y el resultado es brutal: \"Da miedo lo vulnerable que es\"",
-      "link": "https://www.motorpasion.com/tecnologia/contrataron-a-experto-ciberseguridad-para-hackear-este-byd-resultado-brutal-da-miedo-vulnerable-que",
-      "fuente": "Motorpasión (ES)",
-      "fecha": "2026-10-03T19:01:23Z",
-      "resumen": "Los gobiernos -sobre todo de EEUU y China- llevan enarbolando el concepto de seguridad nacional desde años para defender según qué políticas. \"Los coches de Tesla pueden recopilar datos y suponen una amenaza\", decía China. \" Los coches chinos son una amenaza a la seguridad nacional \", decía EEUU. Pero resulta que ese concepto tan abstracto, y que al ciudadano de a pie le pilla años luz, va…",
-      "imagen": "https://i.blogs.es/1b3ca7/portada-mop-1790930743865/1024_2000.jpeg",
-      "menciones": 1,
-      "fuentes": [
-        "Motorpasión (ES)"
-      ]
-    },
-    {
-      "titulo": "Fue la moto por la que mereció la pena esperar a 2026, el Golf GTI de dos ruedas, y ya queda poco tiempo para aprovechar esta oportunidad",
-      "link": "https://www.diariomotor.com/noticia/yamaha-tmax-25-aniversario-recta-final-2026/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-10-03T19:00:58Z",
-      "resumen": "Durante muchos años ha sido el referente de la moto puramente urbana, pero muy picante. Una moto deportiva escondida en el cuerpo de un scooter. Así como Volkswagen creó un mito intemporal, que hoy cumple cincuenta años, con su Volkswagen Golf GTI, Yamaha creó un icono que ahora muchos intentan imitar, con una Yamaha TMAX que además este año celebra su veinticinco aniversario. Y eso hace que este…",
-      "imagen": "https://www.diariomotor.com/imagenes/2025/11/yamaha-tmax-25-aniversario-2026-20-6916f326e1cfb.jpg?class=XL",
-      "menciones": 1,
-      "fuentes": [
-        "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "Rally de Italia-Cerdeña: Oliver Solberg se queda sin la ayuda de los Hyundai y el Mundial sigue al rojo vivo",
-      "link": "https://www.diariomotor.com/competicion/noticia/rally-de-italia-cerdena-oliver-solberg-tc13/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-10-03T18:17:17Z",
-      "resumen": "Cuando parecía que podíamos vivir un precioso duelo por la victoria entre Oliver Solberg y Thierry Neuville , el Rally de Italia-Cerdeña daba un vuelco cuando después del primer kilómetro del TC11, Thierry Neuville aparecía fuera del coche ya sin el casco. El belga tenía que decir adiós tras enganchar la rueda trasera izquierda con un árbol y arrancar la suspensión, una situación que, lejos de…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/10/Solberg13ITA26mj329-6ac12a4ada0b0.jpg?class=XL",
-      "menciones": 8,
-      "fuentes": [
-        "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "Pedro Bastida, mecánico, pone en marcha a la primera un motor con más de 650.000 km después de 12 años parado: \"Es uno de los más fiables que se han fabricado\"",
-      "link": "https://www.motorpasion.com/revision/pedro-bastida-mecanico-pone-marcha-a-primera-motor-650-000-km-despues-12-anos-parado-uno-fiables-que-se-han-fabricado",
-      "fuente": "Motorpasión (ES)",
-      "fecha": "2026-10-03T18:01:23Z",
-      "resumen": "Casi 660.000 km a sus espaldas y 12 años sin mover una rueda . No parece un coche tentador, sin embargo, ha bastado una batería nueva para que el coche arrancase a la primera . Pedro Bastida , mecánico de ITV y divulgador en redes , no ha necesitado más para devolver a la vida un motor que la última vez que funcionó todavía no había coches chinos en España. ¿Cómo es posible? \"2jZ diésel\", el…",
-      "imagen": "https://i.blogs.es/719a72/mercedes-om648-pedro-bastida/1024_2000.jpeg",
-      "menciones": 1,
-      "fuentes": [
-        "Motorpasión (ES)"
-      ]
-    },
-    {
-      "titulo": "Lamborghini Squadra Corse rumbo a quedarse sin socios en la clase GTD Pro de 2027",
-      "link": "https://www.diariomotor.com/competicion/noticia/lamborghini-sin-socios-clase-gtd-pro/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-10-03T17:37:02Z",
-      "resumen": "Llegó Petit Le Mans, última fecha del Campeonato IMSA SportsCar, y no hay noticias referentes a los planes de Lamborghini Squadra Corse para permanecer en la clase GTD Pro con el Temerario GT3 que debutó este año. Tras comunicarse que Pfaff Motorsport pausaría sus actividades, Andrea Reggiani, actual jefe de Lamborghini, había asomado que inició conversaciones con varios interesados en heredar el…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/10/Lamborgini_Temerario_GT3_Pfaff_Motorsport_IMSA_2026_GTDPro_26-6ac0f00d0adec.jpg?class=XL",
-      "menciones": 1,
-      "fuentes": [
-        "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "OFICIAL: se deshoja la margarita y Fernando Alonso seguirá en la F1 tras renovar con Aston Martin",
-      "link": "https://www.diariomotor.com/competicion/noticia/oficial-fernando-alonso-renovacion/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-09-29T13:22:24Z",
-      "resumen": "Se despejaron las dudas . Aston Martin emplazaba a medios y aficionados a las 12 del mediodía, hora británica con un vídeo que parecía adelantar el anuncio inevitable de la decisión que iba a tomar Fernando Alonso acerca de su futuro. El asturiano reposteaba la publicación de la escudería alada y sus fieles fans aguardaron descontando cada minuto para saber cuál iba a ser la opción elegida.…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/09/2296902327-6abb9ecc13b1e.jpg?class=XL",
-      "menciones": 2,
-      "fuentes": [
-        "Diariomotor (ES)",
-        "Motorpasión (ES)"
-      ]
-    },
-    {
-      "titulo": "McLaren descarta, a corto y mediano plazo, construir su propio motor",
-      "link": "https://www.diariomotor.com/competicion/noticia/mclaren-descarta-a-corto-y-mediano-plazo-construir-su-propio-motor/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-10-03T16:59:03Z",
-      "resumen": "Tras iniciar esta temporada lanzando al viento varias críticas acerca del trato que ha recibido la escudería McLaren por parte de Mercedes AMG High Performance Powertrains, Zak Brown planteó la posibilidad de diseñar y fabricar sus propios motores para afrontar la nueva normativa técnica prevista para 2030. Sin embargo, con el transcurrir de los meses la fricción ha cesado, las críticas negativas…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/10/McLaren_MCL40_Formula_1_Sepang_2026_2_26-6abfa59581c06.jpg?class=XL",
-      "menciones": 1,
-      "fuentes": [
-        "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "¿Un scooter de 300cc por menos de 3.000 €? Sí, y además bien equipado, ligero y manejable, perfecto para el día a día",
-      "link": "https://www.diariomotor.com/noticia/oferta-keeway-vieste-300-oct/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-10-03T16:01:54Z",
-      "resumen": "En los últimos años los precios de las motocicletas se han incrementado de manera importante y son muchos los usuarios interesados a los que se les complica adquirir una. Con la llegada de nuevos fabricantes chinos parece que se ha relajado un poco la situación, siendo el resto de marcas los que han comenzado a jugar con los descuentos para tratar de reconquistar al público. Un claro ejemplo es el…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/10/Keeway-Vieste-300cc11-6ac1094d9117d.jpg?class=XL",
+      "fecha": "2026-10-04T17:00:49Z",
+      "resumen": "Probablemente estemos ante uno de los trabajos de diseño más relevantes de cuantos Hyundai haya hecho en muchos años . Por el esfuerzo que se aprecia de la marca para diferenciarse. Por el mercado potencial al que aspira llegar este coche, probablemente la generación más todoterreno de Hyundai Tucson , no solo en lo que respecta a su estética. El Tucson XRT refuerza la apariencia campera, mientras…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/10/hyundai-tucson-2027-xrt-pro-estados-unidos-13-6abf9c3794c85.jpg?class=XL",
       "menciones": 2,
       "fuentes": [
         "Diariomotor (ES)"
       ]
     },
     {
-      "titulo": "Parece una playa de Maldivas, pero está en Canarias: el paraíso camper para disfrutar del verano en otoño",
-      "link": "https://www.motorpasion.com/furgonetas-y-caravanas/parece-playa-maldivas-esta-canarias-paraiso-camper-para-disfrutar-verano-otono",
-      "fuente": "Motorpasión (ES)",
-      "fecha": "2026-10-03T16:01:22Z",
-      "resumen": "No hay que cruzarse medio planeta en avión para encontrar una playa como las de Maldivas : la de este pueblo de las Islas Canarias nada tiene que envidiar a las del Océano Índico. Ahora que llega el otoño, sigue siendo verano en este rincón con aguas turquesa, fina arena dorada y kilómetros de playa. Se trata de Morro Jable , un pueblo del sur de Fuerteventura que bien puede presumir de tener una…",
-      "imagen": "https://i.blogs.es/9a9f6f/playa-del-matorral-1/1024_2000.jpeg",
-      "menciones": 1,
+      "titulo": "Rally de Italia-Cerdeña: una salida de Oliver Solberg a tres curvas del final corona Campeones del Mundo a Elfyn Evans y Scott Martin",
+      "link": "https://www.diariomotor.com/competicion/noticia/rally-de-italia-cerdena-elfyn-evans-scott-martin/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-10-04T15:24:05Z",
+      "resumen": "Cuando parecía que iba a ser imposible tener un final más emocionante, después de que Elfyn Evans y Scott Martin pudieran comprobar de primera mano que el TC15, el mismo que hacía las veces de Power Stage, se encontraba mucho más arenoso de lo esperado, algo que podría se clave en su duelo con Oliver Solberg, el Mundial de Rallyes tenía reservada una última sorpresa en forma de pinchazo de los…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/10/Evans13ITA26mj330-6ac252cbcb311.jpg?class=XL",
+      "menciones": 10,
       "fuentes": [
-        "Motorpasión (ES)"
+        "Diariomotor (ES)"
       ]
     },
     {
-      "titulo": "Geely presentó su auto de carrera para competir en TC 2000",
-      "link": "https://autotest.com.ar/noticias/geely-presento-su-auto-de-carrera-para-competir-en-tc-2000/",
+      "titulo": "La nueva versión de un SUV de Toyota superior a Corolla Cross: 7 asientos, 367 CV y mejor equipada",
+      "link": "https://autotest.com.ar/noticias/la-nueva-version-de-un-suv-de-toyota-superior-a-corolla-cross-7-asientos-367-cv-y-mejor-equipada/",
       "fuente": "Autotest",
-      "fecha": "2026-10-03T16:00:52Z",
-      "resumen": "Este anuncio marca un hito en la tradicional competencia automovilística del país ya que Geely se convierte en la primera automotriz china en participar con representación oficial. Este proyecto nace de la alianza entre Geely y el reconocido equipo de competición Pro Racing que cuenta con más de 30 años de experiencia en distintas categorías. […]",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/Geely-en-Expo-Auto-Chino.jpg",
-      "menciones": 1,
+      "fecha": "2026-10-04T15:15:16Z",
+      "resumen": "Toyota amplía la familia Grand Highlander 2027 en Estados Unidos con la nueva Woodland Edition, una versión híbrida del SUV del segmento E que se distingue por su estilo y su objetivo. Tal como su nombre lo da a entender (en español, edición bosque) está pensada para la aventura, por lo que incorpora neumáticos todo […]",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/Toyota-Grand-Highlander-Woodland-2027.jpg",
+      "menciones": 7,
       "fuentes": [
         "Autotest"
+      ]
+    },
+    {
+      "titulo": "Aston Martin retrasa su primer eléctrico y prioriza los V8 y V12 de gasolina",
+      "link": "https://www.diariomotor.com/noticia/aston-martin-retrasa-lanzamiento-primer-coche-electrico/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-10-04T15:00:17Z",
+      "resumen": "El futuro del automovilismo no es tan eléctrico como nos han intentando hacer creer, los motores a gasolina tienen aún mucho recorrido por delante y así lo acaba de demostrar Aston Martin al descubrir sus nuevos planes de aquí a 2035 . El fabricante inglés, que se había propuesta poner en las calles su primer coche eléctrico para el año 2030, acaba de anunciar a través de su CEO Adrian Hallmark,…",
+      "imagen": "https://www.diariomotor.com/imagenes/2025/08/aston-martin-vanquish-volante-2025-108-688c8c3cf14cb-1190187.jpg?class=XL",
+      "menciones": 1,
+      "fuentes": [
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "Ni Honda Forza 350 ni Zontes 368K, ojito al nuevo juguete súper equipado y con 42,2 CV que puedes comprar por menos de 5.400 €",
+      "link": "https://www.diariomotor.com/noticia/qj-fort-4-2-promo-oct/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-10-04T14:00:49Z",
+      "resumen": "En los últimos meses el segmento de las scooters de media cilindrada se ha animado con la llegada de modelos cada vez más completos y prestacionales. Las renovadas Zontes 368K y 368E han elevado mucho el listón por prestaciones, mientras que la Honda Forza 350 continúa siendo una de las referencias por calidad y equilibrio. Ahora aparece una nueva alternativa que busca combinar buena parte de los…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/09/qj-motor-fort-42-6ab1027253ce0.png?class=XL",
+      "menciones": 1,
+      "fuentes": [
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "La FIA explica por qué se paraban los coches en lluvia: \"Ha sido un bug en el software. Hemos tenido que hacer una actualización sobre la marcha\"",
+      "link": "https://www.motorpasion.com/formula1/fia-explica-que-se-paraban-coches-lluvia-ha-sido-bug-software-hemos-tenido-que-hacer-actualizacion-marcha",
+      "fuente": "Motorpasión (ES)",
+      "fecha": "2026-10-04T13:16:07Z",
+      "resumen": "La Fórmula 1 ha vivido en Sepang uno de los momentos más surrealistas de toda su historia. Cuando se intentó dar la salida bajo la lluvia, multitud de coches se quedaron parados. El problema era simple: los pilotos pisaban el acelerador, pero los coches no respondían. Ahora la FIA ha explicado que fue un fallo en el software . Nicholas Tombazis, el máximo responsable técnico de la FIA, ha dado la…",
+      "imagen": "https://i.blogs.es/63120f/verstappen-antonelli-sepang-f1-2026/1024_2000.jpeg",
+      "menciones": 1,
+      "fuentes": [
+        "Motorpasión (ES)"
+      ]
+    },
+    {
+      "titulo": "Max Verstappen estrena su casillero en 2026 en un Gran Premio tan vibrante como vergonzoso",
+      "link": "https://www.diariomotor.com/competicion/noticia/max-verstappen-estrena-su-casillero-en-2026-en-un-gran-premio-tan-vibrante-como-vergonzoso/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-10-04T12:55:23Z",
+      "resumen": "Gran Gran Premio de Baréin en Malasia, un nombre tan meme como irresponsable cuyo única bondad fue su producto en pista y a ratos. Max Verstappen demostró su gran ritmo del fin de semana con una victoria autoritaria en medio del caos meteorológico y organizacional y estrenó la cuenta de victorias de Red Bull con motor Ford. Andrea Kimi Antonelli amplía su liderato en el Mundial con un segundo…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/10/max-verstappen-andrea-kimi-antonelli-f1-sepang-2026-6ac2304562fb8.jpg?class=XL",
+      "menciones": 2,
+      "fuentes": [
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "Renault lanzará un renovado SUV que está arriba de Duster: 218 CV, 642 km de autonomía y buen precio",
+      "link": "https://autotest.com.ar/noticias/renault-lanzara-un-renovado-suv-que-esta-arriba-de-duster-218-cv-642-km-de-autonomia-y-buen-precio/",
+      "fuente": "Autotest",
+      "fecha": "2026-10-04T12:19:11Z",
+      "resumen": "Renault confirmó el lanzamiento del Scenic E-Tech Electric 2027 a los concesionarios españoles con una actualización centrada en autonomía, recarga y equipamiento. La marca reestructuró la oferta del SUV eléctrico y mantiene el motor de 218 CV como única opción mecánica, pero ahora con 642 km de autonomía y, por lo tanto, con prestaciones superiores. […]",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/Nuevo-Renault-Scenic-E-Tech.jpg",
+      "menciones": 2,
+      "fuentes": [
+        "Autotest"
+      ]
+    },
+    {
+      "titulo": "Adiós al diésel, la verdadera razón por la que BMW abandona el diésel definitivamente en su producto más importante",
+      "link": "https://www.diariomotor.com/noticia/bmw-serie-3-razon-abandono-diesel/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-10-04T12:00:14Z",
+      "resumen": "Se acabó el diésel. Tal y como os contábamos ayer, BMW ha tomado la decisión de que su producto más importante, el BMW Serie 3, deje de comercializarse con mecánicas diésel , una opción otrora casi hegemónica, que al menos en España seguía gozando de una demanda importante. La caída de la demanda y el traslado de clientes hacia eléctricos e híbridos enchufables explican la retirada del diésel del…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/09/bmw-350-xdrive-2027-detalles-interior-4-6abcb4af15aa2.jpg?class=XL",
+      "menciones": 1,
+      "fuentes": [
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "Peugeot lanzará el nuevo 208: estos serán sus cambios para enfrentar a Toyota Yaris",
+      "link": "https://autotest.com.ar/noticias/peugeot-lanzara-el-nuevo-208-estos-seran-sus-cambios-para-enfrentar-a-toyota-yaris/",
+      "fuente": "Autotest",
+      "fecha": "2026-10-04T11:04:50Z",
+      "resumen": "El nuevo Peugeot 208 eléctrico ya rueda como prototipo y las primeras imágenes espía confirman uno de los cambios más llamativos. La unidad de pruebas mantiene gran parte de la carrocería cubierta, aunque deja ver que la próxima generación del hatch conservará una silueta reconocible y estrenará un interior más digital, con un volante de […]",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/Nuevo-Peugeot-208.jpg",
+      "menciones": 4,
+      "fuentes": [
+        "Autotest"
+      ]
+    },
+    {
+      "titulo": "El Nissan KAIT de 2027 es el Sandero Stepway de Nissan, un SUV de precio 'low-cost' perfecto para España",
+      "link": "https://www.diariomotor.com/noticia/nissan-kait-2027-dacia-sandero-stepway-de-nissan/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-10-04T11:00:44Z",
+      "resumen": "Aunque su situación se ponga en duda tanto en Europa como en el resto del mundo, Nissan sigue sabiendo hacer las cosas tan bien como siempre y la prueba reside en su baluarte más preciado, el Nissan Qashqai , que sigue estando entre los 10 coches más vendidos de España. Siguiendo esa idea, la marca ya ha confirmado que traerá a Europa el Nissan Kicks , un SUV del segmento B que en más de una…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/10/Nissan-KAIT-2027-1-6abf978cdb338.jpg?class=XL",
+      "menciones": 1,
+      "fuentes": [
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "Max Verstappen gana, Kimi Antonelli sentencia y Fernando Alonso brilla en el día de la gran vergüenza de la Fórmula 1",
+      "link": "https://www.motorpasion.com/formula1/max-verstappen-gana-kimi-antonelli-sentencia-fernando-alonso-brilla-dia-gran-verguenza-formula-1",
+      "fuente": "Motorpasión (ES)",
+      "fecha": "2026-10-04T10:44:49Z",
+      "resumen": "La Fórmula 1 ha tocado fondo en Sepang . Una carrera realmente divertida no puede ocultar el enorme bochorno previo, cuando han intentado tomar la salida bajo la lluvia y varios coches de diversos equipos se han quedado parado porque el software se ha bloqueado y no les permitía acelerar. Esa la primera toma de contacto de este reglamento con la lluvia. Ha habido que esperar a que la pista…",
+      "imagen": "https://i.blogs.es/6f80f6/verstappen-sepang-f1-2026/1024_2000.jpeg",
+      "menciones": 1,
+      "fuentes": [
+        "Motorpasión (ES)"
+      ]
+    },
+    {
+      "titulo": "Marruecos deja el W2RC al rojo vivo: Seth Quintero y Edgar Canet brillan y todo queda pendiente de Abu Dhabi",
+      "link": "https://www.diariomotor.com/competicion/noticia/marruecos-deja-w2rc-rojo-vivo/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-10-04T10:06:42Z",
+      "resumen": "Un Rally de Marruecos de los que suele tener a los equipos pegados a las pantallas de cronometraje. La carrera se mantuvo repleta de emoción tanto entre los coches como entre las motos en lo que ha sido una semana de pura preparación clásica ante un posible Rally Dakar 2027. Con una lista de inscritos envidiable, la lucha por los triunfos ha estado más reñida que nunca, dejándonos grandes…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/10/rally-marruecos-2026-w2rc-red-bull-5-6ac2086256bc2.jpg?class=XL",
+      "menciones": 1,
+      "fuentes": [
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "2027 sorprenderá por esta moto con 120L de maletero y versiones crossover que podrás coger \"sin carnet\" para sustituir al coche",
+      "link": "https://www.diariomotor.com/motos/any-mobility-luv1/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-10-04T10:00:28Z",
+      "resumen": "Diseñadores e ingenieros provenientes de Ferrari, Pininfarina, Aprillia y Vespa se han dado un apretón de manos para crear una moto urbanita que se comenzará a vender a finales de 2027. La presentan como una urbanita sustituta del coche. Un propósito ambicioso del que vamos a ver sus luces y sus sombras. Claves de la Any Mobility LUV1 120 litros de almacenamiento sin montar una sola alforja o…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/10/luv1-anymobility-port-6abf494ed0de5.png?class=XL",
+      "menciones": 1,
+      "fuentes": [
+        "Diariomotor (ES)"
       ]
     }
   ]
