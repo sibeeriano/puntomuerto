@@ -1,7 +1,7 @@
 {
-  "actualizado": "2026-10-04T22:32:21Z",
-  "desde": "2026-09-27",
-  "hasta": "2026-10-04",
+  "actualizado": "2026-10-05T21:12:08Z",
+  "desde": "2026-09-28",
+  "hasta": "2026-10-05",
   "destacadas": [
     {
       "titulo": "He probado el OModa 9 SHS: tiene 537 CV, recorre más de 800 km con un solo depósito de gasolina y cuesta menos de 45.000 euros, pero conducirlo me ha dejado frío",
@@ -10,11 +10,75 @@
       "fecha": "2026-10-04T10:01:23Z",
       "resumen": "Omoda 9 SHS . Suena a nave espacial de serie B, pero no. Se trata de uno de los modelos que ha contribuido a hacer de Omoda-Jaecoo -una no va sin la otra- la decimosegunda marca más vendida en España en lo que va de año matriculando casi 30.000 coches. El Omoda 9 SHS es el tope de gama de estas dos marcas del grupo Chery. Y su aportación no es anecdótica, pues se vende a una media de 420 unidades…",
       "imagen": "https://i.blogs.es/7b1653/omoda_9_shs_20260726_131328386/1024_2000.jpeg",
-      "menciones": 25,
+      "menciones": 14,
       "fuentes": [
         "Autotest",
         "Diariomotor (ES)",
-        "Megautos",
+        "Motorpasión (ES)"
+      ]
+    },
+    {
+      "titulo": "La FIA reveló el fallo de software que dejó a los F1 sin potencia: un bug afectó a varios autos a la vez",
+      "link": "https://autotest.com.ar/carreras/la-fia-revelo-el-fallo-de-software-que-dejo-a-los-f1-sin-potencia-un-bug-afecto-a-varios-autos-a-la-vez/",
+      "fuente": "Autotest",
+      "fecha": "2026-10-05T15:36:41Z",
+      "resumen": "El bug de Sepang dejó una lección clara: en la Fórmula 1 actual, el eslabón más débil ya no es el pistón ni la biela, es la línea de código que nadie revisó a tiempo.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/la-fia-revel-el-fallo-de-software-que-de-1200x740-1.jpg",
+      "menciones": 2,
+      "fuentes": [
+        "Autotest",
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "Un eléctrico de 29.990 € es el coche más vendido en España, en términos absolutos, por primera vez en la historia",
+      "link": "https://www.diariomotor.com/noticia/tesla-model-3-coche-mas-vendido-septiembre/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-10-05T15:00:30Z",
+      "resumen": "Nunca un coche eléctrico había sido el más vendido en España en términos absolutos. Hasta ahora. El pasado septiembre, el Tesla Model 3 fue el turismo más vendido de nuestro país con 2.528 unidades en un solo mes , de las cuales más del 80% corresponden a la versión básica cuya relación prestaciones-tecnología-precio explica perfectamente su éxito. Es la primera vez en la historia que un eléctrico…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/09/oferta-tesla-model-3-portada-6a9adad9b40ab.jpg?class=XL",
+      "menciones": 2,
+      "fuentes": [
+        "Diariomotor (ES)",
+        "Motorpasión (ES)"
+      ]
+    },
+    {
+      "titulo": "Citroën 2CV eléctrico 2027: el auto barato que revive el mito de 3,8 millones de unidades",
+      "link": "https://autotest.com.ar/noticias/citroen-2cv-electrico-2027-el-auto-barato-que-revive-el-mito-de-3-8-millones-de-unidades/",
+      "fuente": "Autotest",
+      "fecha": "2026-10-05T14:41:19Z",
+      "resumen": "Las primeras imágenes oficiales del nuevo 2CV muestran un auto con silueta retro clásica, claramente inspirada en el modelo histórico.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/citro-n-2cv-el-ctrico-2027-el-auto-barat-1200x740-1.jpg",
+      "menciones": 3,
+      "fuentes": [
+        "Autotest",
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "El SUV de BYD que compite con Renault Duster: tiene 212 CV y consume 4.3 litros cada 100 km",
+      "link": "https://autotest.com.ar/noticias/el-suv-de-byd-que-compite-con-renault-duster-tiene-212-cv-y-consume-4-3-litros-cada-100-km/",
+      "fuente": "Autotest",
+      "fecha": "2026-10-05T12:30:26Z",
+      "resumen": "El BYD Atto 2 DM-i no es una opción más dentro del tan competitivo segmento de los B-SUV y ya aparece como una de las propuestas más fuertes del fabricante chino en el mercado argentino. Compite contra Renault Duster y apunta al uso familiar, pero tanto por fuera como por dentro y al andar demuestra […]",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/BYD-Atto-2-DM-i-SUV.jpg",
+      "menciones": 3,
+      "fuentes": [
+        "Autotest",
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "Fernando Alonso explica cómo remontó diez posiciones bajo la lluvia con su Aston Martin: \"Nunca perdí la esperanza\"",
+      "link": "https://www.motorpasion.com/formula1/fernando-alonso-revela-truco-para-pilotar-bien-lluvia-importante-no-circunstancias-te-ayudan-importante-saber-leerlas",
+      "fuente": "Motorpasión (ES)",
+      "fecha": "2026-10-05T09:01:23Z",
+      "resumen": "Fernando Alonso logró en Sepang el mejor resultado de toda la temporada . El piloto asturiano terminó octavo, conteniendo en las últimas vueltas los ataques de Lando Norris, el vigente campeón del mundo. Un éxito que llegó en una carrera con lluvia, y a pesar de un error estratégico que le condenó a rodar muy atrás. Después de la carrera, Alonso explicó que incluso cuando rodaba en las últimas…",
+      "imagen": "https://i.blogs.es/10ca36/alonso-malasia-f1-2026/1024_2000.jpeg",
+      "menciones": 3,
+      "fuentes": [
+        "Diariomotor (ES)",
         "Motorpasión (ES)"
       ]
     },
@@ -84,221 +148,159 @@
       ]
     },
     {
-      "titulo": "He probado el Mazda CX-6e: un SUV eléctrico con tanta tecnología china que ya no parece un coche japonés, para lo bueno y para lo malo",
-      "link": "https://www.motorpasion.com/pruebas-de-coches/prueba-mazda-cx-6e-2026",
-      "fuente": "Motorpasión (ES)",
-      "fecha": "2026-10-01T13:01:24Z",
-      "resumen": "Mazda sigue apostando por los coches eléctricos, esta vez con un SUV de tamaño medio que llega con un despliegue tecnológico sin precedentes en la marca japonesa. Se llama Mazda CX-6e y ya está disponible con un único motor eléctrico de 258 CV, tracción trasera y casi 500 km de autonomía. Una pieza clave en la estrategia de electrificación de Mazda Hace tiempo que Mazda decidió apostar por los…",
-      "imagen": "https://i.blogs.es/32ff31/mazda-cx-6e-2026-mop-3_1/1024_2000.jpeg",
-      "menciones": 2,
-      "fuentes": [
-        "Diariomotor (ES)",
-        "Motorpasión (ES)"
-      ]
-    },
-    {
-      "titulo": "Mercedes-Benz Camiones y Buses celebra las 10.000 piezas REMAN entregadas",
-      "link": "https://eleconomista.com.ar/autos/mercedes-benz-camiones-buses-celebra-10000-piezas-reman-entregadas-n98528",
-      "fuente": "El Economista",
-      "fecha": "2026-10-01T11:00:00Z",
-      "resumen": "La primera y única planta de remanufactura del país alcanzó un nuevo récord de producción. Ahora, el proceso opera desde el nuevo Centro Industrial Zárate, reafirmando el compromiso de la marca con la inversión nacional y la posventa integral.",
-      "imagen": "https://statics.eleconomista.com.ar/2026/09/crop/6abd5b80c1b04__950x512.webp",
-      "menciones": 2,
-      "fuentes": [
-        "Autotest",
-        "El Economista"
-      ]
-    },
-    {
-      "titulo": "Gran Premio de Singapur 2026: Horarios y cómo ver la Fórmula 1 de nuevo bajo los focos",
-      "link": "https://www.diariomotor.com/competicion/noticia/gran-premio-de-singapur-2026-horarios/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-10-04T20:29:53Z",
-      "resumen": "Una carrera menos y quedan siete. El Campeonato del Mundo de Fórmula 1 afronta la última parada del triplete en las calles de Singapur, con un fin de semana que combinará carrera nocturna con una configuración de evento al Sprint y en la que las espadas llegan en todo lo alto para tratar de aplazar lo máximo posible el alirón de un Andrea Kimi Antonelli que si bien no ganó en Sepang, sí que ha…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/10/SI202510051123-6ac2980d65665.jpg?class=XL",
-      "menciones": 1,
-      "fuentes": [
-        "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "Chery amplía la gama del Arrizo 8 CSH con la versión Luxury",
-      "link": "https://www.megautos.com/chery-arrizo-8-csh-luxury/",
-      "fuente": "Megautos",
-      "fecha": "2026-10-04T19:37:37Z",
-      "resumen": "El sedán híbrido enchufable de la marca china suma una nueva alternativa con más asistencias a la conducción, funciones remotas mediante la aplicación CARLINKO y un interior con tapizado de cuero negro. Cuesta US$ 35.800. La entrada Chery amplía la gama del Arrizo 8 CSH con la versión Luxury aparece primero en Mega Autos .",
-      "imagen": "https://www.megautos.com/wp-content/uploads/2026/10/Cherry-Arrizo-8-CSH-Luxury-06.jpg",
-      "menciones": 1,
-      "fuentes": [
-        "Megautos"
-      ]
-    },
-    {
-      "titulo": "La FIA explica el caos de Sepang: un fallo de software no conocido dejó a los Fórmula 1 sin potencia",
-      "link": "https://www.diariomotor.com/competicion/noticia/fia-explicacion-caos-de-sepang/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-10-04T19:04:38Z",
-      "resumen": "Ha sido una de las imágenes de la mañana . El Gran Premio de Bahréin posponía su arranque después de lo que parecía ser un fallo múltiple en la electrónica de los Fórmula 1. La instantánea era dantesca. Los monoplazas más evolucionados del planeta, equipados con unidades de potencia de 50:50 alimentadas por combustible sostenible, se quedaban parados en medio de la vuelta de formación del Circuito…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/10/SI202610040283_hires_jpeg_24bit_rgb-6ac286e241d11.jpg?class=XL",
-      "menciones": 1,
-      "fuentes": [
-        "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "Porsche Penske Motorsport conquista Petit Le Mans en medio de la noche que definió la temporada",
-      "link": "https://www.diariomotor.com/competicion/noticia/porsche-conquista-petit-le-mans/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-10-04T17:02:29Z",
-      "resumen": "Las diez horas que suelen definir el Campeonato IMSA SportsCar este año tuvo una noche caótica con numerosas banderas amarillas, incluyendo una tras un impresionante accidente protagonizado por Felipe Nasr, cuyo Porsche 963 salió catapultado hacia el muro tras tocarse con el Cadillac tripulado por Louis Deletraz. También la noche dejó sin opciones de ganar al Cadillac de Action Express tras…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/10/Petit_Le_Mans_Porsche_Penske_Motorsport_GTP_2026_2_26-6ac23921e5798.jpg?class=XL",
-      "menciones": 1,
-      "fuentes": [
-        "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "Así es el todoterreno por el que merece la pena esperar a 2027... Toyota y Honda tienen razones para preocuparse",
-      "link": "https://www.diariomotor.com/noticia/hyundai-tucson-2027-xrt-pro-estados-unidos-mas-detalles/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-10-04T17:00:49Z",
-      "resumen": "Probablemente estemos ante uno de los trabajos de diseño más relevantes de cuantos Hyundai haya hecho en muchos años . Por el esfuerzo que se aprecia de la marca para diferenciarse. Por el mercado potencial al que aspira llegar este coche, probablemente la generación más todoterreno de Hyundai Tucson , no solo en lo que respecta a su estética. El Tucson XRT refuerza la apariencia campera, mientras…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/10/hyundai-tucson-2027-xrt-pro-estados-unidos-13-6abf9c3794c85.jpg?class=XL",
-      "menciones": 2,
-      "fuentes": [
-        "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "Rally de Italia-Cerdeña: una salida de Oliver Solberg a tres curvas del final corona Campeones del Mundo a Elfyn Evans y Scott Martin",
-      "link": "https://www.diariomotor.com/competicion/noticia/rally-de-italia-cerdena-elfyn-evans-scott-martin/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-10-04T15:24:05Z",
-      "resumen": "Cuando parecía que iba a ser imposible tener un final más emocionante, después de que Elfyn Evans y Scott Martin pudieran comprobar de primera mano que el TC15, el mismo que hacía las veces de Power Stage, se encontraba mucho más arenoso de lo esperado, algo que podría se clave en su duelo con Oliver Solberg, el Mundial de Rallyes tenía reservada una última sorpresa en forma de pinchazo de los…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/10/Evans13ITA26mj330-6ac252cbcb311.jpg?class=XL",
-      "menciones": 8,
-      "fuentes": [
-        "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "La nueva versión de un SUV de Toyota superior a Corolla Cross: 7 asientos, 367 CV y mejor equipada",
-      "link": "https://autotest.com.ar/noticias/la-nueva-version-de-un-suv-de-toyota-superior-a-corolla-cross-7-asientos-367-cv-y-mejor-equipada/",
+      "titulo": "Nissan renueva la Frontier: la pick up tendrá una versión híbrida de 434 CV para desafiar a Toyota Hilux",
+      "link": "https://autotest.com.ar/noticias/nissan-renueva-la-frontier-la-pick-up-tendra-una-version-hibrida-de-434-cv-para-desafiar-a-toyota-hilux/",
       "fuente": "Autotest",
-      "fecha": "2026-10-04T15:15:16Z",
-      "resumen": "Toyota amplía la familia Grand Highlander 2027 en Estados Unidos con la nueva Woodland Edition, una versión híbrida del SUV del segmento E que se distingue por su estilo y su objetivo. Tal como su nombre lo da a entender (en español, edición bosque) está pensada para la aventura, por lo que incorpora neumáticos todo […]",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/Toyota-Grand-Highlander-Woodland-2027.jpg",
-      "menciones": 7,
+      "fecha": "2026-10-05T20:00:35Z",
+      "resumen": "La Nissan Frontier regresa a Brasil con opciones diésel desde México y una novedosa versión híbrida plug-in desde China. Conozca las características que diferencian a este modelo en el mercado.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/Nueva-Nissan-Frontier-2027.jpg",
+      "menciones": 12,
       "fuentes": [
         "Autotest"
       ]
     },
     {
-      "titulo": "Aston Martin retrasa su primer eléctrico y prioriza los V8 y V12 de gasolina",
-      "link": "https://www.diariomotor.com/noticia/aston-martin-retrasa-lanzamiento-primer-coche-electrico/",
+      "titulo": "BMW nos muestra nuevas imágenes de su nuevo M3... el que no gastará gota de gasolina",
+      "link": "https://www.diariomotor.com/noticia/bmw-m3-electrico-nuevas-imagenes/",
       "fuente": "Diariomotor (ES)",
-      "fecha": "2026-10-04T15:00:17Z",
-      "resumen": "El futuro del automovilismo no es tan eléctrico como nos han intentando hacer creer, los motores a gasolina tienen aún mucho recorrido por delante y así lo acaba de demostrar Aston Martin al descubrir sus nuevos planes de aquí a 2035 . El fabricante inglés, que se había propuesta poner en las calles su primer coche eléctrico para el año 2030, acaba de anunciar a través de su CEO Adrian Hallmark,…",
-      "imagen": "https://www.diariomotor.com/imagenes/2025/08/aston-martin-vanquish-volante-2025-108-688c8c3cf14cb-1190187.jpg?class=XL",
+      "fecha": "2026-10-05T20:00:32Z",
+      "resumen": "Se dice rápido. Pero BMW ya ha fabricado un millón de deportivos de su sección BMW M. La unidad que marca este hito es un BMW M3 con pintura especial BMW Individual Fire Orange III, fabricado en la histórica planta del grupo en Múnich. El automóvil fue presentado durante una ceremonia en la que Peter Weber, director de la fábrica, hizo entrega simbólica del vehículo a Franciscus van Meel,…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/10/bmw-m-un-millon-10-6ac3ced843361.jpg?class=XL",
       "menciones": 1,
       "fuentes": [
         "Diariomotor (ES)"
       ]
     },
     {
-      "titulo": "Ni Honda Forza 350 ni Zontes 368K, ojito al nuevo juguete súper equipado y con 42,2 CV que puedes comprar por menos de 5.400 €",
-      "link": "https://www.diariomotor.com/noticia/qj-fort-4-2-promo-oct/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-10-04T14:00:49Z",
-      "resumen": "En los últimos meses el segmento de las scooters de media cilindrada se ha animado con la llegada de modelos cada vez más completos y prestacionales. Las renovadas Zontes 368K y 368E han elevado mucho el listón por prestaciones, mientras que la Honda Forza 350 continúa siendo una de las referencias por calidad y equilibrio. Ahora aparece una nueva alternativa que busca combinar buena parte de los…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/09/qj-motor-fort-42-6ab1027253ce0.png?class=XL",
+      "titulo": "Chery presentó su nueva camioneta: cuesta desde u$s32.500 y competirá con Ford y Toyota",
+      "link": "https://www.iprofesional.com/autos/465734-chery-presento-una-camioneta-y-competira-con-ford-y-toyoya",
+      "fuente": "iProfesional",
+      "fecha": "2026-10-05T19:22:00Z",
+      "resumen": "De la mano del Grupo Corven, Chery lanzó la camioneta Himla y sus nuevos sedanes y SUV electrificados. Conocé los detalles y precios (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
+      "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/10/626946.jpg",
       "menciones": 1,
       "fuentes": [
-        "Diariomotor (ES)"
+        "iProfesional"
       ]
     },
     {
-      "titulo": "La FIA explica por qué se paraban los coches en lluvia: \"Ha sido un bug en el software. Hemos tenido que hacer una actualización sobre la marcha\"",
-      "link": "https://www.motorpasion.com/formula1/fia-explica-que-se-paraban-coches-lluvia-ha-sido-bug-software-hemos-tenido-que-hacer-actualizacion-marcha",
+      "titulo": "Este viejo motor diésel de más de 100 litros de cilindrada es tan grande como un garaje. La mejor forma de ponerlo en marcha es utilizar una pick-up V8 como motor de arranque",
+      "link": "https://www.motorpasion.com/videos-de-coches/que-han-hecho-estos-mecanicos-para-arrancar-gigantesco-motor-102-4-litros-cilindrada-hipnotico-tiene-tamano-trastero",
       "fuente": "Motorpasión (ES)",
-      "fecha": "2026-10-04T13:16:07Z",
-      "resumen": "La Fórmula 1 ha vivido en Sepang uno de los momentos más surrealistas de toda su historia. Cuando se intentó dar la salida bajo la lluvia, multitud de coches se quedaron parados. El problema era simple: los pilotos pisaban el acelerador, pero los coches no respondían. Ahora la FIA ha explicado que fue un fallo en el software . Nicholas Tombazis, el máximo responsable técnico de la FIA, ha dado la…",
-      "imagen": "https://i.blogs.es/63120f/verstappen-antonelli-sepang-f1-2026/1024_2000.jpeg",
+      "fecha": "2026-10-05T19:01:20Z",
+      "resumen": "Una de las funciones de los mecánicos , al menos de los buenos, es tener recursos y capacidad de improvisación para solucionar problemas. Eso es lo que han hecho estos mecánicos para arrancar un gigantesco motor de 102.4 litros de cilindrada . Un motor de arranque carísimo La mayoría de los coches que hay circulando por España tienen motores pequeños o relativamente pequeños, normalmente de tres o…",
+      "imagen": "https://i.blogs.es/c8ad55/motor/1024_2000.jpeg",
       "menciones": 1,
       "fuentes": [
         "Motorpasión (ES)"
       ]
     },
     {
-      "titulo": "Max Verstappen estrena su casillero en 2026 en un Gran Premio tan vibrante como vergonzoso",
-      "link": "https://www.diariomotor.com/competicion/noticia/max-verstappen-estrena-su-casillero-en-2026-en-un-gran-premio-tan-vibrante-como-vergonzoso/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-10-04T12:55:23Z",
-      "resumen": "Gran Gran Premio de Baréin en Malasia, un nombre tan meme como irresponsable cuyo única bondad fue su producto en pista y a ratos. Max Verstappen demostró su gran ritmo del fin de semana con una victoria autoritaria en medio del caos meteorológico y organizacional y estrenó la cuenta de victorias de Red Bull con motor Ford. Andrea Kimi Antonelli amplía su liderato en el Mundial con un segundo…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/10/max-verstappen-andrea-kimi-antonelli-f1-sepang-2026-6ac2304562fb8.jpg?class=XL",
-      "menciones": 2,
-      "fuentes": [
-        "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "Renault lanzará un renovado SUV que está arriba de Duster: 218 CV, 642 km de autonomía y buen precio",
-      "link": "https://autotest.com.ar/noticias/renault-lanzara-un-renovado-suv-que-esta-arriba-de-duster-218-cv-642-km-de-autonomia-y-buen-precio/",
+      "titulo": "El sedán más barato de Nissan: cuánto cuesta el Versa en octubre 2026",
+      "link": "https://autotest.com.ar/noticias/el-sedan-mas-barato-de-nissan-cuanto-cuesta-el-versa-en-octubre-2026/",
       "fuente": "Autotest",
-      "fecha": "2026-10-04T12:19:11Z",
-      "resumen": "Renault confirmó el lanzamiento del Scenic E-Tech Electric 2027 a los concesionarios españoles con una actualización centrada en autonomía, recarga y equipamiento. La marca reestructuró la oferta del SUV eléctrico y mantiene el motor de 218 CV como única opción mecánica, pero ahora con 642 km de autonomía y, por lo tanto, con prestaciones superiores. […]",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/Nuevo-Renault-Scenic-E-Tech.jpg",
-      "menciones": 2,
+      "fecha": "2026-10-05T19:00:20Z",
+      "resumen": "Conoce todos los detalles del Nissan Versa en Argentina: precios, versiones y características destacadas del sedán para este mes.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/08/Nissan-Versa-teaser.jpg",
+      "menciones": 15,
       "fuentes": [
         "Autotest"
       ]
     },
     {
-      "titulo": "Adiós al diésel, la verdadera razón por la que BMW abandona el diésel definitivamente en su producto más importante",
-      "link": "https://www.diariomotor.com/noticia/bmw-serie-3-razon-abandono-diesel/",
+      "titulo": "Mazda seguirá nadando contracorriente y por eso en 2027 lanzará su mejor motor gasolina",
+      "link": "https://www.diariomotor.com/noticia/motor-skyactiv-z-mazda-lanzamiento-2027/",
       "fuente": "Diariomotor (ES)",
-      "fecha": "2026-10-04T12:00:14Z",
-      "resumen": "Se acabó el diésel. Tal y como os contábamos ayer, BMW ha tomado la decisión de que su producto más importante, el BMW Serie 3, deje de comercializarse con mecánicas diésel , una opción otrora casi hegemónica, que al menos en España seguía gozando de una demanda importante. La caída de la demanda y el traslado de clientes hacia eléctricos e híbridos enchufables explican la retirada del diésel del…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/09/bmw-350-xdrive-2027-detalles-interior-4-6abcb4af15aa2.jpg?class=XL",
+      "fecha": "2026-10-05T19:00:01Z",
+      "resumen": "Los motores a gasolina tienen aún mucho que decir en el futuro del automóvil, Mazda está convencida de ello y por eso en 2027 lanzará su mejor motor gasolina hasta la fecha. En plena era de la electrificación, muchos consideran que Mazda se empecina en seguir nadando a contracorriente , pero los japoneses están convencidos de que hay vida más allá del coche eléctrico. Cada vez son más los…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/02/mazda-cx-5-2026-prueba-91-69a07f8ce7510.jpg?class=XL",
       "menciones": 1,
       "fuentes": [
         "Diariomotor (ES)"
       ]
     },
     {
-      "titulo": "Peugeot lanzará el nuevo 208: estos serán sus cambios para enfrentar a Toyota Yaris",
-      "link": "https://autotest.com.ar/noticias/peugeot-lanzara-el-nuevo-208-estos-seran-sus-cambios-para-enfrentar-a-toyota-yaris/",
-      "fuente": "Autotest",
-      "fecha": "2026-10-04T11:04:50Z",
-      "resumen": "El nuevo Peugeot 208 eléctrico ya rueda como prototipo y las primeras imágenes espía confirman uno de los cambios más llamativos. La unidad de pruebas mantiene gran parte de la carrocería cubierta, aunque deja ver que la próxima generación del hatch conservará una silueta reconocible y estrenará un interior más digital, con un volante de […]",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/Nuevo-Peugeot-208.jpg",
-      "menciones": 4,
-      "fuentes": [
-        "Autotest"
-      ]
-    },
-    {
-      "titulo": "El Nissan KAIT de 2027 es el Sandero Stepway de Nissan, un SUV de precio 'low-cost' perfecto para España",
-      "link": "https://www.diariomotor.com/noticia/nissan-kait-2027-dacia-sandero-stepway-de-nissan/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-10-04T11:00:44Z",
-      "resumen": "Aunque su situación se ponga en duda tanto en Europa como en el resto del mundo, Nissan sigue sabiendo hacer las cosas tan bien como siempre y la prueba reside en su baluarte más preciado, el Nissan Qashqai , que sigue estando entre los 10 coches más vendidos de España. Siguiendo esa idea, la marca ya ha confirmado que traerá a Europa el Nissan Kicks , un SUV del segmento B que en más de una…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/10/Nissan-KAIT-2027-1-6abf978cdb338.jpg?class=XL",
-      "menciones": 1,
-      "fuentes": [
-        "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "Max Verstappen gana, Kimi Antonelli sentencia y Fernando Alonso brilla en el día de la gran vergüenza de la Fórmula 1",
-      "link": "https://www.motorpasion.com/formula1/max-verstappen-gana-kimi-antonelli-sentencia-fernando-alonso-brilla-dia-gran-verguenza-formula-1",
+      "titulo": "China pretendía cruzar el Ártico para reducir a la mitad lo que tardan sus barcos en llegar a Europa. Lo hizo sin rompehielos y ahora es una ruta regular",
+      "link": "https://www.motorpasion.com/coches-electricos/china-pretendia-cruzar-artico-para-reducir-a-mitad-que-tardan-sus-barcos-llegar-a-europa-hizo-rompehielos-ahora-ruta-regular",
       "fuente": "Motorpasión (ES)",
-      "fecha": "2026-10-04T10:44:49Z",
-      "resumen": "La Fórmula 1 ha tocado fondo en Sepang . Una carrera realmente divertida no puede ocultar el enorme bochorno previo, cuando han intentado tomar la salida bajo la lluvia y varios coches de diversos equipos se han quedado parado porque el software se ha bloqueado y no les permitía acelerar. Esa la primera toma de contacto de este reglamento con la lluvia. Ha habido que esperar a que la pista…",
-      "imagen": "https://i.blogs.es/6f80f6/verstappen-sepang-f1-2026/1024_2000.jpeg",
+      "fecha": "2026-10-05T18:31:23Z",
+      "resumen": "En el contexto global actualmente tenemos un gran problema logístico. Enviar mercancías se está volviendo más y más caro así que China se propuso un reto imposible: reducir a la mitad el envío de China a Europa. El problema es que había que cruzar el ártico. Un portacontenedores chino hizo historia en 2025. El ‘Istanbul Bridge’ completó por primera vez una travesía por el Ártico hasta el puerto…",
+      "imagen": "https://i.blogs.es/821d1b/portada-mop-1791201396453/1024_2000.jpeg",
       "menciones": 1,
       "fuentes": [
         "Motorpasión (ES)"
+      ]
+    },
+    {
+      "titulo": "509 CV y hasta un precio más bajo: Kia lanza nuevas versiones del EV9 para enfrentar a BYD",
+      "link": "https://autotest.com.ar/noticias/509-cv-y-hasta-un-precio-mas-bajo-kia-lanza-nuevas-versiones-del-ev9-para-enfrentar-a-byd/",
+      "fuente": "Autotest",
+      "fecha": "2026-10-05T18:13:14Z",
+      "resumen": "Kia va por las marcas tanto chinas como de otras regiones que anhelan liderar el segmento más grande con el EV9 2027, el SUV que compite contra BYD Tang y llega con una gama más amplia y un precio de entrada más bajo. Además, suma versiones Air y Earth para cubrir el acceso, mantiene la […]",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/Kia-EV9-nuevo.jpg",
+      "menciones": 1,
+      "fuentes": [
+        "Autotest"
+      ]
+    },
+    {
+      "titulo": "Pere Navarro, director de la DGT, justifica los cambios de normativa y avisa a los motoristas : “En una moto, el chasis eres tú”",
+      "link": "https://www.motorpasion.com/seguridad/pere-navarro-director-dgt-justifica-cambios-normativa-avisa-a-motoristas-moto-chasis-eres-tu",
+      "fuente": "Motorpasión (ES)",
+      "fecha": "2026-10-05T18:01:22Z",
+      "resumen": "Desde el pasado 1 de octubre , son obligatorias nuevas medidas de seguridad no sólo para los ciclistas o los conductores de VMP o coches: también para los motoristas. Entre otras cosas, ahora deben llevar sí o sí los guantes en carretera, el calzado cerrado y un chaleco reflectante para situaciones de emergencia. Y es que, si hace años la premisa de las nuevas normas de tráfico era pensar en la…",
+      "imagen": "https://i.blogs.es/afbc31/portada-mop-1791212133536/1024_2000.jpeg",
+      "menciones": 1,
+      "fuentes": [
+        "Motorpasión (ES)"
+      ]
+    },
+    {
+      "titulo": "El hatchback rival de Toyota Yaris que combina precio accesible, bajo consumo y buena seguridad",
+      "link": "https://autotest.com.ar/noticias/el-hatchback-rival-de-toyota-yaris-que-combina-precio-accesible-bajo-consumo-y-buena-seguridad/",
+      "fuente": "Autotest",
+      "fecha": "2026-10-05T18:00:56Z",
+      "resumen": "El Suzuki Swift Hybrid combina seguridad avanzada y un sistema híbrido ligera para ofrecer una experiencia de conducción eficiente y segura.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/03/Suzuki-Swift-Hybrid-perfil.jpg",
+      "menciones": 3,
+      "fuentes": [
+        "Autotest"
+      ]
+    },
+    {
+      "titulo": "El \"Range Rover Evoque\" del pueblo está en oferta, todo un híbrido CERO con 279 CV a precio de Toyota Yaris",
+      "link": "https://www.diariomotor.com/noticia/jaecoo-7-shsp-oferta-oct/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-10-05T18:00:04Z",
+      "resumen": "¿Buscando un vehículo para moverte por las Zonas de Bajas Emisiones sin problemas y al mismo tiempo con una autonomía superior a los 900 km en viajes largos? Ojito a este interesante SUV compacto que ahora está en promoción a un precio realmente ajustado, compitiendo en coste con coches mucho más pequeños a pesar de estar bien equipado y presumir de nada menos que 279 CV . Con etiqueta ambiental…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/10/0JAECOO_7_SHS-38-6ac3a30c9b6b6.jpg?class=XL",
+      "menciones": 1,
+      "fuentes": [
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "El costo del transporte acumula una suba de 30.3% en los primeros nueve meses del año",
+      "link": "https://autotest.com.ar/transportes/costo-transporte-suba-30-3-primeros-nueve-meses-del-ano/",
+      "fuente": "Autotest",
+      "fecha": "2026-10-05T17:24:25Z",
+      "resumen": "Los costos del transporte de cargas aumentaron 2,55% en septiembre y acumularon una suba de 30,3% en los primeros nueve meses de 2026, según el Índice de Costos de Transporte (ICT) que elabora la Federación Argentina de Entidades Empresarias del Autotransporte de Cargas (FADEEAC). El dato de septiembre mostró una aceleración respecto de los meses anteriores, cuando las variaciones […]",
+      "imagen": "https://transportemundial.com.ar/wp-content/uploads/2026/10/2026.09_-fadeeac-indice-de-costos04.jpg",
+      "menciones": 1,
+      "fuentes": [
+        "Autotest"
+      ]
+    },
+    {
+      "titulo": "Toyota Racing desmiente interés en fichar a Esteban Ocon para su programa en el WEC",
+      "link": "https://www.diariomotor.com/competicion/noticia/toyota-desmiente-interes-esteban-ocon-wec/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-10-05T17:08:04Z",
+      "resumen": "Con el fin de evitar que algunos rumores causen fricciones internas, Alexander Wurz ha desmentido públicamente que la división Toyota Racing en el WEC esté tras la firma de Esteban Ocon para incorporarlo a la actual alineación de pilotos. Wurz, quien tras dejar las pistas, ejerce funciones como consultor y embajador de Toyota, desmintió cualquier especulación acerca de realizar un fichaje externo…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/10/Toyota_Gazoo_Racing_WEC_EO_Temporada_2026_26-6ac3b3ce75cfd.jpg?class=XL",
+      "menciones": 1,
+      "fuentes": [
+        "Diariomotor (ES)"
       ]
     }
   ]
