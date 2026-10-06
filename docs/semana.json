@@ -1,7 +1,7 @@
 {
-  "actualizado": "2026-10-05T22:44:47Z",
-  "desde": "2026-09-28",
-  "hasta": "2026-10-05",
+  "actualizado": "2026-10-06T00:58:37Z",
+  "desde": "2026-09-29",
+  "hasta": "2026-10-06",
   "destacadas": [
     {
       "titulo": "He probado el OModa 9 SHS: tiene 537 CV, recorre más de 800 km con un solo depósito de gasolina y cuesta menos de 45.000 euros, pero conducirlo me ha dejado frío",
@@ -161,6 +161,18 @@
       ]
     },
     {
+      "titulo": "Omoda & Jaecoo se presentó en Argentina con cuatro modelos electrificados",
+      "link": "https://www.megautos.com/omoda-jaecoo-argentina/",
+      "fuente": "Megautos",
+      "fecha": "2026-10-06T00:01:26Z",
+      "resumen": "Las marcas del Grupo Chery realizaron su debut local en Expo Auto Chino con los Omoda 5, Omoda 7 y Jaecoo 7. Incluyen alternativas híbridas, híbridas enchufables y eléctricas. La entrada Omoda & Jaecoo se presentó en Argentina con cuatro modelos electrificados aparece primero en Mega Autos .",
+      "imagen": "https://www.megautos.com/wp-content/uploads/2026/10/OMODA-5-2.jpg",
+      "menciones": 1,
+      "fuentes": [
+        "Megautos"
+      ]
+    },
+    {
       "titulo": "Nissan renueva la Frontier: la pick up tendrá una versión híbrida de 434 CV para desafiar a Toyota Hilux",
       "link": "https://autotest.com.ar/noticias/nissan-renueva-la-frontier-la-pick-up-tendra-una-version-hibrida-de-434-cv-para-desafiar-a-toyota-hilux/",
       "fuente": "Autotest",
@@ -290,18 +302,6 @@
       "menciones": 1,
       "fuentes": [
         "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "El costo del transporte acumula una suba de 30.3% en los primeros nueve meses del año",
-      "link": "https://autotest.com.ar/transportes/costo-transporte-suba-30-3-primeros-nueve-meses-del-ano/",
-      "fuente": "Autotest",
-      "fecha": "2026-10-05T17:24:25Z",
-      "resumen": "Los costos del transporte de cargas aumentaron 2,55% en septiembre y acumularon una suba de 30,3% en los primeros nueve meses de 2026, según el Índice de Costos de Transporte (ICT) que elabora la Federación Argentina de Entidades Empresarias del Autotransporte de Cargas (FADEEAC). El dato de septiembre mostró una aceleración respecto de los meses anteriores, cuando las variaciones […]",
-      "imagen": "https://transportemundial.com.ar/wp-content/uploads/2026/10/2026.09_-fadeeac-indice-de-costos04.jpg",
-      "menciones": 1,
-      "fuentes": [
-        "Autotest"
       ]
     }
   ]
