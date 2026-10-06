@@ -1,18 +1,57 @@
 {
-  "actualizado": "2026-10-06T00:58:37Z",
+  "actualizado": "2026-10-06T18:54:47Z",
   "desde": "2026-09-29",
   "hasta": "2026-10-06",
   "destacadas": [
     {
-      "titulo": "He probado el OModa 9 SHS: tiene 537 CV, recorre más de 800 km con un solo depósito de gasolina y cuesta menos de 45.000 euros, pero conducirlo me ha dejado frío",
-      "link": "https://www.motorpasion.com/pruebas-de-coches/omoda-9-shs-prueba",
-      "fuente": "Motorpasión (ES)",
-      "fecha": "2026-10-04T10:01:23Z",
-      "resumen": "Omoda 9 SHS . Suena a nave espacial de serie B, pero no. Se trata de uno de los modelos que ha contribuido a hacer de Omoda-Jaecoo -una no va sin la otra- la decimosegunda marca más vendida en España en lo que va de año matriculando casi 30.000 coches. El Omoda 9 SHS es el tope de gama de estas dos marcas del grupo Chery. Y su aportación no es anecdótica, pues se vende a una media de 420 unidades…",
-      "imagen": "https://i.blogs.es/7b1653/omoda_9_shs_20260726_131328386/1024_2000.jpeg",
-      "menciones": 14,
+      "titulo": "Del tamaño de un Skoda Karoq pero por menos de 20.000 €, este SUV llega desde Italia con un motor 1.4 turbo de 158 CV y caja automática",
+      "link": "https://www.diariomotor.com/noticia/oferta-dr5-octubre/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-10-06T19:30:44Z",
+      "resumen": "¿Buscando un vehículo con carrocería SUV y de unos 4,3 metros de longitud ? Hay actualmente muchas opciones en el mercado que podrían encajar en esa búsqueda pero entre las alternativas más accesibles está este modelo italiano del que te hablamos hoy que destaca por su relación precio-potencia , además de por ser todo un desconocido en nuestro mercado . Con 158 CV de potencia Estética diferente…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/10/dr5-6ac516d9e4288.png?class=XL",
+      "menciones": 20,
       "fuentes": [
         "Autotest",
+        "Diariomotor (ES)",
+        "Motorpasión (ES)"
+      ]
+    },
+    {
+      "titulo": "El Ford Bronco RTR 2027 cuesta 40.000 dólares menos que el Raptor, pero el paquete Sasquatch lo deja casi a la par",
+      "link": "https://autotest.com.ar/offroad/el-ford-bronco-rtr-2027-cuesta-40-000-dolares-menos-que-el-raptor-pero-el-paquete-sasquatch-lo-deja-casi-a-la-par/",
+      "fuente": "Autotest",
+      "fecha": "2026-10-06T14:26:12Z",
+      "resumen": "El RTR suma mejoras de suspensión, neumáticos y estética, con identidad propia en parrilla, guardabarros y cabina.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/el-ford-bronco-rtr-2027-cuesta-40-000-d-1200x740-1.jpg",
+      "menciones": 4,
+      "fuentes": [
+        "Autotest",
+        "Motorpasión (ES)"
+      ]
+    },
+    {
+      "titulo": "España bate su récord de coches eléctricos: 17.638 en un mes y ahorrar más de 2.000 euros al año ayuda a entender por qué",
+      "link": "https://www.diariomotor.com/noticia/cuanto-ahorra-coche-electrico-espana-2026/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-10-06T10:00:42Z",
+      "resumen": "17.638 coches eléctricos matriculados en España en un solo mes. Es una cifra que habría sido difícil de imaginar hace no tanto tiempo y que muestra hasta qué punto está cambiando el mercado español. En septiembre de 2026, los eléctricos puros han alcanzado un volumen que ya obliga a dejar de hablar de ellos como una alternativa minoritaria. Tesla sigue teniendo un enorme peso en el mercado, pero…",
+      "imagen": "https://www.diariomotor.com/imagenes/2021/02/Tesla-Model-S-2026-Interior-3-6905eb4d7be71.jpg?class=XL",
+      "menciones": 2,
+      "fuentes": [
+        "Diariomotor (ES)",
+        "Motorpasión (ES)"
+      ]
+    },
+    {
+      "titulo": "Fernando Alonso prepara su regreso al Dakar junto a Aston Martin para 2027",
+      "link": "https://www.diariomotor.com/competicion/noticia/fernando-alonso-dakar-aston-martin/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-10-06T08:10:01Z",
+      "resumen": "Comenzó como una insinuación por parte de la siempre informada prensa francesa y terminó como confirmación. Fernando Alonso lleva mucho tiempo advirtiendo que uno de sus próximos objetivos fuera de la Fórmula 1 es el de competir en el Rally Dakar de nuevo , pero prácticamente todos dentro del mundo del automovilismo lo relacionaban con un deseo después de retirarse del Gran Circo, no como una…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/10/DAKAR-2020_2-6ac490a85d9c9.jpg?class=XL",
+      "menciones": 3,
+      "fuentes": [
         "Diariomotor (ES)",
         "Motorpasión (ES)"
       ]
@@ -63,36 +102,10 @@
       "fecha": "2026-10-05T14:41:19Z",
       "resumen": "Las primeras imágenes oficiales del nuevo 2CV muestran un auto con silueta retro clásica, claramente inspirada en el modelo histórico.",
       "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/citro-n-2cv-el-ctrico-2027-el-auto-barat-1200x740-1.jpg",
-      "menciones": 3,
+      "menciones": 2,
       "fuentes": [
         "Autotest",
         "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "El SUV de BYD que compite con Renault Duster: tiene 212 CV y consume 4.3 litros cada 100 km",
-      "link": "https://autotest.com.ar/noticias/el-suv-de-byd-que-compite-con-renault-duster-tiene-212-cv-y-consume-4-3-litros-cada-100-km/",
-      "fuente": "Autotest",
-      "fecha": "2026-10-05T12:30:26Z",
-      "resumen": "El BYD Atto 2 DM-i no es una opción más dentro del tan competitivo segmento de los B-SUV y ya aparece como una de las propuestas más fuertes del fabricante chino en el mercado argentino. Compite contra Renault Duster y apunta al uso familiar, pero tanto por fuera como por dentro y al andar demuestra […]",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/BYD-Atto-2-DM-i-SUV.jpg",
-      "menciones": 3,
-      "fuentes": [
-        "Autotest",
-        "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "Fernando Alonso explica cómo remontó diez posiciones bajo la lluvia con su Aston Martin: \"Nunca perdí la esperanza\"",
-      "link": "https://www.motorpasion.com/formula1/fernando-alonso-revela-truco-para-pilotar-bien-lluvia-importante-no-circunstancias-te-ayudan-importante-saber-leerlas",
-      "fuente": "Motorpasión (ES)",
-      "fecha": "2026-10-05T09:01:23Z",
-      "resumen": "Fernando Alonso logró en Sepang el mejor resultado de toda la temporada . El piloto asturiano terminó octavo, conteniendo en las últimas vueltas los ataques de Lando Norris, el vigente campeón del mundo. Un éxito que llegó en una carrera con lluvia, y a pesar de un error estratégico que le condenó a rodar muy atrás. Después de la carrera, Alonso explicó que incluso cuando rodaba en las últimas…",
-      "imagen": "https://i.blogs.es/10ca36/alonso-malasia-f1-2026/1024_2000.jpeg",
-      "menciones": 3,
-      "fuentes": [
-        "Diariomotor (ES)",
-        "Motorpasión (ES)"
       ]
     },
     {
@@ -122,6 +135,78 @@
       ]
     },
     {
+      "titulo": "Primeras imágenes de la pick-up de Vinfast, muy barata y con un motor híbrido que anuncia 1.000 km de autonomía",
+      "link": "https://www.diariomotor.com/noticia/vinfast-vf-wild-erev/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-10-06T20:00:00Z",
+      "resumen": "Poco a poco la tecnología eléctrica va llegando a categorías y nichos de mercado donde, en un principio, parecía no tener cabida. Y es que no todo tiene que acabar siendo forzosamente 100 % eléctrico. Por ejemplo, en España la Ford Ranger PHEV ya se ofrece con un motor híbrido enchufable que está resultando ser todo un éxito, pero la tecnología puede ir más allá. Y hacia ahí es a donde VinFast se…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/10/Vinfast-Wild-11-6ac4ebcce9e9a.jpg?class=XL",
+      "menciones": 1,
+      "fuentes": [
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "Cuesta 121.500 euros, y tras conocerlo, puedo afirmar que el coche chino más caro a la venta en España es en verdad, barato",
+      "link": "https://www.diariomotor.com/noticia/zeekr-9x-contacto/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-10-06T19:00:32Z",
+      "resumen": "No mucha gente en España puede permitirse desembolsar la friolera de 121.500 euros a la hora de estrenar coche. Y aun menos los que pueden desembolsar \"medio kilo\" para comprarse buques insignia como un Rolls-Royce Cullinan . Lo que os propongo hoy es algo diferente: os quiero hablar del Zeekr 9X , el buque insignia del Grupo Geely en formato SUV . Una tanqueta que se convierte en el coche chino…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/10/zeekr-9x-2027-contacto-22-6ac4ea47f0d80.jpg?class=XL",
+      "menciones": 1,
+      "fuentes": [
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "Juan José Ebenezer, mecánico: \"El aire busca la salida más débil\" y por eso hay neumáticos que parecen perfectos y son un peligro",
+      "link": "https://www.motorpasion.com/revision/juan-jose-ebenezer-mecanico-no-saber-esto-te-puede-costar-muy-caro-tu-coche",
+      "fuente": "Motorpasión (ES)",
+      "fecha": "2026-10-06T18:01:24Z",
+      "resumen": "Hay gestos que no se hacen porque nos lleva cinco míseros minutos y un euro en la gasolinera y que no deberíamos dejar de hacer. Comprobar la presión de los neumáticos es esencial, dejarlo de lado puede acabar en dos ruedas nuevas o en un accidente, como recuerda Juan José Ebenezer . Dejamos pasar, no comprobamos la presión de los neumáticos periódicamente y cuando nos queremos dar cuenta, tenemos…",
+      "imagen": "https://i.blogs.es/34dd9c/juan-jose-ebenezer-mecanico-rueda-subaru/1024_2000.jpeg",
+      "menciones": 2,
+      "fuentes": [
+        "Motorpasión (ES)"
+      ]
+    },
+    {
+      "titulo": "Ni Lexus LM ni Mercedes Clase V, llega un nuevo \"salón con ruedas\" con 170 CV, híbrido y por tres veces menos",
+      "link": "https://www.diariomotor.com/noticia/tiger-nine-precio-espana/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-10-06T18:00:46Z",
+      "resumen": "Moverse con el máximo confort posible en un monovolumen suele salir muy caro . El Lexus LM es un buen ejemplo, con tarifas que arrancan por encima de los 120.000 € gracias a un interior exquisito, muchísimo equipamiento y una mecánica híbrida que ayuda a mantener los consumos bajo control. Tampoco un Mercedes Clase V Exclusive o el VLE comparable resultan precisamente baratos. Sin embargo, en…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/07/Tiger-Nine15-6a5141236294f.jpg?class=XL",
+      "menciones": 1,
+      "fuentes": [
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "¿Mejor que Toyota Corolla Cross? El SUV híbrido con precio competitivo, 243 CV y amplio equipamiento",
+      "link": "https://autotest.com.ar/noticias/mejor-que-toyota-corolla-cross-el-suv-hibrido-con-precio-competitivo-243-cv-y-amplio-equipamiento/",
+      "fuente": "Autotest",
+      "fecha": "2026-10-06T18:00:05Z",
+      "resumen": "El GWM H6 PRO HEV llega a Argentina combinando un motor turbo y un eléctrico, ofreciendo 243 HP y un consumo de hasta 18,4 km/L.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/SUV-Haval-H6-Pro-HEV-PERFIL.jpg",
+      "menciones": 14,
+      "fuentes": [
+        "Autotest"
+      ]
+    },
+    {
+      "titulo": "Mazda suelta el naftero que gasta menos y rinde más: llega en 2027 con el Skyactiv-Z",
+      "link": "https://autotest.com.ar/noticias/mazda-suelta-el-naftero-que-gasta-menos-y-rinde-mas-llega-en-2027-con-el-skyactiv-z/",
+      "fuente": "Autotest",
+      "fecha": "2026-10-06T17:36:07Z",
+      "resumen": "Esa postura es discutida, pero tiene una traducción concreta: el SKYACTIV-Z es el motor que la marca eligió para enfrentar las normas Euro 7 sin ceder en la experiencia de manejo.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/mazda-suelta-el-naftero-que-gasta-menos-1200x740-1.jpg",
+      "menciones": 1,
+      "fuentes": [
+        "Autotest"
+      ]
+    },
+    {
       "titulo": "Venta de autos usados: septiembre fue el segundo mejor mes de los últimos 31 años",
       "link": "https://www.iprofesional.com/autos/465766-autos-usados-septiembre-marco-uno-de-los-mejores-registros-en-31-anos",
       "fuente": "iProfesional",
@@ -135,173 +220,87 @@
       ]
     },
     {
-      "titulo": "Mercedes Sprinter 4×4 camper: 2,06 m de altura interior, 3.550 litros y aislamiento para -20°C",
-      "link": "https://autotest.com.ar/offroad/mercedes-sprinter-4x4-camper-2-06-m-de-altura-interior-3-550-litros-y-aislamiento-para-20c/",
-      "fuente": "Autotest",
-      "fecha": "2026-10-01T23:06:26Z",
-      "resumen": "El concepto de fondo es overlanding: viajes autosuficientes de larga distancia donde importan la autonomía, la fortaleza y la habitabilidad por sobre la velocidad.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/mercedes-sprinter-4x4-camper-2-06-m-de-a-1200x740-1.jpg",
-      "menciones": 2,
-      "fuentes": [
-        "Autotest",
-        "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "Aston Martin DBX GT: 727 CV, dos más que el Ferrari Purosangue y 61 más que el Urus",
-      "link": "https://autotest.com.ar/noticias/aston-martin-dbx-gt-727-cv-dos-mas-que-el-ferrari-purosangue-y-61-mas-que-el-urus/",
-      "fuente": "Autotest",
-      "fecha": "2026-10-01T23:06:13Z",
-      "resumen": "El GT llega en un momento donde la electrificación avanza pero el motor de combustión todavía define la identidad de los superdeportivos.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/aston-martin-dbx-gt-727-cv-dos-m-s-que-e-1200x740-1.jpg",
-      "menciones": 2,
-      "fuentes": [
-        "Autotest",
-        "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "Omoda & Jaecoo se presentó en Argentina con cuatro modelos electrificados",
-      "link": "https://www.megautos.com/omoda-jaecoo-argentina/",
-      "fuente": "Megautos",
-      "fecha": "2026-10-06T00:01:26Z",
-      "resumen": "Las marcas del Grupo Chery realizaron su debut local en Expo Auto Chino con los Omoda 5, Omoda 7 y Jaecoo 7. Incluyen alternativas híbridas, híbridas enchufables y eléctricas. La entrada Omoda & Jaecoo se presentó en Argentina con cuatro modelos electrificados aparece primero en Mega Autos .",
-      "imagen": "https://www.megautos.com/wp-content/uploads/2026/10/OMODA-5-2.jpg",
-      "menciones": 1,
-      "fuentes": [
-        "Megautos"
-      ]
-    },
-    {
-      "titulo": "Nissan renueva la Frontier: la pick up tendrá una versión híbrida de 434 CV para desafiar a Toyota Hilux",
-      "link": "https://autotest.com.ar/noticias/nissan-renueva-la-frontier-la-pick-up-tendra-una-version-hibrida-de-434-cv-para-desafiar-a-toyota-hilux/",
-      "fuente": "Autotest",
-      "fecha": "2026-10-05T20:00:35Z",
-      "resumen": "La Nissan Frontier regresa a Brasil con opciones diésel desde México y una novedosa versión híbrida plug-in desde China. Conozca las características que diferencian a este modelo en el mercado.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/Nueva-Nissan-Frontier-2027.jpg",
-      "menciones": 12,
-      "fuentes": [
-        "Autotest"
-      ]
-    },
-    {
-      "titulo": "BMW nos muestra nuevas imágenes de su nuevo M3... el que no gastará gota de gasolina",
-      "link": "https://www.diariomotor.com/noticia/bmw-m3-electrico-nuevas-imagenes/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-10-05T20:00:32Z",
-      "resumen": "Se dice rápido. Pero BMW ya ha fabricado un millón de deportivos de su sección BMW M. La unidad que marca este hito es un BMW M3 con pintura especial BMW Individual Fire Orange III, fabricado en la histórica planta del grupo en Múnich. El automóvil fue presentado durante una ceremonia en la que Peter Weber, director de la fábrica, hizo entrega simbólica del vehículo a Franciscus van Meel,…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/10/bmw-m-un-millon-10-6ac3ced843361.jpg?class=XL",
-      "menciones": 1,
-      "fuentes": [
-        "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "Chery presentó su nueva camioneta: cuesta desde u$s32.500 y competirá con Ford y Toyota",
-      "link": "https://www.iprofesional.com/autos/465734-chery-presento-una-camioneta-y-competira-con-ford-y-toyoya",
-      "fuente": "iProfesional",
-      "fecha": "2026-10-05T19:22:00Z",
-      "resumen": "De la mano del Grupo Corven, Chery lanzó la camioneta Himla y sus nuevos sedanes y SUV electrificados. Conocé los detalles y precios (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
-      "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/10/626946.jpg",
-      "menciones": 1,
-      "fuentes": [
-        "iProfesional"
-      ]
-    },
-    {
-      "titulo": "Este viejo motor diésel de más de 100 litros de cilindrada es tan grande como un garaje. La mejor forma de ponerlo en marcha es utilizar una pick-up V8 como motor de arranque",
-      "link": "https://www.motorpasion.com/videos-de-coches/que-han-hecho-estos-mecanicos-para-arrancar-gigantesco-motor-102-4-litros-cilindrada-hipnotico-tiene-tamano-trastero",
+      "titulo": "Un barco cargado con 1.400 toneladas de explosivos lleva 82 años hundido frente a Londres. El problema es que sacarlos podría ser aún peor",
+      "link": "https://www.motorpasion.com/tecnologia/barco-cargado-1-400-toneladas-explosivos-lleva-82-anos-hundido-frente-a-londres-problema-que-sacarlos-podria-ser-peor",
       "fuente": "Motorpasión (ES)",
-      "fecha": "2026-10-05T19:01:20Z",
-      "resumen": "Una de las funciones de los mecánicos , al menos de los buenos, es tener recursos y capacidad de improvisación para solucionar problemas. Eso es lo que han hecho estos mecánicos para arrancar un gigantesco motor de 102.4 litros de cilindrada . Un motor de arranque carísimo La mayoría de los coches que hay circulando por España tienen motores pequeños o relativamente pequeños, normalmente de tres o…",
-      "imagen": "https://i.blogs.es/c8ad55/motor/1024_2000.jpeg",
+      "fecha": "2026-10-06T17:01:23Z",
+      "resumen": "Hay naufragios que se convierten en auténticas piezas de museo bajo el agua y otros que se convierten en un dolor de cabeza para las generaciones que vienen después, como el famoso ‘SS Richard Montgomery’ , un carguero norteamericano hundido frente a la costa británica en 1944 que todavía sigue ahí. El problema no es que siga encallado, es que se hundió con miles de toneladas de munición en sus…",
+      "imagen": "https://i.blogs.es/c037a1/portada-mop-1791282784175/1024_2000.jpeg",
       "menciones": 1,
       "fuentes": [
         "Motorpasión (ES)"
       ]
     },
     {
-      "titulo": "El sedán más barato de Nissan: cuánto cuesta el Versa en octubre 2026",
-      "link": "https://autotest.com.ar/noticias/el-sedan-mas-barato-de-nissan-cuanto-cuesta-el-versa-en-octubre-2026/",
-      "fuente": "Autotest",
-      "fecha": "2026-10-05T19:00:20Z",
-      "resumen": "Conoce todos los detalles del Nissan Versa en Argentina: precios, versiones y características destacadas del sedán para este mes.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/08/Nissan-Versa-teaser.jpg",
-      "menciones": 15,
-      "fuentes": [
-        "Autotest"
-      ]
-    },
-    {
-      "titulo": "Mazda seguirá nadando contracorriente y por eso en 2027 lanzará su mejor motor gasolina",
-      "link": "https://www.diariomotor.com/noticia/motor-skyactiv-z-mazda-lanzamiento-2027/",
+      "titulo": "Europa obsesionada con los coches chinos, pero el coche bueno, bonito, barato, con 475 l de maletero, es unn SUV Made in Spain por 18.500 €",
+      "link": "https://www.diariomotor.com/noticia/skoda-epiq-precio-octubre-2026/",
       "fuente": "Diariomotor (ES)",
-      "fecha": "2026-10-05T19:00:01Z",
-      "resumen": "Los motores a gasolina tienen aún mucho que decir en el futuro del automóvil, Mazda está convencida de ello y por eso en 2027 lanzará su mejor motor gasolina hasta la fecha. En plena era de la electrificación, muchos consideran que Mazda se empecina en seguir nadando a contracorriente , pero los japoneses están convencidos de que hay vida más allá del coche eléctrico. Cada vez son más los…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/02/mazda-cx-5-2026-prueba-91-69a07f8ce7510.jpg?class=XL",
+      "fecha": "2026-10-06T17:00:32Z",
+      "resumen": "China no deja de crecer en Europa y sus coches no solo están cada vez más presentes en nuestras carreteras, sino que amenazan con arrebatar a las marcas europeas una posición casi hegemónica, que peligra especialmente en el territorio de los eléctricos y, en general, los enchufables. El Skoda Epiq es un SUV de 4,17 metros fabricado en Navarra y con 475 litros de maletero. Su versión de acceso…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/05/skoda-epiq-2026-181-6a0db805c044d.jpg?class=XL",
       "menciones": 1,
       "fuentes": [
         "Diariomotor (ES)"
       ]
     },
     {
-      "titulo": "China pretendía cruzar el Ártico para reducir a la mitad lo que tardan sus barcos en llegar a Europa. Lo hizo sin rompehielos y ahora es una ruta regular",
-      "link": "https://www.motorpasion.com/coches-electricos/china-pretendia-cruzar-artico-para-reducir-a-mitad-que-tardan-sus-barcos-llegar-a-europa-hizo-rompehielos-ahora-ruta-regular",
-      "fuente": "Motorpasión (ES)",
-      "fecha": "2026-10-05T18:31:23Z",
-      "resumen": "En el contexto global actualmente tenemos un gran problema logístico. Enviar mercancías se está volviendo más y más caro así que China se propuso un reto imposible: reducir a la mitad el envío de China a Europa. El problema es que había que cruzar el ártico. Un portacontenedores chino hizo historia en 2025. El ‘Istanbul Bridge’ completó por primera vez una travesía por el Ártico hasta el puerto…",
-      "imagen": "https://i.blogs.es/821d1b/portada-mop-1791201396453/1024_2000.jpeg",
-      "menciones": 1,
-      "fuentes": [
-        "Motorpasión (ES)"
-      ]
-    },
-    {
-      "titulo": "509 CV y hasta un precio más bajo: Kia lanza nuevas versiones del EV9 para enfrentar a BYD",
-      "link": "https://autotest.com.ar/noticias/509-cv-y-hasta-un-precio-mas-bajo-kia-lanza-nuevas-versiones-del-ev9-para-enfrentar-a-byd/",
+      "titulo": "Chevrolet baja el precio de su sedán más accesible con caja manual y seis airbags",
+      "link": "https://autotest.com.ar/noticias/chevrolet-baja-el-precio-de-su-sedan-mas-accesible-con-caja-manual-y-seis-airbags/",
       "fuente": "Autotest",
-      "fecha": "2026-10-05T18:13:14Z",
-      "resumen": "Kia va por las marcas tanto chinas como de otras regiones que anhelan liderar el segmento más grande con el EV9 2027, el SUV que compite contra BYD Tang y llega con una gama más amplia y un precio de entrada más bajo. Además, suma versiones Air y Earth para cubrir el acceso, mantiene la […]",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/Kia-EV9-nuevo.jpg",
+      "fecha": "2026-10-06T17:00:06Z",
+      "resumen": "Chevrolet ha reducido el precio del Aveo sedán LS Manual 2025, haciéndolo más asequible que muchos autos usados de la misma generación. Descubre cómo esta estrategia de precios lo convierte en una opción competitiva en el mercado de autos nuevos y seminuevos en México.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/08/Chevrolet-Aveo.jpg",
       "menciones": 1,
       "fuentes": [
         "Autotest"
       ]
     },
     {
-      "titulo": "Pere Navarro, director de la DGT, justifica los cambios de normativa y avisa a los motoristas : “En una moto, el chasis eres tú”",
-      "link": "https://www.motorpasion.com/seguridad/pere-navarro-director-dgt-justifica-cambios-normativa-avisa-a-motoristas-moto-chasis-eres-tu",
-      "fuente": "Motorpasión (ES)",
-      "fecha": "2026-10-05T18:01:22Z",
-      "resumen": "Desde el pasado 1 de octubre , son obligatorias nuevas medidas de seguridad no sólo para los ciclistas o los conductores de VMP o coches: también para los motoristas. Entre otras cosas, ahora deben llevar sí o sí los guantes en carretera, el calzado cerrado y un chaleco reflectante para situaciones de emergencia. Y es que, si hace años la premisa de las nuevas normas de tráfico era pensar en la…",
-      "imagen": "https://i.blogs.es/afbc31/portada-mop-1791212133536/1024_2000.jpeg",
-      "menciones": 1,
-      "fuentes": [
-        "Motorpasión (ES)"
-      ]
-    },
-    {
-      "titulo": "El hatchback rival de Toyota Yaris que combina precio accesible, bajo consumo y buena seguridad",
-      "link": "https://autotest.com.ar/noticias/el-hatchback-rival-de-toyota-yaris-que-combina-precio-accesible-bajo-consumo-y-buena-seguridad/",
-      "fuente": "Autotest",
-      "fecha": "2026-10-05T18:00:56Z",
-      "resumen": "El Suzuki Swift Hybrid combina seguridad avanzada y un sistema híbrido ligera para ofrecer una experiencia de conducción eficiente y segura.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/03/Suzuki-Swift-Hybrid-perfil.jpg",
-      "menciones": 3,
-      "fuentes": [
-        "Autotest"
-      ]
-    },
-    {
-      "titulo": "El \"Range Rover Evoque\" del pueblo está en oferta, todo un híbrido CERO con 279 CV a precio de Toyota Yaris",
-      "link": "https://www.diariomotor.com/noticia/jaecoo-7-shsp-oferta-oct/",
+      "titulo": "Arrow McLaren y Chevrolet extienden su alianza a largo plazo",
+      "link": "https://www.diariomotor.com/competicion/noticia/arrow-mclaren-chevrolet-extienden-largo-plazo/",
       "fuente": "Diariomotor (ES)",
-      "fecha": "2026-10-05T18:00:04Z",
-      "resumen": "¿Buscando un vehículo para moverte por las Zonas de Bajas Emisiones sin problemas y al mismo tiempo con una autonomía superior a los 900 km en viajes largos? Ojito a este interesante SUV compacto que ahora está en promoción a un precio realmente ajustado, compitiendo en coste con coches mucho más pequeños a pesar de estar bien equipado y presumir de nada menos que 279 CV . Con etiqueta ambiental…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/10/0JAECOO_7_SHS-38-6ac3a30c9b6b6.jpg?class=XL",
+      "fecha": "2026-10-06T16:53:07Z",
+      "resumen": "Tras cerrar los fichajes de Scott Dixon y Felix Rosenqvist, para unirse a Patricio O'Ward, el siguiente paso de Arrow McLaren fue firmar una extensión de contrato con Chevrolet como su proveedor de motores a largo plazo, lo que significa que se encaminan a permanecer juntos para la nueva era del chasis IR-28. Durante varias semanas se especuló que Arrow McLaren estaría en la búsqueda de un nuevo…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/10/Arrow_McLaren_Chevrolet_IndyCar_NC_2026_26-6ac504165ac6d.jpg?class=XL",
       "menciones": 1,
       "fuentes": [
         "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "Angelilli Tipo 829: el supercar V6 de 500 CV que revive al Stratos y se ofrece en calle, pista y rally",
+      "link": "https://autotest.com.ar/noticias/angelilli-tipo-829-el-supercar-v6-de-500-cv-que-revive-al-stratos-y-se-ofrece-en-calle-pista-y-rally/",
+      "fuente": "Autotest",
+      "fecha": "2026-10-06T16:46:24Z",
+      "resumen": "Lo concreto es que el Tipo 829 ya consiguió lo más difícil para un fabricante sin historia en el automovilismo: meterse en la conversación de los superdeportivos boutique antes de construir el primer auto.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/angelilli-tipo-829-el-supercar-v6-de-500-1200x740-1.jpg",
+      "menciones": 1,
+      "fuentes": [
+        "Autotest"
+      ]
+    },
+    {
+      "titulo": "Mike Conway anunció su retiro como piloto de tiempo completo",
+      "link": "https://www.diariomotor.com/competicion/noticia/mike-conway-retiro-piloto-tiempo-completo/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-10-06T16:05:33Z",
+      "resumen": "El experimentado piloto británico de 43 años tenía previsto completar la presente temporada del Campeonato Mundial de Resistencia antes de proceder a anunciar su retiro de la formación titular de Toyota en la clase Hypercar, sin embargo, consideró que hoy es buen momento para aclarar su futuro y por lo tanto decidió publicar en sus redes que llegó la hora de dejar las pistas como piloto de tiempo…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/10/Mike_Conway_Toyota_Racing_WEC_2026_26-6ac4f9855a722.jpg?class=XL",
+      "menciones": 1,
+      "fuentes": [
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "Elon Musk puede comprarse mansiones millonarias, pero prefiere una caravana: \"Mi palacio en el que vivo en Memphis\"",
+      "link": "https://www.motorpasion.com/furgonetas-y-caravanas/elon-musk-tiene-dinero-para-comprarse-mansiones-millonarias-prefiere-caravana-mi-palacio-que-vivo-memphis",
+      "fuente": "Motorpasión (ES)",
+      "fecha": "2026-10-06T16:01:24Z",
+      "resumen": "Elon Musk es el hombre más rico del planeta y de la historia : ha sido la primera persona cuya fortuna ha superado el billón de dólares. Forbes estima actualmente su patrimonio en unos 1,046 billones de dólares. Pero aunque ha tenido mansiones de más de 30 millones, en los últimos años ha optado por soluciones habitacionales mucho más discretas. Es más, ahora mismo vive en una autocaravana .…",
+      "imagen": "https://i.blogs.es/9ee9e5/elon-musk-vive-caravana/1024_2000.jpeg",
+      "menciones": 1,
+      "fuentes": [
+        "Motorpasión (ES)"
       ]
     }
   ]
