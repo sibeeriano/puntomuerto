@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-06T21:03:16Z",
+  "actualizado": "2026-10-06T23:16:16Z",
   "desde": "2026-09-29",
   "hasta": "2026-10-06",
   "destacadas": [
@@ -132,6 +132,18 @@
       "fuentes": [
         "Autotest",
         "iProfesional"
+      ]
+    },
+    {
+      "titulo": "Renault inició oficialmente la producción de Niagara",
+      "link": "https://eleconomista.com.ar/autos/renault-inicio-oficialmente-produccion-niagara-n98666",
+      "fuente": "El Economista",
+      "fecha": "2026-10-06T20:18:00Z",
+      "resumen": "La nueva pick-up comenzó a ser producida en serie en Fábrica Santa Isabel, provincia de Córdoba. Será lanzada comercialmente en noviembre y exportada a 19 mercados de América Latina.",
+      "imagen": "https://statics.eleconomista.com.ar/2026/10/crop/6ac55e2ea99fe__950x512.webp",
+      "menciones": 1,
+      "fuentes": [
+        "El Economista"
       ]
     },
     {
@@ -289,18 +301,6 @@
       "menciones": 1,
       "fuentes": [
         "Autotest"
-      ]
-    },
-    {
-      "titulo": "Arrow McLaren y Chevrolet extienden su alianza a largo plazo",
-      "link": "https://www.diariomotor.com/competicion/noticia/arrow-mclaren-chevrolet-extienden-largo-plazo/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-10-06T16:53:07Z",
-      "resumen": "Tras cerrar los fichajes de Scott Dixon y Felix Rosenqvist, para unirse a Patricio O'Ward, el siguiente paso de Arrow McLaren fue firmar una extensión de contrato con Chevrolet como su proveedor de motores a largo plazo, lo que significa que se encaminan a permanecer juntos para la nueva era del chasis IR-28. Durante varias semanas se especuló que Arrow McLaren estaría en la búsqueda de un nuevo…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/10/Arrow_McLaren_Chevrolet_IndyCar_NC_2026_26-6ac504165ac6d.jpg?class=XL",
-      "menciones": 1,
-      "fuentes": [
-        "Diariomotor (ES)"
       ]
     }
   ]
