@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-07T21:21:36Z",
+  "actualizado": "2026-10-07T23:50:14Z",
   "desde": "2026-09-30",
   "hasta": "2026-10-07",
   "destacadas": [
@@ -148,6 +148,18 @@
       ]
     },
     {
+      "titulo": "Jaguar Type 01: 1016 hp, 724 km y el auto más potente de toda su historia",
+      "link": "https://autotest.com.ar/noticias/jaguar-type-01-1016-hp-724-km-y-el-auto-mas-potente-de-toda-su-historia/",
+      "fuente": "Autotest",
+      "fecha": "2026-10-07T21:55:09Z",
+      "resumen": "El segmento de los gran turismo eléctricos de lujo ya tiene referencias claras: el Taycan Turbo GT de Porsche, el Model S Plaid de Tesla, el Lucid Air Sapphire y el Audi e-tron GT.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/jaguar-type-01-1016-hp-724-km-y-el-auto-1200x740-1.jpg",
+      "menciones": 1,
+      "fuentes": [
+        "Autotest"
+      ]
+    },
+    {
       "titulo": "Porsche cayó al 1% de rentabilidad y apuesta a un superdeportivo de motor central para revivir",
       "link": "https://autotest.com.ar/noticias/porsche-cayo-al-1-de-rentabilidad-y-apuesta-a-un-superdeportivo-de-motor-central-para-revivir/",
       "fuente": "Autotest",
@@ -289,18 +301,6 @@
       "menciones": 2,
       "fuentes": [
         "Autotest"
-      ]
-    },
-    {
-      "titulo": "He recorrido casi toda España en camper y este es uno de los pueblos pesqueros más bonitos que he visto: está en Fuerteventura y dan ganas de mudarse allí",
-      "link": "https://www.motorpasion.com/furgonetas-y-caravanas/he-recorrido-casi-toda-espana-camper-este-uno-pueblos-pesqueros-bonitos-que-he-visto-esta-fuerteventura-dan-ganas-mudarse-alli",
-      "fuente": "Motorpasión (ES)",
-      "fecha": "2026-10-07T16:00:38Z",
-      "resumen": "A Corralejo se llega buscando playas y buen tiempo, pero es fácil acabar descubriendo un pueblo con mucho más carácter del que cabría esperar de uno de los destinos turísticos más conocidos de Fuerteventura. Su casco antiguo todavía conserva su esencia marinera, con casas bajas y blancas junto al mar, calles estrechas y el antiguo puerto como uno de sus puntos más característicos. Además, su…",
-      "imagen": "https://i.blogs.es/c4ecdf/corralejo-apertura/1024_2000.jpeg",
-      "menciones": 1,
-      "fuentes": [
-        "Motorpasión (ES)"
       ]
     }
   ]
