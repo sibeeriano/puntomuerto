@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-07T19:20:29Z",
+  "actualizado": "2026-10-07T21:21:36Z",
   "desde": "2026-09-30",
   "hasta": "2026-10-07",
   "destacadas": [
@@ -10,7 +10,7 @@
       "fecha": "2026-10-07T17:00:18Z",
       "resumen": "Hace tiempo que no os hablamos del Suzuki Swift . Es uno de los utilitarios más interesantes del mercado . Es simple, es sencillo y en muchos aspectos, es incluso old-school . Motores atmosféricos muy fiables, etiqueta ECO de la DGT gracias a la hibridación ligera... y sobre todo, esta interesantísima versión . Hablamos del Suzuki Swift 4x4 , que desde hace décadas es el único utilitario con…",
       "imagen": "https://www.diariomotor.com/imagenes/2025/04/Suzuki-Swift-AllGrip-FX13-6804e9d4c8c0a.jpg?class=XL",
-      "menciones": 9,
+      "menciones": 8,
       "fuentes": [
         "Autotest",
         "Diariomotor (ES)",
@@ -41,19 +41,6 @@
       "fuentes": [
         "Diariomotor (ES)",
         "Motorpasión (ES)"
-      ]
-    },
-    {
-      "titulo": "La nueva Toyota Hilux aparece sin camuflaje: así es la renovación de la pick up",
-      "link": "https://autotest.com.ar/noticias/la-nueva-toyota-hilux-aparece-sin-camuflaje-asi-es-la-renovacion-de-la-pick-up/",
-      "fuente": "Autotest",
-      "fecha": "2026-10-07T12:00:18Z",
-      "resumen": "La Toyota Hilux 2027 presenta un diseño renovado, más tecnología y la novedad de una versión totalmente eléctrica con 240 kilómetros de autonomía estimada.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/Nueva-Toyota-Hilux-2027-trompa.jpg",
-      "menciones": 3,
-      "fuentes": [
-        "Autotest",
-        "iProfesional"
       ]
     },
     {
@@ -158,6 +145,18 @@
       "fuentes": [
         "Diariomotor (ES)",
         "Motorpasión (ES)"
+      ]
+    },
+    {
+      "titulo": "Porsche cayó al 1% de rentabilidad y apuesta a un superdeportivo de motor central para revivir",
+      "link": "https://autotest.com.ar/noticias/porsche-cayo-al-1-de-rentabilidad-y-apuesta-a-un-superdeportivo-de-motor-central-para-revivir/",
+      "fuente": "Autotest",
+      "fecha": "2026-10-07T21:06:23Z",
+      "resumen": "Porsche AG salió a la bolsa de Fráncfort en 2022 con la promesa de mantener su estatus de marca más rentable del sector mientras aceleraba la electrificación.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/porsche-cay-al-1-de-rentabilidad-y-apues-1200x740-1.jpg",
+      "menciones": 1,
+      "fuentes": [
+        "Autotest"
       ]
     },
     {
