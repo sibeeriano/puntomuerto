@@ -1,20 +1,72 @@
 {
-  "actualizado": "2026-10-07T23:50:14Z",
-  "desde": "2026-09-30",
-  "hasta": "2026-10-07",
+  "actualizado": "2026-10-08T19:17:10Z",
+  "desde": "2026-10-01",
+  "hasta": "2026-10-08",
   "destacadas": [
     {
-      "titulo": "El Toyota Yaris de Suzuki es un 4x4 de bolsillo, un coche único con etiqueta ECO y consumo de 4,9 l/100 km, perfecto para zonas de montaña",
-      "link": "https://www.diariomotor.com/noticia/precio-suzuki-swift-4x4/",
+      "titulo": "Más imágenes del Geely Monjaro, un todocamino 4x4 que llega a España con un motor híbrido que hace 130 km antes de gastar gasolina",
+      "link": "https://www.diariomotor.com/noticia/geely-monjaro-datos-motor/",
       "fuente": "Diariomotor (ES)",
-      "fecha": "2026-10-07T17:00:18Z",
-      "resumen": "Hace tiempo que no os hablamos del Suzuki Swift . Es uno de los utilitarios más interesantes del mercado . Es simple, es sencillo y en muchos aspectos, es incluso old-school . Motores atmosféricos muy fiables, etiqueta ECO de la DGT gracias a la hibridación ligera... y sobre todo, esta interesantísima versión . Hablamos del Suzuki Swift 4x4 , que desde hace décadas es el único utilitario con…",
-      "imagen": "https://www.diariomotor.com/imagenes/2025/04/Suzuki-Swift-AllGrip-FX13-6804e9d4c8c0a.jpg?class=XL",
-      "menciones": 8,
+      "fecha": "2026-10-08T15:00:18Z",
+      "resumen": "Con 2.434 matriculaciones en tan sólo unos pocos meses de comercialización a sus espaldas, no está fuera de lugar afirmar que Geely está sabiendo posicionar sus primeros coches en Europa de manera muy acertada, lo que hace que los modelos planteados para su próximo lanzamiento se lleven toda nuestra atención. Si la marca acaba de dar comienzo a la comercialización de su primer urbano, el Geely E2…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/10/Geely-Monjaro-Espana-1-6ac75f65db594.jpg?class=XL",
+      "menciones": 11,
       "fuentes": [
         "Autotest",
         "Diariomotor (ES)",
         "Motorpasión (ES)"
+      ]
+    },
+    {
+      "titulo": "Tan grande como un SEAT Ateca pero mucho más barato que un Kia Picanto, este SUV con motor turbo y 127 CV es el ofertón del momento",
+      "link": "https://www.diariomotor.com/noticia/evo-5-oferta-octubre/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-10-08T18:00:40Z",
+      "resumen": "Es muy complicado encontrar hoy en día coches nuevos de tamaño compacto y precio bajo que permitan viajar en familia con soltura. La opción que hoy te traemos destaca principalmente por su bajo coste de adquisición pero también tiene otras ventajas como una mecánica solvente o un diseño bastante exótico. Con 127 CV de potencia Manual con seis velocidades Maletero algo justo Precio bajo El EVO 5 es…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/01/evo5_4-695b99ebd658f.jpeg?class=XL",
+      "menciones": 12,
+      "fuentes": [
+        "Diariomotor (ES)",
+        "Motorpasión (ES)"
+      ]
+    },
+    {
+      "titulo": "Fernando Alonso frena su regreso al Rally Dakar: “No creo que sea físicamente posible”",
+      "link": "https://www.diariomotor.com/competicion/noticia/fernando-alonso-frena-regreso-al-dakar/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-10-08T14:04:59Z",
+      "resumen": "Aunque no se esperaba nada oficial en medio de la antesala del Gran Premio de Singapur, no se descartaba que Fernando Alonso pudiera hacer algún tipo de guiño a la información publicada durante esta semana sobre su posible participación en el Rally Dakar 2027 al volante de un T1+ de Prodrive carrozado por Aston Martin. El ovetense lleva mucho tiempo apuntando a que uno de sus objetivos de futuro…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/10/fernando-alonso-dakar-2027-aston-martin-2-6ac7865c0f528.jpg?class=XL",
+      "menciones": 4,
+      "fuentes": [
+        "Diariomotor (ES)",
+        "Motorpasión (ES)"
+      ]
+    },
+    {
+      "titulo": "Stellantis no descarta cerrar plantas en Argentina en medio del contexto que atraviesa el mercado",
+      "link": "https://www.iprofesional.com/autos/466176-stellantis-no-descarta-cerrar-plantas-en-argentina",
+      "fuente": "iProfesional",
+      "fecha": "2026-10-08T13:22:00Z",
+      "resumen": "Fue una declaración del presidente de Stellantis para América del Sur, Herlander Zola. A nivel loca, las fábricas están en proceso de inversión (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
+      "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2019/05/477738.jpg",
+      "menciones": 3,
+      "fuentes": [
+        "El Economista",
+        "iProfesional"
+      ]
+    },
+    {
+      "titulo": "El Citroën 2CV de EBRO tendrá mayor tamaño que el Renault 5 para ser un perfecto y barato coche urbano de bajo consumo",
+      "link": "https://www.diariomotor.com/noticia/citroen-2cv-de-ebro/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-10-08T09:00:05Z",
+      "resumen": "Se empieza a librar una batalla de calibre dentro del segmento de los coches eléctricos urbanos. A mayores bajadas de precio que vamos apreciando dentro de este segmento, mayor interés se va registrando por parte del público español, y la prueba reside en coches como el BYD Dolphin Surf o el Renault 5 , cuyas propuestas son atractivas desde el punto de vista económico y del diseño. Hacia ahí…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/04/El-MINI-Cooper-de-EBRO-69f34f9e8deb7.jpg?class=XL",
+      "menciones": 4,
+      "fuentes": [
+        "Autotest",
+        "Diariomotor (ES)"
       ]
     },
     {
@@ -28,45 +80,6 @@
       "fuentes": [
         "Diariomotor (ES)",
         "Motorpasión (ES)"
-      ]
-    },
-    {
-      "titulo": "Un estudio lo demuestra: el Aston Martin Honda es el peor coche de Fórmula 1 que ha pilotado Fernando Alonso",
-      "link": "https://www.motorpasion.com/formula1/estudio-demuestra-aston-martin-honda-peor-coche-formula-1-que-ha-pilotado-fernando-alonso",
-      "fuente": "Motorpasión (ES)",
-      "fecha": "2026-10-07T13:00:40Z",
-      "resumen": "2026 no está siendo la temporada de ilusión que muchos esperaban para Fernando Alonso. El Aston Martin AMR26, y en especial su motor Honda, han resultado ser un desastre que se encuentra a años luz de los más rápidos. Pero la gran pregunta es: ¿Es este Aston Martin el peor coche que ha pilotado Fernando Alonso? Ya sabemos la respuesta. Según un estudio realizado por los expertos de Delta Data , el…",
-      "imagen": "https://i.blogs.es/a799f3/alonso-malasia-f1-2026/1024_2000.jpeg",
-      "menciones": 4,
-      "fuentes": [
-        "Diariomotor (ES)",
-        "Motorpasión (ES)"
-      ]
-    },
-    {
-      "titulo": "El Volvo XC60 de BYD es el chollo SUV de 2026, cuesta 34.000 € menos, está equipado hasta arriba y hace 125 km antes de gastar gasolina",
-      "link": "https://www.diariomotor.com/noticia/oferta-byd-seal-u-dm-i-octubre-2026/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-10-07T11:00:18Z",
-      "resumen": "El SUV con etiqueta CERO, híbrido enchufable y capaz de hacer 125 km antes de gastar gasolina no tiene que ser excesivamente caro. Y no lo digo yo, lo dice BYD con su coche que, con tamaño de Volvo XC60 pero costando 34.000 euros menos y cumpliendo con todo lo del principio, quiere ser el chollo de 2026. BYD quiere seguir reventando el mercado de los SUV PHEV Es uno de los SUV PHEV con mejor…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/08/BYD-Seal-U-DM-i-2026-6a7ee10cef5e7.jpeg?class=XL",
-      "menciones": 8,
-      "fuentes": [
-        "Diariomotor (ES)",
-        "Motorpasión (ES)"
-      ]
-    },
-    {
-      "titulo": "El Toyota Corolla Cross de EBRO tiene \"interior Mercedes\", pero su motor híbrido puede hacer 90 km antes de empezar a gastar gasolina",
-      "link": "https://www.diariomotor.com/noticia/ebro-s700-phev-oct-26/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-10-07T10:00:13Z",
-      "resumen": "Son muchos los que empujados por la necesidad de cambiar de coches, empieza a contrarreloj la búsqueda de una nueva herramienta de transporte con una sorpresa de la que se percatan rápidamente: sólo los coches chinos tienen precios de los que creías que eran normales en coches convencionales y no tenías pensado comprar un chino. Tal vez por seguir favoreciendo a la industria europea o española,…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/10/EBRO-S700-7-6ac50d5c1299e.jpg?class=XL",
-      "menciones": 4,
-      "fuentes": [
-        "Autotest",
-        "Diariomotor (ES)"
       ]
     },
     {
@@ -122,16 +135,75 @@
       ]
     },
     {
-      "titulo": "Citroën 2CV eléctrico 2027: el auto barato que revive el mito de 3,8 millones de unidades",
-      "link": "https://autotest.com.ar/noticias/citroen-2cv-electrico-2027-el-auto-barato-que-revive-el-mito-de-3-8-millones-de-unidades/",
-      "fuente": "Autotest",
-      "fecha": "2026-10-05T14:41:19Z",
-      "resumen": "Las primeras imágenes oficiales del nuevo 2CV muestran un auto con silueta retro clásica, claramente inspirada en el modelo histórico.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/citro-n-2cv-el-ctrico-2027-el-auto-barat-1200x740-1.jpg",
-      "menciones": 2,
+      "titulo": "Europa sigue obsesionada con los coches chinos, su respuesta es este Citroën 2CV que conoceremos en unos días",
+      "link": "https://www.diariomotor.com/noticia/citroen-2cv-respuesta-europa/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-10-08T21:00:45Z",
+      "resumen": "Parece increíble. Pero estamos a tan solo unos días de conocer uno de los coches más esperados en mucho tiempo y una sorpresa mayúscula, por mucho que durante años se hubiese valorado tal posibilidad. Regresa el Citroën 2CV. Citroën recupera el 2CV con una propuesta que busca conectar con el comprador mediante un nombre, pero sobre todo una imagen conocida, y un planteamiento sencillo. Europa…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/10/citroen-2cv-adelanto-6ac7b0331b68b.jpeg?class=XL",
+      "menciones": 3,
       "fuentes": [
-        "Autotest",
         "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "Jeremy Clarkson vende tres de sus coches, incluido el Lancia del episodio final de The Grand Tour, y tú mismo puedes hacerle una oferta por ellos",
+      "link": "https://www.diariomotor.com/noticia/jeremy-clarkson-vende-tres-coches-incluido-lancia-montecarlo-spider-final-the-grand-tour/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-10-08T20:00:15Z",
+      "resumen": "No ocurría a menudo, pero a Jeremy Clarkson le gustaron tanto algunos coches que se los llevó a casa después del rodaje. Ocurrió con los tres protagonistas de esta historia: un Lancia Montecarlo Spider , un Alfa Romeo GTV6 y un Lincoln Continental Mark V . Todos aparecieron en The Grand Tour , todos acabaron en su colección particular y ahora buscan nuevo dueño. El Lancia con el que se despidió…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/10/jeremy-clarkson-lincoln-alfa-romeo-lancia_port2-6ac7941b20d88.jpg?class=XL",
+      "menciones": 1,
+      "fuentes": [
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "Probamos el Ferrari Purosangue Handling Speciale, mejorando lo ¿imposible?",
+      "link": "https://www.diariomotor.com/noticia/prueba-ferrari-purosangue-handling-speciale/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-10-08T19:15:30Z",
+      "resumen": "No todos los días se pone uno al volante de 725 CV, menos aún cuando esa potencia acompaña a lo último de Ferrari . Pero sí, en Diariomotor acabamos de probar el nuevo Ferrari Purosangue Handling Speciale , una variante que promete más deportividad y precisión, pero que sobre todo pone en manos de su conductor un extra de diversión. En un mundo donde todas las marcas de lujo y altas prestaciones…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/10/ferrari-purosangue-handling-speciale-david-clavero-90-6ac7c9f390edd.jpg?class=XL",
+      "menciones": 1,
+      "fuentes": [
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "Con casi 15 metros de largo y 2.650 Nm de par, Scania planta un motor diésel de 13 litros a su nuevo autocar en plena era eléctrica",
+      "link": "https://www.diariomotor.com/noticia/scania-touring-2027/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-10-08T19:00:33Z",
+      "resumen": "Tiene hasta 500 CV, puede llevar a 67 pasajeros y su motor diésel cubica 13 litros. El nuevo Scania Touring juega en otra liga respecto a los coches que solemos tratar aquí, pero plantea una cuestión muy familiar: cuánto tiempo le queda al motor de combustión. Scania estrena generación de su autocar y no es eléctrico, aunque tres de sus características suenan un poco a vehículo eléctrico. Pese a…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/10/Scania-Touring-332-6ac762304c08d.jpg?class=XL",
+      "menciones": 1,
+      "fuentes": [
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "Este buceador pensó que había encontrado un tesoro histórico de Mercedes-Benz bajo el agua. Resultó ser un trasto sin valor, pero no sería la primera joya que rescata",
+      "link": "https://www.motorpasion.com/clasicos/este-buceador-penso-que-habia-encontrado-tesoro-historico-mercedes-benz-agua-resulto-ser-trasto-valor-no-seria-primera-joya-que-rescata",
+      "fuente": "Motorpasión (ES)",
+      "fecha": "2026-10-08T19:00:28Z",
+      "resumen": "Adam Brown es un buceador especializado en la búsqueda y rescates de personas, pero también se dedica a encontrar vehículos sumergidos y a sacarlos del agua para evitar que sigan contaminando. Comparte muchas de sus aventuras en redes sociales y uno de sus últimos hallazgos parecía el más especial de todos, aunque ha resultado ser otra cosa. Coches robados, accidentados, desaparecidos por estafas…",
+      "imagen": "https://i.blogs.es/8af716/adam-brown-mercedes/1024_2000.jpeg",
+      "menciones": 1,
+      "fuentes": [
+        "Motorpasión (ES)"
+      ]
+    },
+    {
+      "titulo": "Más barato que Toyota Yaris: el hatchback que sorprende por precio, consumo y tecnología",
+      "link": "https://autotest.com.ar/noticias/mas-barato-que-toyota-yaris-el-hatchback-que-sorprende-por-precio-consumo-y-tecnologia/",
+      "fuente": "Autotest",
+      "fecha": "2026-10-08T19:00:05Z",
+      "resumen": "MG lanza la preventa del MG3 ICE en Argentina con un precio inicial de USD 20.900. Descubre su motor, precio y equipamiento completo.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/06/Hatch-MG3-naftero-perfil.jpg",
+      "menciones": 11,
+      "fuentes": [
+        "Autotest"
       ]
     },
     {
@@ -148,156 +220,84 @@
       ]
     },
     {
-      "titulo": "Jaguar Type 01: 1016 hp, 724 km y el auto más potente de toda su historia",
-      "link": "https://autotest.com.ar/noticias/jaguar-type-01-1016-hp-724-km-y-el-auto-mas-potente-de-toda-su-historia/",
+      "titulo": "221 CV y amplio equipamiento: la nueva pick up que llegó a la región para competir contra Toyota Hilux",
+      "link": "https://autotest.com.ar/noticias/221-cv-y-amplio-equipamiento-la-nueva-pick-up-que-llego-a-la-region-para-competir-contra-toyota-hilux/",
       "fuente": "Autotest",
-      "fecha": "2026-10-07T21:55:09Z",
-      "resumen": "El segmento de los gran turismo eléctricos de lujo ya tiene referencias claras: el Taycan Turbo GT de Porsche, el Model S Plaid de Tesla, el Lucid Air Sapphire y el Audi e-tron GT.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/jaguar-type-01-1016-hp-724-km-y-el-auto-1200x740-1.jpg",
-      "menciones": 1,
+      "fecha": "2026-10-08T18:00:49Z",
+      "resumen": "La Maxus T70 llega a Chile con 221 CV, opciones 4x2 y 4x4, y se posiciona como una fuerte competidora frente a la Toyota Hilux y Ford Ranger.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/Pick-up-Maxus-T70-perfil.jpg",
+      "menciones": 7,
       "fuentes": [
         "Autotest"
       ]
     },
     {
-      "titulo": "Porsche cayó al 1% de rentabilidad y apuesta a un superdeportivo de motor central para revivir",
-      "link": "https://autotest.com.ar/noticias/porsche-cayo-al-1-de-rentabilidad-y-apuesta-a-un-superdeportivo-de-motor-central-para-revivir/",
-      "fuente": "Autotest",
-      "fecha": "2026-10-07T21:06:23Z",
-      "resumen": "Porsche AG salió a la bolsa de Fráncfort en 2022 con la promesa de mantener su estatus de marca más rentable del sector mientras aceleraba la electrificación.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/porsche-cay-al-1-de-rentabilidad-y-apues-1200x740-1.jpg",
-      "menciones": 1,
-      "fuentes": [
-        "Autotest"
-      ]
-    },
-    {
-      "titulo": "Primeras imágenes del SUV más 4x4 de MINI, un Countryman sin miedo al off-road que también podrás usar como Camper",
-      "link": "https://www.diariomotor.com/noticia/primeras-imagenes-mini-countryman-untamed-edition/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-10-07T19:00:41Z",
-      "resumen": "Combinar lo mejor de los SUV y los todoterrenos no es tarea fácil, pero en MINI se han propuesto intentarlo y el resultado es cuanto menos sorprendente, pues no sólo estamos ante el mejor 4x4 fabricado por MINI hasta la fecha , sino ante un coche sin miedo al off-road que también hará las delicias de todos aquellos a los que nos gusta acampar al aire libre. Hace tiempo que en MINI tenían ganas de…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/10/mini-countryman-untamed-edition-2026-68-6ac62aac14409.jpg?class=XL",
-      "menciones": 1,
-      "fuentes": [
-        "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "Cuesta 15 millones menos que una Toyota Hilux: la pick up de Nissan que bajó de precio en octubre 2026",
-      "link": "https://autotest.com.ar/noticias/cuesta-15-millones-menos-que-una-toyota-hilux-la-pick-up-de-nissan-que-bajo-de-precio-en-octubre-2026/",
-      "fuente": "Autotest",
-      "fecha": "2026-10-07T19:00:00Z",
-      "resumen": "La Nissan Frontier en Argentina ajusta precios con rebajas en cinco versiones y descuentos impresionantes. Descubre las opciones y los beneficios durante septiembre 2026.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/Nissan-Frontier-X-Gear-trompa.jpg",
-      "menciones": 19,
-      "fuentes": [
-        "Autotest"
-      ]
-    },
-    {
-      "titulo": "Nissan confirmó la venta de su negocio en Argentina y pasa a manos de dos empresas",
-      "link": "https://www.iprofesional.com/autos/466112-nissan-confirmo-la-venta-de-su-negocio-en-argentina-y-pasa-a-manos-de-dos-empresas",
-      "fuente": "iProfesional",
-      "fecha": "2026-10-07T19:00:00Z",
-      "resumen": "La marca dejó de ser una terminal local para cambiar su modelo de negocio. De esta manera, se concreta un dato que hace tiempo se venía esperando (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
-      "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2025/04/595168.jpg",
-      "menciones": 1,
-      "fuentes": [
-        "iProfesional"
-      ]
-    },
-    {
-      "titulo": "Los V10 y V8 de Schumacher volvieron a rugir en Mugello: 850 CV y el sonido que la F1 perdió",
-      "link": "https://autotest.com.ar/carreras/los-v10-y-v8-de-schumacher-volvieron-a-rugir-en-mugello-850-cv-y-el-sonido-que-la-f1-perdio/",
-      "fuente": "Autotest",
-      "fecha": "2026-10-07T18:46:25Z",
-      "resumen": "En el parque hubo F1 de los años setenta, ochenta, noventa y dos mil, además de sport prototipos, GT y turismos históricos que completaron la grilla.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/los-v10-y-v8-de-schumacher-volvieron-a-r-1200x740-1.jpg",
-      "menciones": 1,
-      "fuentes": [
-        "Autotest"
-      ]
-    },
-    {
-      "titulo": "Es oficial: Nissan ya tiene importador y representante en Argentina",
-      "link": "https://eleconomista.com.ar/autos/es-oficial-nissan-ya-tiene-importador-representante-argentina-n98695",
-      "fuente": "El Economista",
-      "fecha": "2026-10-07T18:11:00Z",
-      "resumen": "La compañía confirmó este miércoles que avanza hacia \"un nuevo modelo de distribución\" que combinará su experiencia global \"con el conocimiento del mercado argentino de dos grupos de sólida trayectoria en el país\" como son Grupo Simpa y Grupo Tagle.",
-      "imagen": "https://statics.eleconomista.com.ar/2025/02/crop/67a27d22c37d3__950x512.webp",
-      "menciones": 1,
-      "fuentes": [
-        "El Economista"
-      ]
-    },
-    {
-      "titulo": "La \"Citroën C-15\" italiana está en promoción, toda una furgo para pasajeros diésel y muy capaz a precio de polivalente sencillo",
-      "link": "https://www.diariomotor.com/noticia/oferta-fiat-qubo-l-octubre/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-10-07T18:00:42Z",
-      "resumen": "¿Buscando un vehículo con muy buena capacidad de carga que no te cueste un riñón? Ojito al ofertón que hoy te traemos que te permitirá llevarte a casa una estupenda multiespacio de tamaño compacto por lo que te costaría un coche del segmento B bastante normalito. Además va equipada con un eficiente motor diésel que la mueve con bastante soltura. Cambio manual de seis velocidades Espacioso…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/10/0fiat-qubo-6ac642a8f2f44.jpg?class=XL",
-      "menciones": 1,
-      "fuentes": [
-        "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "Llega a Lidl esta semana la solución 2x1 para limpiar y arreglar el coche sin dejarte los riñones por menos de 25 euros",
-      "link": "https://www.motorpasion.com/revision/llega-a-lidl-esta-semana-solucion-2x1-para-limpiar-arreglar-coche-dejarte-rinones-25-euros",
+      "titulo": "Rusia quiso ganar la Primera Guerra Mundial con un tanque de 9 metros de alto en forma de triciclo. Solo consiguió oxidarse en un bosque",
+      "link": "https://www.motorpasion.com/seguridad/rusia-quiso-ganar-primera-guerra-mundial-tanque-9-metros-alto-forma-triciclo-solo-consiguio-oxidarse-bosque",
       "fuente": "Motorpasión (ES)",
-      "fecha": "2026-10-07T18:00:41Z",
-      "resumen": "Desde el lunes 5 de octubre, está disponible en los supermercados de Lidl la camilla con ruedas y taburete de taller. Cuesta 24,99 euros y sirve para trabajar tumbado de forma cómoda bajo el coche y también para trabajar sentado junto a él. Dos accesorios muy útiles en uno Lidl nos ha demostrado muchas veces que no hace falta gastarse muchísimo dinero para tener un garaje o un trastero lleno de…",
-      "imagen": "https://i.blogs.es/f85f42/lidl_1/1024_2000.jpeg",
+      "fecha": "2026-10-08T18:00:28Z",
+      "resumen": "El Tanque del Zar es un coloso steampunk que pudo haber cambiado el curso de la Primera Guerra Mundial . Y con ello probablemente toda la historia del siglo XX hasta hoy. El primer conflicto mundial vio la creación de innovaciones letales de todo tipo, como las armas químicas o la aviación militar. Entre las innovaciones más destacadas, un viejo sueño de la ingeniería militar, la unidad blindada…",
+      "imagen": "https://i.blogs.es/ccf0ed/tsar-tank-lebedenko-tank-netopyr_3/1024_2000.jpeg",
       "menciones": 1,
       "fuentes": [
         "Motorpasión (ES)"
       ]
     },
     {
-      "titulo": "Por encima de Tracker: el SUV de Chevrolet que podría llegar a la región con nuevo diseño y motor turbo",
-      "link": "https://autotest.com.ar/noticias/por-encima-de-tracker-el-suv-de-chevrolet-que-podria-llegar-a-la-region-con-nuevo-diseno-y-motor-turbo/",
+      "titulo": "74 CV diésel y ruedas de 1,64 m: el anfibio que trepa un 70% y deja en ridículo a las 4×4 de 700 CV",
+      "link": "https://autotest.com.ar/offroad/74-cv-diesel-y-ruedas-de-1-64-m-el-anfibio-que-trepa-un-70-y-deja-en-ridiculo-a-las-4x4-de-700-cv/",
       "fuente": "Autotest",
-      "fecha": "2026-10-07T18:00:11Z",
-      "resumen": "Descubre el rediseño del Chevrolet Trax 2027, un SUV que busca un nuevo lugar en el mercado entre el Tracker y el Equinox, con un frontal moderno y mejoras en su motorización.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/Chevrolet-Trax-2027-teaser.jpg",
+      "fecha": "2026-10-08T17:50:15Z",
+      "resumen": "Un UTV como el Can-Am Defender, por ejemplo, es ágil y liviano, pero sus ruedas chicas y su despeje limitado lo frenan en barro profundo o nieve.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/74-cv-di-sel-y-ruedas-de-1-64-m-el-anfib-1200x740-1.jpg",
       "menciones": 1,
       "fuentes": [
         "Autotest"
       ]
     },
     {
-      "titulo": "Esteban Masson y Hadrien David candidatos de Toyota Racing para unirse a la clase Hypercar",
-      "link": "https://www.diariomotor.com/competicion/noticia/esteban-masson-hadrien-david-toyota-racing-clase-hypercar/",
+      "titulo": "Geely Monjaro: 130 km en eléctrico, más autonomía que el BYD Seal U DM-i",
+      "link": "https://autotest.com.ar/noticias/geely-monjaro-130-km-en-electrico-mas-autonomia-que-el-byd-seal-u-dm-i/",
+      "fuente": "Autotest",
+      "fecha": "2026-10-08T17:50:09Z",
+      "resumen": "En la práctica, 130 kilómetros significan que un propietario puede cargar el SUV en casa y circular durante días sin que el motor a gasolina se encienda.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/geely-monjaro-130-km-en-el-ctrico-m-s-au-1200x740-1.jpg",
+      "menciones": 1,
+      "fuentes": [
+        "Autotest"
+      ]
+    },
+    {
+      "titulo": "Chevrolet continúa confirmando a sus equipos para la nueva era de la IndyCar en 2028",
+      "link": "https://www.diariomotor.com/competicion/noticia/chevrolet-confirmando-socios-nueva-era-indycar/",
       "fuente": "Diariomotor (ES)",
-      "fecha": "2026-10-07T17:10:00Z",
-      "resumen": "El reciente anuncio de retiro pronunciado por Mike Conway precipitó los movimientos en Toyota Racing puesto que si bien estaba planificada la ausencia del piloto británico en la formación titular de la clase Hypercar, por ello se realizaron las conversaciones para fichar a Kévin Estre, resulta que desde hace semanas atrás se reportó que Ryō Hirakawa también estaría camino a salir del equipo, en…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/10/Toyota_Racing_US_Lone_Star_WEC_2026_NA_26-6ac6551fc3e6a.jpg?class=XL",
+      "fecha": "2026-10-08T17:32:43Z",
+      "resumen": "Primero fue Arrow McLaren el equipo que anunció una extensión de contrato multianual con Chevrolet para de esta forma afrontar la nueva normativa técnica que entrará en vigencia a partir de 2028, un día después Ed Carpenter Racing hacía lo mismo, para asegurar la dotación de los motores V6 biturbo de 2.2 litros por un período que les hará completar más de 15 temporadas con un mismo proveedor. El…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/10/Josef_Newgarden_Team_Penske_2026_NCC3_26-6ac7aa6cada32.jpg?class=XL",
       "menciones": 1,
       "fuentes": [
         "Diariomotor (ES)"
       ]
     },
     {
-      "titulo": "La odisea del último ekranoplano: el letal monstruo soviético de 280 toneladas que estuvieron años arrastrando por una playa",
-      "link": "https://www.motorpasion.com/industria/odisea-monstruo-sovietico-letal-guerra-fria-travesia-mar-caspio-anos-arrastrado-playa",
+      "titulo": "Rubén Fidalgo, ex jefe de taller: \"Hay coches en los que cambiar una bombilla te obliga a quitar una rueda\"",
+      "link": "https://www.motorpasion.com/industria/ruben-fidalgo-ex-jefe-taller-hay-coches-que-cambiar-bombilla-te-obliga-a-quitar-rueda",
       "fuente": "Motorpasión (ES)",
-      "fecha": "2026-10-07T17:00:39Z",
-      "resumen": "A medio camino entre barco y avión, los gigantescos ekranoplanos soviéticos eran eso: una suerte de buque capaz de volar sobre el agua a más de 500 km/h y lanzar misiles supersónicos para destruir portaaviones. Son algunas de las características del Lun, el culmen militar de estos gigantes y todo un arma de destrucción masiva. Solo un ejemplar de esta mortífera clase llegó a construirse: el…",
-      "imagen": "https://i.blogs.es/21c9e0/ekanoprano-lun-museo-01/1024_2000.jpeg",
+      "fecha": "2026-10-08T17:30:26Z",
+      "resumen": "Hay coches que hacen que los mecánicos se froten las manos y los ojos se les hagan \"$$$\" en cuanto asoman por la puerta del taller . Otros, en cambio, hacen que aparezcan estigmas en las palmas de las manos como las llagas de Cristo, sólo por recordar lo que les hizo sufrir el último que tuvieron que reparar. No tiene por qué ser un coche con una mecánica excesivamente complicada, ni de lujo, ni…",
+      "imagen": "https://i.blogs.es/5fa594/portada-mop-1791455232382/1024_2000.jpeg",
       "menciones": 1,
       "fuentes": [
         "Motorpasión (ES)"
       ]
     },
     {
-      "titulo": "Renault inicia la producción de Niagara y se prepara para competir contra Fiat Toro",
-      "link": "https://autotest.com.ar/noticias/renault-inicia-la-produccion-de-niagara-y-se-prepara-para-competir-contra-fiat-toro/",
+      "titulo": "El nuevo SUV de Jeep con motor turbo que ya se puede reservar y enfrentará a Volkswagen Tera",
+      "link": "https://autotest.com.ar/noticias/el-nuevo-suv-de-jeep-con-motor-turbo-que-ya-se-puede-reservar-y-enfrentara-a-volkswagen-tera/",
       "fuente": "Autotest",
-      "fecha": "2026-10-07T17:00:09Z",
-      "resumen": "Renault Argentina presenta su Media Room, un espacio oficial de comunicación destinado a medios, concesionarios y público interesado, ubicado en prensa.renault.com.ar.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/Renault-Niagara-produccion-1.jpg",
+      "fecha": "2026-10-08T17:00:32Z",
+      "resumen": "Jeep introduce el Avenger en Argentina, ofreciendo un modelo con motor híbrido suave MHEV y versiones variadas. La presentación oficial está programada para fines de octubre.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/Jeep-Avenger-teaser-1.jpg",
       "menciones": 2,
       "fuentes": [
         "Autotest"
