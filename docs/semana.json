@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-10T17:51:55Z",
+  "actualizado": "2026-10-10T20:08:40Z",
   "desde": "2026-10-03",
   "hasta": "2026-10-10",
   "destacadas": [
@@ -131,6 +131,18 @@
       "menciones": 2,
       "fuentes": [
         "Diariomotor (ES)",
+        "Motorpasión (ES)"
+      ]
+    },
+    {
+      "titulo": "En EEUU te pueden meter un tiro mientras cargas tu coche eléctrico, así que los Tesla ahora pueden salir pitando sin llevarse puesto el cargador",
+      "link": "https://www.motorpasion.com/seguridad/eeuu-te-pueden-meter-tiro-cargas-coche-electrico-asi-que-tesla-ahora-pueden-salir-corriendo-llevarse-puesto-cargador",
+      "fuente": "Motorpasión (ES)",
+      "fecha": "2026-10-10T19:00:28Z",
+      "resumen": "La relación entre EEUU con las armas está tan normalizada que los fabricantes de coches incorporan cajas fuertes para guardar la pistola . Según los datos de la organización independiente 'Gun Violence Archive', e n EEUU se registraron 408 tiroteos masivos el año pasado , que dejaron 358 personas fallecidas y más de 1.840 heridos. Uno de estos 'incidentes' ocurrió el agosto en Idaho, cuando un…",
+      "imagen": "https://i.blogs.es/4cad63/portada-mop-1791371625933/1024_2000.jpeg",
+      "menciones": 1,
+      "fuentes": [
         "Motorpasión (ES)"
       ]
     },
@@ -288,18 +300,6 @@
       "menciones": 2,
       "fuentes": [
         "Autotest"
-      ]
-    },
-    {
-      "titulo": "\"No sé qué diablos es\": Trump ha firmado una orden para que cualquiera pueda echar diésel agrícola en EEUU ante los disparatados precios",
-      "link": "https://www.motorpasion.com/industria/no-se-que-diablos-trump-ha-firmado-orden-para-pueda-echar-diesel-rojo-eeuu-disparatados-precios",
-      "fuente": "Motorpasión (ES)",
-      "fecha": "2026-10-10T13:00:30Z",
-      "resumen": "Los precios del combustible en EEUU son tan disparatados que para muchos -la mayoría- de conductores acudir a una gasolinera es impensable. Irónicamente la guerra que comenzó Donald Trump contra Irán está golpeando al país donde más le duele, porque el coche privado es un bien necesario en un teniendo en cuenta que el transporte público está reservado para las ciudades. Ahora Trump ha firmado una…",
-      "imagen": "https://i.blogs.es/199c8f/portada-mop-1791549180709/1024_2000.jpeg",
-      "menciones": 1,
-      "fuentes": [
-        "Motorpasión (ES)"
       ]
     }
   ]
