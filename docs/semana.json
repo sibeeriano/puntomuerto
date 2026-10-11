@@ -1,7 +1,7 @@
 {
-  "actualizado": "2026-10-10T22:56:59Z",
-  "desde": "2026-10-03",
-  "hasta": "2026-10-10",
+  "actualizado": "2026-10-11T18:04:48Z",
+  "desde": "2026-10-04",
+  "hasta": "2026-10-11",
   "destacadas": [
     {
       "titulo": "El nuevo Jeep Avenger ya aparece en los concesionarios: así es el SUV que competirá contra Volkswagen Tera",
@@ -18,13 +18,65 @@
       ]
     },
     {
+      "titulo": "Max Verstappen domina en Singapur y consigue su segunda victoria consecutiva",
+      "link": "https://www.diariomotor.com/competicion/noticia/max-verstappen-domina-en-singapur-y-consigue-su-segunda-victoria-consecutiva/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-10-11T16:20:01Z",
+      "resumen": "Max Verstappen arrasó en Singapur como pocas veces ha hecho anteriormente. A la 73ª victoria de su trayctoria en la Fórmula 1 solo le faltó la vuelta rápida, hecho innecesario por la ventaja que disfrutó en todo momento al frente de una carrera poco atractiva. Charles Leclerc sacó un buen segundo lugar y Andrea Kimi Antonelli pescó un podio en río revuelto para ampliar aún más su margen en el…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/10/max-verstappen-victoria-f1-singapur-2026-6acb9a8c038fd.jpg?class=XL",
+      "menciones": 2,
+      "fuentes": [
+        "Diariomotor (ES)",
+        "Motorpasión (ES)"
+      ]
+    },
+    {
+      "titulo": "465 CV y 3.9 segundos de 0 a 100 km/h: una marca lanza un SUV para desafiar a Toyota Corolla Cross",
+      "link": "https://autotest.com.ar/noticias/465-cv-y-3-9-segundos-de-0-a-100-km-h-una-marca-lanza-un-suv-para-desafiar-a-toyota-corolla-cross/",
+      "fuente": "Autotest",
+      "fecha": "2026-10-11T15:48:18Z",
+      "resumen": "Mitsubishi sumará un SUV eléctrico con 465 CV y tracción integral que queda por encima del Lancer Evolution más potente vendido por la marca. Se llama ASX VR-e, deriva del Foxtron Bria y, por sus dimensiones, es comparable con el Toyota Corolla Cross, razón por la que se lo considera su principal rival en Australia, […]",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/Mitsubishi-ASX-VR-e-2026.jpg",
+      "menciones": 15,
+      "fuentes": [
+        "Autotest",
+        "iProfesional"
+      ]
+    },
+    {
+      "titulo": "El Land Cruiser de Ford tiene el V6 diésel que le falta al Toyota, pero con el motor híbrido de la Ranger sería el 4x4 perfecto para España",
+      "link": "https://www.diariomotor.com/noticia/ford-everest-wolftrack/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-10-11T10:00:42Z",
+      "resumen": "Desconocido por muchos en España, Ford tiene a la venta en muchos otros mercados del mundo un todoterreno que parte de la misma estructura de largueros y travesaños que la Ford Ranger , de igual manera que sucede entre el Toyota Land Cruiser y la Toyota Hilux , y es un 4x4 que en España tendría mucho sentido, sobre todo si llegase a incorporar el mismo sistema PHEV que la pick-up americana.…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/10/Ford-Everest-Wolftrak-6-6ac6012ec549a.jpg?class=XL",
+      "menciones": 9,
+      "fuentes": [
+        "Autotest",
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "Con terraza y mayor tamaño que una camper, esta caravana 'Made in USA' tiene un diseño propio de Europa",
+      "link": "https://www.diariomotor.com/noticia/coachmen-origin/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-10-11T09:00:23Z",
+      "resumen": "Que una autocaravana desarrollada en Estados Unidos tome como referencia a las europeas puede acercar su planteamiento a lo que conocemos en España, aunque sus dimensiones sigan respondiendo a otra escala. Esto, exactamente, es lo que sucede con la nueva Coachmen Origin, un modelo de aproximadamente 8,2 metros de longitud con el que el fabricante estadounidense continúa una línea de producto que…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/10/Coachmen-Origin-9-6ac4e6b7b4d01.webp?class=XL",
+      "menciones": 5,
+      "fuentes": [
+        "Autotest",
+        "Diariomotor (ES)"
+      ]
+    },
+    {
       "titulo": "Más barato que Duster: cuánto cuesta el SUV de Renault con motor turbo y buen equipamiento",
       "link": "https://autotest.com.ar/noticias/mas-barato-que-duster-cuanto-cuesta-el-suv-de-renault-con-motor-turbo-y-buen-equipamiento/",
       "fuente": "Autotest",
       "fecha": "2026-10-10T15:00:22Z",
       "resumen": "Renault lanza el Kardian 2026 en Argentina con versiones renovadas y más tecnología, ofreciendo mejor conectividad y atractivas opciones de financiamiento.",
       "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/Renault-Kardian-perfil-1.jpg",
-      "menciones": 15,
+      "menciones": 6,
       "fuentes": [
         "Autotest",
         "Diariomotor (ES)"
@@ -44,52 +96,13 @@
       ]
     },
     {
-      "titulo": "El Toyota RAV4 de Ford es un auténtico chollo por 12.000 € menos, con etiqueta CERO y 243 CV para recorrer 68 km antes de gastar gasolina",
-      "link": "https://www.diariomotor.com/noticia/oferta-ford-kuga-phev-octubre-2026/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-10-10T12:03:51Z",
-      "resumen": "Cuando pensamos en comprar un coche híbrido pensamos, de manera casi irremediable, en Toyota. Y no es para menos, ya que la firma japonesa lleva años peleando para que eso sea así, pero no ha sido la única. Así lo deja patente Ford con su rival para el Toyota RAV4, un SUV que cuesta 12.000 euros menos , tiene etiqueta CERO, 243 CV y hace 68 km antes de encender su motor de gasolina. Ford lleva…",
-      "imagen": "https://www.diariomotor.com/imagenes/2025/11/Ford-Kuga-phev-interior-6909da1e563f5.jpg?class=XL",
-      "menciones": 7,
-      "fuentes": [
-        "Diariomotor (ES)",
-        "Motorpasión (ES)"
-      ]
-    },
-    {
-      "titulo": "El Ford Bronco RTR tiene motor de Focus RS, es más barato el radical Raptor y tiene como idea todoterreno ser el 4x4 perfecto para el desierto",
-      "link": "https://www.diariomotor.com/noticia/ford-bronco-rtr/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-10-10T07:00:34Z",
-      "resumen": "Y es que el Ford Bronco tendrá para 2027 una nueva versión que pone el foco en la conducción todoterreno a alta velocidad , especialmente sobre dunas y terrenos abiertos. Una propuesta que, por planteamiento, puede recordar al radical Bronco Raptor, pero que se sitúa en un escalón de precio considerablemente inferior, incluso añadiendo los tres paquetes opcionales anunciados. Se trata del Ford…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/10/Ford-Bronco-RTR-2027-4-6ac4bb08a1aad.jpg?class=XL",
-      "menciones": 2,
-      "fuentes": [
-        "Autotest",
-        "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "Porsche cometió un enorme error matando al Macan de gasolina. Ahora prepara un nuevo SUV hermano del Audi Q5",
-      "link": "https://www.motorpasion.com/porsche/porsche-cometio-enorme-error-matando-al-macan-gasolina-ahora-prepara-nuevo-suv-hermano-audi-q5",
-      "fuente": "Motorpasión (ES)",
-      "fecha": "2026-10-09T06:00:26Z",
-      "resumen": "Porsche está atravesando una de las peores crisis de su historia. Su beneficio operativo en 2025 cayó más de un 92,7 %, pasando de 5.637 millones en 2024 a 413 millones el año pasado. La marca de Stuttgart acaba de presentar su estrategia a medio plazo con la que espera levantar de nuevo el vuelo. Una hoja de ruta en la que, en cierto modo, entona el mea culpa. Y es que la que fuera de la gallina…",
-      "imagen": "https://i.blogs.es/c08ad6/porsche-macan/1024_2000.jpeg",
-      "menciones": 2,
-      "fuentes": [
-        "Diariomotor (ES)",
-        "Motorpasión (ES)"
-      ]
-    },
-    {
       "titulo": "Fernando Alonso frena su regreso al Rally Dakar: “No creo que sea físicamente posible”",
       "link": "https://www.diariomotor.com/competicion/noticia/fernando-alonso-frena-regreso-al-dakar/",
       "fuente": "Diariomotor (ES)",
       "fecha": "2026-10-08T14:04:59Z",
       "resumen": "Aunque no se esperaba nada oficial en medio de la antesala del Gran Premio de Singapur, no se descartaba que Fernando Alonso pudiera hacer algún tipo de guiño a la información publicada durante esta semana sobre su posible participación en el Rally Dakar 2027 al volante de un T1+ de Prodrive carrozado por Aston Martin. El ovetense lleva mucho tiempo apuntando a que uno de sus objetivos de futuro…",
       "imagen": "https://www.diariomotor.com/imagenes/2026/10/fernando-alonso-dakar-2027-aston-martin-2-6ac7865c0f528.jpg?class=XL",
-      "menciones": 4,
+      "menciones": 3,
       "fuentes": [
         "Diariomotor (ES)",
         "Motorpasión (ES)"
@@ -109,6 +122,18 @@
       ]
     },
     {
+      "titulo": "Singapur se convierte en una pesadilla para Fernando Alonso y Carlos Sainz: Honda falla y Williams vuelve a sufrir",
+      "link": "https://www.diariomotor.com/competicion/noticia/singapur-carrera-domingo-pilotos-espanoles/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-10-11T19:45:09Z",
+      "resumen": "Los españoles tenían fijada su mirada en lo que podría ocurrir este fin de semana en el Circuito de Marina Bay como una de las oportunidades de obtener un buen resultado en lo que restaba de temporada teniendo en cuenta que la parte del motor parecía menos importante. Sin embargo, los dos finalmente sufrieron por la falta de prestaciones o de fiabilidad de sus unidades de potencia, algo que…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/10/pilotos-espanoles-gp-singapir-2026-f1-3-6acbcae02fd44.jpg?class=XL",
+      "menciones": 3,
+      "fuentes": [
+        "Diariomotor (ES)"
+      ]
+    },
+    {
       "titulo": "Tesla asegura que su FSD Supervisado salvará vidas en Europa, pero siete expertos dicen que sus datos no lo demuestran",
       "link": "https://www.diariomotor.com/noticia/tesla-fsd-supervisado-aprobacion-europea/",
       "fuente": "Diariomotor (ES)",
@@ -119,6 +144,90 @@
       "fuentes": [
         "Diariomotor (ES)",
         "Motorpasión (ES)"
+      ]
+    },
+    {
+      "titulo": "Adiós a los arañazos en el coche: con esta herramienta de Lidl puedes pulirlo tú mismo por menos de 22 euros",
+      "link": "https://www.motorpasion.com/revision/adios-a-aranazos-coche-esta-herramienta-lidl-puedes-pulirlo-tu-22-euros",
+      "fuente": "Motorpasión (ES)",
+      "fecha": "2026-10-11T18:00:27Z",
+      "resumen": "Si necesitar pulir algunas zonas del exterior del coche de vez en cuando, no eres profesional y no quieres gastarte mucho dinero, esta pulidora de Lidl puede ser muy interesante para ti. Además de ser una pulidora recargable muy compacta y manejable , se puede utilizar como amoladora, por lo que es una herramienta muy completa. Sin cables de por medio y con un tamaño muy práctico Para llevar el…",
+      "imagen": "https://i.blogs.es/b7e3f0/lidl_1/1024_2000.jpeg",
+      "menciones": 2,
+      "fuentes": [
+        "Motorpasión (ES)"
+      ]
+    },
+    {
+      "titulo": "Los 'narices rojas' nacieron porque Hitler pidió a Porsche un tractor para el pueblo. Fue un éxito que terminó en manos de Renault",
+      "link": "https://www.motorpasion.com/porsche/narices-rojas-nacieron-porque-hitler-pidio-a-porsche-tractor-para-pueblo-fue-exito-que-termino-manos-renault",
+      "fuente": "Motorpasión (ES)",
+      "fecha": "2026-10-11T17:30:26Z",
+      "resumen": "Tal vez muchos no sepan que Porsche , además de ser el fabricante de coches deportivos más famoso del mundo, también han fabricado y diseñado otros vehículos como aviones, motos, carretillas elevadoras y hasta tractores agrícolas. Esta es la historia de ‘red noses’, que es como se conoce hoy en día a los tractores Porsche-Diesel de los que se fabricaron más de 120.000 unidades, algunas de las…",
+      "imagen": "https://i.blogs.es/b39966/portada-mop-1791469977102/1024_2000.jpeg",
+      "menciones": 1,
+      "fuentes": [
+        "Motorpasión (ES)"
+      ]
+    },
+    {
+      "titulo": "SUV coupé eléctrico: BMW presentó el iX4",
+      "link": "https://www.megautos.com/bmw-ix4/",
+      "fuente": "Megautos",
+      "fecha": "2026-10-11T17:05:14Z",
+      "resumen": "Es el nuevo integrante de la Neue Klasse y llega con una propuesta completamente eléctrica. Tiene hasta 828 kilómetros de autonomía y una versión M60 xDrive de 612 CV. La entrada SUV coupé eléctrico: BMW presentó el iX4 aparece primero en Mega Autos .",
+      "imagen": "https://www.megautos.com/wp-content/uploads/2026/10/P90655746_lowRes_bmw-ix4-50-xdrive-dr.jpg",
+      "menciones": 1,
+      "fuentes": [
+        "Megautos"
+      ]
+    },
+    {
+      "titulo": "Jaguar presentó el Type 01: de qué se trata",
+      "link": "https://www.megautos.com/jaguar-type-01/",
+      "fuente": "Megautos",
+      "fecha": "2026-10-11T15:35:26Z",
+      "resumen": "El nuevo GT eléctrico de cuatro puertas inaugura una etapa para la marca británica con hasta 1.030 CV, una autonomía de hasta 720 kilómetros y un diseño completamente nuevo. La entrada Jaguar presentó el Type 01: de qué se trata aparece primero en Mega Autos .",
+      "imagen": "https://www.megautos.com/wp-content/uploads/2026/10/Side-View.jpg",
+      "menciones": 1,
+      "fuentes": [
+        "Megautos"
+      ]
+    },
+    {
+      "titulo": "Buena, bonita, barata y premium, así es la superdeportiva alemana por la que, a precio de china, merece la pena esperar",
+      "link": "https://www.diariomotor.com/noticia/bmw-f-450-rr-adelanto/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-10-11T15:30:35Z",
+      "resumen": "China no lo está poniendo nada fácil. Ser una marca de motos tradicional, en estos tiempos que corren, se ha convertido en todo un reto para competir con un aluvión de productos, mucho más baratos, y cada vez más competentes y de mayor calidad, que están rompiendo por completo el mercado. Y es por eso que hemos de congratularnos de que marcas como BMW estén haciendo un gran trabajo, para aliarse…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/10/bmw-f-450-r-6acb5eb07bc3f.jpg?class=XL",
+      "menciones": 6,
+      "fuentes": [
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "Lo último de Porsche gira a 8.000 revoluciones, quema gasolina y podría tener incluso 8 cilindros",
+      "link": "https://www.diariomotor.com/noticia/primeros-detalles-porsche-mission-s/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-10-11T15:00:53Z",
+      "resumen": "El sucesor del Porsche 918 Spyder está a pocos días de ser presentado. El fabricante alemán por fin se ha animado a reemplazar a su último gran superdeportivo, creando para ello una bestia que promete dejar atrás todo lo que hemos visto hasta ahora en Porsche, con un motor gasolina capaz de llegar a las 8.000 rpm y con el punto de mira puesto en el Ferrari F80 . El próximo 15 de octubre Porsche…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/10/Porsche-mission-S-teaser-01-6acb32e11b322.jpg?class=XL",
+      "menciones": 1,
+      "fuentes": [
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "Por menos de 20.000 € ahora tienes un C-SUV de gasolina con 160 CV, caja automática y súper equipado, todo un chollazo perfecto para las familias",
+      "link": "https://www.diariomotor.com/noticia/gwm-ora-5-promo-oct/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-10-11T14:00:08Z",
+      "resumen": "Uno de los coches del segmento C y carrocería crossover más interesante del momento es también uno de los más desconocidos. Es una opción de una marca que arranca ahora su comercialización en España y que pretende captar la atención de los usuarios gracias a una gama de vehículos con una relación valor-precio imbatible , complicándole mucho las cosas a MG, Omoda y KGM por citar varios ejemplos.…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/06/GWM-ORA-528-6a43f9162184d.jpg?class=XL",
+      "menciones": 8,
+      "fuentes": [
+        "Diariomotor (ES)"
       ]
     },
     {
@@ -135,171 +244,63 @@
       ]
     },
     {
-      "titulo": "En EEUU te pueden meter un tiro mientras cargas tu coche eléctrico, así que los Tesla ahora pueden salir pitando sin llevarse puesto el cargador",
-      "link": "https://www.motorpasion.com/seguridad/eeuu-te-pueden-meter-tiro-cargas-coche-electrico-asi-que-tesla-ahora-pueden-salir-corriendo-llevarse-puesto-cargador",
-      "fuente": "Motorpasión (ES)",
-      "fecha": "2026-10-10T19:00:28Z",
-      "resumen": "La relación entre EEUU con las armas está tan normalizada que los fabricantes de coches incorporan cajas fuertes para guardar la pistola . Según los datos de la organización independiente 'Gun Violence Archive', e n EEUU se registraron 408 tiroteos masivos el año pasado , que dejaron 358 personas fallecidas y más de 1.840 heridos. Uno de estos 'incidentes' ocurrió el agosto en Idaho, cuando un…",
-      "imagen": "https://i.blogs.es/4cad63/portada-mop-1791371625933/1024_2000.jpeg",
+      "titulo": "Renault comenzó a fabricar la Niagara en Córdoba",
+      "link": "https://www.megautos.com/renault-niagara-fabricacion-cordoba-argentina/",
+      "fuente": "Megautos",
+      "fecha": "2026-10-11T13:56:01Z",
+      "resumen": "La nueva pick up de la marca francesa ya se produce en serie en la Fábrica Santa Isabel y es uno de los principales proyectos industriales de la filial en Argentina. La entrada Renault comenzó a fabricar la Niagara en Córdoba aparece primero en Mega Autos .",
+      "imagen": "https://www.megautos.com/wp-content/uploads/2026/10/Renault-Niagara-Santa-Isabel-2.jpg",
       "menciones": 1,
       "fuentes": [
-        "Motorpasión (ES)"
+        "Megautos"
       ]
     },
     {
-      "titulo": "Carlos Sainz apunta a los errores de Williams y Fernando Alonso vuelve a sufrir con Honda en Singapur",
-      "link": "https://www.diariomotor.com/competicion/noticia/carlos-sainz-apunta-a-los-errores-de-williams-y-fernando-alonso-vuelve-a-sufrir-con-honda-en-singapur/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-10-10T18:37:51Z",
-      "resumen": "Singapur prometía ser un fin de semana de oportunidades , al menos en lo referente a Aston Martin, los cuales habían señalado este Gran Premio como uno de los mejores en lo que resta de temporada, sin embargo, la firma alada se ha quedado sin premio, mientras que, para Carlos Sainz, lo sucedido ayer, pareció darle ese empujón necesario para pasar a la Q2 y arañar incluso acercarse al Top10 después…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/10/pilotos-espanoles-f1-2026-singapur-sabado-clasificacion-2-6aca69612e518.jpg?class=XL",
-      "menciones": 3,
-      "fuentes": [
-        "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "Con la gasolina rozando los 2 euros por litro, estos son los falsos mitos sobre el ahorro de combustible",
-      "link": "https://www.motorpasion.com/seguridad/gasolina-rozando-2-euros-litro-estos-falsos-mitos-ahorro-combustible",
-      "fuente": "Motorpasión (ES)",
-      "fecha": "2026-10-10T17:30:26Z",
-      "resumen": "Con la actual subida del precio de la gasolina y del diésel, es posible reducir el consumo y evitar la contaminación adoptando algunas medidas al conducir. Pero también es una época en la que circulan mitos y medias verdades acerca de como ahorrar combustible . Desmontamos aquí las más habituales. Como muchas cosas en la vida y en la automoción, no todo es blanco o negro. Sí, hay algunos consejos…",
-      "imagen": "https://i.blogs.es/0e1417/pexels-gustavo-fring-4173096/1024_2000.jpeg",
+      "titulo": "Prisión preventiva para dueños de concesionaria de autos de Pilar acusados de estafa",
+      "link": "https://www.iprofesional.com/autos/466363-prision-preventiva-para-duenos-de-concesionaria-de-autos-de-pilar-acusados-de-estafa",
+      "fuente": "iProfesional",
+      "fecha": "2026-10-11T13:50:00Z",
+      "resumen": "Cobraron miles de dólares por autos y camionetas que nunca entregaron. También vendieron vehículos que les habían dejado en consignación (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
+      "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/10/627369.jpg",
       "menciones": 1,
       "fuentes": [
-        "Motorpasión (ES)"
+        "iProfesional"
       ]
     },
     {
-      "titulo": "Lamborghini Squadra Corse afronta un oscuro panorama para la temporada 2027",
-      "link": "https://www.diariomotor.com/competicion/noticia/lamborghini-oscuro-panorama-2027/",
+      "titulo": "Son casi 9 metros de Mercedes, pero es una casa sobre ruedas con 5 camas, garaje, instalación solar propia y precio de Clase S",
+      "link": "https://www.diariomotor.com/noticia/hymer-b-ml-integral-mercedes/",
       "fuente": "Diariomotor (ES)",
-      "fecha": "2026-10-10T17:09:02Z",
-      "resumen": "Andrea Reggiani, jefe de Lamborghini Squadra Corse, presenta serios inconvenientes para que la estructura que dirige tenga una agenda interesante en 2027. El Temerario GT3 no tiene presencia en el Campeonato Mundial de Resistencia, la European Le Mans Series, el Intercontinental GT Challenge y recientemente se quedó sin equipo en la clase GTD Pro del Campeonato IMSA SportsCar, así que finalizará…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/10/Lamborghini_Temerario_GT3_IMSA_GTD_ProPM_FT_2026_26-6aca1ddcb3142.jpg?class=XL",
+      "fecha": "2026-10-11T13:30:43Z",
+      "resumen": "La nueva Hymer B-ML integral parte de una Mercedes-Benz Sprinter, aunque es más bien una casa sobre ruedas: puede tener hasta cinco camas, capacidad para 200 litros de agua y un sistema eléctrico con 330 W solares y 360 Ah de baterías para ser totalmente independiente. Puede tener hasta garaje, todo tipo de comodidades dentro... Pero como imaginarás, no sale barato. El objetivo es depender lo…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/10/Hymer-MJ27_B-ML-I-780-port-6ac8e7b690dba.jpg?class=XL",
       "menciones": 1,
       "fuentes": [
         "Diariomotor (ES)"
       ]
     },
     {
-      "titulo": "Max Verstappen saca una pole tempranera en la noche singapurense",
-      "link": "https://www.diariomotor.com/competicion/noticia/max-verstappen-saca-una-pole-tempranera-en-la-noche-singapurense/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-10-10T16:55:40Z",
-      "resumen": "Después de una Sprint más excitante de lo que se podía preveer, la qualy del Gran Premio de Singapur ordenó la parrilla de forma quizá más esperable. Max Verstappen sigue siendo el piloto a batir y lo demostró con su segunda pole position consecutiva, hecha además en el primer intento en lugar del habitual segundo. Charles Leclerc y Lewis Hamilton le escoltarán en una gran noche de Ferrari y…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/10/max-verstappen-f1-pole-singapur-2026-6aca5071280d3.jpg?class=XL",
-      "menciones": 1,
-      "fuentes": [
-        "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "La casa todoterreno de Jason Momoa tiene motor V8 y cuesta lo que un ático en la Castellana",
-      "link": "https://www.motorpasion.com/furgonetas-y-caravanas/casa-todoterreno-jason-momoa-tiene-motor-v8-cuesta-que-atico-castellana",
-      "fuente": "Motorpasión (ES)",
-      "fecha": "2026-10-10T16:00:27Z",
-      "resumen": "A Jason Momoa le encantan los coches y cuanto más cacharracos, mejor. Se tiró años buscando piezas para reconstruir un Ford Mustang GT , también es conocido por su Cadillac de 1955 de color rosa y tuvo a bien comprar un Rolls-Royce Phantom II de 1929 para que se lo hicieran eléctrico . Si tuviésemos que pensar en cómo sería el vehículo camper perfecto para el actor hawaiano, sin duda lo que nos…",
-      "imagen": "https://i.blogs.es/230479/overlander-jason-momoa.01/1024_2000.jpeg",
-      "menciones": 1,
-      "fuentes": [
-        "Motorpasión (ES)"
-      ]
-    },
-    {
-      "titulo": "Made in Spain, barato y con 475 l de maletero, Skoda anuncia su próximo Sportline",
-      "link": "https://www.diariomotor.com/noticia/skoda-epiq-sportline-adelanto/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-10-10T16:00:07Z",
-      "resumen": "Europa sigue buscando una respuesta al empuje de los coches chinos y, mientras algunos fabricantes anuncian planes a largo plazo, Skoda ya tiene un SUV eléctrico compacto - pero ante todo barato - fabricado en España. El Epiq se produce en Pamplona, ofrece 475 litros de maletero y estrenará una versión Sportline que eleva su atractivo. Su versión de acceso, recién lanzada, intenta resolver uno de…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/10/skoda-epiq-sportline-adelanto-1-6aca424a0c536.jpeg?class=XL",
-      "menciones": 2,
-      "fuentes": [
-        "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "Menos de 19000 dólares: el sedán con 123 CV y bien equipado que es más barato que Yaris y Versa",
-      "link": "https://autotest.com.ar/noticias/menos-de-19000-dolares-el-sedan-con-123-cv-y-bien-equipado-que-es-mas-barato-que-yaris-y-versa/",
+      "titulo": "Honda renovará el Civic y la CR-V, pero no como se pensaba: ¿cuándo y con qué cambios?",
+      "link": "https://autotest.com.ar/noticias/honda-renovara-el-civic-y-la-cr-v-pero-no-como-se-pensaba-cuando-y-con-que-cambios/",
       "fuente": "Autotest",
-      "fecha": "2026-10-10T15:40:14Z",
-      "resumen": "El segmento de sedanes más compactos tiene al Toyota Yaris y Nissan Versa como líderes en diferentes mercados, pero hay uno que es más barato, potente y sorprende por su relación costo-producto: el Hyundai HB20S. No alcanza los 20000 dólares al cambio actual y sobresale a primera vista por su diseño moderno, baúl de casi […]",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/Hyundai-HB20S-el-sedan.jpg",
-      "menciones": 14,
-      "fuentes": [
-        "Autotest"
-      ]
-    },
-    {
-      "titulo": "Lo último en rueda alta es este scooter súper práctico y barato, todo un chollo por apenas 2.200 € perfecto para ciudad",
-      "link": "https://www.diariomotor.com/noticia/oferta-voge-sr-16-air-oct/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-10-10T15:15:22Z",
-      "resumen": "¿Tienes ganas de dar el salto al mundo de las dos ruedas para olvidar de una vez los grandes atascos de cada mañana? Ojito al último producto lanzado de Voge que además de ser su vehículo más barato es también uno de los más interesantes si quieres gastar lo mínimo y contar con una dotación muy extensa. Con ABS y TCS de serie Diseño elegante Buenas prestaciones Precio muy bajo La nueva Voge SR 16…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/09/Voge-SR16-Air16-6aa930e7ee270.jpg?class=XL",
-      "menciones": 1,
-      "fuentes": [
-        "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "Max Verstappen le quita la pole a Charles Leclerc por media décima y Fernando Alonso tendrá que cambiar de motor",
-      "link": "https://www.motorpasion.com/formula1/max-verstappen-le-quita-pole-a-charles-leclerc-media-decima-fernando-alonso-tendra-que-cambiar-motor",
-      "fuente": "Motorpasión (ES)",
-      "fecha": "2026-10-10T14:51:07Z",
-      "resumen": "Max Verstappen saldrá desde la pole position en el Gran Premio de Singapur de Fórmula 1. El piloto holandés ha parado el crono en un 1:31.373 que ha sido más lento que la mini pole del viernes, pero es suficiente para que Verstappen parta primero. Solo media décima le ha dado la posición de privilegio sobre Charles Leclerc. Decepción en las filas de Aston Martin. Fernando Alonso se ha quedado…",
-      "imagen": "https://i.blogs.es/ffc6f3/verstappen-singapur-f1-2026/1024_2000.jpeg",
-      "menciones": 3,
-      "fuentes": [
-        "Motorpasión (ES)"
-      ]
-    },
-    {
-      "titulo": "No es Toyota: la marca japonesa que prepara una pick up para competir contra Hilux y Ranger",
-      "link": "https://autotest.com.ar/noticias/no-es-toyota-la-marca-japonesa-que-prepara-una-pick-up-para-competir-contra-hilux-y-ranger/",
-      "fuente": "Autotest",
-      "fecha": "2026-10-10T14:00:50Z",
-      "resumen": "Honda se prepara para entrar en el mercado de pickups medianas utilizando la plataforma de la Mitsubishi Triton, apuntando al Sudeste Asiático para 2028.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/Pick-up-Honda-teaser-1.jpg",
-      "menciones": 9,
-      "fuentes": [
-        "Autotest"
-      ]
-    },
-    {
-      "titulo": "El árbol genealógico de la Fórmula 1: cómo Mercedes un día fue Honda y BMW se convirtió en Alfa Romeo",
-      "link": "https://www.motorpasion.com/formula1/arbol-genealogico-formula-1-como-mercedes-dia-fue-honda-bmw-se-convirtio-alfa-romeo-1",
-      "fuente": "Motorpasión (ES)",
-      "fecha": "2026-10-10T14:00:27Z",
-      "resumen": "Como todo buen amante de la Fórmula 1 sabe, ésta es una competición en la que la mística importa casi tanto o más que lo que sucede en la pista. Otro diría que todo, o la mayor parte, es pura cosmética. Una máxima a la que ni siquiera se escapan las marcas, a las que la prensa, los aficionados y la organización acostumbran a llamar de una forma más glamurosa que el paddock. Allí, por poner un…",
-      "imagen": "https://i.blogs.es/41c6b1/portada-mop-1791557953736/1024_2000.jpeg",
-      "menciones": 1,
-      "fuentes": [
-        "Motorpasión (ES)"
-      ]
-    },
-    {
-      "titulo": "Menos de 10000 dólares: el nuevo modelo con 310 km de autonomía y más para enfrentar a Nissan",
-      "link": "https://autotest.com.ar/noticias/menos-de-14000-dolares-el-nuevo-modelo-con-310-km-de-autonomia-y-mas-para-enfrentar-a-nissan/",
-      "fuente": "Autotest",
-      "fecha": "2026-10-10T13:45:11Z",
-      "resumen": "Suzuki presentó el e-Sky, su primer kei car eléctrico de pasajeros, con batería LFP de 26 kWh, hasta 310 km de autonomía y un precio inicial que al cambio actual es inferior a 10000 dólares. Está pensado para el uso urbano, compite contra Nissan Sakura y va más allá de las cualidades que se aprecian […]",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/Nuevo-Suzuki-e-Sky.jpg",
+      "fecha": "2026-10-11T13:25:59Z",
+      "resumen": "Honda postergó para abril de 2027 el inicio de fabricación de la próxima CR-V, según reportes citados por la prensa estadounidense. El C-SUV que compite contra Nissan X-Trail y Toyota RAV4, entre otros, debía arribar a los concesionarios para enero, recibe cambios en paralelo al ajuste de la estrategia industrial de la marca en Norteamérica. […]",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/Honda-y-los-nuevos-Civic-y-CR-V.jpg",
       "menciones": 1,
       "fuentes": [
         "Autotest"
       ]
     },
     {
-      "titulo": "El SUV de BYD con 218 CV y hasta 1.030 km de autonomía que desafía a Toyota Corolla Cross",
-      "link": "https://autotest.com.ar/noticias/el-suv-de-byd-con-218-cv-y-hasta-1-030-km-de-autonomia-que-desafia-a-toyota-corolla-cross/",
-      "fuente": "Autotest",
-      "fecha": "2026-10-10T13:00:35Z",
-      "resumen": "El BYD Song Pro combina tecnología híbrida enchufable con 218 CV, ofreciendo hasta 100 km en modo eléctrico y un atractivo precio desde 35.490 dólares.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2025/01/SUV-BYD-Song-pro-perfil-accion.jpg",
-      "menciones": 2,
+      "titulo": "Este es el 4x4 que estabas esperando, un digno sucesor de los Suzuki Jimny y Jeep Wrangler que pronto podrás comprar aquí",
+      "link": "https://www.diariomotor.com/noticia/baw-212-mavero-adelanto/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-10-11T12:55:02Z",
+      "resumen": "En el inminente Salón del Automóvil de París serán muchas las marcas que aprovechen la cita para mostrar sus últimas novedades, con los vehículos eléctricos e híbridos como los grandes protagonistas. Sin embargo, entre tanta propuesta electrificada también habrá espacio para una firma que ha preferido seguir otro camino, apostando por un todoterreno de los de siempre, con auténticas capacidades…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/10/Novedades-212-PARIS12-6acb672a4e9f2.jpg?class=XL",
+      "menciones": 1,
       "fuentes": [
-        "Autotest"
+        "Diariomotor (ES)"
       ]
     }
   ]
