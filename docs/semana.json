@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-11T20:22:21Z",
+  "actualizado": "2026-10-11T23:10:24Z",
   "desde": "2026-10-04",
   "hasta": "2026-10-11",
   "destacadas": [
@@ -118,6 +118,18 @@
       "menciones": 3,
       "fuentes": [
         "El Economista",
+        "iProfesional"
+      ]
+    },
+    {
+      "titulo": "Ford celebra 65 años de su planta en Argentina en plena revolución del mercado automotor",
+      "link": "https://www.iprofesional.com/autos/465959-ford-celebra-aniversario-en-argentina-en-plena-revolucion-automotor",
+      "fuente": "iProfesional",
+      "fecha": "2026-10-11T21:45:00Z",
+      "resumen": "La marca celebró un aniversario del lugar donde se fabricaron más de 3.5 millones de unidades. El aniversario llega en un momento clave para el sector (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
+      "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/10/627054.jpg",
+      "menciones": 1,
+      "fuentes": [
         "iProfesional"
       ]
     },
@@ -289,18 +301,6 @@
       "menciones": 1,
       "fuentes": [
         "iProfesional"
-      ]
-    },
-    {
-      "titulo": "Son casi 9 metros de Mercedes, pero es una casa sobre ruedas con 5 camas, garaje, instalación solar propia y precio de Clase S",
-      "link": "https://www.diariomotor.com/noticia/hymer-b-ml-integral-mercedes/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-10-11T13:30:43Z",
-      "resumen": "La nueva Hymer B-ML integral parte de una Mercedes-Benz Sprinter, aunque es más bien una casa sobre ruedas: puede tener hasta cinco camas, capacidad para 200 litros de agua y un sistema eléctrico con 330 W solares y 360 Ah de baterías para ser totalmente independiente. Puede tener hasta garaje, todo tipo de comodidades dentro... Pero como imaginarás, no sale barato. El objetivo es depender lo…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/10/Hymer-MJ27_B-ML-I-780-port-6ac8e7b690dba.jpg?class=XL",
-      "menciones": 1,
-      "fuentes": [
-        "Diariomotor (ES)"
       ]
     }
   ]
