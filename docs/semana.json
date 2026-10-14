@@ -1,8 +1,36 @@
 {
-  "actualizado": "2026-10-13T23:26:34Z",
-  "desde": "2026-10-06",
-  "hasta": "2026-10-13",
+  "actualizado": "2026-10-14T18:01:35Z",
+  "desde": "2026-10-07",
+  "hasta": "2026-10-14",
   "destacadas": [
+    {
+      "titulo": "Cuela como SUV de 7 plazas, pero en realidad es el Toyota Land Cruiser coreano, cuesta 26.000€ menos y y es la bestia del 4x4 que España necesitaba",
+      "link": "https://www.diariomotor.com/noticia/oferta-kgm-rexton-octubre-2026/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-10-14T18:34:23Z",
+      "resumen": "Hay un \"problema\" real y muy afianzado: comprar un 4x4 se ha convertido en algo muy caro. O eso podríamos pensar si no nos fijásemos en nuestro protagonista, un coche que, pese a disfrazarse de SUV de 7 plazas, se atreve a rivalizar con el Toyota Land Cruiser pero costando 26.000 euros menos . KGM tiene al 4x4 barato que España necesitaba No es rápido, pero tampoco lo pretende . Cuenta con un…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/06/kgm-rexton-aventura-2026-19-6a1fbc9070879.jpg?class=XL",
+      "menciones": 13,
+      "fuentes": [
+        "Autotest",
+        "Diariomotor (ES)",
+        "Motorpasión (ES)"
+      ]
+    },
+    {
+      "titulo": "El SUV chino rival de Toyota Yaris Cross que combina precio competitivo, diseño deportivo y 177 CV",
+      "link": "https://autotest.com.ar/noticias/el-suv-chino-rival-de-toyota-yaris-cross-que-combina-precio-competitivo-diseno-deportivo-y-177-cv/",
+      "fuente": "Autotest",
+      "fecha": "2026-10-14T14:30:36Z",
+      "resumen": "El GAC GS3 Emzoom llega a Argentina con un motor turbo de 177 CV, posicionándose como una opción más grande y potente frente al SUV compacto de Toyota.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/SUV-GAC-GS3-Emzoom-teaser.jpg",
+      "menciones": 20,
+      "fuentes": [
+        "Autotest",
+        "Diariomotor (ES)",
+        "iProfesional"
+      ]
+    },
     {
       "titulo": "Se presentó un nuevo SUV rival de Volkswagen Tera con diseño moderno, 138 CV y doble pantalla",
       "link": "https://autotest.com.ar/noticias/se-presento-un-nuevo-suv-rival-de-volkswagen-tera-con-diseno-moderno-138-cv-y-doble-pantalla/",
@@ -18,54 +46,41 @@
       ]
     },
     {
-      "titulo": "Renault registró un nuevo SUV más barato que Kardian y con motor turbo",
-      "link": "https://autotest.com.ar/noticias/renault-registro-un-nuevo-suv-mas-barato-que-kardian-y-con-motor-turbo/",
+      "titulo": "Geely KO11: doble bloqueo, suspensión neumática y 800 mm de vadeo para destronar al Defender",
+      "link": "https://autotest.com.ar/offroad/geely-ko11-doble-bloqueo-suspension-neumatica-y-800-mm-de-vadeo-para-destronar-al-defender/",
       "fuente": "Autotest",
-      "fecha": "2026-10-13T18:00:27Z",
-      "resumen": "Renault registró el diseño del Kiger en Brasil, un SUV compacto que podría insertarse entre el Kwid y el Kardian, con expectativas para el mercado regional.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/Renault-Kiger-perfil-1.jpg",
-      "menciones": 9,
+      "fecha": "2026-10-14T17:20:33Z",
+      "resumen": "El vadeo es la profundidad máxima de agua que un vehículo puede cruzar sin dañar componentes como la admisión de aire, la electrónica o la caja de transferencia.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/geely-ko11-doble-bloqueo-suspensi-n-neum-1200x740-1.jpg",
+      "menciones": 2,
       "fuentes": [
         "Autotest",
         "Diariomotor (ES)"
       ]
     },
     {
-      "titulo": "Por debajo de Hilux: la pick up de Toyota que tendrá base de Corolla Cross y 223 CV",
-      "link": "https://autotest.com.ar/noticias/por-debajo-de-hilux-la-pick-up-de-toyota-que-tendra-base-de-corolla-cross-y-223-cv/",
+      "titulo": "El Renault más barato cuesta menos de 29 millones: motor 1.0 y buen equipamiento",
+      "link": "https://autotest.com.ar/noticias/el-renault-mas-barato-cuesta-menos-de-29-millones-motor-1-0-y-buen-equipamiento/",
       "fuente": "Autotest",
-      "fecha": "2026-10-13T17:00:01Z",
-      "resumen": "Toyota introduce una nueva camioneta monocasco bajo la Hilux, usando la plataforma del Corolla Cross. Se espera su lanzamiento en la región para el primer semestre de 2027.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/Toyota-pick-up-compacta-trasera-3.jpg",
-      "menciones": 2,
+      "fecha": "2026-10-14T17:00:32Z",
+      "resumen": "El Renault Kwid 2026 se presenta como la opción más accesible de la marca en Argentina, con un precio de $28.300.000 y un equipamiento que destaca en su categoría.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/Renault-Kwid-Outsider-teaser-1.jpg",
+      "menciones": 7,
       "fuentes": [
         "Autotest",
-        "iProfesional"
+        "Diariomotor (ES)"
       ]
     },
     {
-      "titulo": "Entre tanto coche chino el Toyota Yaris de Fiat es el coche barato que España necesitaba, delante de nuestras narices por 99 € al mes, con etiqueta ECO y 5 l/100 km",
-      "link": "https://www.diariomotor.com/noticia/oferta-fiat-pandina-octubre-2026/",
+      "titulo": "Era un camión militar de 6 ruedas, pero ahora es una camper con motor diésel de 8.3 litros, dos camas de matrimonio, 950 litros de agua y tracción 6x6",
+      "link": "https://www.diariomotor.com/noticia/bmy-m931a2-6x6-camper/",
       "fuente": "Diariomotor (ES)",
-      "fecha": "2026-10-13T14:30:13Z",
-      "resumen": "Vivimos tiempos en los que comprar un coche barato nos hace pasar, casi de manera obligada, por las marcas chinas. Y no es para menos teniendo en cuenta la relación calidad-precio que ofrecen. Pero resulta que Europa aún no ha dicho su última palabra con el Toyota Yaris de Fiat, un utilitario ECO y que consume 5 l/100 km por tan solo 99 euros al mes . Fiat tiene la alternativa a los coches chinos,…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/10/oferta-fiat-pandina-octubre-2026-6ace2359a0c8e.png?class=XL",
-      "menciones": 10,
+      "fecha": "2026-10-14T12:30:20Z",
+      "resumen": "Hay campers para pasar un fin de semana en un camping, otras para viajar durante meses y después están las que podrían sobrevivir al apocalipsis . Aquí es donde encaja el BMY M931A2 de 1990, un antiguo camión del ejército estadounidense que se ha convertido en una auténtica casa sobre ruedas. Tiene un motor diésel de 8.3 litros , tracción 6x6, nueve paneles solares y unos depósitos que permiten…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/10/BMY-M931A2-6×6-Camper-Conversion-13-6acf401632265.jpeg?class=XL",
+      "menciones": 3,
       "fuentes": [
-        "Autotest",
-        "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "Smart deja los SUV para volver a lo suyo: un smart biplaza eléctrico que cuesta menos de 20.000 euros y con casi 300 km de autonomía",
-      "link": "https://www.motorpasion.com/compra-coches/smart-deja-suv-para-volver-a-suyo-smart-biplaza-electrico-que-cuesta-20-000-euros-casi-300-km-autonomia",
-      "fuente": "Motorpasión (ES)",
-      "fecha": "2026-10-13T14:00:27Z",
-      "resumen": "Dos años. Hubo que esperar algunos años, pero el “auténtico” Smart ha vuelto por fin . Desde el cese del Fortwo en 2024, el fabricante se había centrado en coches bastante más imponentes. El smart #1 mide 4,27 m, el #3 alcanza los 4,40 m y el mayor de todos, el #5, llega incluso a los 4,70 m. Con el nuevo Smart #2, presentado en primicia mundial en París, la marca regresa por completo a sus…",
-      "imagen": "https://i.blogs.es/47b326/707855-smart_hashtag2_couture-edition_5-04c1d6-original-1791274709/1024_2000.jpeg",
-      "menciones": 2,
-      "fuentes": [
-        "Autotest",
+        "Diariomotor (ES)",
         "Motorpasión (ES)"
       ]
     },
@@ -96,6 +111,54 @@
       ]
     },
     {
+      "titulo": "Aparcar en una plaza de discapacitados sin serlo no solo es una falta de empatía: también es ilegal y conlleva multa",
+      "link": "https://www.motorpasion.com/revision/aparcar-plaza-discapacitados-serlo-no-solo-falta-empatia-tambien-ilegal-conlleva-multa",
+      "fuente": "Motorpasión (ES)",
+      "fecha": "2026-10-14T18:00:27Z",
+      "resumen": "Las plazas reservadas para personas con discapacidad no son solo un derecho, sino una necesidad para estas personas y, en muchos casos, también son imprescindibles para que se puedan mover en coche. Aparcar en una de estas plazas sin tener discapacidad está feísimo, pero también se considera una infracción grave y conlleva multa. No es solo aparcar: tampoco se puede parar De la misma forma que en…",
+      "imagen": "https://i.blogs.es/11321a/plaza-personas-discapacidad-0_1/1024_2000.jpeg",
+      "menciones": 1,
+      "fuentes": [
+        "Motorpasión (ES)"
+      ]
+    },
+    {
+      "titulo": "La DGT estrenó nuevas señales por primera vez en más de 20 años, pero las 'señales fantasma' siguen ahí y te pueden multar por ellas",
+      "link": "https://www.motorpasion.com/seguridad/dgt-estreno-nuevas-senales-primera-vez-20-anos-senales-fantasma-siguen-ahi-te-pueden-multar-ellas",
+      "fuente": "Motorpasión (ES)",
+      "fecha": "2026-10-14T17:30:26Z",
+      "resumen": "Aprenderse las señales de tráfico es imprescindible a la hora de sacarse cualquier carnet de conducir. Todas las que están contempladas en el Reglamento General de Circulación vienen recogidas en el Catálogo Oficial de Señales de Circulación . Sin embargo, hay señales que están en nuestras carreteras y ciudades, pero que no aparecen en este documento. Son las denominadas señales fantasma y…",
+      "imagen": "https://i.blogs.es/7a2bf0/portada-mop-1791978884286/1024_2000.jpeg",
+      "menciones": 1,
+      "fuentes": [
+        "Motorpasión (ES)"
+      ]
+    },
+    {
+      "titulo": "Esteban Alabajos, director de la Asociación de desguaces de España: \"Están entrando coches chinos con matrícula de hace dos años\"",
+      "link": "https://www.motorpasion.com/industria/esteban-alabajos-director-asociacion-desguaces-espana-estan-entrando-coches-chinos-matricula-hace-dos-anos",
+      "fuente": "Motorpasión (ES)",
+      "fecha": "2026-10-14T17:00:28Z",
+      "resumen": "La llegada masiva de vehículos chinos a España es un hecho: en lo que va de año 2026, las cifras de matriculaciones de turismos de marcas y grupos de origen chino en España se sitúan en torno a las 130.000 unidades acumuladas, alcanzando cuotas de mercado de hasta el 15% del total nacional. En este escenario, los Centros Autorizados de Tratamiento de Vehículos (CATV) están notando que cada vez…",
+      "imagen": "https://i.blogs.es/137b40/portada-mop-1791976943412/1024_2000.jpeg",
+      "menciones": 1,
+      "fuentes": [
+        "Motorpasión (ES)"
+      ]
+    },
+    {
+      "titulo": "Así debería ser la cara más elegante del nuevo Citroën 2CV, y el regreso del mítico Charleston",
+      "link": "https://www.diariomotor.com/noticia/citroen-2cv-recreacion-charleston/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-10-14T17:00:13Z",
+      "resumen": "He de reconoceros que ha habido algo que me ha decepcionado del nuevo Citroën 2CV , una idea, y un diseño que, por otro lado, me encanta. Un anticipo como este, del regreso de un mito como el del 2CV, a mi juicio requería un tratamiento de pintura exterior que nos llevase al siglo pasado. El tono anaranjado escogido por Citroën me resultaba demasiado llamativo, en un coche en el que seguro…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/10/citroen-2cv-recreacion-charleston-aigen-100-6ace0d61ae956.png?class=XL",
+      "menciones": 3,
+      "fuentes": [
+        "Diariomotor (ES)"
+      ]
+    },
+    {
       "titulo": "Max Verstappen gana una Sprint extraña y cáotica bajo la tarde de Singapur",
       "link": "https://www.diariomotor.com/competicion/noticia/max-verstappen-gana-una-sprint-extrana-y-caotica-bajo-la-tarde-de-singapur/",
       "fuente": "Diariomotor (ES)",
@@ -109,193 +172,133 @@
       ]
     },
     {
-      "titulo": "Las sociedades que no conocías entre los fabricantes de motos chinas y marcas premium",
-      "link": "https://www.iprofesional.com/autos/466376-asi-ganan-terreno-las-marcas-de-motos-chinas-en-la-argentina",
+      "titulo": "Pere Navarro, director de la DGT, reivindica el origen español de la cerveza 0,0: “Nace por la seguridad vial”",
+      "link": "https://www.motorpasion.com/seguridad/pere-navarro-director-dgt-reivindica-origen-espanol-cerveza-0-0-nace-seguridad-vial",
+      "fuente": "Motorpasión (ES)",
+      "fecha": "2026-10-14T16:30:27Z",
+      "resumen": "Hay ciertos cambios en la forma de conducir que no necesariamente vienen marcados por una multa o una modificación del Reglamento General de Circulación , como la última. A veces, esos cambios comienzan mucho antes y en algo tan simple y cotidiano como pedir una cerveza, o eso dice Pere Navarro. El director de la Dirección General de Tráfico (DGT) ha puesto como ejemplo el avance de la cerveza…",
+      "imagen": "https://i.blogs.es/36f5f5/portada-mop-1791987646927/1024_2000.jpeg",
+      "menciones": 1,
+      "fuentes": [
+        "Motorpasión (ES)"
+      ]
+    },
+    {
+      "titulo": "Se enfrenta a 15 años de cárcel por instalar una casa prefabricada en su terreno. ¿El problema? Tiene ruedas",
+      "link": "https://www.motorpasion.com/furgonetas-y-caravanas/se-enfrenta-a-15-meses-carcel-instalar-mobile-home-parcela-rustica-que-compro-problema-que-tiene-ruedas",
+      "fuente": "Motorpasión (ES)",
+      "fecha": "2026-10-14T16:00:29Z",
+      "resumen": "Quizá lo último que pensó su propietario al poner una ‘mobile home’ en una finca rústica en Málaga era que la Fiscalía solicitase 15 meses de prisión por instalarla, porque dicen, puede constituir un delito contra la ordenación del territorio. Es lo que ha pasado en Casabermeja, Málaga . Y el caso tiene una particularidad importante: el Tribunal Supremo ya ha establecido que estas casas móviles…",
+      "imagen": "https://i.blogs.es/11e2ea/pexels-nuh-erkan-2153588239-32853295/1024_2000.jpeg",
+      "menciones": 1,
+      "fuentes": [
+        "Motorpasión (ES)"
+      ]
+    },
+    {
+      "titulo": "Team Penske analiza la opción de volver al WEC como cliente de Cadillac",
+      "link": "https://www.diariomotor.com/competicion/noticia/team-penske-volver-wec-cliente-cadillac/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-10-14T15:57:16Z",
+      "resumen": "Luego de abandonar la clase Hypercar del Campeonato Mundial de Resistencia, tras Porsche Motorsport retirar su programa oficial 963, desde Team Penske han estado analizando varias alternativas para regresar a la categoría y por supuesto a las 24 Horas de Le Mans, siendo la opción más lógica adquirir un Cadillac V-Series.R e inscribirse como clientes del fabricante estadounidense, en una operación…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/10/Cadillac_Hypercar_TP_Pruebas_2026_26-6acf82528bbf0.jpg?class=XL",
+      "menciones": 1,
+      "fuentes": [
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "Peugeot presentó el E-T16 Concept: de qué se trata",
+      "link": "https://www.megautos.com/peugeot-e-t16-concept/",
+      "fuente": "Megautos",
+      "fecha": "2026-10-14T15:32:40Z",
+      "resumen": "Es un prototipo eléctrico inspirado en el histórico 205 T16 de rally. Tiene tres motores, acelera de 0 a 100 km/h en 2,5 segundos y adelanta el diseño y la tecnología del futuro E-208. La entrada Peugeot presentó el E-T16 Concept: de qué se trata aparece primero en Mega Autos .",
+      "imagen": "https://www.megautos.com/wp-content/uploads/2026/10/peugeot-e-t16-2610styp-207-fr.jpg",
+      "menciones": 1,
+      "fuentes": [
+        "Megautos"
+      ]
+    },
+    {
+      "titulo": "350 HP y casi 1.000 km de autonomía: así es la nueva Nissan Frontier que competirá contra Toyota Hilux",
+      "link": "https://autotest.com.ar/noticias/350-hp-y-casi-1-000-km-de-autonomia-asi-es-la-nueva-nissan-frontier-que-competira-contra-toyota-hilux/",
+      "fuente": "Autotest",
+      "fecha": "2026-10-14T15:30:25Z",
+      "resumen": "La nueva Nissan Frontier Pro PHEV 2027 llega con una combinación de motor naftero turbo y asistencia eléctrica, ofreciendo 350 HP y una autonomía de hasta 1.000 km con tracción 4x4.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/Nueva-Nissan-Frontier-Pro-PHEV-trompa.jpg",
+      "menciones": 4,
+      "fuentes": [
+        "Autotest"
+      ]
+    },
+    {
+      "titulo": "La OTAN enterró 5.300 km de tuberías en plena Guerra Fría para no depender de la Unión Soviética. Hoy nos llevan el combustible que necesitamos",
+      "link": "https://www.motorpasion.com/seguridad/otan-enterro-5-300-km-tuberias-para-no-depender-cisternas-guerra-urss-hoy-abastecen-a-aeropuertos-como-francfort",
+      "fuente": "Motorpasión (ES)",
+      "fecha": "2026-10-14T15:00:00Z",
+      "resumen": "El carburante es esencial en tiempos de paz y más aún en caso de conflicto. A principios de los años cincuenta, los planificadores de la OTAN sabían que en una guerra contra el Pacto de Varsovia , los camiones cisterna serían de los objetivos más fáciles de destruir. Sin combustible, los tanques dejarían de avanzar, los cazas no podrían despegar y la logística aliada se vendría abajo en cuestión…",
+      "imagen": "https://i.blogs.es/c3e267/oleaoducto-rafale/1024_2000.jpeg",
+      "menciones": 1,
+      "fuentes": [
+        "Motorpasión (ES)"
+      ]
+    },
+    {
+      "titulo": "BMW iX3 M60: 603 CV y 0 a 100 en 3,9 segundos, igual que un M3",
+      "link": "https://autotest.com.ar/noticias/bmw-ix3-m60-603-cv-y-0-a-100-en-3-9-segundos-igual-que-un-m3/",
+      "fuente": "Autotest",
+      "fecha": "2026-10-14T14:50:27Z",
+      "resumen": "Esa arquitectura trae mejoras en densidad energética, centro de gravedad más bajo y, en varios casos, sistema eléctrico de 800 V para cargas más rápidas.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/bmw-ix3-m60-603-cv-y-0-a-100-en-3-9-segu-1200x740-1.jpg",
+      "menciones": 1,
+      "fuentes": [
+        "Autotest"
+      ]
+    },
+    {
+      "titulo": "Autos chinos: cuáles son los modelos que impulsaron el salto a casi 40.000 patentamientos",
+      "link": "https://www.iprofesional.com/autos/466581-autos-chinos-los-modelos-que-lideran-los-patentamientos-en-2026",
       "fuente": "iProfesional",
-      "fecha": "2026-10-13T22:22:00Z",
-      "resumen": "Conozca las alianzas entre fabricantes de motos chinas y firmas como BMW o KTM y su impacto en la calidad y ventas del mercado argentino (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
-      "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/10/627379.jpg",
+      "fecha": "2026-10-14T13:50:00Z",
+      "resumen": "Los patentamientos de autos chinos se multiplicaron por más de cinco en un año. Cuáles son los modelos más vendidos y cuánto cuestan los 0 km (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
+      "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/10/627353.jpg",
       "menciones": 1,
       "fuentes": [
         "iProfesional"
       ]
     },
     {
-      "titulo": "Europa obsesionada con los eléctricos pero Peugeot tiene su propio Volkswagen Golf diésel por 213 € al mes, con cambio automático y que solo gasta 4,9 l/100 km",
-      "link": "https://www.diariomotor.com/noticia/peugeot-308-diesel-oferta-octubre-2026/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-10-13T19:02:13Z",
-      "resumen": "Estamos viendo a todas las marcas recurrir a la electrificación en mayor o menor medida, pero no muchas están siendo capaces de permitir una bonita armonía. La que sí que lo está haciendo es Peugeot, y así lo deja patente con su compacto más mítico, un competidor directo del Volkswagen Golf que, por 213,38 euros al mes , te lo llevas con un motor diésel que solo gasta 4,9 l/100 km. El Volkswagen…",
-      "imagen": "https://www.diariomotor.com/imagenes/2025/08/Peugeot-308-2026-4-68adfd7498eea.jpg?class=XL",
-      "menciones": 5,
-      "fuentes": [
-        "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "Ni Cadillac ni motor V8: el nuevo coche de los Cazafantasmas es un SUV eléctrico y Bill Murray ya lo ha probado",
-      "link": "https://www.motorpasion.com/cine-tv-juegos/cadillac-motor-v8-nuevo-coche-cazafantasmas-suv-electrico-bill-murray-ha-probado",
-      "fuente": "Motorpasión (ES)",
-      "fecha": "2026-10-13T19:00:28Z",
-      "resumen": "Llega Halloween y Rivian , la llamada a ser rival de Tesla pero que ha atravesado no pocos problemas financieros , lo celebra disfrazando a su coche más vendido en uno de los coches más queridos del cine: el Ecto-1 de 'Cazafantasmas' . Con todos ustedes: nace el Rivian Ecto-R1 . Y viene hasta con vídeo incluido, con Bill Murray a sus mandos doblegando a Moquete. Antes de que te eches las manos a…",
-      "imagen": "https://i.blogs.es/ade6ff/rivian-ecto-r1-cazafantasmas-01/1024_2000.jpeg",
-      "menciones": 1,
-      "fuentes": [
-        "Motorpasión (ES)"
-      ]
-    },
-    {
-      "titulo": "194 HP y 390 km de autonomía: el nuevo hatchback que desafía a Volkswagen",
-      "link": "https://autotest.com.ar/noticias/194-hp-y-390-km-de-autonomia-el-nuevo-hatchback-que-desafia-a-volkswagen/",
+      "titulo": "El SUV más grande de Volkswagen llegó a la región: 282 HP, 7 asientos y pantalla de 15 pulgadas",
+      "link": "https://autotest.com.ar/noticias/el-suv-mas-grande-de-volkswagen-llego-a-la-region-282-hp-7-asientos-y-pantalla-de-15-pulgadas/",
       "fuente": "Autotest",
-      "fecha": "2026-10-13T19:00:03Z",
-      "resumen": "El Leapmotor B03 se presenta como un prometedor competidor en el segmento de los hatchbacks eléctricos, con características como 390 km de autonomía y carga rápida en tan solo 21 minutos.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/Leapmotor-B03-teaser.jpg",
+      "fecha": "2026-10-14T13:30:41Z",
+      "resumen": "Volkswagen presenta la nueva Teramont 2027 en México, una SUV de tres filas que combina tecnología avanzada, un diseño imponente y prestaciones mejoradas.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/Volkswagen-Teramont-perfil.jpg",
       "menciones": 1,
       "fuentes": [
         "Autotest"
       ]
     },
     {
-      "titulo": "Hyundai invierte US$ 15.500 millones en India, ¿la nueva meca automotriz?",
-      "link": "https://eleconomista.com.ar/autos/hyundai-invierte-us-15500-millones-india-la-nueva-meca-automotriz-n98824",
-      "fuente": "El Economista",
-      "fecha": "2026-10-13T18:15:00Z",
-      "resumen": "La compañía de origen coreano apuesta por expandirse en el que considera un mercado estratégico clave que impulsar el crecimiento y la expansión a otros países emergentes.",
-      "imagen": "https://statics.eleconomista.com.ar/2026/10/crop/6ace7c89a7bf1__950x512.webp",
-      "menciones": 1,
-      "fuentes": [
-        "El Economista"
-      ]
-    },
-    {
-      "titulo": "Scott Kilmer, mecánico con más de 50 años de experiencia: “Cuando conduces por autopista la gasolina puede limpiar las válvulas; es la puesta a punto italiana”",
-      "link": "https://www.motorpasion.com/revision/scott-kilmer-mecanico-50-anos-experiencia-cuando-conduces-autopista-gasolina-puede-limpiar-valvulas-puesta-a-punto-italiana",
-      "fuente": "Motorpasión (ES)",
-      "fecha": "2026-10-13T18:00:27Z",
-      "resumen": "El coche que solo se mueve por la ciudad casi nunca se acaba de calentar correctamente. De casa al trabajo, del trabajo al súper y vuelta a empezar, el motor arranca, apenas se calienta y ya lo apagamos. Es cómodo para el conductor, pero no tanto para la mecánica. Scotty Kilmer , mecánico con 58 años de oficio, defiende que de vez en cuando conviene hacer una ruta larga y a ritmo constante . No se…",
-      "imagen": "https://i.blogs.es/15cb28/kilmer-autopista/1024_2000.jpeg",
-      "menciones": 1,
-      "fuentes": [
-        "Motorpasión (ES)"
-      ]
-    },
-    {
-      "titulo": "Podría llegar a los concesionarios, después de todo, pero el regreso del Renault 8 Gordini, de producirse, no sería barato, ni con gasolina",
-      "link": "https://www.diariomotor.com/noticia/renault-8-gordini-posibilidades-produccion/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-10-13T17:30:39Z",
-      "resumen": "El espectacular Renault 8 Gordini podría llegar a los concesionarios, después de todo, pero no como más nos gustaría, ni barato Resulta fascinante cómo un prototipo , un coche que - a priori - no debería llegar a los concesionarios, puede ser capaz de despertar tantas emociones . Renault lo ha conseguido. En su afán por recuperar algunos de los emblemas clásicos de la marca, la marca francesa se…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/09/renault-8-gordini-concept-11-6ab4ce22356fa.jpg?class=XL",
-      "menciones": 1,
-      "fuentes": [
-        "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "Un coche de alquiler chino grabó los códigos de acceso de una base militar: no hizo falta ni piratearlo",
-      "link": "https://www.motorpasion.com/coches-electricos/coche-alquiler-chino-grabo-codigos-acceso-base-militar-no-hizo-falta-piratearlo-basto-conducirlo",
-      "fuente": "Motorpasión (ES)",
-      "fecha": "2026-10-13T17:00:28Z",
-      "resumen": "Durante un ejercicio de la Guardia Nacional noruega para proteger el aeropuerto de Oslo en caso de guerra, los soldados descubrieron que los coches de alquiler que utilizaban habían estado registrando sus movimientos, a los pasajeros y hasta los códigos de seguridad que introducían en los accesos militares, según el diario Dagens Næringsliv . Al menos dos de los vehículos eran de marca Deepal, de…",
-      "imagen": "https://i.blogs.es/bdf304/changan-deepal-soldado-noruego/1024_2000.jpeg",
-      "menciones": 1,
-      "fuentes": [
-        "Motorpasión (ES)"
-      ]
-    },
-    {
-      "titulo": "El \"VW Golf surcoreano\" suma un motor híbrido con 154 CV perfecto para esquivar las Zonas de Bajas Emisiones, un compacto muy llamativo y más barato",
-      "link": "https://www.diariomotor.com/noticia/kia-k4-hybrid/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-10-13T17:00:21Z",
-      "resumen": "La oferta de vehículos de tamaño compacto no para de crecer pero es justo reconocer que todavía el grueso de las ventas acaba en las variantes de combustión . Entre las opciones mecánicas más interesantes hay que señalar las híbridas convencionales que logran un buen compromiso entre prestaciones, consumos y precio, un tipo de tecnología en la que Toyota es toda una experta pero otras firmas como…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/10/Kia-K468-6ace3b8b9bc57.jpg?class=XL",
-      "menciones": 1,
-      "fuentes": [
-        "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "Renault ha creado un coche con seis butacas que convierte dos en una mesa, y con una pantalla que llegará a producción midiendo 1,13 metros",
-      "link": "https://www.diariomotor.com/noticia/renault-e-space-concept-fotos/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-10-13T16:30:52Z",
-      "resumen": "El Salón de París 2026 nos hemos vuelto un poco locos con lo retro. Stellantis ha presentado el Peugeot E-T16 Concept y el Citroën 2 CV Concept , Alpine el A310 Vision y Renault ha hecho lo propio con el Renault E-Space , un monovolumen que recuerda al primer Espace y que nos presenta un habitáculo con seis asientos individuales , una segunda fila capaz de girar o convertirse en mesa y una…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/10/Renault-E-Space-concept-14-6ace30e40f1d6.jpg?class=XL",
-      "menciones": 1,
-      "fuentes": [
-        "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "Europa ya tiene su propio tanque-robot de combate: funciona con IA y pega cañonazos sin necesidad de llevar soldados dentro",
-      "link": "https://www.motorpasion.com/tecnologia/europa-tiene-su-propio-tanque-robot-combate-funciona-ia-pega-canonazos-necesidad-llevar-soldados-dentro",
-      "fuente": "Motorpasión (ES)",
-      "fecha": "2026-10-13T16:30:27Z",
-      "resumen": "La conducción autónoma ya no se limita a los coches que circulan por carretera, también ha llegado al campo de batalla, donde puede servir para enviar vehículos armados a zonas de alto riesgo sin exponer a sus tripulaciones. El HAVOC 8×8 , desarrollado por la empresa estonia Milrem Robotics, es un ejemplo: pesa unas 15 toneladas, alcanza los 110 km/h y puede equiparse con un cañón de 30 mm y…",
-      "imagen": "https://i.blogs.es/abfa73/portada-mop-1791905535378/1024_2000.jpeg",
-      "menciones": 1,
-      "fuentes": [
-        "Motorpasión (ES)"
-      ]
-    },
-    {
-      "titulo": "Ni toldos, ni sillas: la costa de Lugo se pone seria con las camper y autocaravanas, con multas de hasta 3.000 euros",
-      "link": "https://www.motorpasion.com/furgonetas-y-caravanas/toldos-sillas-costa-lugo-se-pone-seria-camper-autocaravanas-multas-3-000-euros",
-      "fuente": "Motorpasión (ES)",
-      "fecha": "2026-10-13T16:00:28Z",
-      "resumen": "El turismo camper se ha disparado en España, especialmente en verano: entre españolas y extranjeras, unas 250.000 campers y autocaravanas recorren la península entre junio y septiembre, según datos de ASEICAR . La costa gallega es una de las regiones que lleva años notando la presión camper y cada vez más ayuntamientos están diseñando normativas para regular la estancia de este tipo de vehículos.…",
-      "imagen": "https://i.blogs.es/494869/a-marina-lugo-normativa-camper-06/1024_2000.jpeg",
-      "menciones": 1,
-      "fuentes": [
-        "Motorpasión (ES)"
-      ]
-    },
-    {
-      "titulo": "En las próximas semanas se definirá la formación titular de Racing Bulls para 2027",
-      "link": "https://www.diariomotor.com/competicion/noticia/proximas-semanas-definira-racing-bulls-2027/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-10-13T16:00:16Z",
-      "resumen": "Este mes Racing Bulls llegará a Estados Unidos como el quinto equipo de la parrilla y en medio de una gran temporada porque ya suman 100 puntos y contando. Sin embargo, para Alam Permane, jefe de la escudería con sede en Faenza, no todo es alegría porque también debe opinar en lo que respecta a la formación de pilotos para 2027, con tres candidatos para dos asientos tal como lo ha manifestado…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/10/Liam-Lawson_Arvid_Lindblad_Racing_Bulls-Singapur_AN_26_26-6ace2c5382134.jpg?class=XL",
-      "menciones": 1,
-      "fuentes": [
-        "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "El Nissan Kicks sorprendió en las pruebas de choque: así le fue al rival del Toyota Yaris Cross",
-      "link": "https://autotest.com.ar/noticias/el-nissan-kicks-sorprendio-en-las-pruebas-de-choque-asi-le-fue-al-rival-del-toyota-yaris-cross/",
+      "titulo": "No solo 208: Peugeot presentó cuatro nuevos modelos, entre ellos uno con 827 CV",
+      "link": "https://autotest.com.ar/noticias/no-solo-208-peugeot-presento-cuatro-nuevos-modelos-entre-ellos-uno-con-827-cv-y-mas/",
       "fuente": "Autotest",
-      "fecha": "2026-10-13T15:30:40Z",
-      "resumen": "El SUV compacto Nissan Kicks mantiene una calificación de cinco estrellas en Latin NCAP, destacándose en seguridad tras corregir una falla en el modelo mexicano.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/Nissan-Kicks-pruebas-de-choque.jpg",
+      "fecha": "2026-10-14T13:15:36Z",
+      "resumen": "Peugeot presentó en el Salón del Automóvil de París 2026 su plan para los próximos años con la exhibición de los E-T16 Concept, RCZ Vision en estreno mundial, Polygon Concept como anticipo tecnológico y un E-208 GTi diferente. Desde la renovación de lo tradicional hasta uno totalmente disruptivo con 827 CV para un antes y […]",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/Peugeot-en-el-Salon-de-Paris-1.jpg",
       "menciones": 1,
       "fuentes": [
         "Autotest"
       ]
     },
     {
-      "titulo": "Dave Taylor, arqueólogo: “Es increíble que haya sobrevivido 2.000 años”. La calzada romana que sostiene el tráfico de Londres",
-      "link": "https://www.motorpasion.com/industria/dave-taylor-arqueologo-increible-que-haya-sobrevivido-2-000-anos-calzada-romana-que-sostiene-trafico-londres",
-      "fuente": "Motorpasión (ES)",
-      "fecha": "2026-10-13T15:30:27Z",
-      "resumen": "En noviembre de 2024 , unas obras para ampliar la red de calefacción urbana de bajas emisiones del distrito londinense de Southwark sacaron a la luz una sorpresa arqueológica mayúscula: el equipo del Museum of London Archaeology (MOLA) descubrió una sección inalterada de Watling Street, una de las grandes vías de comunicación de la Britania romana, oculta justo bajo el asfalto de la actual Old…",
-      "imagen": "https://i.blogs.es/f76b42/via-romana-ok/1024_2000.jpeg",
-      "menciones": 1,
-      "fuentes": [
-        "Motorpasión (ES)"
-      ]
-    },
-    {
-      "titulo": "Nuevas imágenes del Volkswagen ID. Tiguan: así es en persona el cuadro retro de Golf IV que tiene el SUV que sustituye al ID.4 e ID.5",
-      "link": "https://www.diariomotor.com/noticia/nuevas-imagenes-volkswagen-id-tiguan/",
+      "titulo": "No corre mucho, y parece una moto antigua, pero es una moto indestructible, presumiblemente barata, de marca premium, y altamente tecnológica",
+      "link": "https://www.diariomotor.com/noticia/triumph-bonneville-t40-estimacion-precios/",
       "fuente": "Diariomotor (ES)",
-      "fecha": "2026-10-13T15:15:03Z",
-      "resumen": "Ya podemos ver al nuevo Volkswagen ID. Tiguan mucho más de cerca. Estas nuevas imágenes tomadas directamente en el Salón de París por mi compañero David G. Artés nos permiten echar un vistazo con más detalle al SUV eléctrico con el que Volkswagen sustituirá a los actuales ID.4 e ID.5 y, sobre todo, a un interior que esconde una de las ideas más simpáticas que he visto últimamente: un cuadro de…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/10/cuadro-retro-volkswagen-id-tiguan-2027-6ace2c486ff41.jpg?class=XL",
-      "menciones": 2,
+      "fecha": "2026-10-14T13:00:52Z",
+      "resumen": "Hace unos días se presentaba un nuevo Citroën 2CV . El Renault 5 está arrasando . Y el regreso de clásicos históricos parece que va a ser una de las tónicas dominantes de los próximos años y que tras estos llegarán mucho más. En definitiva, lo retro triunfa. Triunfa en el mundo del automóvil, pero también en el mercado de las dos ruedas. La que hoy nos ocupa es una moto modesta, a fin de cuentas,…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/10/triumph-bonneville-t40-2027-9-6ac892dc9b8e6.jpg?class=XL",
+      "menciones": 3,
       "fuentes": [
         "Diariomotor (ES)"
       ]
