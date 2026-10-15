@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-15T19:56:01Z",
+  "actualizado": "2026-10-15T22:41:09Z",
   "desde": "2026-10-08",
   "hasta": "2026-10-15",
   "destacadas": [
@@ -10,7 +10,7 @@
       "fecha": "2026-10-15T18:00:11Z",
       "resumen": "GWM Argentina ya muestra en su sitio oficial al ORA 5 HEV, un SUV híbrido con diseño moderno, tecnología integrada, sistemas de seguridad y garantía oficial de 8 años o 150.000 kilómetros para su sistema asociado.",
       "imagen": "https://autotest.com.ar/wp-content/uploads/2026/08/GWM-Ora-05-SUV.jpg",
-      "menciones": 48,
+      "menciones": 45,
       "fuentes": [
         "Autotest",
         "Diariomotor (ES)",
@@ -136,19 +136,6 @@
       ]
     },
     {
-      "titulo": "Se presentó un nuevo SUV rival de Volkswagen Tera con diseño moderno, 138 CV y doble pantalla",
-      "link": "https://autotest.com.ar/noticias/se-presento-un-nuevo-suv-rival-de-volkswagen-tera-con-diseno-moderno-138-cv-y-doble-pantalla/",
-      "fuente": "Autotest",
-      "fecha": "2026-10-13T12:00:41Z",
-      "resumen": "Hyundai presenta en el Salón de París 2026 la nueva generación del Bayon, un SUV derivado del i20 que innovará desde Brasil en 2027.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/SUV-Hyundai-Bayon-perfil.jpg",
-      "menciones": 3,
-      "fuentes": [
-        "Autotest",
-        "iProfesional"
-      ]
-    },
-    {
       "titulo": "Vuelve el Citroën 2CV con motor eléctrico y diseño moderno",
       "link": "https://www.iprofesional.com/autos/466415-citroen-vuelve-a-fabricar-el-2-cv-con-motor-electrico-y-mas-chico",
       "fuente": "iProfesional",
@@ -159,6 +146,66 @@
       "fuentes": [
         "Diariomotor (ES)",
         "iProfesional"
+      ]
+    },
+    {
+      "titulo": "Primeras imágenes del Porsche Mission S, el regreso de la Porsche más purista y analógica",
+      "link": "https://www.diariomotor.com/noticia/primeras-imagenes-porsche-mission-s/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-10-15T23:30:47Z",
+      "resumen": "Se ha hecho esperar bastante más de lo que nos habría gustado, pero Porsche vuelve por fin a lo más alto del mercado de los superdeportivos . Su nombre es Porsche Mission S , y además de buscar suceder a leyendas como el Carrera GT y el 918 Spyder , es un adelanto de la respuesta de Stuttgart a modelos como el Ferrari 849 Testarossa , el Lamborghini Temerario o el Aston Martin Valhalla . No nos…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/10/porsche-mission-s-2026-15-6ad1443ddbf91.jpg?class=XL",
+      "menciones": 1,
+      "fuentes": [
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "Un representante de motos y un grupo de concesionarias manejarán marca Nissan en Argentina",
+      "link": "https://www.iprofesional.com/autos/466727-cuales-son-las-dos-empresas-que-manejaran-la-marca-nissan-en-argentina",
+      "fuente": "iProfesional",
+      "fecha": "2026-10-15T22:33:00Z",
+      "resumen": "La automotriz japonesa, que dejó de fabricar en Córdoba hace unos meses, presentó a los nuevos socios como responsables de la marca en el país (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
+      "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2025/10/605725.jpg",
+      "menciones": 1,
+      "fuentes": [
+        "iProfesional"
+      ]
+    },
+    {
+      "titulo": "No corre mucho, pero es la nueva superdeportiva de BMW, una máquina espectacular por menos de lo que cuesta un scooter",
+      "link": "https://www.diariomotor.com/motos/bmw-f-450-rr/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-10-15T22:12:25Z",
+      "resumen": "Sabíamos que la nueva saga BMW, la más accesible, la diseñada a la medida del A2, iba a traer consigo muchas alegrías. Primero fue la BMW F 450 GS, una aventurera compacta, ligera, muy barata, pero también tecnológica y con un diseño tremendamente atractivo. Tras ella, conocimos la BMW F 450 R, la nueva naked de la marca alemana, una deportiva urbana que seguía siendo tremendamente barata para…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/10/bmw-f-450-rr-6ad13193c0c83.jpeg?class=XL",
+      "menciones": 2,
+      "fuentes": [
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "Uno por uno, los 10 SUV chinos más baratos de Argentina",
+      "link": "https://www.iprofesional.com/autos/466346-cuales-son-los-suv-chinos-mas-baratos-que-se-venden-en-argentina",
+      "fuente": "iProfesional",
+      "fecha": "2026-10-15T21:33:00Z",
+      "resumen": "Ante la avalancha de marcas asiáticas, repasamos cuáles son los modelos más accesibles de uno de los segmentos donde tienen más participación (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
+      "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2025/05/596286.jpg",
+      "menciones": 1,
+      "fuentes": [
+        "iProfesional"
+      ]
+    },
+    {
+      "titulo": "Porsche Mission S: el deportivo que estará por encima del 911 es el encargado de abrir una nueva era para salvar a Porsche",
+      "link": "https://www.motorpasion.com/porsche/porsche-mission-s",
+      "fuente": "Motorpasión (ES)",
+      "fecha": "2026-10-15T20:30:26Z",
+      "resumen": "Hay coches que nacen para ocupar un hueco en el catálogo y otros que llegan con la misión de abrir una nueva etapa en la historia de una marca. El Porsche Mission S pertenece, al menos sobre el papel, a la segunda categoría. No es un modelo de producción ni un simple ejercicio de diseño para llamar la atención en un salón del automóvil. Es la primera declaración de intenciones de Porsche sobre una…",
+      "imagen": "https://i.blogs.es/47590c/porsche_mission_s_7/1024_2000.jpeg",
+      "menciones": 1,
+      "fuentes": [
+        "Motorpasión (ES)"
       ]
     },
     {
@@ -196,6 +243,18 @@
       "menciones": 1,
       "fuentes": [
         "Motorpasión (ES)"
+      ]
+    },
+    {
+      "titulo": "Rival de Yaris y Polo: así se renueva el hatchback con motor 1.0 y más tecnología",
+      "link": "https://autotest.com.ar/noticias/rival-de-yaris-y-polo-asi-se-renueva-el-hatchback-con-motor-1-0-y-mas-tecnologia/",
+      "fuente": "Autotest",
+      "fecha": "2026-10-15T19:00:18Z",
+      "resumen": "Fiat presenta el Argo 2027 en Brasil con una única versión mientras se alista para el lanzamiento del Argo X, que ofrecerá más opciones de seguridad y tecnología en septiembre.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/Fiat-Argo-Drive-2026-teaser.jpg",
+      "menciones": 3,
+      "fuentes": [
+        "Autotest"
       ]
     },
     {
@@ -241,66 +300,6 @@
       "fecha": "2026-10-15T18:25:32Z",
       "resumen": "La tracción eléctrica ofrece una ventaja adicional en el off-road: el torque está disponible desde cero, sin esperar revoluciones.",
       "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/gm-defense-cre-un-4x4-sin-volante-sin-pe-1200x740-1.jpg",
-      "menciones": 1,
-      "fuentes": [
-        "Autotest"
-      ]
-    },
-    {
-      "titulo": "436 CV y 5 estrellas en seguridad: la nueva pick up híbrida que busca complicar a Toyota Hilux",
-      "link": "https://autotest.com.ar/noticias/436-cv-y-5-estrellas-en-seguridad-la-nueva-pick-up-hibrida-que-busca-complicar-a-toyota-hilux/",
-      "fuente": "Autotest",
-      "fecha": "2026-10-15T18:16:17Z",
-      "resumen": "La nueva BYD Shark, una pick-up híbrida enchufable, alcanza la máxima calificación de seguridad con cinco estrellas Euro NCAP y promete llegar al mercado español antes de 2026.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/BYD-Shark-1.jpg",
-      "menciones": 3,
-      "fuentes": [
-        "Autotest"
-      ]
-    },
-    {
-      "titulo": "Ni parar un momento ni aparcar: la ley es clara con las plazas para personas con movilidad reducida estén donde estén, y la multa también",
-      "link": "https://www.motorpasion.com/revision/parar-momento-aparcar-ley-clara-plazas-para-personas-movilidad-reducida-esten-donde-esten-multa-tambien",
-      "fuente": "Motorpasión (ES)",
-      "fecha": "2026-10-15T18:00:26Z",
-      "resumen": "“Son sólo dos minutos” o “si nunca nadie aparca aquí”, cuando en realidad quieren decir “porque yo lo valgo”. Las excusas son siempre las mismas para el incivismo. Y no hay nada más incívico que aparcar en una plaza reservada para personas con movilidad reducida , las plazas PMR . A menudo, no queda otra que denunciar a quien ha decidido que su persona era superior a la del resto de la sociedad.…",
-      "imagen": "https://i.blogs.es/23f72a/aparcar-en-una-plaza-pmr/1024_2000.jpeg",
-      "menciones": 2,
-      "fuentes": [
-        "Motorpasión (ES)"
-      ]
-    },
-    {
-      "titulo": "Volkswagen Nivus o Polo: cuál ofrece más por casi 50 millones de pesos",
-      "link": "https://autotest.com.ar/noticias/volkswagen-nivus-o-polo-cual-ofrece-mas-por-casi-50-millones-de-pesos/",
-      "fuente": "Autotest",
-      "fecha": "2026-10-15T17:47:57Z",
-      "resumen": "Con una diferencia de $182.600, el Volkswagen Polo Highline y el Nivus Comfortline compiten en motor, baúl y equipamiento, en una decisión más allá del precio.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/Volkswagen-Polo-vs-Nivus.jpg",
-      "menciones": 4,
-      "fuentes": [
-        "Autotest"
-      ]
-    },
-    {
-      "titulo": "Cadillac Racing anunció su formación de pilotos para la temporada 2027",
-      "link": "https://www.diariomotor.com/competicion/noticia/cadillac-formacion-pilotos-2027/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-10-15T17:23:23Z",
-      "resumen": "Cadillac Racing oficializó a sus pilotos para sus prototipos V-Series.R tanto en el Campeonato Mundial de Resistencia como en el Campeonato IMSA SportsCar. El cambio más significativo se produjo en Jota Sport tras hacerse oficial las salidas de Alex Lynn y Sebastien Bourdais en tanto ingresan António Félix da Costa y Ricky Taylor. El portugués saldrá del agonizante programa Alpine, en tanto Taylor…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/10/Cadillac_Hypercar_Jota_Sport_2026_27-6ad0e620e6c10.jpg?class=XL",
-      "menciones": 1,
-      "fuentes": [
-        "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "145 CV y bajo consumo: el SUV que no aumentó de precio en octubre",
-      "link": "https://autotest.com.ar/noticias/145-cv-y-bajo-consumo-el-suv-que-no-aumento-de-precio-en-octubre/",
-      "fuente": "Autotest",
-      "fecha": "2026-10-15T17:12:15Z",
-      "resumen": "Fiat sorprende al mantener el precio del 600 Hybrid, un SUV de 145 CV que sigue atrayendo con su eficiencia y características únicas.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/Fiat-600-SUV.jpg",
       "menciones": 1,
       "fuentes": [
         "Autotest"
