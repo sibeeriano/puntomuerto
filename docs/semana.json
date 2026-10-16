@@ -1,16 +1,16 @@
 {
-  "actualizado": "2026-10-16T17:23:56Z",
+  "actualizado": "2026-10-16T19:35:48Z",
   "desde": "2026-10-09",
   "hasta": "2026-10-16",
   "destacadas": [
     {
-      "titulo": "Cuesta casi 10.000 dólares menos que un Toyota Corolla Cross: el SUV híbrido con 188 CV y amplio equipamiento",
-      "link": "https://autotest.com.ar/noticias/cuesta-casi-10-000-dolares-menos-que-un-toyota-corolla-cross-el-suv-hibrido-con-188-cv-y-amplio-equipamiento/",
+      "titulo": "El SUV que cuesta como un hatchback: arranca en 20.990 dólares, tiene 111 CV y caja automática",
+      "link": "https://autotest.com.ar/noticias/el-suv-se-ofrece-desde-usd-20-990-y-combina-motor-1-5-de-111-cv-opcion-automatica-cvt-pantalla-de-9-pulgadas-y-un-baul-de-450-litros/",
       "fuente": "Autotest",
-      "fecha": "2026-10-16T17:00:05Z",
-      "resumen": "El Haval Jolion HEV Supreme se presenta como una opción destacada en el segmento de los SUV híbridos, ofreciendo un amplio equipamiento a un precio competitivo de 28.990 dólares.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/Haval-Jolion-HEV-llanta.jpg",
-      "menciones": 49,
+      "fecha": "2026-10-16T18:00:50Z",
+      "resumen": "Con un precio que inicia en 20.990 dólares, JAC JS2 se posiciona como una opción accesible en el mercado de SUVs compactos, ofreciendo motor de 111 CV y una amplia variedad de equipamiento.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/01/JAC-JS2-accion-lateral.jpg",
+      "menciones": 41,
       "fuentes": [
         "Autotest",
         "Diariomotor (ES)",
@@ -29,6 +29,19 @@
         "Autotest",
         "Diariomotor (ES)",
         "Motorpasión (ES)"
+      ]
+    },
+    {
+      "titulo": "Cuesta casi 10.000 dólares menos que un Toyota Corolla Cross: el SUV híbrido con 188 CV y amplio equipamiento",
+      "link": "https://autotest.com.ar/noticias/cuesta-casi-10-000-dolares-menos-que-un-toyota-corolla-cross-el-suv-hibrido-con-188-cv-y-amplio-equipamiento/",
+      "fuente": "Autotest",
+      "fecha": "2026-10-16T17:00:05Z",
+      "resumen": "El Haval Jolion HEV Supreme se presenta como una opción destacada en el segmento de los SUV híbridos, ofreciendo un amplio equipamiento a un precio competitivo de 28.990 dólares.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/Haval-Jolion-HEV-llanta.jpg",
+      "menciones": 7,
+      "fuentes": [
+        "Autotest",
+        "Diariomotor (ES)"
       ]
     },
     {
@@ -162,6 +175,54 @@
       ]
     },
     {
+      "titulo": "Las marcas presumen de coches con control por voz, pero hace 40 años te ponían automáticamente el cinturón de seguridad",
+      "link": "https://www.motorpasion.com/seguridad/marcas-presumen-coches-control-voz-hace-40-anos-te-ponian-automaticamente-cinturon-seguridad",
+      "fuente": "Motorpasión (ES)",
+      "fecha": "2026-10-16T19:00:27Z",
+      "resumen": "A lo largo de la historia del automóvil, se han inventado todo tipo de cosas. Algunas llegaron para quedarse y otras se han perdido con el paso del tiempo. Entre estas últimas está el cinturón automático . Fue una solución relativamente popular en Estados Unidos en los años 80. En parte, surgió para mejorar el confort del conductor, pero su objetivo principal era que los fabricantes cumplieran la…",
+      "imagen": "https://i.blogs.es/a2fded/cinturon/1024_2000.jpeg",
+      "menciones": 1,
+      "fuentes": [
+        "Motorpasión (ES)"
+      ]
+    },
+    {
+      "titulo": "Volkswagen Tera o Nivus: por 650.000 pesos de diferencia uno tiene más potencia y el otro mejor equipamiento",
+      "link": "https://autotest.com.ar/noticias/volkswagen-tera-o-nivus-por-650-000-pesos-de-diferencia-uno-tiene-mas-potencia-y-el-otro-mejor-equipamiento/",
+      "fuente": "Autotest",
+      "fecha": "2026-10-16T18:27:53Z",
+      "resumen": "Con precios similares, el Volkswagen Tera y el Nivus ofrecen diferentes ventajas según las necesidades de motor, equipamiento y seguridad. Descubrí cuál es la mejor elección para vos.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/Volkswagen-Tera-vs-Nivus.jpg",
+      "menciones": 1,
+      "fuentes": [
+        "Autotest"
+      ]
+    },
+    {
+      "titulo": "Jaecoo 8: 135 km sin nafta y 4×4 sin cardán, más autonomía eléctrica que el RAV4 PHEV",
+      "link": "https://autotest.com.ar/offroad/jaecoo-8-135-km-sin-nafta-y-4x4-sin-cardan-mas-autonomia-electrica-que-el-rav4-phev/",
+      "fuente": "Autotest",
+      "fecha": "2026-10-16T18:10:31Z",
+      "resumen": "El Jaecoo 8 no reemplaza a un chasis de largueros, pero deja claro que para el uso real de la mayoría de los SUV en Argentina, esa capacidad extrema es un lujo que pocos llegan a necesitar.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/jaecoo-8-135-km-sin-nafta-y-4x4-sin-card-1200x740-1.jpg",
+      "menciones": 1,
+      "fuentes": [
+        "Autotest"
+      ]
+    },
+    {
+      "titulo": "La Ley de Propiedad Horizontal es clara sobre aparcar dos vehículos en una misma plaza de garaje",
+      "link": "https://www.motorpasion.com/revision/quiero-guardar-coche-moto-plaza-aparcamiento-garaje-comunitario-esto-que-dice-ley-al-respecto",
+      "fuente": "Motorpasión (ES)",
+      "fecha": "2026-10-16T18:00:27Z",
+      "resumen": "Uno de los conflictos más recurrentes en las comunidades de vecinos tiene que ver con el uso de las plazas de aparcamiento en los garajes comunitarios . Lo habitual es que los propietarios de estas plazas, o los inquilinos, en caso de alquiler, las utilicen para estacionar su vehículo, pero hay quien aprovecha para dejar más vehículos en la misma plaza, como una moto, bicicletas, patinetes…",
+      "imagen": "https://i.blogs.es/cddb29/garaje-3_1/1024_2000.jpeg",
+      "menciones": 1,
+      "fuentes": [
+        "Motorpasión (ES)"
+      ]
+    },
+    {
       "titulo": "Cambian una señal de limitación de velocidad para hacer una broma: 400 conductores multados por radar a 70 km/h en lugar de los 50 km/h permitidos",
       "link": "https://www.motorpasion.com/seguridad/cambian-senal-limitacion-velocidad-para-hacer-broma-400-conductores-multados-radar-a-70-km-h-lugar-50-km-h-permitidos",
       "fuente": "Motorpasión (ES)",
@@ -240,66 +301,6 @@
       "fecha": "2026-10-16T15:00:15Z",
       "resumen": "Volkswagen presentó a sus concesionarios el SUV coupé Proyecto Saga y la nueva Amarok sudamericana, ambos producidos en la región para 2027 y con tecnología híbrida.",
       "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/Volkswagen-Proyecto-Saga-teaser.jpg",
-      "menciones": 2,
-      "fuentes": [
-        "Autotest"
-      ]
-    },
-    {
-      "titulo": "Chevrolet S10 y Fiat Titano: cuánto cuestan las pick ups que siguen a Hilux, Ranger y Amarok",
-      "link": "https://autotest.com.ar/comparativos/chevrolet-s10-y-fiat-titano-cuanto-cuestan-las-pick-ups-que-siguen-a-hilux-ranger-y-amarok/",
-      "fuente": "Autotest",
-      "fecha": "2026-10-16T14:30:58Z",
-      "resumen": "Descubre cómo se posicionan Chevrolet S10 y Fiat Titano en el competitivo mercado de pick ups medianas, con detalles sobre ventas, motores y precios.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/08/Fiat-Titano-vs-Chevrolet-S10.jpg",
-      "menciones": 1,
-      "fuentes": [
-        "Autotest"
-      ]
-    },
-    {
-      "titulo": "Cinco asientos y pantalla de 12,8 pulgadas: BYD renueva su modelo más accesible",
-      "link": "https://autotest.com.ar/noticias/cinco-asientos-y-pantalla-de-128-pulgadas-byd-renueva-su-modelo-mas-accesible/",
-      "fuente": "Autotest",
-      "fecha": "2026-10-16T14:30:36Z",
-      "resumen": "El Dolphin Mini de BYD llega a Europa con una nueva configuración de cinco plazas, innovaciones en tecnología y diseño adaptado.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/BYD-Dolphin-Surf-perfil.jpg",
-      "menciones": 1,
-      "fuentes": [
-        "Autotest"
-      ]
-    },
-    {
-      "titulo": "Renault lanzó una Duster más barata: caja manual, seis airbags y 475 litros de baúl",
-      "link": "https://autotest.com.ar/noticias/renault-lanzo-una-duster-mas-barata-caja-manual-seis-airbags-y-475-litros-de-baul/",
-      "fuente": "Autotest",
-      "fecha": "2026-10-16T14:00:44Z",
-      "resumen": "Renault introduce en Brasil la nueva Duster Zen Plus, una opción más accesible del popular SUV con un precio de R$ 107.990. Con menos equipamiento que la Intense Plus, esta versión mantiene el motor 1.6 y un destacado despeje del suelo.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/Renault-Duster-Zen-Plus-teaser.jpg",
-      "menciones": 2,
-      "fuentes": [
-        "Autotest"
-      ]
-    },
-    {
-      "titulo": "“El tráfico es fluido, pero aún tenemos que aprender a usar las rotondas”: la Policía Local de Utebo confirma con un radar móvil que la transformación de la N-232 es un éxito",
-      "link": "https://www.motorpasion.com/seguridad/trafico-fluido-tenemos-que-aprender-a-usar-rotondas-policia-local-utebo-confirma-radar-movil-que-transformacion-n-232-exito",
-      "fuente": "Motorpasión (ES)",
-      "fecha": "2026-10-16T14:00:28Z",
-      "resumen": "El proyecto para transformar la carretera N-232 a su paso por la localidad de Utebo, en la provincia de Zaragoza, Aragón, ha necesitado tiempo para completarse, y también un presupuesto de más de 8 millones de euros, pero por fin se completó y pudo abrirse al tráfico este verano. Meses después de ponerse en marcha esta transformación para que el área esté mucho más urbanizada, la Policía Local de…",
-      "imagen": "https://i.blogs.es/0f28f9/utebo/1024_2000.jpeg",
-      "menciones": 1,
-      "fuentes": [
-        "Motorpasión (ES)"
-      ]
-    },
-    {
-      "titulo": "Toyota Corolla con 171 CV y caja automática: cuánto cuesta la versión más barata",
-      "link": "https://autotest.com.ar/noticias/toyota-corolla-con-171-cv-y-caja-automatica-cuanto-cuesta-la-version-mas-barata/",
-      "fuente": "Autotest",
-      "fecha": "2026-10-16T13:49:27Z",
-      "resumen": "Descubrí cuánto cuesta la versión más accesible del Toyota Corolla en Argentina y qué características mantiene en comparación con otras versiones.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/Toyota-Corolla-XLI-trasera.jpg",
       "menciones": 2,
       "fuentes": [
         "Autotest"
