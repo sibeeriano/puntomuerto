@@ -1,31 +1,70 @@
 {
-  "actualizado": "2026-10-15T22:41:09Z",
-  "desde": "2026-10-08",
-  "hasta": "2026-10-15",
+  "actualizado": "2026-10-16T17:23:56Z",
+  "desde": "2026-10-09",
+  "hasta": "2026-10-16",
   "destacadas": [
     {
-      "titulo": "223 CV y pantalla de 14,6 pulgadas: el nuevo SUV híbrido que cuesta 30.990 dólares y compite contra Toyota Corolla Cross",
-      "link": "https://autotest.com.ar/noticias/223-cv-y-pantalla-de-146-pulgadas-el-nuevo-suv-hibrido-que-cuesta-30-990-dolares-y-compite-contra-toyota-corolla-cross/",
+      "titulo": "Cuesta casi 10.000 dólares menos que un Toyota Corolla Cross: el SUV híbrido con 188 CV y amplio equipamiento",
+      "link": "https://autotest.com.ar/noticias/cuesta-casi-10-000-dolares-menos-que-un-toyota-corolla-cross-el-suv-hibrido-con-188-cv-y-amplio-equipamiento/",
       "fuente": "Autotest",
-      "fecha": "2026-10-15T18:00:11Z",
-      "resumen": "GWM Argentina ya muestra en su sitio oficial al ORA 5 HEV, un SUV híbrido con diseño moderno, tecnología integrada, sistemas de seguridad y garantía oficial de 8 años o 150.000 kilómetros para su sistema asociado.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/08/GWM-Ora-05-SUV.jpg",
-      "menciones": 45,
+      "fecha": "2026-10-16T17:00:05Z",
+      "resumen": "El Haval Jolion HEV Supreme se presenta como una opción destacada en el segmento de los SUV híbridos, ofreciendo un amplio equipamiento a un precio competitivo de 28.990 dólares.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/Haval-Jolion-HEV-llanta.jpg",
+      "menciones": 49,
       "fuentes": [
         "Autotest",
         "Diariomotor (ES)",
-        "iProfesional",
         "Motorpasión (ES)"
       ]
     },
     {
-      "titulo": "Así es la nueva versión de la Ford Ranger que pone en aprietos a Toyota Hilux: diseño deportivo y 281 CV",
-      "link": "https://autotest.com.ar/noticias/asi-es-la-nueva-version-de-la-ford-ranger-que-pone-en-aprietos-a-toyota-hilux-diseno-deportivo-y-281-cv/",
+      "titulo": "Ocho años de espera y el Tesla Roadster ya tiene fecha: 1,9 segundos de 0 a 100 km/h y 1.000 km de autonomía",
+      "link": "https://autotest.com.ar/noticias/ocho-anos-de-espera-y-el-tesla-roadster-ya-tiene-fecha-1-9-segundos-de-0-a-100-km-h-y-1-000-km-de-autonomia/",
       "fuente": "Autotest",
-      "fecha": "2026-10-15T13:30:51Z",
-      "resumen": "Ford presenta la exclusiva Ranger MS-RT Champion Edition, una pick-up inspirada en el rally, limitada a 500 unidades y disponible con motores V6 turbodiésel o híbrido enchufable.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/Ford-Ranger-MS-RT-Champion-Edition-trompa.jpg",
-      "menciones": 7,
+      "fecha": "2026-10-16T15:00:27Z",
+      "resumen": "El diseño es 2+2, con cuatro plazas, techo de vidrio removible, baúl delantero y espacio de carga detrás de los asientos.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/ocho-a-os-de-espera-y-el-tesla-roadster-1200x740-1.jpg",
+      "menciones": 3,
+      "fuentes": [
+        "Autotest",
+        "Diariomotor (ES)",
+        "Motorpasión (ES)"
+      ]
+    },
+    {
+      "titulo": "BYD Ti7: se lanzó el nuevo SUV híbrido con 354 CV que promete más de 1.000 km de autonomía",
+      "link": "https://autotest.com.ar/lanzamientos/byd-ti7-se-lanzo-el-nuevo-suv-hibrido-con-354-cv-que-promete-mas-de-1-000-km-de-autonomia/",
+      "fuente": "Autotest",
+      "fecha": "2026-10-16T15:46:38Z",
+      "resumen": "BYD ha lanzado el Ti7 en Argentina, ofreciendo un SUV híbrido enchufable que combina rendimiento de alta potencia con una autonomía impresionante.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/BYD-Ti7-SUV-1.jpg",
+      "menciones": 4,
+      "fuentes": [
+        "Autotest",
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "Toyota Hilux, Ford Ranger y Volkswagen Amarok: cuál tiene la versión automática más accesible",
+      "link": "https://autotest.com.ar/comparativos/toyota-hilux-ford-ranger-y-volkswagen-amarok-cual-tiene-la-version-automatica-mas-accesible/",
+      "fuente": "Autotest",
+      "fecha": "2026-10-16T14:59:10Z",
+      "resumen": "Descubrí cuál es la camioneta automática más barata en octubre entre las líderes del mercado: Toyota Hilux, Ford Ranger y Volkswagen Amarok.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/08/toyota-hilux2.jpg",
+      "menciones": 10,
+      "fuentes": [
+        "Autotest",
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "Hyundai Bayon 2027: híbrido de 141 CV y 4,5 L/100 km para destronar al Omoda 4",
+      "link": "https://autotest.com.ar/noticias/hyundai-bayon-2027-hibrido-de-141-cv-y-4-5-l-100-km-para-destronar-al-omoda-4/",
+      "fuente": "Autotest",
+      "fecha": "2026-10-16T11:00:29Z",
+      "resumen": "El mild hybrid de 48V es un parche: la batería chica recupera energía en frenadas y la inyecta en aceleraciones, pero el auto nunca se mueve solo con electricidad.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/hyundai-bayon-2027-h-brido-de-141-cv-y-4-1200x740-1.jpg",
+      "menciones": 5,
       "fuentes": [
         "Autotest",
         "Diariomotor (ES)"
@@ -45,38 +84,12 @@
       ]
     },
     {
-      "titulo": "Más de 1.000 km de autonomía y 242 CV: el nuevo SUV que sorprende por su tecnología",
-      "link": "https://autotest.com.ar/noticias/mas-de-1-000-km-de-autonomia-y-242-cv-el-nuevo-suv-que-sorprende-por-su-tecnologia/",
-      "fuente": "Autotest",
-      "fecha": "2026-10-15T12:35:01Z",
-      "resumen": "XPENG presenta en España el nuevo L03 PowerX Long Range, un SUV Coupé con 215 km de autonomía eléctrica y 1.017 km de autonomía combinada WLTP.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/XPENG-L03-SUV-2.jpg",
-      "menciones": 4,
-      "fuentes": [
-        "Autotest",
-        "Diariomotor (ES)"
-      ]
-    },
-    {
       "titulo": "El Espace familiar vuelve con seis butacas y una pantalla de 1,13 metros: ¿es el regreso del monovolumen que los SUV se «canibalizaron»?",
       "link": "https://autotest.com.ar/noticias/el-espace-familiar-vuelve-con-seis-butacas-y-una-pantalla-de-1-13-metros-es-el-regreso-del-monovolumen-que-los-suv-se-canibalizaron/",
       "fuente": "Autotest",
       "fecha": "2026-10-15T11:00:44Z",
       "resumen": "Con el E-Space concept, Renault recupera la esencia original del nombre: modularidad, confort y capacidad de transformarse según la necesidad.",
       "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/el-espace-familiar-vuelve-con-seis-butac-1200x740-1.jpg",
-      "menciones": 2,
-      "fuentes": [
-        "Autotest",
-        "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "RCZ Vision: 500 CV con consumo de auto urbano, el cupé que Peugeot nunca reemplazó",
-      "link": "https://autotest.com.ar/noticias/peugeot-rcz-vision-500-cv-con-consumo-de-auto-urbano-el-cupe-que-peugeot-nunca-reemplazo/",
-      "fuente": "Autotest",
-      "fecha": "2026-10-15T11:00:30Z",
-      "resumen": "La propuesta mecánica no tiene ficha técnica oficial, pero el planteo es contundente: una mecánica híbrida capaz de entregar 500 CV con consumos de city car.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/peugeot-rcz-vision-500-cv-con-consumo-de-1200x740-1.jpg",
       "menciones": 2,
       "fuentes": [
         "Autotest",
@@ -103,7 +116,7 @@
       "fecha": "2026-10-15T10:23:00Z",
       "resumen": "Para tener un overlander todoterreno preparado para un apocalipsis no hace falta gastarse casi 2 millones de dólares, como hizo Jason Momoa . La prueba es este brutal camión militar de los años 90, de seis ruedas y 11 de metros de largo , convertido en camper extrema. Tiene todo lo necesario para vivir en medio de la nada días a días: un cómodo interior completamente equipado y depósitos…",
       "imagen": "https://i.blogs.es/bb9cd9/portada-mop-1792059307053/1024_2000.jpeg",
-      "menciones": 4,
+      "menciones": 3,
       "fuentes": [
         "Diariomotor (ES)",
         "Motorpasión (ES)"
@@ -116,7 +129,7 @@
       "fecha": "2026-10-14T18:10:24Z",
       "resumen": "El ID.4 actual, la referencia directa, ofrece hasta 550 kilómetros de autonomía WLTP con la batería de 77 kWh y una potencia de carga de hasta 135 kW.",
       "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/volkswagen-revive-el-tablero-azul-del-go-1200x740-1.jpg",
-      "menciones": 3,
+      "menciones": 2,
       "fuentes": [
         "Autotest",
         "Diariomotor (ES)"
@@ -149,158 +162,145 @@
       ]
     },
     {
-      "titulo": "Primeras imágenes del Porsche Mission S, el regreso de la Porsche más purista y analógica",
-      "link": "https://www.diariomotor.com/noticia/primeras-imagenes-porsche-mission-s/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-10-15T23:30:47Z",
-      "resumen": "Se ha hecho esperar bastante más de lo que nos habría gustado, pero Porsche vuelve por fin a lo más alto del mercado de los superdeportivos . Su nombre es Porsche Mission S , y además de buscar suceder a leyendas como el Carrera GT y el 918 Spyder , es un adelanto de la respuesta de Stuttgart a modelos como el Ferrari 849 Testarossa , el Lamborghini Temerario o el Aston Martin Valhalla . No nos…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/10/porsche-mission-s-2026-15-6ad1443ddbf91.jpg?class=XL",
-      "menciones": 1,
-      "fuentes": [
-        "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "Un representante de motos y un grupo de concesionarias manejarán marca Nissan en Argentina",
-      "link": "https://www.iprofesional.com/autos/466727-cuales-son-las-dos-empresas-que-manejaran-la-marca-nissan-en-argentina",
-      "fuente": "iProfesional",
-      "fecha": "2026-10-15T22:33:00Z",
-      "resumen": "La automotriz japonesa, que dejó de fabricar en Córdoba hace unos meses, presentó a los nuevos socios como responsables de la marca en el país (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
-      "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2025/10/605725.jpg",
-      "menciones": 1,
-      "fuentes": [
-        "iProfesional"
-      ]
-    },
-    {
-      "titulo": "No corre mucho, pero es la nueva superdeportiva de BMW, una máquina espectacular por menos de lo que cuesta un scooter",
-      "link": "https://www.diariomotor.com/motos/bmw-f-450-rr/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-10-15T22:12:25Z",
-      "resumen": "Sabíamos que la nueva saga BMW, la más accesible, la diseñada a la medida del A2, iba a traer consigo muchas alegrías. Primero fue la BMW F 450 GS, una aventurera compacta, ligera, muy barata, pero también tecnológica y con un diseño tremendamente atractivo. Tras ella, conocimos la BMW F 450 R, la nueva naked de la marca alemana, una deportiva urbana que seguía siendo tremendamente barata para…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/10/bmw-f-450-rr-6ad13193c0c83.jpeg?class=XL",
-      "menciones": 2,
-      "fuentes": [
-        "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "Uno por uno, los 10 SUV chinos más baratos de Argentina",
-      "link": "https://www.iprofesional.com/autos/466346-cuales-son-los-suv-chinos-mas-baratos-que-se-venden-en-argentina",
-      "fuente": "iProfesional",
-      "fecha": "2026-10-15T21:33:00Z",
-      "resumen": "Ante la avalancha de marcas asiáticas, repasamos cuáles son los modelos más accesibles de uno de los segmentos donde tienen más participación (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
-      "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2025/05/596286.jpg",
-      "menciones": 1,
-      "fuentes": [
-        "iProfesional"
-      ]
-    },
-    {
-      "titulo": "Porsche Mission S: el deportivo que estará por encima del 911 es el encargado de abrir una nueva era para salvar a Porsche",
-      "link": "https://www.motorpasion.com/porsche/porsche-mission-s",
+      "titulo": "Cambian una señal de limitación de velocidad para hacer una broma: 400 conductores multados por radar a 70 km/h en lugar de los 50 km/h permitidos",
+      "link": "https://www.motorpasion.com/seguridad/cambian-senal-limitacion-velocidad-para-hacer-broma-400-conductores-multados-radar-a-70-km-h-lugar-50-km-h-permitidos",
       "fuente": "Motorpasión (ES)",
-      "fecha": "2026-10-15T20:30:26Z",
-      "resumen": "Hay coches que nacen para ocupar un hueco en el catálogo y otros que llegan con la misión de abrir una nueva etapa en la historia de una marca. El Porsche Mission S pertenece, al menos sobre el papel, a la segunda categoría. No es un modelo de producción ni un simple ejercicio de diseño para llamar la atención en un salón del automóvil. Es la primera declaración de intenciones de Porsche sobre una…",
-      "imagen": "https://i.blogs.es/47590c/porsche_mission_s_7/1024_2000.jpeg",
+      "fecha": "2026-10-16T17:00:27Z",
+      "resumen": "Creían que respetaban el límite de velocidad , pero fueron multados por un radar sin saberlo. El pasado septiembre, en Haldensleben, en el estado de Sajonia-Anhalt, en Alemania, cerca de 400 conductores fueron víctimas de una broma de mal gusto . Varios individuos lograron colocar una señal falsa de limitación de velocidad que marcaba 70 km/h en lugar de los 50 km/h permitidos. Los autores de esta…",
+      "imagen": "https://i.blogs.es/16e43b/radar-remolque-1/1024_2000.jpeg",
       "menciones": 1,
       "fuentes": [
         "Motorpasión (ES)"
       ]
     },
     {
-      "titulo": "Max Verstappen domina en Singapur y consigue su segunda victoria consecutiva",
-      "link": "https://www.diariomotor.com/competicion/noticia/max-verstappen-domina-en-singapur-y-consigue-su-segunda-victoria-consecutiva/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-10-11T16:20:01Z",
-      "resumen": "Max Verstappen arrasó en Singapur como pocas veces ha hecho anteriormente. A la 73ª victoria de su trayctoria en la Fórmula 1 solo le faltó la vuelta rápida, hecho innecesario por la ventaja que disfrutó en todo momento al frente de una carrera poco atractiva. Charles Leclerc sacó un buen segundo lugar y Andrea Kimi Antonelli pescó un podio en río revuelto para ampliar aún más su margen en el…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/10/max-verstappen-victoria-f1-singapur-2026-6acb9a8c038fd.jpg?class=XL",
-      "menciones": 2,
+      "titulo": "“Es una pequeña cabina para irse de vacaciones”: este jubilado ha camperizado su clásico Citroën 2CV con una cocina y una cama de 2,5 metros",
+      "link": "https://www.motorpasion.com/furgonetas-y-caravanas/pequena-cabina-para-irse-vacaciones-este-jubilado-ha-camperizado-su-clasico-citroen-2cv-cocina-cama-2-5-metros",
+      "fuente": "Motorpasión (ES)",
+      "fecha": "2026-10-16T16:00:28Z",
+      "resumen": "En el Salón de París, Citröen ha presentado algo que ha removido el corazón de más de uno: el 2CV . Pero no contentos con ellos, la marca francesa ha traído una versión furgoneta. Sin embargo, como lo clásico nunca muere y el estilo original nunca pasará de moda, hay quien todavía sobrevive con el modelo original. Por ejemplo, Bernd, que no sólo lo mantiene, sino que lo usa habitualmente en…",
+      "imagen": "https://i.blogs.es/1692c5/2cv-/1024_2000.jpeg",
+      "menciones": 1,
       "fuentes": [
-        "Diariomotor (ES)",
         "Motorpasión (ES)"
       ]
     },
     {
-      "titulo": "Rimac Nevera R: 2.107 CV, 0 a 100 en 1,81 segundos y solo 40 unidades en el mundo",
-      "link": "https://autotest.com.ar/noticias/rimac-nevera-r-2-107-cv-0-a-100-en-1-81-segundos-y-solo-40-unidades-en-el-mundo/",
+      "titulo": "La IMSA y SRO Motorsports cancelan pruebas conjuntas programadas para Daytona",
+      "link": "https://www.diariomotor.com/competicion/noticia/la-imsa-y-sro-motorsports-cancelan-pruebas-conjuntas-programadas-para-daytona/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-10-16T15:56:29Z",
+      "resumen": "Argumentando costes elevados y no estipulados para fabricantes y clientes, tanto la IMSA como SRO Motorsports acordaron no realizar las pruebas previstas para el 12 y 13 de diciembre en Daytona, donde los coches que participan en la clase GTD Pro y GTD estarían en pista con el fin de actualizar el Balance de Rendimiento que se aplicará en ambas organizaciones la próxima temporada. Es obvio que el…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/10/Clase_GTD_IMSA_SportsCar_Daytona_2026_26-6ad21c6423fb3.jpg?class=XL",
+      "menciones": 1,
+      "fuentes": [
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "Qué marcas y modelos de autos se producen en las 12 fábricas que tiene Argentina",
+      "link": "https://www.iprofesional.com/autos/466280-que-marcas-y-modelos-de-autos-se-fabrican-en-argentina",
+      "fuente": "iProfesional",
+      "fecha": "2026-10-16T15:53:00Z",
+      "resumen": "Tras las dudas sobre el sector, un repaso por el mapa completo de las 12 fábricas automotrices activas en Argentina y sus modelos (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
+      "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2021/03/513301.jpg",
+      "menciones": 2,
+      "fuentes": [
+        "iProfesional"
+      ]
+    },
+    {
+      "titulo": "Porsche Mission S: el sucesor del 918 Spyder vuelve con flat-8, 887 CV y un fan estilo 917",
+      "link": "https://autotest.com.ar/noticias/porsche-mission-s-el-sucesor-del-918-spyder-vuelve-con-flat-8-887-cv-y-un-fan-estilo-917/",
       "fuente": "Autotest",
-      "fecha": "2026-10-15T19:10:36Z",
-      "resumen": "El Nevera estándar llegó con 1.914 CV y récords de aceleración que obligaron a la industria a mirar a un país sin tradición automotriz de ultra lujo.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/rimac-nevera-r-2-107-cv-0-a-100-en-1-81-1200x740-1.jpg",
+      "fecha": "2026-10-16T15:50:15Z",
+      "resumen": "El Mission S se presentó como concept, y todavía no hay confirmación oficial sobre producción, potencia, torque, peso, precio o fecha de llegada al mercado.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/porsche-mission-s-el-sucesor-del-918-spy-1200x740-1.jpg",
       "menciones": 1,
       "fuentes": [
         "Autotest"
       ]
     },
     {
-      "titulo": "Esta Ford F-250 de 1978 llevaba 20 años abandonada en un contenedor marítimo. Ver cómo la limpian hasta dejarla como nueva es adictivo",
-      "link": "https://www.motorpasion.com/videos-de-coches/esta-ford-f-250-1978-llevaba-20-anos-abandonada-contenedor-maritimo-ver-como-limpian-dejarla-como-nueva-adictivo",
+      "titulo": "Los futuros mecánicos empiezan a verle las orejas al lobo con el coche eléctrico: “Es un fastidio y un desastre”",
+      "link": "https://www.motorpasion.com/coches-electricos/futuros-mecanicos-empiezan-a-verle-orejas-al-lobo-coche-electrico-fastidio-desastre",
       "fuente": "Motorpasión (ES)",
-      "fecha": "2026-10-15T19:00:27Z",
-      "resumen": "Si te gusta la limpieza en general, y la limpieza de los coches en particular, estoy seguro de que este vídeo te va a enganchar. Los chicos de WD Detailing han rescatado una Ford F-250 de 1978 del contenedor marítimo en el que llevaba 20 años abandonada y la han limpiado a fondo. El resultado es sencillamente espectacular. Para su dueño ha sido lo más parecido a viajar en el tiempo Hay algo en los…",
-      "imagen": "https://i.blogs.es/98a29f/ford-f250/1024_2000.jpeg",
+      "fecha": "2026-10-16T15:18:58Z",
+      "resumen": "Huelga decir que, a estas alturas, el coche eléctrico está cambiando la industria del automóvil. Lo que pasa es que no todo el mundo está preparado para asumir esa transformación, tampoco quienes se están formando para trabajar en los talleres durante las próximas décadas. Durante el Salón del Automóvil de París, algunos alumnos de mecánica entrevistados por TV5 Monde dejaron claro que la…",
+      "imagen": "https://i.blogs.es/e75935/portada-mop-1792143459018/1024_2000.jpeg",
       "menciones": 1,
       "fuentes": [
         "Motorpasión (ES)"
       ]
     },
     {
-      "titulo": "Rival de Yaris y Polo: así se renueva el hatchback con motor 1.0 y más tecnología",
-      "link": "https://autotest.com.ar/noticias/rival-de-yaris-y-polo-asi-se-renueva-el-hatchback-con-motor-1-0-y-mas-tecnologia/",
+      "titulo": "Por encima de Tera: Volkswagen prepara un nuevo SUV con diseño deportivo y mayor tamaño",
+      "link": "https://autotest.com.ar/noticias/por-encima-de-tera-volkswagen-prepara-un-nuevo-suv-con-diseno-deportivo-y-mayor-tamano/",
       "fuente": "Autotest",
-      "fecha": "2026-10-15T19:00:18Z",
-      "resumen": "Fiat presenta el Argo 2027 en Brasil con una única versión mientras se alista para el lanzamiento del Argo X, que ofrecerá más opciones de seguridad y tecnología en septiembre.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/Fiat-Argo-Drive-2026-teaser.jpg",
-      "menciones": 3,
+      "fecha": "2026-10-16T15:00:15Z",
+      "resumen": "Volkswagen presentó a sus concesionarios el SUV coupé Proyecto Saga y la nueva Amarok sudamericana, ambos producidos en la región para 2027 y con tecnología híbrida.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/Volkswagen-Proyecto-Saga-teaser.jpg",
+      "menciones": 2,
       "fuentes": [
         "Autotest"
       ]
     },
     {
-      "titulo": "BMW ha creado un SUV eléctrico de 612 CV que hace el 0-100 en 3,9 segundos, pero lo más sorprendente es que todavía es capaz de anunciar 754 km de autonomía",
-      "link": "https://www.diariomotor.com/noticia/bmw-ix3-m60-xdrive/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-10-15T18:36:58Z",
-      "resumen": "BMW acaba de presentar el iX3 más potente hasta la fecha y tiene cifras propias de un deportivo de altos vuelos. Se llama BMW iX3 M60 xDrive y tiene 612 CV y acelera de 0 a 100 km/h en 3,9 segundos , prestaciones muy serias para un SUV familiar de casi 4,8 metros de largo. Pero lo más interesante es que, a pesar de semejante potencia, todavía es capaz de homologar 754 kilómetros de autonomía.…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/10/bmw-ix3-m60-xdrive_port-6ad10039b8fbb.jpg?class=XL",
+      "titulo": "Chevrolet S10 y Fiat Titano: cuánto cuestan las pick ups que siguen a Hilux, Ranger y Amarok",
+      "link": "https://autotest.com.ar/comparativos/chevrolet-s10-y-fiat-titano-cuanto-cuestan-las-pick-ups-que-siguen-a-hilux-ranger-y-amarok/",
+      "fuente": "Autotest",
+      "fecha": "2026-10-16T14:30:58Z",
+      "resumen": "Descubre cómo se posicionan Chevrolet S10 y Fiat Titano en el competitivo mercado de pick ups medianas, con detalles sobre ventas, motores y precios.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/08/Fiat-Titano-vs-Chevrolet-S10.jpg",
       "menciones": 1,
       "fuentes": [
-        "Diariomotor (ES)"
+        "Autotest"
       ]
     },
     {
-      "titulo": "Chevrolet lanza financiamiento en 24 meses sin interés",
-      "link": "https://www.iprofesional.com/autos/466706-chevrolet-lanza-financiamiento-hasta-en-24-meses-de-todos-sus-autos",
-      "fuente": "iProfesional",
-      "fecha": "2026-10-15T18:36:00Z",
-      "resumen": "La marca mantiene en octubre el plan de financiación para toda la gama de vehículos, con tasa 0 por ciento hasta en 24 meses. Detalles por modelo (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
-      "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2025/07/600356.jpg",
+      "titulo": "Cinco asientos y pantalla de 12,8 pulgadas: BYD renueva su modelo más accesible",
+      "link": "https://autotest.com.ar/noticias/cinco-asientos-y-pantalla-de-128-pulgadas-byd-renueva-su-modelo-mas-accesible/",
+      "fuente": "Autotest",
+      "fecha": "2026-10-16T14:30:36Z",
+      "resumen": "El Dolphin Mini de BYD llega a Europa con una nueva configuración de cinco plazas, innovaciones en tecnología y diseño adaptado.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/BYD-Dolphin-Surf-perfil.jpg",
       "menciones": 1,
       "fuentes": [
-        "iProfesional"
+        "Autotest"
       ]
     },
     {
-      "titulo": "Después de 30 y pico años echando gasolina, un experto me ha dado la razón: los aditivos para el coche no valen de nada",
-      "link": "https://www.motorpasion.com/revision/despues-30-pico-anos-echando-gasolina-experto-me-ha-dado-razon-aditivos-para-coche-no-valen-nada",
+      "titulo": "Renault lanzó una Duster más barata: caja manual, seis airbags y 475 litros de baúl",
+      "link": "https://autotest.com.ar/noticias/renault-lanzo-una-duster-mas-barata-caja-manual-seis-airbags-y-475-litros-de-baul/",
+      "fuente": "Autotest",
+      "fecha": "2026-10-16T14:00:44Z",
+      "resumen": "Renault introduce en Brasil la nueva Duster Zen Plus, una opción más accesible del popular SUV con un precio de R$ 107.990. Con menos equipamiento que la Intense Plus, esta versión mantiene el motor 1.6 y un destacado despeje del suelo.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/Renault-Duster-Zen-Plus-teaser.jpg",
+      "menciones": 2,
+      "fuentes": [
+        "Autotest"
+      ]
+    },
+    {
+      "titulo": "“El tráfico es fluido, pero aún tenemos que aprender a usar las rotondas”: la Policía Local de Utebo confirma con un radar móvil que la transformación de la N-232 es un éxito",
+      "link": "https://www.motorpasion.com/seguridad/trafico-fluido-tenemos-que-aprender-a-usar-rotondas-policia-local-utebo-confirma-radar-movil-que-transformacion-n-232-exito",
       "fuente": "Motorpasión (ES)",
-      "fecha": "2026-10-15T18:30:26Z",
-      "resumen": "\"Lleno, y además, ¿le ponemos un aditivo? Le protegerá el motor, que aquí la gasolina es mala\". Volver de Francia o Suiza a Galicia en coche, por Navidades o en verano tenía ciertos rituales, como parar a comer en Irún o pillar una empanada en Arteixo antes de llegar. Y que en todas las gasolineras desde la frontera francesa hasta El Bierzo, siempre intentaban vender a mis padres y a mis tíos un…",
-      "imagen": "https://i.blogs.es/a62282/aditivo-en-motor/1024_2000.jpeg",
+      "fecha": "2026-10-16T14:00:28Z",
+      "resumen": "El proyecto para transformar la carretera N-232 a su paso por la localidad de Utebo, en la provincia de Zaragoza, Aragón, ha necesitado tiempo para completarse, y también un presupuesto de más de 8 millones de euros, pero por fin se completó y pudo abrirse al tráfico este verano. Meses después de ponerse en marcha esta transformación para que el área esté mucho más urbanizada, la Policía Local de…",
+      "imagen": "https://i.blogs.es/0f28f9/utebo/1024_2000.jpeg",
       "menciones": 1,
       "fuentes": [
         "Motorpasión (ES)"
       ]
     },
     {
-      "titulo": "GM Defense creó un 4×4 sin volante, sin pedales y sin asientos: el UGV que avanza solo en zona de riesgo",
-      "link": "https://autotest.com.ar/offroad/gm-defense-creo-un-4x4-sin-volante-sin-pedales-y-sin-asientos-el-ugv-que-avanza-solo-en-zona-de-riesgo/",
+      "titulo": "Toyota Corolla con 171 CV y caja automática: cuánto cuesta la versión más barata",
+      "link": "https://autotest.com.ar/noticias/toyota-corolla-con-171-cv-y-caja-automatica-cuanto-cuesta-la-version-mas-barata/",
       "fuente": "Autotest",
-      "fecha": "2026-10-15T18:25:32Z",
-      "resumen": "La tracción eléctrica ofrece una ventaja adicional en el off-road: el torque está disponible desde cero, sin esperar revoluciones.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/gm-defense-cre-un-4x4-sin-volante-sin-pe-1200x740-1.jpg",
-      "menciones": 1,
+      "fecha": "2026-10-16T13:49:27Z",
+      "resumen": "Descubrí cuánto cuesta la versión más accesible del Toyota Corolla en Argentina y qué características mantiene en comparación con otras versiones.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/Toyota-Corolla-XLI-trasera.jpg",
+      "menciones": 2,
       "fuentes": [
         "Autotest"
       ]
