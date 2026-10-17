@@ -1,7 +1,7 @@
 {
-  "actualizado": "2026-10-16T22:12:30Z",
-  "desde": "2026-10-09",
-  "hasta": "2026-10-16",
+  "actualizado": "2026-10-17T16:26:20Z",
+  "desde": "2026-10-10",
+  "hasta": "2026-10-17",
   "destacadas": [
     {
       "titulo": "El SUV que cuesta como un hatchback: arranca en 20.990 dólares, tiene 111 CV y caja automática",
@@ -10,7 +10,7 @@
       "fecha": "2026-10-16T18:00:50Z",
       "resumen": "Con un precio que inicia en 20.990 dólares, JAC JS2 se posiciona como una opción accesible en el mercado de SUVs compactos, ofreciendo motor de 111 CV y una amplia variedad de equipamiento.",
       "imagen": "https://autotest.com.ar/wp-content/uploads/2026/01/JAC-JS2-accion-lateral.jpg",
-      "menciones": 41,
+      "menciones": 34,
       "fuentes": [
         "Autotest",
         "Diariomotor (ES)",
@@ -18,15 +18,14 @@
       ]
     },
     {
-      "titulo": "Ocho años de espera y el Tesla Roadster ya tiene fecha: 1,9 segundos de 0 a 100 km/h y 1.000 km de autonomía",
-      "link": "https://autotest.com.ar/noticias/ocho-anos-de-espera-y-el-tesla-roadster-ya-tiene-fecha-1-9-segundos-de-0-a-100-km-h-y-1-000-km-de-autonomia/",
-      "fuente": "Autotest",
-      "fecha": "2026-10-16T15:00:27Z",
-      "resumen": "El diseño es 2+2, con cuatro plazas, techo de vidrio removible, baúl delantero y espacio de carga detrás de los asientos.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/ocho-a-os-de-espera-y-el-tesla-roadster-1200x740-1.jpg",
-      "menciones": 3,
+      "titulo": "En Europa tenemos tapones unidos a las botellas y Elon Musk un coche que vuela con 10 propulsores y acelera en 0,59 segundos y que no venderá a cualquiera",
+      "link": "https://www.diariomotor.com/noticia/tesla-roadster-rocket/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-10-17T11:00:01Z",
+      "resumen": "A estas alturas, ya habrás visto el nuevo Tesla Roadster y lo que hace. Es la mayor locura que se ha visto en muchísimo tiempo en un automóvil. Ahora bien, las piruetas y saltos aéreos solamente se podrán hacer en la versión más radical, una que no se podrá conducir por la calle y que, además, no podrás comprar por mucho dinero que tengas, salvo que Tesla te lo ofrezca. Como si fuese un Ferrari…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/10/Tesla-Roadster-06-propulsores-6ad2241bad65b.jpg?class=XL",
+      "menciones": 2,
       "fuentes": [
-        "Autotest",
         "Diariomotor (ES)",
         "Motorpasión (ES)"
       ]
@@ -58,13 +57,26 @@
       ]
     },
     {
+      "titulo": "Ocho años de espera y el Tesla Roadster ya tiene fecha: 1,9 segundos de 0 a 100 km/h y 1.000 km de autonomía",
+      "link": "https://autotest.com.ar/noticias/ocho-anos-de-espera-y-el-tesla-roadster-ya-tiene-fecha-1-9-segundos-de-0-a-100-km-h-y-1-000-km-de-autonomia/",
+      "fuente": "Autotest",
+      "fecha": "2026-10-16T15:00:27Z",
+      "resumen": "El diseño es 2+2, con cuatro plazas, techo de vidrio removible, baúl delantero y espacio de carga detrás de los asientos.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/ocho-a-os-de-espera-y-el-tesla-roadster-1200x740-1.jpg",
+      "menciones": 2,
+      "fuentes": [
+        "Autotest",
+        "Diariomotor (ES)"
+      ]
+    },
+    {
       "titulo": "Toyota Hilux, Ford Ranger y Volkswagen Amarok: cuál tiene la versión automática más accesible",
       "link": "https://autotest.com.ar/comparativos/toyota-hilux-ford-ranger-y-volkswagen-amarok-cual-tiene-la-version-automatica-mas-accesible/",
       "fuente": "Autotest",
       "fecha": "2026-10-16T14:59:10Z",
       "resumen": "Descubrí cuál es la camioneta automática más barata en octubre entre las líderes del mercado: Toyota Hilux, Ford Ranger y Volkswagen Amarok.",
       "imagen": "https://autotest.com.ar/wp-content/uploads/2026/08/toyota-hilux2.jpg",
-      "menciones": 10,
+      "menciones": 9,
       "fuentes": [
         "Autotest",
         "Diariomotor (ES)"
@@ -162,148 +174,135 @@
       ]
     },
     {
-      "titulo": "Vuelve el Citroën 2CV con motor eléctrico y diseño moderno",
-      "link": "https://www.iprofesional.com/autos/466415-citroen-vuelve-a-fabricar-el-2-cv-con-motor-electrico-y-mas-chico",
-      "fuente": "iProfesional",
-      "fecha": "2026-10-12T20:27:00Z",
-      "resumen": "En el Salón del Automóvil de París, Citroën revive un icono al presentar el 2 CV Concept, una respuesta ingeniosa a los desafíos de la movilidad (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
-      "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/10/627402.jpg",
-      "menciones": 3,
-      "fuentes": [
-        "Diariomotor (ES)",
-        "iProfesional"
-      ]
-    },
-    {
-      "titulo": "Confirmados los pilotos y equipos que disputarán la Copa del Mundo FIA GT en Macao",
-      "link": "https://www.diariomotor.com/competicion/noticia/delegaciones-disputaran-copa-fia-gt-macao/",
+      "titulo": "Alpine invita a sus pilotos a buscar nuevos horizontes ante su inminente salida del WEC",
+      "link": "https://www.diariomotor.com/competicion/noticia/alpine-pilotos-buscar-horizontes-fuera-wec/",
       "fuente": "Diariomotor (ES)",
-      "fecha": "2026-10-16T22:44:02Z",
-      "resumen": "Un total de 18 coches GT3 representando a los mejores fabricantes del mundo estarán del 19 al 22 de noviembre en el circuito de Macao disputando la Copa del Mundo FIA GT. A primera vista destaca la delegación de Porsche Motorsport encabezada por AO Racing que llevará a su icónico 911 GT3 R Evo, decorado como dragón rojo y dorado, para el estelar Laurin Heinrich. En esta ocasión el fabricante…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/10/Bmw_Motorsport_WRT_Asia_2027_27-6ad280084aba7.jpg?class=XL",
+      "fecha": "2026-10-17T17:10:41Z",
+      "resumen": "En vísperas de las 6 Horas de Barcelona, Philippe Sinault, jefe de Signatech, confirmó que las negociaciones con los representantes de Geely fracasaron y por lo tanto es casi seguro que, salvo un milagro de última hora, el equipo francés no se presente a competir el año que viene en la clase Hypercar. Por ello, y ante el riesgo de que los pilotos del programa no encuentren asiento en otro lugar,…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/10/Alpine_Endurance-Team_Personal_Signatech_2026_3_26-6ad362a5e01bd.jpg?class=XL",
       "menciones": 1,
       "fuentes": [
         "Diariomotor (ES)"
       ]
     },
     {
-      "titulo": "Chery aumenta ventas en septiembre y bate récord de exportaciones en 2026",
-      "link": "https://www.iprofesional.com/autos/466725-chery-aumenta-ventas-en-septiembre-y-bate-record-de-exportaciones-en-2026",
-      "fuente": "iProfesional",
-      "fecha": "2026-10-16T21:14:00Z",
-      "resumen": "La automotriz registró casi 5.000 patentamientos en lo que va de 2026, un 787% más interanual. A nivel global, vendió 2,2 millones de vehículos (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
-      "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/10/627675.jpg",
-      "menciones": 1,
-      "fuentes": [
-        "iProfesional"
-      ]
-    },
-    {
-      "titulo": "MG3 versus Suzuki Swift: cuál de estos dos modelos híbridos conviene comprar",
-      "link": "https://www.iprofesional.com/autos/466713-mg3-vs-suzuki-swift-que-auto-hibrido-barato-conviene-comprar",
-      "fuente": "iProfesional",
-      "fecha": "2026-10-16T20:54:00Z",
-      "resumen": "iProfesional analizó el MG3 y el Suzuki Swift en Argentina y comparó sus motores electrificados, equipamiento de seguridad y costos de mantenimiento (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
-      "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/10/627689.jpg",
-      "menciones": 1,
-      "fuentes": [
-        "iProfesional"
-      ]
-    },
-    {
-      "titulo": "Las marcas presumen de coches con control por voz, pero hace 40 años te ponían automáticamente el cinturón de seguridad",
-      "link": "https://www.motorpasion.com/seguridad/marcas-presumen-coches-control-voz-hace-40-anos-te-ponian-automaticamente-cinturon-seguridad",
-      "fuente": "Motorpasión (ES)",
-      "fecha": "2026-10-16T19:00:27Z",
-      "resumen": "A lo largo de la historia del automóvil, se han inventado todo tipo de cosas. Algunas llegaron para quedarse y otras se han perdido con el paso del tiempo. Entre estas últimas está el cinturón automático . Fue una solución relativamente popular en Estados Unidos en los años 80. En parte, surgió para mejorar el confort del conductor, pero su objetivo principal era que los fabricantes cumplieran la…",
-      "imagen": "https://i.blogs.es/a2fded/cinturon/1024_2000.jpeg",
-      "menciones": 1,
-      "fuentes": [
-        "Motorpasión (ES)"
-      ]
-    },
-    {
-      "titulo": "Volkswagen Tera o Nivus: por 650.000 pesos de diferencia uno tiene más potencia y el otro mejor equipamiento",
-      "link": "https://autotest.com.ar/noticias/volkswagen-tera-o-nivus-por-650-000-pesos-de-diferencia-uno-tiene-mas-potencia-y-el-otro-mejor-equipamiento/",
-      "fuente": "Autotest",
-      "fecha": "2026-10-16T18:27:53Z",
-      "resumen": "Con precios similares, el Volkswagen Tera y el Nivus ofrecen diferentes ventajas según las necesidades de motor, equipamiento y seguridad. Descubrí cuál es la mejor elección para vos.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/Volkswagen-Tera-vs-Nivus.jpg",
-      "menciones": 1,
-      "fuentes": [
-        "Autotest"
-      ]
-    },
-    {
-      "titulo": "Jaecoo 8: 135 km sin nafta y 4×4 sin cardán, más autonomía eléctrica que el RAV4 PHEV",
-      "link": "https://autotest.com.ar/offroad/jaecoo-8-135-km-sin-nafta-y-4x4-sin-cardan-mas-autonomia-electrica-que-el-rav4-phev/",
-      "fuente": "Autotest",
-      "fecha": "2026-10-16T18:10:31Z",
-      "resumen": "El Jaecoo 8 no reemplaza a un chasis de largueros, pero deja claro que para el uso real de la mayoría de los SUV en Argentina, esa capacidad extrema es un lujo que pocos llegan a necesitar.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/jaecoo-8-135-km-sin-nafta-y-4x4-sin-card-1200x740-1.jpg",
-      "menciones": 1,
-      "fuentes": [
-        "Autotest"
-      ]
-    },
-    {
-      "titulo": "La Ley de Propiedad Horizontal es clara sobre aparcar dos vehículos en una misma plaza de garaje",
-      "link": "https://www.motorpasion.com/revision/quiero-guardar-coche-moto-plaza-aparcamiento-garaje-comunitario-esto-que-dice-ley-al-respecto",
-      "fuente": "Motorpasión (ES)",
-      "fecha": "2026-10-16T18:00:27Z",
-      "resumen": "Uno de los conflictos más recurrentes en las comunidades de vecinos tiene que ver con el uso de las plazas de aparcamiento en los garajes comunitarios . Lo habitual es que los propietarios de estas plazas, o los inquilinos, en caso de alquiler, las utilicen para estacionar su vehículo, pero hay quien aprovecha para dejar más vehículos en la misma plaza, como una moto, bicicletas, patinetes…",
-      "imagen": "https://i.blogs.es/cddb29/garaje-3_1/1024_2000.jpeg",
-      "menciones": 1,
-      "fuentes": [
-        "Motorpasión (ES)"
-      ]
-    },
-    {
-      "titulo": "Cambian una señal de limitación de velocidad para hacer una broma: 400 conductores multados por radar a 70 km/h en lugar de los 50 km/h permitidos",
-      "link": "https://www.motorpasion.com/seguridad/cambian-senal-limitacion-velocidad-para-hacer-broma-400-conductores-multados-radar-a-70-km-h-lugar-50-km-h-permitidos",
-      "fuente": "Motorpasión (ES)",
-      "fecha": "2026-10-16T17:00:27Z",
-      "resumen": "Creían que respetaban el límite de velocidad , pero fueron multados por un radar sin saberlo. El pasado septiembre, en Haldensleben, en el estado de Sajonia-Anhalt, en Alemania, cerca de 400 conductores fueron víctimas de una broma de mal gusto . Varios individuos lograron colocar una señal falsa de limitación de velocidad que marcaba 70 km/h en lugar de los 50 km/h permitidos. Los autores de esta…",
-      "imagen": "https://i.blogs.es/16e43b/radar-remolque-1/1024_2000.jpeg",
-      "menciones": 1,
-      "fuentes": [
-        "Motorpasión (ES)"
-      ]
-    },
-    {
-      "titulo": "“Es una pequeña cabina para irse de vacaciones”: este jubilado ha camperizado su clásico Citroën 2CV con una cocina y una cama de 2,5 metros",
-      "link": "https://www.motorpasion.com/furgonetas-y-caravanas/pequena-cabina-para-irse-vacaciones-este-jubilado-ha-camperizado-su-clasico-citroen-2cv-cocina-cama-2-5-metros",
-      "fuente": "Motorpasión (ES)",
-      "fecha": "2026-10-16T16:00:28Z",
-      "resumen": "En el Salón de París, Citröen ha presentado algo que ha removido el corazón de más de uno: el 2CV . Pero no contentos con ellos, la marca francesa ha traído una versión furgoneta. Sin embargo, como lo clásico nunca muere y el estilo original nunca pasará de moda, hay quien todavía sobrevive con el modelo original. Por ejemplo, Bernd, que no sólo lo mantiene, sino que lo usa habitualmente en…",
-      "imagen": "https://i.blogs.es/1692c5/2cv-/1024_2000.jpeg",
-      "menciones": 1,
-      "fuentes": [
-        "Motorpasión (ES)"
-      ]
-    },
-    {
-      "titulo": "La IMSA y SRO Motorsports cancelan pruebas conjuntas programadas para Daytona",
-      "link": "https://www.diariomotor.com/competicion/noticia/la-imsa-y-sro-motorsports-cancelan-pruebas-conjuntas-programadas-para-daytona/",
+      "titulo": "Genesis da la campanada y firma la pole position del WEC en Barcelona",
+      "link": "https://www.diariomotor.com/competicion/noticia/genesis-da-la-campanada-y-firma-la-pole-position-del-wec-en-barcelona/",
       "fuente": "Diariomotor (ES)",
-      "fecha": "2026-10-16T15:56:29Z",
-      "resumen": "Argumentando costes elevados y no estipulados para fabricantes y clientes, tanto la IMSA como SRO Motorsports acordaron no realizar las pruebas previstas para el 12 y 13 de diciembre en Daytona, donde los coches que participan en la clase GTD Pro y GTD estarían en pista con el fin de actualizar el Balance de Rendimiento que se aplicará en ambas organizaciones la próxima temporada. Es obvio que el…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/10/Clase_GTD_IMSA_SportsCar_Daytona_2026_26-6ad21c6423fb3.jpg?class=XL",
+      "fecha": "2026-10-17T16:47:42Z",
+      "resumen": "Jornada de clasificación del Campeonato del Mundo de Resistencia en el Circuit de Barcelona-Catalunya, donde tras el retorno a la acción de esta categoría en Montmeló por primera vez desde el Prologue de 2019, hoy se disputaron las últimas sesiones de entrenamientos libres, además de las sesiones clasificatorias y las respectivas Hyperpole tanto de Hypercar como de LMGT3. Y para sorpresa general,…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/10/WECBarcelona2026FP5-6ad3864ec2fe2.jpg?class=XL",
       "menciones": 1,
       "fuentes": [
         "Diariomotor (ES)"
       ]
     },
     {
-      "titulo": "Qué marcas y modelos de autos se producen en las 12 fábricas que tiene Argentina",
-      "link": "https://www.iprofesional.com/autos/466280-que-marcas-y-modelos-de-autos-se-fabrican-en-argentina",
-      "fuente": "iProfesional",
-      "fecha": "2026-10-16T15:53:00Z",
-      "resumen": "Tras las dudas sobre el sector, un repaso por el mapa completo de las 12 fábricas automotrices activas en Argentina y sus modelos (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
-      "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2021/03/513301.jpg",
+      "titulo": "Menos de 34000 dólares: el nuevo chino con 637 CV, 740 km de autonomía y muy bajo precio",
+      "link": "https://autotest.com.ar/noticias/menos-de-34000-dolares-el-nuevo-chino-con-637-cv-740-km-de-autonomia-y-muy-bajo-precio/",
+      "fuente": "Autotest",
+      "fecha": "2026-10-17T16:15:29Z",
+      "resumen": "Voyah, la división premium de Dongfeng, ya vende en China el Passion S con por un precio cercano a 33000 dólares y una ficha técnica que lo pone por encima de muchos eléctricos y convencionales más grandes y sofisticados. Su motor desarrolla hasta 637 CV y puede acelerar de 0 a 100 km/h en 4 […]",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/Voyah-Passion-S-el-nuevo-modelo.jpg",
       "menciones": 2,
       "fuentes": [
+        "Autotest"
+      ]
+    },
+    {
+      "titulo": "Lo que nadie te ha contado del Alfa Romeo Cuorerosso y los coches que se esconden tras él",
+      "link": "https://www.diariomotor.com/noticia/nuevos-detalles-alfa-romeo-cuorerosso/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-10-17T15:00:16Z",
+      "resumen": "No cabe la menor duda de que el grupo Stellantis ha conseguido convertirse en el principal protagonista de esta edición del salón del automóvil de París , y con permiso del nuevo Citroën 2CV, uno de sus grandes lanzamientos ha sido el Alfa Romeo Cuorerosso . Y sí, es sólo un concept, pero la realidad es que esconde mucho más de lo que te han contado hasta ahora . El futuro de la gama de Alfa Romeo…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/10/alfa-romeo-cuorerosso-concept-v6-6-6accad1662c66.png?class=XL",
+      "menciones": 1,
+      "fuentes": [
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "El papa León XIV recibió el alta cuatro días después de haber sido operado de un cáncer de pulmón",
+      "link": "https://www.iprofesional.com/autos/466842-el-papa-leon-xiv-recibio-el-alta-cuatro-dias-despues-de-haber-sido-operado",
+      "fuente": "iProfesional",
+      "fecha": "2026-10-17T14:22:00Z",
+      "resumen": "El sumo pontífice salió caminando del hospital Gemelli y saludó a la gente. Mañana rezará el Ángelus desde la ventana del apartamento papal (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
+      "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/10/627715.jpg",
+      "menciones": 1,
+      "fuentes": [
         "iProfesional"
+      ]
+    },
+    {
+      "titulo": "En 2007 un piloto semi-amateur se presentó a una carrera de F1 y todos se rieron de él. Estableció dos récords imposibles de batir",
+      "link": "https://www.motorpasion.com/formula1/2007-piloto-semi-amateur-se-presento-a-carrera-f1-todos-se-rieron-establecio-dos-records-imposibles-batir",
+      "fuente": "Motorpasión (ES)",
+      "fecha": "2026-10-17T14:00:05Z",
+      "resumen": "La historia de la Fórmula 1 está llena de historias rocambolescas, pero muy pocas a la altura de ésta. El protagonista se llama Markus Winkelhock , y habiendo corrido solo una carrera es un nombre inolvidable para los fans de la Fórmula 1 de principios de siglo. ¿Su gran logro? Ponerse líder en su primer y único Gran Premio. Winkelhock era un piloto semi-amateur sin apenas palmarés , pero tuvo que…",
+      "imagen": "https://i.blogs.es/e7cc1e/winkelhock-nurburgring-f1-2007-2/1024_2000.jpeg",
+      "menciones": 1,
+      "fuentes": [
+        "Motorpasión (ES)"
+      ]
+    },
+    {
+      "titulo": "La pick up que llega para enfrentar a Hilux y Frontier: 2 motores, 394 CV y 1060 km de autonomía",
+      "link": "https://autotest.com.ar/noticias/la-pick-up-que-llega-para-enfrentar-a-hilux-y-frontier-2-motores-394-cv-y-1060-km-de-autonomia/",
+      "fuente": "Autotest",
+      "fecha": "2026-10-17T13:26:29Z",
+      "resumen": "Great Wall Motors (GWM) lanzará la Poer P500 PHEV Flex, la pick up híbrida enchufable que se posicionará por encima de la P30 e incluirá doble motor con 394 CV y 750 Nm y una autonomía superior a 1000 km como consecuencia de su eficiencia y su tanque de 75 litros, entre tantas otras novedades. […]",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/Nueva-GWM-Poer-P500-PHEV.jpg",
+      "menciones": 1,
+      "fuentes": [
+        "Autotest"
+      ]
+    },
+    {
+      "titulo": "Galería de imágenes 6 horas de Barcelona 2026 — Viernes",
+      "link": "https://www.diariomotor.com/competicion/noticia/galeria-de-imagenes-6-horas-de-barcelona-2026-viernes/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-10-17T12:15:11Z",
+      "resumen": "El Circuit de Barcelona-Catalunya está de enhorabuena. Después de la disputa de la primera de las dos carreras de Fórmula 1 en España, ahora le llega el turno al Campeonato del Mundo de Resistencia. El viernes 16 de octubre, el WEC volvió al trazado catalán por primera vez desde 2019 , cuando el Prologue del campeonato tuvo lugar en este mismo escenario. Eso sí, los Hypercar pisaron por primera…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/10/WECBCN26-054-6ad34744890c0.jpg?class=XL",
+      "menciones": 1,
+      "fuentes": [
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "Europa prohibirá a toda costa diésel, gasolina, e híbridos, y ni la unión de Alemania y Francia va a impedirlo",
+      "link": "https://www.diariomotor.com/noticia/prohibicion-combustion-interna-union-alemania-francia/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-10-17T12:00:22Z",
+      "resumen": "“Con Alemania, hemos encontrado un acuerdo para asegurar el futuro del sector automovilístico europeo”. Así anunciaba Emmanuel Macron el resultado de las negociaciones al más alto nivel que han llevado a cabo en los últimos meses, para conseguir hacer un frente común con Friderich Merz, e impulsar a la Comisión Europea, decidida a prohibir a toda costa las ventas de diésel, gasolina, e híbridos,…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/10/macron-europa-6ad23a125120c.jpeg?class=XL",
+      "menciones": 1,
+      "fuentes": [
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "Debajo de Amarok: la nueva pick up de Volkswagen para enfrentar a Renault Niagara con 150 CV",
+      "link": "https://autotest.com.ar/noticias/debajo-de-amarok-la-nueva-pick-up-de-volkwagen-para-enfrentar-a-renault-niagara-con-150-cv/",
+      "fuente": "Autotest",
+      "fecha": "2026-10-17T11:12:28Z",
+      "resumen": "La Volkswagen Tukan, la nueva pick up compacta y reemplazante de la Saveiro, llegará próximamente con cuatro versiones y la gama estará compuesta inicialmente por dos configuraciones con cabina simple y otras doble. Según el medio Autoesporte, los nombres previstos son Robust, Iron, Magnet y Extreme e incluirían dos opciones de motorización. Más adelante se […]",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/Volkswagen-Tukan.jpg",
+      "menciones": 1,
+      "fuentes": [
+        "Autotest"
+      ]
+    },
+    {
+      "titulo": "El lujo eléctrico chino que quiere destronar al Mercedes: el AVATR llega a Europa con ADN de Clase S y carga en 800V",
+      "link": "https://autotest.com.ar/noticias/el-lujo-electrico-chino-que-quiere-destronar-al-mercedes-el-avatr-llega-a-europa-con-adn-de-clase-s-y-carga-en-800v/",
+      "fuente": "Autotest",
+      "fecha": "2026-10-17T11:00:33Z",
+      "resumen": "En 2024 se sumó el AVATR 07, un SUV mediano que ofrece versiones eléctricas puras y de autonomía extendida (EREV), con un pequeño motor a combustión que funciona solo como generador para recargar la batería en marcha.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/el-lujo-el-ctrico-chino-que-quiere-destr-1200x740-1.jpg",
+      "menciones": 1,
+      "fuentes": [
+        "Autotest"
       ]
     }
   ]
