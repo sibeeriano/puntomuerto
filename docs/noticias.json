@@ -1,5 +1,13 @@
 [
   {
+    "titulo": "Los Rally-Raids y el Dakar ya dibujan su futuro: más seguridad, menos costes y nuevas tecnologías para 2030",
+    "link": "https://www.diariomotor.com/competicion/noticia/rally-raid-dakar-2030/",
+    "fuente": "Diariomotor (ES)",
+    "fecha": "2026-10-19T23:37:00Z",
+    "resumen": "Los rallyes no serán los únicos que verán cambios en su normativa técnica en los próximos años. Los Rally-Raids afrontan un cierre de década emocionante, en el que se ha tratado de revivir la categoría de los vehículos Stock o T2 y en la que se trabaja para que los vehículos Challenger sigan creciendo y sirva como semillero para ‘rodar’ las grandes estrellas que protagonizarán la clase reina en el…",
+    "imagen": "https://www.diariomotor.com/imagenes/2026/10/rally-raids-nuevas-reglas-2030-w2rc-2-6ad68c62776a5.jpg?class=XL"
+  },
+  {
     "titulo": "WRC Cars y WRC Kit Cars: así se llamarán los nuevos reyes del Mundial de Rallyes",
     "link": "https://www.diariomotor.com/competicion/noticia/wrc-cars-kit-cars-mundial-de-rallyes/",
     "fuente": "Diariomotor (ES)",
@@ -24,6 +32,14 @@
     "imagen": "https://www.diariomotor.com/imagenes/2026/10/indycar-barcelona-2027-series-1-6ad667698e76e.jpg?class=XL"
   },
   {
+    "titulo": "Autos 0Km: qué marcas ofrecen créditos a tasa 0% en octubre y cuánto se puede financiar",
+    "link": "https://www.iprofesional.com/finanzas/466935-autos-0km-que-marcas-ofrecen-creditos-a-tasa-0-en-octubre-2026",
+    "fuente": "iProfesional",
+    "fecha": "2026-10-19T19:42:00Z",
+    "resumen": "Los montos que pueden financiarse llegan a $40 millones en algunos casos, con planes de 12, 18, 24 y hasta 36 meses, según marca y modelo (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
+    "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2025/03/593126.jpg"
+  },
+  {
     "titulo": "El Rally Dakar prepara su regreso a África para salvar una edición 2027 que podría pasar por España",
     "link": "https://www.diariomotor.com/competicion/noticia/el-rally-dakar-marruecos-2027/",
     "fuente": "Diariomotor (ES)",
@@ -40,12 +56,44 @@
     "imagen": "https://www.diariomotor.com/imagenes/2022/09/mazda-cx-60-phev-2022-27-63199610e7943.jpg?class=XL"
   },
   {
+    "titulo": "Cómo cambió la industria automotriz desde el mercado cerrado de 2023 a la apertura actual",
+    "link": "https://www.iprofesional.com/autos/466061-como-cambio-la-industria-automotriz-desde-el-mercado-cerrado-de-2023-al-actual",
+    "fuente": "iProfesional",
+    "fecha": "2026-10-19T21:56:00Z",
+    "resumen": "El sector cambió, pero además Argentina mutó de una industria sin rival a una que pide mejoras para exportar. Sin embargo, hay cifras que sorprenden (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
+    "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/05/616194.jpg"
+  },
+  {
+    "titulo": "Por qué algunas automotrices se complementan entre Argentina y Brasil y otras no",
+    "link": "https://www.iprofesional.com/autos/466322-por-que-algunas-automotrices-se-complementan-entre-argentina-y-brasil-y-otras-no",
+    "fuente": "iProfesional",
+    "fecha": "2026-10-19T21:50:00Z",
+    "resumen": "Los dichos del presidente de Stellantis Sudamérica sobre la situación de Argentina encendieron alarmas pero hay una realidad que no es ajena al sector (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
+    "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2024/04/572530.jpg"
+  },
+  {
+    "titulo": "Córdoba tiene un proyecto para eximir a las automotrices de Ingresos Brutos",
+    "link": "https://www.iprofesional.com/autos/466326-como-es-el-proyecto-de-cordoba-para-eximir-de-ingresos-brutos-a-las-automotrices",
+    "fuente": "iProfesional",
+    "fecha": "2026-10-19T21:45:00Z",
+    "resumen": "Es el principal reclamo del sector. Lo dijo el Gobernador Martín Llaryora mediante el anunció de una Ley de promoción industrial en su provincia (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
+    "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2019/09/483406.jpg"
+  },
+  {
     "titulo": "Los patentamientos de autos caen 11% interanual en lo que va de octubre",
     "link": "https://www.iprofesional.com/autos/466923-las-ventas-de-autos-ya-caen-11-en-lo-que-va-de-octubre",
     "fuente": "iProfesional",
     "fecha": "2026-10-19T18:45:00Z",
     "resumen": "Las dificultades económicas y la falta de financiamiento profundizan la contracción de los patentamientos, afectando a históricos y nuevos jugadores (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/07/620633.jpg"
+  },
+  {
+    "titulo": "La compra de motos 0km se puede financiar con Mercado Pago",
+    "link": "https://www.iprofesional.com/autos/466403-como-financiar-tu-moto-con-mercado-pago-y-cuales-son-los-costos",
+    "fuente": "iProfesional",
+    "fecha": "2026-10-19T21:43:00Z",
+    "resumen": "Es una forma de obtener dinero para comprar un modelo 0km sin necesidad de recurrir a un banco, con menos requisitos y de forma inmediata (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
+    "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/09/625910.jpg"
   },
   {
     "titulo": "BYD lanzó el Ti7 en Argentina",
@@ -102,14 +150,6 @@
     "fecha": "2026-10-19T16:44:34Z",
     "resumen": "De nuevo la escudería TGR Haas F1 Team y los estudios TOHO CO de Japón vuelven a unirse para promocionar el filme 'Godzilla Menos Cero' que se estrenará el próximo 6 de noviembre en los cines estadounidenses. Tras la primera propuesta presentada en la última edición del Gran Premio de Japón, esta vez la decoración se inclina hacia el azul, así que el blanco rojo y negro asociado a Toyota quedó…",
     "imagen": "https://www.diariomotor.com/imagenes/2026/10/Decoracion_Haas_F1_Austin_2026_26-6ad6244f6af3c.jpg?class=XL"
-  },
-  {
-    "titulo": "Autos 0Km: qué marcas ofrecen créditos a tasa 0% en octubre y cuánto se puede financiar",
-    "link": "https://www.iprofesional.com/finanzas/466935-autos-0km-que-marcas-ofrecen-creditos-a-tasa-0-en-octubre-2026",
-    "fuente": "iProfesional",
-    "fecha": "2026-10-19T19:42:00Z",
-    "resumen": "Los montos que pueden financiarse llegan a $40 millones en algunos casos, con planes de 12, 18, 24 y hasta 36 meses, según marca y modelo (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
-    "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2025/03/593126.jpg"
   },
   {
     "titulo": "Menos de 32000 dólares: Volkswagen ya lanzó un innovador SUV para enfrentar a BYD",
