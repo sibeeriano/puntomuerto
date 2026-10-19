@@ -1,30 +1,31 @@
 {
-  "actualizado": "2026-10-18T21:53:55Z",
-  "desde": "2026-10-11",
-  "hasta": "2026-10-18",
+  "actualizado": "2026-10-19T19:20:25Z",
+  "desde": "2026-10-12",
+  "hasta": "2026-10-19",
   "destacadas": [
     {
-      "titulo": "BYD lanzó el Ti7 híbrido enchufable en Argentina e ingresó al segmento de los SUV premium",
-      "link": "https://www.iprofesional.com/autos/466843-byd-lanzo-el-ti7-un-suv-hibrido-enchufable-con-1000-km-de-autonomia",
-      "fuente": "iProfesional",
-      "fecha": "2026-10-18T10:36:00Z",
-      "resumen": "El nuevo modelo ofrece màs de 1000 km de autonomìa, tracciòn integral inteligente y equipamiento premium, con precio màs bajo que los rivales (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
-      "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/10/627810.jpg",
+      "titulo": "BYD lanzó el Ti7 en Argentina",
+      "link": "https://www.megautos.com/byd-ti7/",
+      "fuente": "Megautos",
+      "fecha": "2026-10-19T18:41:34Z",
+      "resumen": "El SUV producido en China está equipado con una mecánica híbrida enchufable con 354 CV, tracción integral, con 1.015 kilómetros de autonomía. Está disponible con una gama con dos versiones. La entrada BYD lanzó el Ti7 en Argentina aparece primero en Mega Autos .",
+      "imagen": "https://www.megautos.com/wp-content/uploads/2026/10/BYD-Ti7-11.jpg",
       "menciones": 6,
       "fuentes": [
         "Autotest",
         "Diariomotor (ES)",
-        "iProfesional"
+        "iProfesional",
+        "Megautos"
       ]
     },
     {
-      "titulo": "El SUV que cuesta como un hatchback: arranca en 20.990 dólares, tiene 111 CV y caja automática",
-      "link": "https://autotest.com.ar/noticias/el-suv-se-ofrece-desde-usd-20-990-y-combina-motor-1-5-de-111-cv-opcion-automatica-cvt-pantalla-de-9-pulgadas-y-un-baul-de-450-litros/",
-      "fuente": "Autotest",
-      "fecha": "2026-10-16T18:00:50Z",
-      "resumen": "Con un precio que inicia en 20.990 dólares, JAC JS2 se posiciona como una opción accesible en el mercado de SUVs compactos, ofreciendo motor de 111 CV y una amplia variedad de equipamiento.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/01/JAC-JS2-accion-lateral.jpg",
-      "menciones": 29,
+      "titulo": "Europa convencida de que está acabando con el motor de combustión y llega Japón y planta, por 25.000 € menos que los alemanes, un seis cilindros diésel en un SUV con tamaño de BMW X3",
+      "link": "https://www.diariomotor.com/noticia/oferta-mazda-cx-60-octubre-2026/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-10-19T19:18:54Z",
+      "resumen": "Con el objetivo de acabar con el motor de combustión en 2035 es normal que salten de nuevo las alarmas sobre el futuro de la industria. Pero mientras que Europa da por zanjado el asunto, aparece Japón con no solo un SUV más barato que los alemanes y con tamaño de BMW X3, sino también con un seis cilindros diésel y etiqueta ECO . Mazda consigue nadar a contracorriente con un seis cilindros diésel…",
+      "imagen": "https://www.diariomotor.com/imagenes/2022/09/mazda-cx-60-phev-2022-27-63199610e7943.jpg?class=XL",
+      "menciones": 39,
       "fuentes": [
         "Autotest",
         "Diariomotor (ES)",
@@ -32,13 +33,26 @@
       ]
     },
     {
-      "titulo": "Casi 7 metros de autocaravana, con dos camas eléctricas que bajan del techo y el baño completo, que aun así puedes conducir con el carné B",
-      "link": "https://www.diariomotor.com/noticia/autocaravana-bailey-ascent-69-4ts/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-10-18T12:00:07Z",
-      "resumen": "Una autocaravana familiar no necesita medir lo que un autobús para esconder un interior amplio y con todas las comodidades. El Motorhome & Caravan Show de Birmingham está dando mucho de sí y entre sus novedades encontramos la nueva Bailey Ascent 69-4TS, que mide 6,98 metros, ofrece cuatro plazas de viaje y pernocta y resuelve el dormitorio de una forma poco habitual: con dos camas individuales que…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/10/autocaravana-bailey-ascent-69-4ts_port-6ad20847d4d76.jpg?class=XL",
-      "menciones": 4,
+      "titulo": "Subaru rompe su propia regla: SUV coupé con 169 CV y tracción delantera, algo inédito en la marca",
+      "link": "https://autotest.com.ar/noticias/subaru-rompe-su-propia-regla-suv-coupe-con-169-cv-y-traccion-delantera-algo-inedito-en-la-marca/",
+      "fuente": "Autotest",
+      "fecha": "2026-10-19T11:00:18Z",
+      "resumen": "La silueta coupé prioriza el diseño por sobre el espacio posterior, un recurso que ya usan varios rivales en Europa.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/subaru-rompe-su-propia-regla-suv-coup-co-1200x740-1.jpg",
+      "menciones": 2,
+      "fuentes": [
+        "Autotest",
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "El coche de gasolina no morirá: Volkswagen, Stellantis y Renault se han unido contra Bruselas para salvarlo",
+      "link": "https://www.motorpasion.com/industria/volkswagen-stellantis-renault-quieren-ser-tres-grandes-detroit-luchar-bruselas-para-salvar-coche-combustion",
+      "fuente": "Motorpasión (ES)",
+      "fecha": "2026-10-19T10:00:00Z",
+      "resumen": "Después de años y años con el 2030 marcado en rojo en el calendario, la futura prohibición de los motores de combustión en Europa se ha convertido en un \"que viene el lobo\". Pero el lobo no va a venir. Bruselas sigue empantanada con los grupos de presión, que no van a permitir que dicha prohibición se cumpla. Entre estos grupos de presión se encuentran Alemania, Francia e Italia : de hecho…",
+      "imagen": "https://i.blogs.es/bf5fb0/portada-mop-1792403240209/1024_2000.jpeg",
+      "menciones": 2,
       "fuentes": [
         "Diariomotor (ES)",
         "Motorpasión (ES)"
@@ -58,19 +72,6 @@
       ]
     },
     {
-      "titulo": "Cuesta casi 10.000 dólares menos que un Toyota Corolla Cross: el SUV híbrido con 188 CV y amplio equipamiento",
-      "link": "https://autotest.com.ar/noticias/cuesta-casi-10-000-dolares-menos-que-un-toyota-corolla-cross-el-suv-hibrido-con-188-cv-y-amplio-equipamiento/",
-      "fuente": "Autotest",
-      "fecha": "2026-10-16T17:00:05Z",
-      "resumen": "El Haval Jolion HEV Supreme se presenta como una opción destacada en el segmento de los SUV híbridos, ofreciendo un amplio equipamiento a un precio competitivo de 28.990 dólares.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/Haval-Jolion-HEV-llanta.jpg",
-      "menciones": 6,
-      "fuentes": [
-        "Autotest",
-        "Diariomotor (ES)"
-      ]
-    },
-    {
       "titulo": "Ocho años de espera y el Tesla Roadster ya tiene fecha: 1,9 segundos de 0 a 100 km/h y 1.000 km de autonomía",
       "link": "https://autotest.com.ar/noticias/ocho-anos-de-espera-y-el-tesla-roadster-ya-tiene-fecha-1-9-segundos-de-0-a-100-km-h-y-1-000-km-de-autonomia/",
       "fuente": "Autotest",
@@ -84,225 +85,219 @@
       ]
     },
     {
-      "titulo": "Toyota Hilux, Ford Ranger y Volkswagen Amarok: cuál tiene la versión automática más accesible",
-      "link": "https://autotest.com.ar/comparativos/toyota-hilux-ford-ranger-y-volkswagen-amarok-cual-tiene-la-version-automatica-mas-accesible/",
-      "fuente": "Autotest",
-      "fecha": "2026-10-16T14:59:10Z",
-      "resumen": "Descubrí cuál es la camioneta automática más barata en octubre entre las líderes del mercado: Toyota Hilux, Ford Ranger y Volkswagen Amarok.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/08/toyota-hilux2.jpg",
-      "menciones": 8,
-      "fuentes": [
-        "Autotest",
-        "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "Hyundai Bayon 2027: híbrido de 141 CV y 4,5 L/100 km para destronar al Omoda 4",
-      "link": "https://autotest.com.ar/noticias/hyundai-bayon-2027-hibrido-de-141-cv-y-4-5-l-100-km-para-destronar-al-omoda-4/",
-      "fuente": "Autotest",
-      "fecha": "2026-10-16T11:00:29Z",
-      "resumen": "El mild hybrid de 48V es un parche: la batería chica recupera energía en frenadas y la inyecta en aceleraciones, pero el auto nunca se mueve solo con electricidad.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/hyundai-bayon-2027-h-brido-de-141-cv-y-4-1200x740-1.jpg",
-      "menciones": 5,
-      "fuentes": [
-        "Autotest",
-        "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "Este Fiat Panda mide solo 50 centímetros de ancho y es el coche más estrecho del mundo: cabe entre dos coches aparcados",
-      "link": "https://www.motorpasion.com/tuning-preparaciones/tus-ojos-no-te-enganan-este-fiat-panda-mide-solo-50-centimetros-ancho-coche-estrecho-mundo-dos-coches-aparcados",
-      "fuente": "Motorpasión (ES)",
-      "fecha": "2026-10-15T13:30:00Z",
-      "resumen": "A primera vista, cuesta creer que este microcoche sea real . Sólo mide 50,2 cm de ancho y tiene una carrocería que parece cortada longitudinalmente y reconstruida a escala o hecha por ordenador. Pero no es una imagen generada por IA ni un montaje de Photoshop: es un Fiat Panda de primera generación que funciona de verdad . Se llama Panda per Uno y su creador, el italiano Andrea Marazzi , ha…",
-      "imagen": "https://i.blogs.es/adbe93/fiat-portada/1024_2000.jpeg",
-      "menciones": 2,
-      "fuentes": [
-        "Diariomotor (ES)",
-        "Motorpasión (ES)"
-      ]
-    },
-    {
-      "titulo": "El Espace familiar vuelve con seis butacas y una pantalla de 1,13 metros: ¿es el regreso del monovolumen que los SUV se «canibalizaron»?",
-      "link": "https://autotest.com.ar/noticias/el-espace-familiar-vuelve-con-seis-butacas-y-una-pantalla-de-1-13-metros-es-el-regreso-del-monovolumen-que-los-suv-se-canibalizaron/",
-      "fuente": "Autotest",
-      "fecha": "2026-10-15T11:00:44Z",
-      "resumen": "Con el E-Space concept, Renault recupera la esencia original del nombre: modularidad, confort y capacidad de transformarse según la necesidad.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/el-espace-familiar-vuelve-con-seis-butac-1200x740-1.jpg",
-      "menciones": 2,
-      "fuentes": [
-        "Autotest",
-        "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "Alex Riberas: \"Estoy contento y satisfecho con el trabajo y con el equipo\"",
-      "link": "https://www.diariomotor.com/competicion/noticia/alex-riberas-estoy-contento-y-satisfecho-con-el-trabajo-y-con-el-equipo/",
+      "titulo": "El Circuit de Barcelona-Catalunya se prepara para recibir a la IndyCar en 2027",
+      "link": "https://www.diariomotor.com/competicion/noticia/circuit-barcelona-catalunya-indycar-2027/",
       "fuente": "Diariomotor (ES)",
-      "fecha": "2026-10-18T22:15:54Z",
-      "resumen": "La temporada 2026 no está siendo nada fácil para Aston Martin. El equipo que quizás sigue más de cerca el concepto inicial de la categoría Hypercar enamora a la afición tanto con el aspecto como el sonido de su Valkyrie, pero los resultados no acaban de llegar. En el equipo saben que hay trabajo por hacer, pero también que en cierta forma este es un año de transición. Es por ello que un resultado…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/10/13A0564.jpg-6ad512aebc413.jpeg?class=XL",
+      "fecha": "2026-10-19T20:55:10Z",
+      "resumen": "Este pasado fin de semana pudimos ver al Circuit de Barcelona-Catalunya estrenándose en una nueva faceta. Montmeló acogía por primera vez en su historia una carrera del WEC , concretamente las 6 Horas de Barcelona, una de las vías de escape que había encontrado el Campeonato del Mundo de Resistencia para completar su calendario una vez que se cercioraron que no iba a ser posible llevar adelante…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/10/indycar-barcelona-2027-series-1-6ad667698e76e.jpg?class=XL",
       "menciones": 1,
       "fuentes": [
         "Diariomotor (ES)"
       ]
     },
     {
-      "titulo": "Volkswagen revive el tablero azul del Golf IV en el ID. Tiguan: el SUV eléctrico que jubila al ID.4",
-      "link": "https://autotest.com.ar/noticias/volkswagen-revive-el-tablero-azul-del-golf-iv-en-el-id-tiguan-el-suv-electrico-que-jubila-al-id-4/",
-      "fuente": "Autotest",
-      "fecha": "2026-10-14T18:10:24Z",
-      "resumen": "El ID.4 actual, la referencia directa, ofrece hasta 550 kilómetros de autonomía WLTP con la batería de 77 kWh y una potencia de carga de hasta 135 kW.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/volkswagen-revive-el-tablero-azul-del-go-1200x740-1.jpg",
-      "menciones": 2,
-      "fuentes": [
-        "Autotest",
-        "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "Peugeot presentó el RCZ Vision: de qué se trata",
-      "link": "https://www.megautos.com/peugeot-rcz-vision/",
-      "fuente": "Megautos",
-      "fecha": "2026-10-18T21:30:18Z",
-      "resumen": "El nuevo prototipo recupera el espíritu de la cupé con un diseño futurista, batería de estado sólido y tecnologías que anticipan el rumbo de la marca francesa. La entrada Peugeot presentó el RCZ Vision: de qué se trata aparece primero en Mega Autos .",
-      "imagen": "https://www.megautos.com/wp-content/uploads/2026/10/peugeot-vision-rcz-2610styp-205-fr-16-9.jpg",
-      "menciones": 2,
-      "fuentes": [
-        "Megautos"
-      ]
-    },
-    {
-      "titulo": "Geely KO11: doble bloqueo, suspensión neumática y 800 mm de vadeo para destronar al Defender",
-      "link": "https://autotest.com.ar/offroad/geely-ko11-doble-bloqueo-suspension-neumatica-y-800-mm-de-vadeo-para-destronar-al-defender/",
-      "fuente": "Autotest",
-      "fecha": "2026-10-14T17:20:33Z",
-      "resumen": "El vadeo es la profundidad máxima de agua que un vehículo puede cruzar sin dañar componentes como la admisión de aire, la electrónica o la caja de transferencia.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/geely-ko11-doble-bloqueo-suspensi-n-neum-1200x740-1.jpg",
-      "menciones": 2,
-      "fuentes": [
-        "Autotest",
-        "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "Miguel Molina: \"Ha sido uno de los podios más bonitos de mi carrera\"",
-      "link": "https://www.diariomotor.com/competicion/noticia/miguel-molina-ha-sido-uno-de-los-podios-mas-bonitos-de-mi-carrera/",
+      "titulo": "El Rally Dakar prepara su regreso a África para salvar una edición 2027 que podría pasar por España",
+      "link": "https://www.diariomotor.com/competicion/noticia/el-rally-dakar-marruecos-2027/",
       "fuente": "Diariomotor (ES)",
-      "fecha": "2026-10-18T21:15:36Z",
-      "resumen": "De entre los tres pilotos españoles que competían este fin de semana en el Campeonato del Mundo de Resistencia, solo uno ha logrado subir al podio en la carrera de casa . Miguel Molina ha llevado su Ferrari número 50 a la tercera posición en un día en el que los Toyota estaban intratables, por lo que a pesar de no haber podido pelear por la victoria en ningún momento, está satisfecho por haber…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/10/MiguelMolinaPodioWEC2026BarcelonaB-6ad502ad9cea4.jpeg?class=XL",
+      "fecha": "2026-10-19T19:25:00Z",
+      "resumen": "A contrarreloj . Así es como están teniendo que trabajar en ASO para sacar adelante la edición 2027 del Rally Dakar. Los últimos bombardeos hutíes acontecidos en instalaciones críticas del país saudí, como el sucedido recientemente en el Aeropuerto internacional de Riyadh, ha terminado de ser la señal inequívoca de que el futuro de la carrera , al menos para el próximo enero no podía pasar por el…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/10/NANI-ROMA-DAKAR-2026-5_9933-6ad651cbc62b5.jpg?class=XL",
       "menciones": 1,
       "fuentes": [
         "Diariomotor (ES)"
       ]
     },
     {
-      "titulo": "Hyundai presentó el nuevo Bayon: sería brasileño",
-      "link": "https://www.megautos.com/hyundai-bayon-2027/",
-      "fuente": "Megautos",
-      "fecha": "2026-10-18T20:37:54Z",
-      "resumen": "El SUV del segmento B recibió cambios de diseño, más tecnología y mejoras de confort. La gama europea incluye una versión híbrida. Llegaría a la región en 2027 para ubicarse por debajo del Creta. La entrada Hyundai presentó el nuevo Bayon: sería brasileño aparece primero en Mega Autos .",
-      "imagen": "https://www.megautos.com/wp-content/uploads/2026/10/hyundai-bayon-1026-exterior-05.jpg",
-      "menciones": 1,
-      "fuentes": [
-        "Megautos"
-      ]
-    },
-    {
-      "titulo": "Dani Juncadella: \"Así son las carreras, pero me quedo con lo positivo del fin de semana\"",
-      "link": "https://www.diariomotor.com/competicion/noticia/dani-juncadella-asi-son-las-carreras-pero-me-quedo-con-lo-positivo-del-fin-de-semana/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-10-18T20:15:46Z",
-      "resumen": "El Campeonato del Mundo de Resistencia ha vivido hoy su penúltima cita de la temporada, en Barcelona, trayendo por primera vez el certamen a nuestro país en formato competitivo. Tras una jornada del sábado que daba muchas esperanzas para Dani Juncadella al partir desde la tercera posición, el domingo ha sido mucho más cruel, con un inicio fulgurante para el catalán que pronto ha acabado con una…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/10/13A1470.jpg-6ad50cb4bd670.jpeg?class=XL",
-      "menciones": 1,
-      "fuentes": [
-        "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "Toyota firma un claro doblete en las 6 horas de Barcelona y sentencia el título 2026 del WEC",
-      "link": "https://www.diariomotor.com/competicion/noticia/toyota-firma-un-claro-doblete-en-las-6-horas-de-barcelona-y-sentencia-el-titulo-2026-del-wec/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-10-18T18:19:51Z",
-      "resumen": "Un total de 55,511 espectadores disfrutaron de la primera edición de las 6 horas de Barcelona encuadrada en el Campeonato del Mundo de Resistencia , con presencia de la lluvia y un final en seco y una buena cantidad de acción en las dos categorías que forman el certamen. Eso sí, a nivel deportivo no hubo color salvo el rojo de Toyota, que dominó la carrera de cabo a rabo y firmó un doblete que no…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/10/WECBarcelona2026Carrera1-6ad4e49d60a73.jpg?class=XL",
-      "menciones": 1,
-      "fuentes": [
-        "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "Los japoneses cambian el aceite del coche de forma diferente a los alemanes. Sus motores acaban durando cientos de miles de kilómetros",
-      "link": "https://www.motorpasion.com/revision/japoneses-cambian-aceite-coche-forma-diferente-a-alemanes-sus-motores-acaban-durando-cientos-miles-kilometros",
-      "fuente": "Motorpasión (ES)",
-      "fecha": "2026-10-18T18:01:35Z",
-      "resumen": "En algunos modelos de coche, el fabricante recomienda cambiar el aceite cada 15.000 km o cada año, mientras que en otros se recomienda hacer cada 30.000 o cada dos años. No solo es una cuestión del tipo de motor que utiliza cada coche, sino también de su país de origen . Los japoneses son más conservadores en esta cuestión A la hora de cambiar el aceite, lo ideal es hacer caso a las…",
-      "imagen": "https://i.blogs.es/faca17/taller-3_1/1024_2000.jpeg",
-      "menciones": 1,
-      "fuentes": [
-        "Motorpasión (ES)"
-      ]
-    },
-    {
-      "titulo": "Gran Premio de Estados Unidos 2026: Horarios y cómo ver la posible coronación de Andrea Kimi Antonelli",
-      "link": "https://www.diariomotor.com/competicion/noticia/gran-premio-estados-unidos-2026-horarios/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-10-18T17:18:04Z",
-      "resumen": "Sólo quedan seis Grandes Premios para completar esta temporada del Campeonato del Mundo de Fórmula 1 2026, número que incluso puede ser menor dependiendo de las decisiones que se puedan tomar en las próximas semanas acerca de las citas en Qatar y Abu Dhabi. Sea como fuere y siempre partiendo de la base de que se disputarán todos los eventos todavía programados, el próximo fin de semana en Austin…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/10/SI202510191504_hires_jpeg_24bit_rgb-6ad4ba4c8f51d.jpg?class=XL",
-      "menciones": 1,
-      "fuentes": [
-        "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "Fiat presentó un prototipo que se convierte en pick up",
-      "link": "https://www.megautos.com/fiat-multiplay/",
-      "fuente": "Megautos",
-      "fecha": "2026-10-18T17:15:53Z",
-      "resumen": "El Multiplay combina espacio familiar y capacidad de carga en un vehículo de 4,45 metros. Su diseño permite pasar de una configuración de seis plazas más un asiento flexible a una camioneta con caja abierta. La entrada Fiat presentó un prototipo que se convierte en pick up aparece primero en Mega Autos .",
-      "imagen": "https://www.megautos.com/wp-content/uploads/2026/10/fiat-multiplay-exterior.jpg",
-      "menciones": 1,
-      "fuentes": [
-        "Megautos"
-      ]
-    },
-    {
-      "titulo": "Los expertos en mecánica y neumáticos lo explican: “Las franjas de colores de las ruedas nuevas tienen una función” que casi nadie conoce",
-      "link": "https://www.motorpasion.com/seguridad/expertos-mecanica-neumaticos-explican-franjas-colores-ruedas-nuevas-tienen-funcion-que-casi-nadie-conoce",
-      "fuente": "Motorpasión (ES)",
-      "fecha": "2026-10-18T17:01:35Z",
-      "resumen": "Si vas mucho en coche y tienes que cambiar los neumáticos, o directamente has comprado un coche nuevo, quizá te hayas fijado en las franjas de colores que lo recorren por la banda : rojas, azules, amarillas… o que incluso combinan varios tonos. Son bastante llamativos sobre una goma nueva y negra, entera; realzan. Pues su función no tiene nada que ver con mejorar el agarre , indicar la calidad del…",
-      "imagen": "https://i.blogs.es/6e2666/portada-mop-1792336037353/1024_2000.jpeg",
-      "menciones": 1,
-      "fuentes": [
-        "Motorpasión (ES)"
-      ]
-    },
-    {
-      "titulo": "Smart presentó el #2 en el Salón de París",
-      "link": "https://www.megautos.com/smart-hashtag-2/",
-      "fuente": "Megautos",
-      "fecha": "2026-10-18T16:54:29Z",
-      "resumen": "La nueva generación del biplaza urbano debutó mundialmente. Con solo 2,75 metros de largo, promete hasta 290 kilómetros de autonomía y estrena una plataforma específica. La entrada Smart presentó el #2 en el Salón de París aparece primero en Mega Autos .",
-      "imagen": "https://www.megautos.com/wp-content/uploads/2026/10/707800-smart_hashtag2_premium_gold-metallic_cmyk_3-7468d3-original-1791271351.jpg",
-      "menciones": 1,
-      "fuentes": [
-        "Megautos"
-      ]
-    },
-    {
-      "titulo": "Morbidelli NZ250, la moto naked de media cilindrada para movilidad urbana",
-      "link": "https://www.iprofesional.com/autos/466864-morbidelli-nz250-la-moto-naked-de-media-cilindrada-para-uso-urbano",
+      "titulo": "Los patentamientos de autos caen 11% interanual en lo que va de octubre",
+      "link": "https://www.iprofesional.com/autos/466923-las-ventas-de-autos-ya-caen-11-en-lo-que-va-de-octubre",
       "fuente": "iProfesional",
-      "fecha": "2026-10-18T16:22:00Z",
-      "resumen": "La marca italiana, representada por el Grupo La Emilia, desembarca en el mercado local con una opción que combina estética agresiva y tecnología (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
-      "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/10/627817.jpg",
+      "fecha": "2026-10-19T18:45:00Z",
+      "resumen": "Las dificultades económicas y la falta de financiamiento profundizan la contracción de los patentamientos, afectando a históricos y nuevos jugadores (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
+      "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/07/620633.jpg",
       "menciones": 1,
       "fuentes": [
         "iProfesional"
+      ]
+    },
+    {
+      "titulo": "China ha construido una ciudad del futuro donde los semáforos obedecen a los coches y no al revés",
+      "link": "https://www.motorpasion.com/industria/china-ha-construido-ciudad-futuro-donde-semaforos-obedecen-a-coches-no-al-reves",
+      "fuente": "Motorpasión (ES)",
+      "fecha": "2026-10-19T18:01:54Z",
+      "resumen": "En China hay una ciudad donde los semáforos no tienen ciclos programados: la luz se pone en verde o en rojo en función del tráfico . Su objetivo es evitar atascos y acortar los desplazamientos: si no hay tráfico, no hay necesidad de estar parado ante un semáforo. Aunque tiene una cara B: al más puro estilo 'Blade Runner' , estos semáforos esconden un dron que se despliega para controlar a los…",
+      "imagen": "https://i.blogs.es/61decb/xiongan-china-ciudad-futuro-02/1024_2000.jpeg",
+      "menciones": 1,
+      "fuentes": [
+        "Motorpasión (ES)"
+      ]
+    },
+    {
+      "titulo": "Europa emperrada con los SUV baratos, y van los chinos y por 17.500 euros, fabrican en España el chollo de 2026",
+      "link": "https://www.diariomotor.com/noticia/leapmotor-b03x-oferta/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-10-19T18:00:16Z",
+      "resumen": "En Europa estamos obsesionados con los SUV . Prácticamente 6 de cada 10 coches ya son todocaminos . De diferentes tamaños, formas y características, pero todocaminos . Y de esta obsesión China está sacando todo el partido que puede . En el segmento de los SUV urbanos eléctricos, uno de los más calientes del momento , Leapmotor acaba de irrumpir con un caballo de batalla casi inalcanzable . Por…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/09/Leapmotor-B03X14-6aa009ae773aa.jpg?class=XL",
+      "menciones": 2,
+      "fuentes": [
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "El SUV híbrido rival de Ford Territory y Toyota Corolla Cross: menos de 34.000 dólares y 310 CV",
+      "link": "https://autotest.com.ar/noticias/el-suv-hibrido-rival-de-ford-territory-y-toyota-corolla-cross-menos-de-34-000-dolares-y-310-cv/",
+      "fuente": "Autotest",
+      "fecha": "2026-10-19T18:00:15Z",
+      "resumen": "El JAC JS6 PHEV llega a Argentina con una propuesta innovadora: 310 CV de potencia, alta autonomía eléctrica y un precio competitivo en el segmento de los SUV medianos.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/03/JAC-JS6-PHEV-2026-1.jpg",
+      "menciones": 2,
+      "fuentes": [
+        "Autotest"
+      ]
+    },
+    {
+      "titulo": "Lo último de Skoda mola más de lo que parece, \"imprimirte tu coche en casa\", aunque antes has de saber sus pros y sus contras",
+      "link": "https://www.diariomotor.com/noticia/skoda-disenos-impresora-3d/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-10-19T17:00:50Z",
+      "resumen": "Skoda quiere que te imprimas tu coche en casa. Y como te contaremos a continuación eso mola demasiado. Simply Clever, así lo llama comercialmente Skoda. Y no es otra cosa que aderezar sus coches con pequeños gadgets, tremendamente baratos y sencillos, que de alguna forma te hacen la vida más fácil. Algunos son tremendamente conocidos, como abrir la puerta y encontrarte en el marco un paraguas, o…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/10/skoda-imprimibles-6ad61a53a4151.jpg?class=XL",
+      "menciones": 1,
+      "fuentes": [
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "Nissan lanzó la versión más barata del nuevo Versa: motor 1.6, seis airbags y pantalla de 9 pulgadas",
+      "link": "https://autotest.com.ar/noticias/nissan-lanzo-la-version-mas-barata-del-nuevo-versa-motor-1-6-seis-airbags-y-pantalla-de-9-pulgadas/",
+      "fuente": "Autotest",
+      "fecha": "2026-10-19T17:00:15Z",
+      "resumen": "Nissan lanza en México el Versa Sense Base TM 2026. Una versión accesible que no sacrifica el confort ni la seguridad básica, a un precio competitivo.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/08/Nissan-Versa-Sense-Base-TM-cola.jpg",
+      "menciones": 14,
+      "fuentes": [
+        "Autotest"
+      ]
+    },
+    {
+      "titulo": "Godzilla regresa a las pistas y estará presente en la decoración de Haas F1 para Austin",
+      "link": "https://www.diariomotor.com/competicion/noticia/haas-f1-godzilla-regresa-austin/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-10-19T16:44:34Z",
+      "resumen": "De nuevo la escudería TGR Haas F1 Team y los estudios TOHO CO de Japón vuelven a unirse para promocionar el filme 'Godzilla Menos Cero' que se estrenará el próximo 6 de noviembre en los cines estadounidenses. Tras la primera propuesta presentada en la última edición del Gran Premio de Japón, esta vez la decoración se inclina hacia el azul, así que el blanco rojo y negro asociado a Toyota quedó…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/10/Decoracion_Haas_F1_Austin_2026_26-6ad6244f6af3c.jpg?class=XL",
+      "menciones": 1,
+      "fuentes": [
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "Menos de 32000 dólares: Volkswagen ya lanzó un innovador SUV para enfrentar a BYD",
+      "link": "https://autotest.com.ar/noticias/menos-de-32000-dolares-volkswagen-ya-lanzo-un-innovador-suv-para-enfrentar-a-byd/",
+      "fuente": "Autotest",
+      "fecha": "2026-10-19T16:20:22Z",
+      "resumen": "Volkswagen ya toma pedidos del ID. Cross con batería neta de 37 kWh y un precio inferior a 32000 dólares que implica una gran relación precio-producto para todo lo que ofrece. En Europa, por ahora la única región donde se comercializará, competirá contra BYD Atto 2 y, próximamente, contra el Renault Captur eléctrico. La compañía […]",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/Volkswagen-ID.Cross-2026.jpg",
+      "menciones": 1,
+      "fuentes": [
+        "Autotest"
+      ]
+    },
+    {
+      "titulo": "¿Cuánto pagarías por él? Así es el 4x4, con capacidades todoterreno reales, que ya puedes reservar en España a muy buen precio",
+      "link": "https://www.diariomotor.com/noticia/precio-haval-h7-espana/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-10-19T16:13:33Z",
+      "resumen": "Si el GWM Tank 300 te parece demasiado campero para el día a día, la marca china tiene otra alternativa mucho más práctica y con ganas de dar guerra entre los SUV medianos. Presume de un diseño atractivo, varias opciones mecánicas y un equipamiento muy completo, todo ello con unos precios que podrían poner contra las cuerdas a más de un rival europeo . Tres opciones mecánicas Hasta 435 CV…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/09/Haval-H712-6aa6d638de097.jpg?class=XL",
+      "menciones": 1,
+      "fuentes": [
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "Ya en vigor: España cambia las normas y prohíbe a los conductores quedarse en el carril central si hay mucho atasco",
+      "link": "https://www.motorpasion.com/seguridad/vigor-espana-cambia-normas-prohibe-quedarse-carril-central-hay-mucho-atasco",
+      "fuente": "Motorpasión (ES)",
+      "fecha": "2026-10-19T16:01:55Z",
+      "resumen": "Entre los muchos cambios de normas que acaba de estrenar la DGT se incluye uno que afecta a cómo se circula por autopistas y autovías cuando hay atasco . Desde el 1 de octubre, cuando los coches y vehículos estén parados, o circulen muy despacio, tienen que dejar espacio en el centro para crear lo que se denomina un \"carril de emergencia\" . El objetivo es permitir el paso libre de vehículos…",
+      "imagen": "https://i.blogs.es/2bdc7f/corredor-emergencia/1024_2000.jpeg",
+      "menciones": 1,
+      "fuentes": [
+        "Motorpasión (ES)"
+      ]
+    },
+    {
+      "titulo": "BYD actualiza su auto más accesible: mayor tamaño, 129 CV y recarga en 9 minutos",
+      "link": "https://autotest.com.ar/noticias/byd-actualiza-su-auto-mas-accesible-mayor-tamano-129-cv-y-recarga-en-9-minutos/",
+      "fuente": "Autotest",
+      "fecha": "2026-10-19T16:00:42Z",
+      "resumen": "El BYD Dolphin Mini 2028 llega con la sorprendente capacidad de recarga del 10% al 97% en apenas nueve minutos, prometiendo revolucionar la movilidad eléctrica.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/BYD-Dolphin-Mini-2028-teaser.jpg",
+      "menciones": 1,
+      "fuentes": [
+        "Autotest"
+      ]
+    },
+    {
+      "titulo": "Fiat prepara su propio Citroën 2 CV: eléctrico y barato, pero práctico, y con un diseño alejado de la moda retro",
+      "link": "https://www.diariomotor.com/noticia/fiat-koala-2028-rumores/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-10-19T16:00:21Z",
+      "resumen": "El nuevo Citroën 2 CV tendrá un hermano italiano. Fiat está preparando un pequeño eléctrico que compartirá su base con el renacido modelo francés , con la intención de trasladar la filosofía del Panda a una nueva generación de coches urbanos. El proyecto está más avanzado de lo que podría parecer y, según el responsable de diseño de Fiat , está preparado para mostrarse dentro de poco. Un «2 CV de…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/10/Fiat-Koala-2028_aigen-01-6ad6124b4e9a5.jpg?class=XL",
+      "menciones": 1,
+      "fuentes": [
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "¿Qué es la Semana Motor que arranca en la Ciudad de Buenos Aires?",
+      "link": "https://eleconomista.com.ar/autos/que-semana-motor-arranca-ciudad-buenos-aires-n98990",
+      "fuente": "El Economista",
+      "fecha": "2026-10-19T15:49:00Z",
+      "resumen": "El próximo sábado y domingo, dos espacios importantes porteños se transformarán en escenarios dedicados al mundo motor. La propuesta reunirá vehículos históricos y actuales, tecnología, gastronomía, música y cultura.",
+      "imagen": "https://statics.eleconomista.com.ar/2026/10/crop/6ad63c73117d5__950x512.webp",
+      "menciones": 1,
+      "fuentes": [
+        "El Economista"
+      ]
+    },
+    {
+      "titulo": "Nuevo superdeportivo: Porsche presentó el Mission S",
+      "link": "https://www.megautos.com/porsche-mission-s/",
+      "fuente": "Megautos",
+      "fecha": "2026-10-19T15:36:12Z",
+      "resumen": "El prototipo anticipa el futuro diseño de la marca alemana y adelanta una nueva plataforma de deportivos con motor central que se ubicará por encima del 911. La entrada Nuevo superdeportivo: Porsche presentó el Mission S aparece primero en Mega Autos .",
+      "imagen": "https://www.megautos.com/wp-content/uploads/2026/10/341422_1920x1281.jpg",
+      "menciones": 1,
+      "fuentes": [
+        "Megautos"
+      ]
+    },
+    {
+      "titulo": "Reina y Paco tienen 70 y 72 años y ya han recorrido medio mundo en su camper: “No tenemos la vida asegurada, el día es hoy”",
+      "link": "https://www.motorpasion.com/furgonetas-y-caravanas/reina-paco-tienen-70-72-anos-han-recorrido-medio-mundo-su-camper-no-tenemos-vida-asegurada-dia-hoy",
+      "fuente": "Motorpasión (ES)",
+      "fecha": "2026-10-19T15:33:47Z",
+      "resumen": "Reina y Paco tienen 70 y 72 años, una Peugeot Boxer camperizada y 83.000 kilómetros a sus espaldas en tres años. Este matrimonio argentino no vive siempre sobre ruedas, pero aprovecha la jubilación para encadenar aventuras: su viaje más largo duró casi ocho meses y los llevó desde el Pacífico hasta el Caribe, antes de regresar a Argentina por el río Amazonas. Y entre las muchas cosas que han…",
+      "imagen": "https://i.blogs.es/80aa7f/reina-y-paco-2/1024_2000.jpeg",
+      "menciones": 1,
+      "fuentes": [
+        "Motorpasión (ES)"
+      ]
+    },
+    {
+      "titulo": "La URSS diseñó el cañón nuclear más bestia y se olvidó de un pequeño detalle: el tanque que lo llevaba no aguantaba el disparo",
+      "link": "https://www.motorpasion.com/seguridad/urss-diseno-canon-nuclear-bestia-se-olvido-pequena-detalle-tanque-que-llevaba-no-aguantaba-disparo",
+      "fuente": "Motorpasión (ES)",
+      "fecha": "2026-10-19T15:01:56Z",
+      "resumen": "Imagina un cañón tan potente que acaba rompiendo el tanque sobre el que está montado . No tiene mucho sentido, aun así es exactamente lo que hizo la URSS al principio de la Guerra Fría con los Kondensator y Oka , dos monstruos de 20 metros que se destrozaban a sí mismos al disparar. A mediados de los años cincuenta, la Guerra Fría iba camino de su punto álgido de paranoia, y Washington acababa de…",
+      "imagen": "https://i.blogs.es/31a078/hero-2a3-kondensator-2p/1024_2000.jpeg",
+      "menciones": 1,
+      "fuentes": [
+        "Motorpasión (ES)"
       ]
     }
   ]
