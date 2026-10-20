@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-20T17:59:07Z",
+  "actualizado": "2026-10-20T20:02:06Z",
   "desde": "2026-10-13",
   "hasta": "2026-10-20",
   "destacadas": [
@@ -25,7 +25,7 @@
       "fecha": "2026-10-20T18:00:43Z",
       "resumen": "Un SUV familiar de casi 4,7 metros, con 299 CV, mecánica híbrida enchufable y techo panorámico de serie por menos de 32.000 euros. Esa es la carta de presentación del Dongfeng MAGE PHEV , un recién llegado a España que apunta a quienes buscan un coche del tamaño de un Toyota RAV4 , pero tienen un presupuesto más ajustado. Más grande que un RAV4 y casi 15.000 euros menos Mide 4,69 metros y el…",
       "imagen": "https://www.diariomotor.com/imagenes/2026/10/dongfeng-mage-phev_port22-6ad75f7ace8db.jpg?class=XL",
-      "menciones": 41,
+      "menciones": 40,
       "fuentes": [
         "Autotest",
         "Diariomotor (ES)"
@@ -110,6 +110,18 @@
       ]
     },
     {
+      "titulo": "España tiene 400 millones para comprar coches eléctricos en 2026, pero ninguno garantizado para 2027",
+      "link": "https://www.diariomotor.com/noticia/fondos-disponibles-auto-plus-coche-electrico/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-10-20T20:00:55Z",
+      "resumen": "Comprar un coche eléctrico con ayudas públicas en 2026 y hacerlo en 2027 puede convertirse en dos cosas muy distintas. El Plan Auto+ cuenta este año con 400 millones de euros y ya acumula solicitudes por aproximadamente el 71% del presupuesto. Para el próximo ejercicio, sin embargo, todavía no hay financiación aprobada que garantice su continuidad. Para los particulares ya está solicitado casi el…",
+      "imagen": "https://www.diariomotor.com/imagenes/2025/10/Cambios-Tesla-Model-3-Model-Y-Standard-13-68e628dcb7596.jpg?class=XL",
+      "menciones": 1,
+      "fuentes": [
+        "Diariomotor (ES)"
+      ]
+    },
+    {
       "titulo": "Ocho años de espera y el Tesla Roadster ya tiene fecha: 1,9 segundos de 0 a 100 km/h y 1.000 km de autonomía",
       "link": "https://autotest.com.ar/noticias/ocho-anos-de-espera-y-el-tesla-roadster-ya-tiene-fecha-1-9-segundos-de-0-a-100-km-h-y-1-000-km-de-autonomia/",
       "fuente": "Autotest",
@@ -132,6 +144,42 @@
       "menciones": 1,
       "fuentes": [
         "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "Un alemán se niega a soplar en un control de alcoholemia en Galicia: “En Alemania no me obligan”",
+      "link": "https://www.motorpasion.com/revision/alemania-puedes-negarte-a-soplar-control-alcoholemia-mejor-ejemplo-que-ese-derecho-vale-poco",
+      "fuente": "Motorpasión (ES)",
+      "fecha": "2026-10-20T18:01:38Z",
+      "resumen": "Son las cuatro de la madrugada de un mes de agosto y llego al primer peaje de la AG-55 al salir de Coruña. Hay muchos -demasiados, pienso- coches y furgonetas aparcados a un lado con la gente fuera de sus coches. Señores mayores, jóvenes con su Ibiza maqueado, un montón de paisanos con sus coches con matrícula suiza, francesa o inglesa. Era la gente que no superó un control de alcoholemia y no…",
+      "imagen": "https://i.blogs.es/f3fce9/control-alcohol-guardia-civil-ok/1024_2000.jpeg",
+      "menciones": 1,
+      "fuentes": [
+        "Motorpasión (ES)"
+      ]
+    },
+    {
+      "titulo": "No es Kicks: el SUV de Nissan con precio accesible, motor turbo y cámara 360°",
+      "link": "https://autotest.com.ar/noticias/no-es-kicks-el-suv-de-nissan-con-precio-accesible-motor-turbo-y-camara-360/",
+      "fuente": "Autotest",
+      "fecha": "2026-10-20T18:00:26Z",
+      "resumen": "El Nissan Magnite se posiciona como uno de los modelos más vendidos de la marca en México, destacándose por su crecimiento y características urbanas.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/Nissan-Magnite-perfil-1.jpg",
+      "menciones": 1,
+      "fuentes": [
+        "Autotest"
+      ]
+    },
+    {
+      "titulo": "Subió fuerte la compra de autos mediante financiación",
+      "link": "https://eleconomista.com.ar/autos/subio-fuerte-compra-autos-mediante-financiacion-n99030",
+      "fuente": "El Economista",
+      "fecha": "2026-10-20T17:44:00Z",
+      "resumen": "Septiembre reflejó un alza tanto para la compra de 0 KM como de usados. No obstante, en el acumulado ambos mercados siguen debajo de lo que aconteció en 2025.",
+      "imagen": "https://statics.eleconomista.com.ar/2026/10/crop/6ad7b019e9a30__950x512.webp",
+      "menciones": 1,
+      "fuentes": [
+        "El Economista"
       ]
     },
     {
@@ -250,54 +298,6 @@
       "resumen": "La producción fue deliberadamente limitada: apenas 349 unidades, casi cuatro veces menos que las más de 1.300 del F40.",
       "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/un-ferrari-f50-rompi-el-r-cord-de-venta-1200x740-1.jpg",
       "menciones": 2,
-      "fuentes": [
-        "Autotest"
-      ]
-    },
-    {
-      "titulo": "El McLaren de Senna campeón 1991, a la venta: V12 de 730 CV y el último título del brasileño",
-      "link": "https://autotest.com.ar/noticias/el-mclaren-de-senna-campeon-1991-a-la-venta-v12-de-730-cv-y-el-ultimo-titulo-del-brasileno/",
-      "fuente": "Autotest",
-      "fecha": "2026-10-20T15:55:55Z",
-      "resumen": "La diferencia abre tres posibilidades: que se trate de un chasis específico con numeración interna distinta, una variante de exhibición preparada para eventos o un error en el listado difundido.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/el-mclaren-de-senna-campe-n-1991-a-la-ve-1200x740-1.jpg",
-      "menciones": 1,
-      "fuentes": [
-        "Autotest"
-      ]
-    },
-    {
-      "titulo": "Corvette V8 Touring: 495 CV y apenas 15 unidades para un mercado que casi no lo deja entrar",
-      "link": "https://autotest.com.ar/noticias/corvette-v8-touring-495-cv-y-apenas-15-unidades-para-un-mercado-que-casi-no-lo-deja-entrar/",
-      "fuente": "Autotest",
-      "fecha": "2026-10-20T15:55:55Z",
-      "resumen": "La edición limitada toma la base del Corvette C8, el primer Corvette de producción con motor central, que se vende globalmente desde fines de 2019.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/corvette-v8-touring-495-cv-y-apenas-15-u-1200x740-1.jpg",
-      "menciones": 1,
-      "fuentes": [
-        "Autotest"
-      ]
-    },
-    {
-      "titulo": "Toyota pide que los coches VEEF que quemen combustibles renovables cuenten como vehículos de cero emisiones",
-      "link": "https://www.diariomotor.com/noticia/toyota-pide-que-coches-combustibles-renovables-cuenten-como-vehiculos-cero-emisiones/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-10-20T15:39:12Z",
-      "resumen": "En una industria que hace todo lo posible por combatir a China, estamos viviendo continuos tiras y aflojas con propuestas que buscan relajar los objetivos de emisiones a corto y medio plazo. En este contexto, Toyota ha pedido públicamente que un coche con motor de combustión que expulse CO₂ por el escape pueda contar como vehículo de cero emisiones ante la normativa europea, siempre y cuando…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/10/toyota-grand-highlander-woodland-21-6ac3812b1025d.jpg?class=XL",
-      "menciones": 1,
-      "fuentes": [
-        "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "Así es la nueva Renault Duster que compite con Toyota y Volkswagen: 160 CV y doble pantalla de 10 pulgadas",
-      "link": "https://autotest.com.ar/noticias/asi-es-la-nueva-renault-duster-que-compite-con-toyota-y-volkswagen-160-cv-y-doble-pantalla-de-10-pulgadas/",
-      "fuente": "Autotest",
-      "fecha": "2026-10-20T15:30:35Z",
-      "resumen": "Renault se prepara para lanzar una Duster completamente renovada con nuevas motorizaciones híbridas y turbo, enfocándose en un diseño moderno y tecnológico para el segmento SUV compacto.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/07/Nuevo-Renault-Duster-teaser.jpg",
-      "menciones": 12,
       "fuentes": [
         "Autotest"
       ]
