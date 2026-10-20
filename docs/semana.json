@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-20T20:02:06Z",
+  "actualizado": "2026-10-20T22:40:35Z",
   "desde": "2026-10-13",
   "hasta": "2026-10-20",
   "destacadas": [
@@ -107,6 +107,42 @@
       "fuentes": [
         "Diariomotor (ES)",
         "Motorpasión (ES)"
+      ]
+    },
+    {
+      "titulo": "Fernando Alonso y Red Bull: dos fichajes que podrían haber cambiado la historia de la Fórmula 1",
+      "link": "https://www.diariomotor.com/competicion/noticia/fernando-alonso-red-bull-fichajes/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-10-20T22:37:40Z",
+      "resumen": "La Silly Season de cara a la temporada 2027 del Campeonato del Mundo de Fórmula 1 hace tiempo que quedó neutralizada después de confirmarse la renovación de Max Verstappen con Red Bull Racing. La parrilla del Gran Circo apenas se ha movido y nos ha mostrado una vez más cierto inmovilismo en las principales escuderías a la hora de realizar grandes modificaciones en sus alineaciones. En los últimos…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/10/fernando-alonso-red-bull-racing-f1-horner-1-6ad7cff1712de.jpg?class=XL",
+      "menciones": 1,
+      "fuentes": [
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "Una marca lanza la \"semana de los 0km\" con promociones y cuotas en autos y SUV",
+      "link": "https://www.iprofesional.com/autos/467057-lanzan-la-semana-de-los-0km-con-promociones-y-cuotas-en-autos-y-suv",
+      "fuente": "iProfesional",
+      "fecha": "2026-10-20T21:35:00Z",
+      "resumen": "La marca lanzó una acción bien agresiva para impulsar la venta de autos. Incluye toda la gama y diferentes herramientas según el cliente (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
+      "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/09/625159.jpg",
+      "menciones": 1,
+      "fuentes": [
+        "iProfesional"
+      ]
+    },
+    {
+      "titulo": "Más de la mitad de las ventas de autos 0km son financiadas y las marcas desplazan a bancos",
+      "link": "https://www.iprofesional.com/autos/467049-mas-del-50-de-las-ventas-de-autos-0km-fueron-financiadas",
+      "fuente": "iProfesional",
+      "fecha": "2026-10-20T20:50:00Z",
+      "resumen": "El crédito se volvió una herramienta muy útil para la compra de 0km, y las acciones de las automotrices impulsan cada vez más las compras (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
+      "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/10/627986.jpg",
+      "menciones": 1,
+      "fuentes": [
+        "iProfesional"
       ]
     },
     {
@@ -262,42 +298,6 @@
       "resumen": "La filtración de la guía de pedido no es un anuncio oficial de Ford, pero el documento interno para concesionarios deja poco margen de dudas.",
       "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/ford-ranger-2027-380-cv-y-597-nm-65-cv-m-1200x740-1.jpg",
       "menciones": 1,
-      "fuentes": [
-        "Autotest"
-      ]
-    },
-    {
-      "titulo": "Maserati MCPura: 621 CV y 2,9 segundos por USD 30.000 menos que un McLaren 750S",
-      "link": "https://autotest.com.ar/noticias/maserati-mcpura-621-cv-y-2-9-segundos-por-usd-30-000-menos-que-un-mclaren-750s/",
-      "fuente": "Autotest",
-      "fecha": "2026-10-20T15:55:55Z",
-      "resumen": "Lo que cambia es la piel: el frontal y la zaga adoptan rasgos del GT2 Stradale, la versión de pista del modelo, con tomas de aire más marcadas y una firma luminosa renovada.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/maserati-mcpura-621-cv-y-2-9-segundos-po-1200x740-1.jpg",
-      "menciones": 1,
-      "fuentes": [
-        "Autotest"
-      ]
-    },
-    {
-      "titulo": "El Pathfinder cumple 40 años y Nissan lo festeja cobrando casi 49.000 dólares por un tapizado",
-      "link": "https://autotest.com.ar/noticias/el-pathfinder-cumple-40-anos-y-nissan-lo-festeja-cobrando-casi-49-000-dolares-por-un-tapizado/",
-      "fuente": "Autotest",
-      "fecha": "2026-10-20T15:55:55Z",
-      "resumen": "Hoy la Pathfinder compite en el segmento de SUV medianas de tres filas, uno de los más competitivos de Estados Unidos.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/el-pathfinder-cumple-40-a-os-y-nissan-lo-1200x740-1.jpg",
-      "menciones": 1,
-      "fuentes": [
-        "Autotest"
-      ]
-    },
-    {
-      "titulo": "Un Ferrari F50 rompió el récord de venta en subasta: se pagó una cifra histórica por el superdeportivo de Maranello",
-      "link": "https://autotest.com.ar/noticias/un-ferrari-f50-rompio-el-record-de-venta-en-subasta-se-pago-una-cifra-historica-por-el-superdeportivo-de-maranello/",
-      "fuente": "Autotest",
-      "fecha": "2026-10-20T15:55:55Z",
-      "resumen": "La producción fue deliberadamente limitada: apenas 349 unidades, casi cuatro veces menos que las más de 1.300 del F40.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/un-ferrari-f50-rompi-el-r-cord-de-venta-1200x740-1.jpg",
-      "menciones": 2,
       "fuentes": [
         "Autotest"
       ]
