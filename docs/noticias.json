@@ -1,11 +1,467 @@
 [
   {
+    "titulo": "Cambiar el aceite al coche tú mismo está bien. Tirarlo al campo te puede costar una multa de un millón de euros",
+    "link": "https://www.motorpasion.com/revision/multa-tirar-campo-aceite-usado-tu-coche-filtros-neumaticos-varios-miles-euros-millon-ser-residuos-peligrosos",
+    "fuente": "Motorpasión (ES)",
+    "fecha": "2026-10-21T18:01:38Z",
+    "resumen": "En pleno 2026, todo el mundo debería tener claro que el aceite de motor usado está considerado como residuo peligroso en España y, como tal, debe desecharse de una forma concreta y no se puede tirar al suelo, a una alcantarilla, a un contenedor de basura o al medio del campo. Tampoco se pueden tirar en cualquier lado los neumáticos usados o los filtros viejos del coche. Sin embargo, todavía hay…",
+    "imagen": "https://i.blogs.es/aae798/neumaticos-mop-2_1/1024_2000.jpeg"
+  },
+  {
+    "titulo": "Ya le han puesto precio a la versión más barata del ID. Cross, un \"made in Spain\" que teniendo 116 CV gasta solo 1,4 € cada 100 km",
+    "link": "https://www.diariomotor.com/noticia/precio-volkswagen-id-cross-37-kwh/",
+    "fuente": "Diariomotor (ES)",
+    "fecha": "2026-10-21T19:00:04Z",
+    "resumen": "Un SUV pequeño por fuera, con 475 litros de maletero y fabricado en Navarra . El Volkswagen ID. Cross ya tenía argumentos para interesar a quienes buscan un eléctrico práctico, pero le faltaba ampliar su gama por abajo. Ahora llega la versión con batería de 37 kWh y hasta 324 kilómetros de autonomía , acompañada de un precio anunciado en España de 20.500 euros. Una cifra que exige mirar las…",
+    "imagen": "https://www.diariomotor.com/imagenes/2026/10/Volkswagen-ID-Cross-Match-37-kWh_port-6ad8cc106a169.jpg?class=XL"
+  },
+  {
+    "titulo": "La DGT y Protección Civil coinciden en que bastan 30 cm de profundidad para que el agua arrastre un coche. Qué hago si me encuentro con una carretera inundada",
+    "link": "https://www.motorpasion.com/seguridad/dgt-proteccion-civil-coinciden-que-bastan-30-cm-profundidad-agua-arrastre-coche-que-hago-me-encuentro-carretera-inundada",
+    "fuente": "Motorpasión (ES)",
+    "fecha": "2026-10-21T16:31:40Z",
+    "resumen": "Con parte del país azotado por las fuertes lluvias, lo ideal es permanecer atento a las predicciones y recomendaciones y, en la medida de lo posible, evitar conducir si nos encontramos en zonas afectadas. Pero para quienes no tengan otro remedio que coger el coche, la DGT recuerda las claves para conducir con fuertes lluvias de forma segura y cómo actuar en caso de vernos sorprendidos al volante…",
+    "imagen": "https://i.blogs.es/629754/aperlluvia/1024_2000.jpeg"
+  },
+  {
+    "titulo": "Eugene, jubilado de 71 años, vive en una camper plegable: “Llevo años viviendo así, pero hay algo que empieza a frenarme”",
+    "link": "https://www.motorpasion.com/furgonetas-y-caravanas/eugene-jubilado-71-anos-vive-camper-plegable-llevo-anos-viviendo-asi-hay-algo-que-empieza-a-frenarme",
+    "fuente": "Motorpasión (ES)",
+    "fecha": "2026-10-21T16:01:38Z",
+    "resumen": "A sus 71 años, Eugene Breindel lleva ocho años viviendo sobre ruedas y recorriendo EEUU. En 2018 compró una caravana plegable con la que decidió emprender una aventura sin fecha de regreso y, desde entonces, asegura haber acampado en 48 estados del país y visitado 284 parques nacionales . Su casa rodante es de todo menos convencional: hablamos de una Aliner Expedition de 2018 , una caravana de…",
+    "imagen": "https://i.blogs.es/0c8585/eugene/1024_2000.jpeg"
+  },
+  {
+    "titulo": "Si piensas en un todoterreno capaz, y casi irrompible, piensas en él, y ahora se puede conducir sin pedales",
+    "link": "https://www.diariomotor.com/noticia/toyota-land-cruiser-neo-steer/",
+    "fuente": "Diariomotor (ES)",
+    "fecha": "2026-10-21T18:00:19Z",
+    "resumen": "Estoy convencido de que sabes de qué te hablo. Toyota ha conseguido hacer del Toyota Land Cruiser uno de los referentes del todoterreno, no solo por sus capacidades 4x4, que las tiene y de las mejores, sino también por su fama de vehículo fiable y casi indestructible. La expansión de Toyota por todo el mundo, desde el Occidente más desarrollado, hasta países emergentes, han contribuido también a…",
+    "imagen": "https://www.diariomotor.com/imagenes/2026/10/toyota-land-cruiser-neo-steer-2026-detalles-06-6ad89fef16678.jpg?class=XL"
+  },
+  {
+    "titulo": "EEUU creó el todoterreno militar definitivo para jubilar al Humvee. Ahora va a fabricar un nuevo Humvee",
+    "link": "https://www.motorpasion.com/todoterrenos/eeuu-creo-todoterreno-militar-definitivo-para-jubilar-al-humvee-ahora-va-a-fabricar-nuevo-humvee",
+    "fuente": "Motorpasión (ES)",
+    "fecha": "2026-10-21T15:01:37Z",
+    "resumen": "EEUU lleva más de una década intentando jubilar al Humvee , el todoterreno militar por excelencia. Así nació el programa JLTV: un vehículo táctico ligero más moderno y ágil, con mejorado blindaje y capacidades. Pero la nueva versión de este sucesor, adjudicada a AM General (fabricante histórico del Humvee), se ha complicado bastante , con retrasos de producción. Si bien esta firma norteamericana…",
+    "imagen": "https://i.blogs.es/ac79e0/next-gen-humvee-01jpg/1024_2000.jpeg"
+  },
+  {
+    "titulo": "Ya sabemos cuánto cuesta el GTI español de 2026, un CUPRA con preparación ABT, diferencial autoblocante y 226 CV",
+    "link": "https://www.diariomotor.com/noticia/precio-cupra-raval-vz-custom-by-abt/",
+    "fuente": "Diariomotor (ES)",
+    "fecha": "2026-10-21T17:00:31Z",
+    "resumen": "El CUPRA Raval ya tiene su versión más radical y, aunque parece casi sacada del circuito, está homologada para circular por la calle (lógicamente). Se llama Raval VZ CUSTOM CUPRA by ABT , tiene 226 CV, un kit de carrocería inspirado en la competición y un chasis con más chucherías de las normales en un utilitario eléctrico. El VZ CUSTOM CUPRA by ABT ya está disponible en España CUPRA acaba de…",
+    "imagen": "https://www.diariomotor.com/imagenes/2026/10/Cupra-Raval-VZ-CUSTOM-CUPRA-by-ABT_port-6ad89d30506f6.jpg?class=XL"
+  },
+  {
+    "titulo": "La Chevrolet Tracker más barata: 132 CV, caja automática y seis airbags",
+    "link": "https://autotest.com.ar/noticias/la-chevrolet-tracker-mas-barata-132-cv-caja-automatica-y-seis-airbags/",
+    "fuente": "Autotest",
+    "fecha": "2026-10-21T17:00:06Z",
+    "resumen": "La Chevrolet Tracker LT 2026 es la opción más económica en la gama de SUV compactas de Chevrolet en Argentina, manteniendo un rendimiento destacable con su motor turbo de 132 CV.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/Chevrolet-Tracker-LT-trasera.jpg"
+  },
+  {
+    "titulo": "Ford Racing analiza la promoción de Frankie Muniz al programa oficial Mustang GT3 Evo",
+    "link": "https://www.diariomotor.com/competicion/noticia/ford-racing-promocion-frankie-muniz-mustang-gt3-evo/",
+    "fuente": "Diariomotor (ES)",
+    "fecha": "2026-10-21T16:17:33Z",
+    "resumen": "El piloto Frankie Muniz, nacido Francisco Muñiz, sigue llamando la atención por sus actuaciones en la pista, aunque es reconocido por su actuación en la popular serie televisiva 'Malcolm in the Middle', y por tal razón desde Ford Racing meditan la opción de concederle un espacio en su programa de fábrica asociado al Mustang GT3 Evo. Se han confirmado las primeras conversaciones para promover al ex…",
+    "imagen": "https://www.diariomotor.com/imagenes/2026/10/Frankie-Muniz_Ford_Racing_Mustang_GT4_2026_26-6ad8bb8b367f2.jpg?class=XL"
+  },
+  {
+    "titulo": "Hemos conducido el Land Rover de Omoda, el Freelander 8, que ahora tiene tamaño de Range Rover, seis plazas y 620 CV",
+    "link": "https://www.diariomotor.com/noticia/freelander-8-primer-contacto/",
+    "fuente": "Diariomotor (ES)",
+    "fecha": "2026-10-21T16:00:19Z",
+    "resumen": "Si recuerdas el Freelander como aquel Land Rover compacto con el que escaparse al campo, olvídalo porque el nuevo no tiene nada que ver. El Freelander 8 mide 5,1 metros (es más grande que un Range Rover), anuncia 620 CV y puede llevar hasta seis ocupantes , prestando tanto mimo a quienes viajan detrás como a quien conduce. Durante nuestro viaje a China con la marca hemos podido subirnos a él y…",
+    "imagen": "https://www.diariomotor.com/imagenes/2026/10/Freelander-8_port2-6ad8d251b35d8.jpg?class=XL"
+  },
+  {
+    "titulo": "Superior a Versa: así es el nuevo Nissan Sentra con diseño deportivo y más tecnología",
+    "link": "https://autotest.com.ar/noticias/superior-a-versa-asi-es-el-nuevo-nissan-sentra-con-diseno-deportivo-y-mas-tecnologia/",
+    "fuente": "Autotest",
+    "fecha": "2026-10-21T16:00:13Z",
+    "resumen": "El Nissan Sentra 2027 se renueva con un impacto visual más agresivo, innovaciones tecnológicas y un extenso paquete de asistencias de seguridad para enfrentar al Toyota Corolla.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/08/Nuevo-Nissan-Sentra-perfil-5.jpg"
+  },
+  {
+    "titulo": "¿Mejor que Toyota Corolla Cross? El SUV híbrido que combina precio competitivo, 299 CV y pantalla de 14,6 pulgadas",
+    "link": "https://autotest.com.ar/noticias/mejor-que-toyota-corolla-cross-el-suv-hibrido-que-combina-precio-competitivo-299-cv-y-pantalla-de-146-pulgadas/",
+    "fuente": "Autotest",
+    "fecha": "2026-10-21T15:00:34Z",
+    "resumen": "Llega a Argentina el Lynk & Co 06, un SUV híbrido enchufable que promete 299 CV de potencia y hasta 126 km de autonomía eléctrica a un precio competitivo.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/SUV-Lynk-Co-06-trompa.jpg"
+  },
+  {
+    "titulo": "207 CV y más de una tonelada de carga: cuánto cuesta la Chevrolet S10 más barata en octubre",
+    "link": "https://autotest.com.ar/noticias/207-cv-y-mas-de-una-tonelada-de-carga-cuanto-cuesta-la-chevrolet-s10-mas-barata-en-octubre/",
+    "fuente": "Autotest",
+    "fecha": "2026-10-21T15:00:10Z",
+    "resumen": "La Chevrolet S10 WT cabina simple 4x2 incrementó su precio un 3,5% en octubre, manteniéndose como la opción más económica del mercado con un motor turbodiésel de 207 CV.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/06/chevrolet-s10-wt-2.jpg"
+  },
+  {
+    "titulo": "Este icono de tu infancia fue criticado y denostado. 30 años después, superará los 20 millones en subasta",
+    "link": "https://www.diariomotor.com/noticia/subasta-ferrari-f50/",
+    "fuente": "Diariomotor (ES)",
+    "fecha": "2026-10-21T15:00:06Z",
+    "resumen": "Recuerdo como si fuera hoy cuando hice mi primera comunión. Y no por la trascendencia espiritual o por las fotos vestido de almirante, si no porque fue cuando me regalaron una maqueta a escala 1:18 del Ferrari F50 . Era la gran novedad de Ferrari por aquél entonces, y era una maqueta de Bburago que había que terminar de ensamblar. El F50 siempre me pareció espectacular y fascinante, pero en su…",
+    "imagen": "https://www.diariomotor.com/imagenes/2026/10/ferrari-f50-subasta-15-6ad88be601467.jpeg?class=XL"
+  },
+  {
+    "titulo": "El 29 de noviembre cambia la normativa de contaminación y llega un nuevo miedo: ¿Qué va a pasar con mi coche?",
+    "link": "https://www.motorpasion.com/industria/29-noviembre-entra-vigor-norma-euro-7-ella-nuevo-miedo-que-va-a-pasar-mi-coche",
+    "fuente": "Motorpasión (ES)",
+    "fecha": "2026-10-21T13:00:00Z",
+    "resumen": "Llevamos años leyendo sobre la Norma Euro 7 (lleva gestándose desde 2020): una ley que refuerza aún más las normas relativas a las emisiones de contaminantes de los vehículos y amplía su ámbito de aplicación más allá de las emisiones directas: incluye a las emisiones de los frenos y la abrasión de los neumáticos. Sí, a los vehículos eléctricos . El 29 de noviembre de 2026 entra en vigor , y hay…",
+    "imagen": "https://i.blogs.es/79ea08/concesionario/1024_2000.jpeg"
+  },
+  {
+    "titulo": "132 CV, motor turbo y caja automática: cuánto cuesta la pick up más barata de Chevrolet en octubre",
+    "link": "https://autotest.com.ar/noticias/132-cv-motor-turbo-y-caja-automatica-cuanto-cuesta-la-pick-up-mas-barata-de-chevrolet-en-octubre/",
+    "fuente": "Autotest",
+    "fecha": "2026-10-21T14:03:24Z",
+    "resumen": "La Chevrolet Montana LT automática ha experimentado un aumento del 1,5% en su precio frente a septiembre, manteniéndose como la pick up más accesible de la firma.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/Chevrolet-Montana.jpg"
+  },
+  {
+    "titulo": "Günther Fehlinger, experto en economía austriaco: “Limitar a 100 km/h los coches de gasolina también reduciría los accidentes mortales”",
+    "link": "https://www.motorpasion.com/seguridad/gunther-fehlinger-experto-economia-austriaco-limitar-a-100-km-h-coches-gasolina-tambien-reduciria-accidentes-mortales",
+    "fuente": "Motorpasión (ES)",
+    "fecha": "2026-10-21T12:01:38Z",
+    "resumen": "En los últimos días han vuelto a circular rumores por Internet sobre un supuesto plan europeo para limitar a 100 km/h la velocidad de los coches de gasolina y diésel, mientras los eléctricos podrían seguir circulando a 130 km/h. La idea ha generado polémica por el trato diferente a cada tecnología, pero Bruselas no ha aprobado esa medida ni está tramitando una ley para imponerla. El origen de la…",
+    "imagen": "https://i.blogs.es/605297/portada-mop-1792579322003/1024_2000.jpeg"
+  },
+  {
+    "titulo": "Menos de 33 millones: el hatchback rival de Toyota Yaris con motor turbo de 116 CV y seis airbags",
+    "link": "https://autotest.com.ar/noticias/menos-de-33-millones-el-hatchback-rival-de-toyota-yaris-con-motor-turbo-de-116-cv-y-seis-airbags/",
+    "fuente": "Autotest",
+    "fecha": "2026-10-21T14:00:37Z",
+    "resumen": "El Chevrolet Onix LT Turbo MT ofrece un motor turbo de 116 CV junto con un buen nivel de seguridad y conectividad, a un precio accesible para quienes buscan un hatchback compacto.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/Chevrolet-Onix-LT-Turbo-MT-perfil.jpg"
+  },
+  {
+    "titulo": "El Toyota Yaris de Honda es un híbrido espacioso y más práctico, y con 4,6 l/100 km es el coche perfecto para España",
+    "link": "https://www.diariomotor.com/noticia/oferta-honda-jazz-octubre-2026/",
+    "fuente": "Diariomotor (ES)",
+    "fecha": "2026-10-21T14:00:18Z",
+    "resumen": "Los híbridos de Toyota son referentes de mercado por derecho propio, con una fiabilidad, precio de reventa y consumos verdaderamente excepcionales . Pero siguen teniendo competencia, y en ocasiones, el mercado se olvida de ella. Es el caso de Honda. Son también japoneses, y también venden un vehículo full-hybrid de dimensiones muy contenidas . Es el Honda Jazz e:HEV, y es un curioso cruce entre…",
+    "imagen": "https://www.diariomotor.com/imagenes/2025/03/Honda-Jazz-HEV32-67c5ceb3498c6.jpg?class=XL"
+  },
+  {
+    "titulo": "Siete asientos, motor 1.8 y frenado autónomo: cuánto cuesta el familiar de Chevrolet",
+    "link": "https://autotest.com.ar/noticias/siete-asientos-motor-1-8-y-frenado-autonomo-cuanto-cuesta-el-familiar-de-chevrolet/",
+    "fuente": "Autotest",
+    "fecha": "2026-10-21T13:46:56Z",
+    "resumen": "Descubre el Chevrolet Spin Premier, la versión más completa de este modelo con siete asientos y caja automática, por menos de $44 millones en octubre.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/05/chevrolet-spin.jpg"
+  },
+  {
+    "titulo": "Volkswagen Nivus o T-Cross: mismo motor de 116 CV pero uno cuesta 1,4 millones menos",
+    "link": "https://autotest.com.ar/noticias/volkswagen-nivus-o-t-cross-mismo-motor-de-116-cv-pero-uno-cuesta-14-millones-menos/",
+    "fuente": "Autotest",
+    "fecha": "2026-10-21T13:33:19Z",
+    "resumen": "El Nivus Highline ofrece más asistencias de manejo y un precio menor que el T-Cross Comfortline, aunque ambos comparten motor y componentes.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2025/02/Volkswagen-Nivus-2025-frente-2.jpg"
+  },
+  {
+    "titulo": "BMW M Motorsport separa a Philipp Eng de su programa de pilotos",
+    "link": "https://www.diariomotor.com/competicion/noticia/bmw-philipp-eng-se-separan/",
+    "fuente": "Diariomotor (ES)",
+    "fecha": "2026-10-21T13:32:13Z",
+    "resumen": "BMW M Motorsport anunció la salida de Philipp Eng de su formación de pilotos para la próxima edición del Campeonato IMSA SportsCar en lo que respecta a la clase GTP. El experimentado piloto austriaco acompañó a Marco Wittmann durante toda la temporada a bordo del BMW M Hybrid V8 número 25 sumando dos podios. Desde su fichaje por parte de BMW M Motorsport, Eng ha permanecido once años defendiendo…",
+    "imagen": "https://www.diariomotor.com/imagenes/2026/10/Philipp_Eng_BMW_M_Motorsport_IMSA_WRT__2026_26-6ad89b1aa15bc.jpg?class=XL"
+  },
+  {
+    "titulo": "El SUV chino más vendido que compite contra Ford Territory: tiene 330 CV y amplio equipamiento",
+    "link": "https://autotest.com.ar/noticias/el-suv-chino-mas-vendido-que-compite-contra-ford-territory-tiene-330-cv-y-amplio-equipamiento/",
+    "fuente": "Autotest",
+    "fecha": "2026-10-21T13:30:15Z",
+    "resumen": "El BAIC BJ30 híbrido llega a Argentina con una propuesta que combina tracción 4x4, potencia híbrida de 330 CV y un completo paquete de seguridad que desafía a competidores como Ford y Toyota.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/BAIC-BJ30-teaser.jpg"
+  },
+  {
+    "titulo": "La pick up 4×4 más barata de Renault: motor turbo, 163 CV y 650 kg de capacidad de carga",
+    "link": "https://autotest.com.ar/noticias/la-pick-up-4x4-mas-barata-de-renault-motor-turbo-163-cv-y-650-kg-de-capacidad-de-carga/",
+    "fuente": "Autotest",
+    "fecha": "2026-10-21T13:13:15Z",
+    "resumen": "La Renault Oroch Outsider 4WD se destaca por su motor turbo de 163 CV, caja manual de seis marchas y tracción integral, a un precio competitivo en el mercado argentino.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/07/Renault-Oroch-la-pick-up-compacta-2.jpg"
+  },
+  {
+    "titulo": "Ya está en Lidl en oferta la hidrolimpiadora que te va a ahorrar paseos al túnel de lavado",
+    "link": "https://www.motorpasion.com/revision/corre-que-vuela-vuelve-a-lidl-esta-hidrolimpiadora-karcher-original-120-bares-que-cuesta-89-euros",
+    "fuente": "Motorpasión (ES)",
+    "fecha": "2026-10-21T11:01:39Z",
+    "resumen": "Con un 94% de clientes recomendándola, Lidl ha vuelto a sacar un limpiador de alta presión que te va a ahorrar muchos viajes -y arañazos- al túnel del lavado . Se trata de la hidrolimpiadora Karcher KHD 3 , cuyo precio es de 129,95 y que ahora está rebajada a 88,99 euros. Desde pequeñas superficies de jardín y terrazas hasta muebles de jardín, motos, vehículos... la suciedad no se va a resistir.…",
+    "imagen": "https://i.blogs.es/5d5132/portada-mop-1792576330440/1024_2000.jpeg"
+  },
+  {
+    "titulo": "Lo que Mercedes descubrió al estrellar, uno contra otro, dos de sus coches",
+    "link": "https://www.diariomotor.com/noticia/mercedes-cla-crash-test-frontolateral/",
+    "fuente": "Diariomotor (ES)",
+    "fecha": "2026-10-21T13:00:55Z",
+    "resumen": "En 2014 se presentaba la tercera generación del smart fortwo - que ahora regresa como smart #2 - y en el evento que nos habían preparado para probarlo nos encontrábamos con una sorpresa, un smart destrozado, junto a un Mercedes Clase S, con la decoración, y los puntos de control habituales en las pruebas que conocemos como crash test . Mercedes-Benz consideró una buena idea estrellar su coche más…",
+    "imagen": "https://www.diariomotor.com/imagenes/2026/10/mercedes-cla-crash-test-2026-exterior-39-6ad84d2868734.jpg?class=XL"
+  },
+  {
+    "titulo": "La Ford Ranger con motor V8 y 811 CV: así es la pick up superior a cualquier Toyota Hilux",
+    "link": "https://autotest.com.ar/noticias/la-ford-ranger-con-motor-v8-y-811-cv-asi-es-la-pick-up-superior-a-cualquier-toyota-hilux/",
+    "fuente": "Autotest",
+    "fecha": "2026-10-21T13:00:21Z",
+    "resumen": "Una Ford Ranger de 2001 recibió un V8 Godzilla llevado a 8.4 litros y se convirtió en una pick up con 811 CV y 978 Nm que supera tanto a otras versiones como a las diferentes rivales, entre ellas la Toyota Hilux. Su motor V8 de 8.4 litros atmosférico, lo más importante. El proyecto lo […]",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/Ford-Ranger-V8.jpg"
+  },
+  {
+    "titulo": "Renault Kardian automático: motor turbo de 120 CV y caja de seis marchas por menos de 44 millones",
+    "link": "https://autotest.com.ar/noticias/renault-kardian-automatico-motor-turbo-de-120-cv-y-caja-de-seis-marchas-por-menos-de-44-millones/",
+    "fuente": "Autotest",
+    "fecha": "2026-10-21T12:50:43Z",
+    "resumen": "En octubre de 2026, el Renault Kardian arrancará en $43.750.000 con un motor 1.0 turbo y caja automática de doble embrague. Explorá sus versiones y equipamiento.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/Renault-Kardian.jpg"
+  },
+  {
+    "titulo": "Más barato que Toyota Corolla: el sedán que cuesta menos de 30.000 dólares y tiene 212 CV",
+    "link": "https://autotest.com.ar/noticias/mas-barato-que-toyota-corolla-el-sedan-que-cuesta-menos-de-30-000-dolares-y-tiene-212-cv/",
+    "fuente": "Autotest",
+    "fecha": "2026-10-21T12:30:54Z",
+    "resumen": "Changan presenta el Eado Plus en Argentina con una propuesta híbrida enchufable atractiva para el segmento de sedanes medianos. Con un precio competitivo y un robusto equipamiento de seguridad, este modelo promete innovación y confort.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/08/Sedan-Changan-Eado-Plus-perfil.jpg"
+  },
+  {
+    "titulo": "Renault tiene dos SUV con motor turbo y casi el mismo precio: cuál ofrece más equipamiento",
+    "link": "https://autotest.com.ar/noticias/renault-tiene-dos-suv-con-motor-turbo-y-casi-el-mismo-precio-cual-ofrece-mas-equipamiento/",
+    "fuente": "Autotest",
+    "fecha": "2026-10-21T12:20:01Z",
+    "resumen": "Duster Iconic y Boreal Evolution se enfrentan con una diferencia mínima de precio: $1,75 millones. Analizamos motor, baúl, caja y seguridad.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/05/Renault-Boreal-Iconic-Prueba.jpg"
+  },
+  {
+    "titulo": "Pequeño por fuera, pero con 375 l de maletero, lleva más de 1 millón de unidades fabricadas en dos años, y ya se puede comprar en España por 13.590 €",
+    "link": "https://www.diariomotor.com/noticia/geely-e2-millon-unidades/",
+    "fuente": "Diariomotor (ES)",
+    "fecha": "2026-10-21T12:00:25Z",
+    "resumen": "Una de las claves (no es la única) de los coches chinos para ser económicos es su enorme escala y un buen ejemplo es el coche que en España se vende como Geely E2 , un recién llegado a nuestro país que, en apenas dos años, ya ha alcanzado el millón de unidades fabricadas. De 600.000 a un millón en apenas siete meses En China se llama Xingyuan y globalmente EX2 o E2, según el mercado. Y en apenas…",
+    "imagen": "https://www.diariomotor.com/imagenes/2026/10/Geely-E2_maletero-6ad8d1406e65c.jpg?class=XL"
+  },
+  {
+    "titulo": "904 CV y pantalla de 35,4 pulgadas: la nueva pick up que desafía a Toyota Hilux y Ford Ranger",
+    "link": "https://autotest.com.ar/noticias/904-cv-y-pantalla-de-354-pulgadas-la-nueva-pick-up-que-desafia-a-toyota-hilux-y-ford-ranger/",
+    "fuente": "Autotest",
+    "fecha": "2026-10-21T12:00:04Z",
+    "resumen": "La Jetour F700 es la nueva pick-up híbrida enchufable con 904 CV que Chery registró en Brasil, lista para revolucionar el mercado en 2027.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/Pick-up-Jetour-F700-perfil-2.jpg"
+  },
+  {
+    "titulo": "El SUV que cuesta menos que un Toyota Yaris Cross y ofrece motor turbo de 147 CV y cámara 360",
+    "link": "https://autotest.com.ar/noticias/el-suv-que-cuesta-menos-que-un-toyota-yaris-cross-y-ofrece-motor-turbo-de-147-cv-y-camara-360/",
+    "fuente": "Autotest",
+    "fecha": "2026-10-21T11:57:28Z",
+    "resumen": "El Chery Tiggo 4 Pro es una de las opciones de la marca para quienes buscan un SUV con motor turbo, transmisión automática y una dotación que incluya tecnología de confort y seguridad. En octubre, la versión 1.5T CVT Luxury FL se ubica por debajo de los 29.000 dólares y reúne elementos como cámara de […]",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/Chery-Tiggo-4-Pro-Luxury-accion-1.jpg"
+  },
+  {
+    "titulo": "Juan José Ebenezer, mecánico, sobre el aceite del coche: \"Debe salir negro y sucio, no le pasa nada al motor\"",
+    "link": "https://www.motorpasion.com/seguridad/juan-jose-ebenezer-mecanico-aceite-coche-debe-salir-negro-sucio-no-le-pasa-nada-al-motor",
+    "fuente": "Motorpasión (ES)",
+    "fecha": "2026-10-21T09:48:00Z",
+    "resumen": "He cambiado el aceite del coche hace poco, miro el nivel con la varilla , y ya está negro , ¿le pasa algo al motor? ¿El aceite es de mala calidad? Es la pregunta que se hacen muchos conductores. Nada más lejos de la realidad: es bueno que tenga ese color sucio, especialmente en los coches diésel. Lo explica Juan José Ebenezer, dueño de Talleres Ebenezer y que suele dar consejos y explicaciones…",
+    "imagen": "https://i.blogs.es/9da049/aceite-negro-coche-averia/1024_2000.jpeg"
+  },
+  {
+    "titulo": "Menos de 30.000 dólares: el SUV con 147 CV y techo panorámico que sorprende por su equipamiento",
+    "link": "https://autotest.com.ar/noticias/menos-de-30-000-dolares-el-suv-con-147-cv-y-techo-panoramico-que-sorprende-por-su-equipamiento/",
+    "fuente": "Autotest",
+    "fecha": "2026-10-21T11:45:12Z",
+    "resumen": "Descubre el nuevo Chery Tiggo 7 Pro Hybrid, un SUV microhíbrido con motor 1.5 turbo, caja CVT y avanzadas asistencias a la conducción, disponible en Argentina a un precio competitivo.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2025/12/Chery-Tiggo-Pro-7-accion-perfil.jpg"
+  },
+  {
+    "titulo": "Jorge, conductor de autobús en Alemania: “El mes que menos he cobrado han sido 2.580 euros y el que más, 3.200”",
+    "link": "https://www.motorpasion.com/videos-de-coches/jorge-conductor-autobus-alemania-mes-que-he-cobrado-han-sido-2-580-euros-que-3-200",
+    "fuente": "Motorpasión (ES)",
+    "fecha": "2026-10-21T09:31:42Z",
+    "resumen": "Tal y como han contado al Ideal de Granada , Jorge y Bea, naturales de Caparacena y Pinos Puente, respectivamente, decidieron marcharse a Alemania después de comprobar que sus ingresos en España no les permitían afrontar la reforma de una casa que habían comprado en el pueblo de él. La vivienda estaba prácticamente en ruinas y necesitaban reunir dinero para convertirla en un hogar. Más de un año…",
+    "imagen": "https://i.blogs.es/608844/portada-mop-1792573127379/1024_2000.jpeg"
+  },
+  {
+    "titulo": "4500 dólares menos: Toyota bajó el precio del Yaris con dos motores y 116 CV",
+    "link": "https://autotest.com.ar/noticias/4500-dolares-menos-toyota-bajo-el-precio-del-yaris-con-dos-motores-y-116-cv/",
+    "fuente": "Autotest",
+    "fecha": "2026-10-21T11:11:32Z",
+    "resumen": "Toyota bajó 3948 euros (4435 dólares) el precio del Yaris Hybrid Trendy en Europa para incrementar sus ventas y su liderazgo en un segmento que abunda de oferta. Esta rebaja no implica pérdida de potencia, equipamiento ni calidad de materiales; mantiene la mecánica híbrida con 116 CV y todos los aspectos. El hatch rival de, […]",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/Precio-Toyota-Yaris.jpg"
+  },
+  {
+    "titulo": "¿Cuánto dura la batería de un auto híbrido y qué hay que revisar al comprar uno usado?",
+    "link": "https://autotest.com.ar/noticias/cuanto-dura-la-bateria-de-un-auto-hibrido-y-que-hay-que-revisar-al-comprar-uno-usado/",
+    "fuente": "Autotest",
+    "fecha": "2026-10-21T11:00:59Z",
+    "resumen": "La batería de un híbrido usado puede durar cientos de miles de kilómetros, pero el dato clave antes de comprar es su estado de salud.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2021/05/TOYOTA-PRIUS.jpg"
+  },
+  {
+    "titulo": "Le pillaron por Córdoba con una pegatina de la ITV caducada y que no era suya. Le han absuelto porque \"no había voluntad de falsear\"",
+    "link": "https://www.motorpasion.com/seguridad/le-pillaron-cordoba-pegatina-itv-caducada-que-no-era-suya-le-han-absuelto-porque-no-habia-voluntad-falsear",
+    "fuente": "Motorpasión (ES)",
+    "fecha": "2026-10-21T09:00:50Z",
+    "resumen": "Hace unos meses se viralizó el caso de un conductor que dejó aparcada su furgoneta en Oviedo y cuando volvió le habían puesto una multa de 200 euros . ¿La razón? No había pasado la ITV. Un juez desestimó la multa porque, sencillamente, el vehículo no estaba circulando. Ahora conocemos otro caso en el que un conductor ha sido absuelto de pagar una multa de 540 euros por una pegatina de la ITV. No…",
+    "imagen": "https://i.blogs.es/d50a93/portada-mop-1792572988973/1024_2000.jpeg"
+  },
+  {
+    "titulo": "La versión más barata del Honda Elevate con CVT: 121 CV y caja automática a precio accesible",
+    "link": "https://autotest.com.ar/noticias/la-version-mas-barata-del-honda-elevate-con-cvt-121-cv-y-caja-automatica-a-precio-accesible/",
+    "fuente": "Autotest",
+    "fecha": "2026-10-21T11:00:49Z",
+    "resumen": "Eso sí: en este nivel, la franja LED horizontal del frontal es solo un elemento decorativo, sin iluminación.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/la-versi-n-m-s-barata-del-honda-elevate-1200x740-1.jpg"
+  },
+  {
+    "titulo": "El Celica vuelve después de 20 años con más de 400 CV y un motor que Toyota llama indestructible",
+    "link": "https://autotest.com.ar/noticias/el-celica-vuelve-despues-de-20-anos-con-mas-de-400-cv-y-un-motor-que-toyota-llama-indestructible/",
+    "fuente": "Autotest",
+    "fecha": "2026-10-21T11:00:42Z",
+    "resumen": "Toyota viene de demostrar con el GR Yaris y el GR Corolla que un motor chico turbo puede ser confiable, incluso con uso deportivo severo.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/el-celica-vuelve-despu-s-de-20-a-os-con-1200x740-1.jpg"
+  },
+  {
+    "titulo": "Parece una Fireblade de más de 25.000 €, pero por menos de la mitad tienes una superdeportiva de 4 cilindros",
+    "link": "https://www.diariomotor.com/noticia/honda-cbr600rr-my-2027/",
+    "fuente": "Diariomotor (ES)",
+    "fecha": "2026-10-21T11:00:05Z",
+    "resumen": "Lo que está preparando Honda es absolutamente espectacular. Tan espectacular que muchos especulan con que pueda acabar con la moto de culto que hoy nos ocupa. Honda nos desvelará muy pronto su gran obra maestra, un nuevo motor V3 sobrealimentado con un compresor eléctrico y, sobre todo, la moto que lo equipará. Mientras tanto, su tetracilíndrico tiene mucha vida. Tanta como para que haya inspirado…",
+    "imagen": "https://www.diariomotor.com/imagenes/2026/10/honda-cbr600rr-my-2027-6ad844774236e.jpg?class=XL"
+  },
+  {
+    "titulo": "Mercedes-Benz Camiones y Buses presente en AOG Patagonia 2026",
+    "link": "https://autotest.com.ar/transportes/mercedes-benz-camiones-y-buses-presente-en-aog-patagonia-2026/",
+    "fuente": "Autotest",
+    "fecha": "2026-10-21T10:49:17Z",
+    "resumen": "Mercedes-Benz Camiones y Buses participa en una nueva edición de Argentina Oil & Gas Patagonia (AOG Patagonia), uno de los principales encuentros de la industria hidrocarburífera de la región. En un espacio de 140 m² ubicado en una posición central dentro del predio, la marca de la estrella exhibe dos camiones pesados, Arocs y Actros, […]",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/mercedes-benz2.jpg"
+  },
+  {
+    "titulo": "Volvo presenta una nueva gestión de tecnologías de seguridad",
+    "link": "https://autotest.com.ar/transportes/volvo-presenta-una-nueva-gestion-de-tecnologias-de-seguridad/",
+    "fuente": "Autotest",
+    "fecha": "2026-10-21T10:38:57Z",
+    "resumen": "“La seguridad es un valor fundamental de Volvo. Siempre estamos a la vanguardia, en un compromiso permanente de mejorar tecnologías en busca de Cero Accidentes, ideal de futuro de la marca”, afirma Alcides Cavalcanti, director ejecutivo de Volvo Caminhões. Parada Controlada: Innovación en Seguridad Entre las novedades, la Parada Controlada es el mayor salto tecnológico. […]",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/volvo1.jpg"
+  },
+  {
+    "titulo": "Por primera vez una automotriz ofrece servicio de traslado al aeropuerto y conductor designado",
+    "link": "https://eleconomista.com.ar/autos/por-primera-vez-una-automotriz-ofrece-servicio-traslado-aeropuerto-conductor-designado-n99063",
+    "fuente": "El Economista",
+    "fecha": "2026-10-21T13:20:00Z",
+    "resumen": "OnStar, la plataforma de conectividad y asistencia que viene de serie en los Chevrolet, celebra su 30 aniversario con el lanzamiento de estas dos nuevas propuestas. ¿Cómo funcionan y quiénes las puedan aprovechar?",
+    "imagen": "https://statics.eleconomista.com.ar/2026/10/crop/6ad8bf5d14838__950x512.webp"
+  },
+  {
+    "titulo": "He conducido el Lepas L8: Omoda y Jaecoo tienen un nuevo primo hermano que copia sus puntos fuertes, y también los no tan fuertes",
+    "link": "https://www.motorpasion.com/pruebas-de-coches/prueba-lepas-l8-2026",
+    "fuente": "Motorpasión (ES)",
+    "fecha": "2026-10-21T08:01:40Z",
+    "resumen": "El gigante chino Chery llegó a España hace menos de dos años con Omoda y Jaecoo. A lo largo de este tiempo, ambas marcas han tenido muy buena acogida en nuestro mercado, por lo que Chery ha decidido traer otra marca más: Lepas. El primer modelo de esta marca china es el Lepas L8 , un SUV de 4,69 metros de largo que únicamente se ofrece con un conjunto híbrido enchufable de 279 CV, con 90 km de…",
+    "imagen": "https://i.blogs.es/4e4910/lepas-l8-2026-24/1024_2000.jpeg"
+  },
+  {
+    "titulo": "Mientras Europa se electrifica, va Mercedes y anuncia el regreso de su mayor monstruo de gasolina",
+    "link": "https://www.diariomotor.com/noticia/mercedes-regreso-motores-v12/",
+    "fuente": "Diariomotor (ES)",
+    "fecha": "2026-10-21T10:00:43Z",
+    "resumen": "En Mercedes han aprendido la lección. La electrificación puede ser el futuro, pero mientras llega, el mercado pide motores gasolina y más aún cuando se trata de coches deportivos . Es por ello que en Mercedes han cogido impulso y ya no se conforman sólo con los V8, sino que ahora prometen un nuevo modelo con motor de 12 cilindros . Así es, en un momento donde todo apuntaba a que los motores V12…",
+    "imagen": "https://www.diariomotor.com/imagenes/2026/07/Mercedes-Benz-G650-Maybach-Landaulet-exterior_4-6a5a0101a537f.jpg?class=XL"
+  },
+  {
+    "titulo": "Precios de la gasolina hoy, 21 de octubre",
+    "link": "https://www.motorpasion.com/industria/precios-gasolina-hoy-21-octubre",
+    "fuente": "Motorpasión (ES)",
+    "fecha": "2026-10-21T07:40:00Z",
+    "resumen": "El petróleo sigue moviéndose por encima de los 110 dólares por barril , unos 98 euros al cambio actual, una cotización que mantiene la presión sobre el precio de la gasolina y el diésel en España. Aunque la rebaja fiscal ayuda a contener el coste de los carburantes, cada céntimo cuenta cuando toca llenar el depósito, especialmente para quienes utilizan el coche a diario. Con este escenario…",
+    "imagen": "https://i.blogs.es/76c75e/engin-akyurt-4dor247shai-unsplash/1024_2000.jpeg"
+  },
+  {
+    "titulo": "Europa decide matar al diésel, la gasolina, y los híbridos, pero solo un poco, y lentamente",
+    "link": "https://www.diariomotor.com/noticia/europa-acabar-diesel-gasolina-hibridos-poco-lentamente/",
+    "fuente": "Diariomotor (ES)",
+    "fecha": "2026-10-21T09:30:24Z",
+    "resumen": "Culebrón en Bruselas. A estas alturas, Europa debería haber asumido el fin irremediable del diésel y la gasolina, previsto por la vía de la prohibición para 2035. Pero las cosas no salieron como se esperaba. La reducción de emisiones de los fabricantes presentes en la Unión Europea no está cumpliendo los objetivos, no se están vendiendo tantos eléctricos como se esperaba a estas alturas, y el tabú…",
+    "imagen": "https://www.diariomotor.com/imagenes/2026/10/europa-fin-diesel-gasolina-6ad85a3a0746f.jpg?class=XL"
+  },
+  {
+    "titulo": "La Fórmula 1 quiere volver a usar los motores V8. Fernando Alonso cree que \"ya no encajan en el mundo actual\"",
+    "link": "https://www.motorpasion.com/formula1/formula-1-quiere-volver-a-usar-motores-v8-fernando-alonso-cree-que-no-encajan-mundo-actual",
+    "fuente": "Motorpasión (ES)",
+    "fecha": "2026-10-21T07:01:40Z",
+    "resumen": "La noticia de que la Fórmula 1 volverá a utilizar motores V8 ha sido recogida por entusiasmo por todos. O más bien, por casi todos. Porque a los nuevos planes de la Fórmula 1 les ha salido un enemigo inesperado: Fernando Alonso . El piloto asturiano considera que los motores V8 no son la mejor solución en el mundo actual. Pese a que él ganó sus mundiales con motores V10 y V8, Alonso considera que…",
+    "imagen": "https://i.blogs.es/6f0b02/alonso-v8/1024_2000.jpeg"
+  },
+  {
+    "titulo": "La letra pequeña tras el Tesla Roadster que no te garantiza su entrega, ni siquiera pagándolo",
+    "link": "https://www.diariomotor.com/noticia/tesla-no-garantiza-entrega-roadster/",
+    "fuente": "Diariomotor (ES)",
+    "fecha": "2026-10-21T09:00:25Z",
+    "resumen": "Tesla lo ha vuelto a hacer, o esa es la reflexión que podríamos extraer de la presentación del Tesla Roadster . La segunda generación del superdeportivo de Tesla ha dejado en shock al mundo, no es para menos, sin embargo hacerte con uno de ellos, incluso pagándolo, no será nada fácil y tanto es así que ni siquiera la marca te garantiza que algún día vayas a tener tu coche. Casi 10 años después del…",
+    "imagen": "https://www.diariomotor.com/imagenes/2026/10/Diseno-Tesla-Roadster-2026-28-6ad1dff1e8e66.jpg?class=XL"
+  },
+  {
+    "titulo": "La caravana perfecta existe y es esta preciosidad neoretro de tamaño compacto, muy equipada y de extraordinaria calidad",
+    "link": "https://www.diariomotor.com/noticia/eriba-touring-2027/",
+    "fuente": "Diariomotor (ES)",
+    "fecha": "2026-10-21T08:00:32Z",
+    "resumen": "Viajar con la casa a cuestas no entiende de estaciones y cada vez son más los que apuestan por las caravanas para escaparse unos días o lanzarse a recorrer mundo sin demasiados planes. Su gran ventaja es que puedes instalarte donde más te apetezca y utilizar tu propio coche para descubrir los alrededores sin tener que mover todo el tinglado. Entre las muchas opciones que ofrece el mercado hay una…",
+    "imagen": "https://www.diariomotor.com/imagenes/2026/05/Nueva-Eirba-Touring7-6a1978cfef096.jpg?class=XL"
+  },
+  {
+    "titulo": "Tracción 2x2, toma de fuerza y ruedas de tractor para la verdadera moto todoterreno que se vende en Estados Unidos",
+    "link": "https://www.diariomotor.com/noticia/rokon-mototractor/",
+    "fuente": "Diariomotor (ES)",
+    "fecha": "2026-10-21T07:00:12Z",
+    "resumen": "Se arranca tirando de una cuerda, como si fuera una desbrozadora, lleva una extraña suspensión delantera por un buen motivo y cada llanta es también un depósito de 10 litros. Se llama Rokon Mototractor y es una pequeña mula de carga pensada para el mundo agrícola y campestre llena de posibilidades. Claves del Rokon Mototractor Capacidad de remolque de 907kg . Ingenioso sistema de tracción a las 2…",
+    "imagen": "https://www.diariomotor.com/imagenes/2026/04/Rokon-Mototractor_36-69dcbac11ed50.jpg?class=XL"
+  },
+  {
+    "titulo": "Honda va a por todas, y revienta el mercado con una deportiva con más cilindros que tu coche y prácticamente el precio de tu scooter",
+    "link": "https://www.diariomotor.com/motos/honda-cbr500r-four/",
+    "fuente": "Diariomotor (ES)",
+    "fecha": "2026-10-21T06:00:25Z",
+    "resumen": "Son las Honda más deseadas. Cuatro cilindros, sonido embriagador, y un alto régimen de giro. Pero para entrar en el mundo CBR de cuatro cilindros, hasta ahora, nos teníamos que ir a los más de 10.000 euros de una Honda CBR650R. Si además queríamos una verdadera RR, hasta hace no tanto no quedaba otra que irse hasta una Fireblade… y entonces llegó la Honda CBR600RR para cambiarlo todo y convertirse…",
+    "imagen": "https://www.diariomotor.com/imagenes/2026/10/honda-cbr500r-four-6ad8258e9344b.jpg?class=XL"
+  },
+  {
+    "titulo": "Honda celebrará su gran premio número 500 en el Circuito de las Américas",
+    "link": "https://www.diariomotor.com/competicion/noticia/honda-gran-premio-500-austin/",
+    "fuente": "Diariomotor (ES)",
+    "fecha": "2026-10-21T01:59:45Z",
+    "resumen": "Según sus cifras históricas, Honda Racing estaría celebrando su gran premio número 500 en el venidero Gran Premio de Estados Unidos, así que bastante ha transcurrido desde que el fabricante japonés se presentó en la parrilla del Gran Premio de Alemania de 1964 con su propio monoplaza, el RA271, el motor V12 RA271E y el piloto estadounidense Ronald James \"Ronnie\" Bucknum. Desde entonces han…",
+    "imagen": "https://www.diariomotor.com/imagenes/2026/10/Honda_Racing_Edicion_Conmemorativa_2026_5_26-6ad7f4ea1a652.jpg?class=XL"
+  },
+  {
     "titulo": "Fernando Alonso y Red Bull: dos fichajes que podrían haber cambiado la historia de la Fórmula 1",
     "link": "https://www.diariomotor.com/competicion/noticia/fernando-alonso-red-bull-fichajes/",
     "fuente": "Diariomotor (ES)",
     "fecha": "2026-10-20T22:37:40Z",
     "resumen": "La Silly Season de cara a la temporada 2027 del Campeonato del Mundo de Fórmula 1 hace tiempo que quedó neutralizada después de confirmarse la renovación de Max Verstappen con Red Bull Racing. La parrilla del Gran Circo apenas se ha movido y nos ha mostrado una vez más cierto inmovilismo en las principales escuderías a la hora de realizar grandes modificaciones en sus alineaciones. En los últimos…",
     "imagen": "https://www.diariomotor.com/imagenes/2026/10/fernando-alonso-red-bull-racing-f1-horner-1-6ad7cff1712de.jpg?class=XL"
+  },
+  {
+    "titulo": "Una marca lanza la \"semana de los 0km\" con promociones y cuotas en autos y SUV",
+    "link": "https://www.iprofesional.com/autos/467057-lanzan-la-semana-de-los-0km-con-promociones-y-cuotas-en-autos-y-suv",
+    "fuente": "iProfesional",
+    "fecha": "2026-10-20T21:35:00Z",
+    "resumen": "La marca lanzó una acción bien agresiva para impulsar la venta de autos. Incluye toda la gama y diferentes herramientas según el cliente (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
+    "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/09/625159.jpg"
+  },
+  {
+    "titulo": "Más de la mitad de las ventas de autos 0km son financiadas y las marcas desplazan a bancos",
+    "link": "https://www.iprofesional.com/autos/467049-mas-del-50-de-las-ventas-de-autos-0km-fueron-financiadas",
+    "fuente": "iProfesional",
+    "fecha": "2026-10-20T20:50:00Z",
+    "resumen": "El crédito se volvió una herramienta muy útil para la compra de 0km, y las acciones de las automotrices impulsan cada vez más las compras (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
+    "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/10/627986.jpg"
   },
   {
     "titulo": "España tiene 400 millones para comprar coches eléctricos en 2026, pero ninguno garantizado para 2027",
@@ -22,14 +478,6 @@
     "fecha": "2026-10-20T19:00:19Z",
     "resumen": "Quédate bien con esta moto porque se va a hablar mucho de ella. Hace apenas unos días Ducati nos desvelaba su nueva Panigale V4, constatando un hecho, cómo la tetracilíndrica sigue subiendo enteros y pareciendo cada vez más una MotoGP de calle, y alejándose de una Panigale V2 que sigue siendo una deportiva espectacular, abierta a un público más extenso que nunca, especialmente desde que amplió su…",
     "imagen": "https://www.diariomotor.com/imagenes/2026/10/zxmoto-820rr-6ad5cca872edf.jpg?class=XL"
-  },
-  {
-    "titulo": "Una marca lanza la \"semana de los 0km\" con promociones y cuotas en autos y SUV",
-    "link": "https://www.iprofesional.com/autos/467057-lanzan-la-semana-de-los-0km-con-promociones-y-cuotas-en-autos-y-suv",
-    "fuente": "iProfesional",
-    "fecha": "2026-10-20T21:35:00Z",
-    "resumen": "La marca lanzó una acción bien agresiva para impulsar la venta de autos. Incluye toda la gama y diferentes herramientas según el cliente (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
-    "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/09/625159.jpg"
   },
   {
     "titulo": "Un alemán se niega a soplar en un control de alcoholemia en Galicia: “En Alemania no me obligan”",
@@ -56,14 +504,6 @@
     "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/Nissan-Magnite-perfil-1.jpg"
   },
   {
-    "titulo": "Más de la mitad de las ventas de autos 0km son financiadas y las marcas desplazan a bancos",
-    "link": "https://www.iprofesional.com/autos/467049-mas-del-50-de-las-ventas-de-autos-0km-fueron-financiadas",
-    "fuente": "iProfesional",
-    "fecha": "2026-10-20T20:50:00Z",
-    "resumen": "El crédito se volvió una herramienta muy útil para la compra de 0km, y las acciones de las automotrices impulsan cada vez más las compras (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
-    "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/10/627986.jpg"
-  },
-  {
     "titulo": "Subió fuerte la compra de autos mediante financiación",
     "link": "https://eleconomista.com.ar/autos/subio-fuerte-compra-autos-mediante-financiacion-n99030",
     "fuente": "El Economista",
@@ -78,6 +518,14 @@
     "fecha": "2026-10-20T17:31:40Z",
     "resumen": "Saab ya no fabrica coches, pero sí submarinos militares que funcionan sólos y cuestan la friolera ded 5,5 millones la unidad. Es la última colaboración con el Gobierno nacional, que busca reforzar la vigilancia militar bajo el mar de la mano de la compañía que un día fabricó coches. Pues de los coches, a los submarinos; el submarino de Saab funciona sin tripulación, de manera autónoma, y ha pasado…",
     "imagen": "https://i.blogs.es/0568b7/saab-portada/1024_2000.jpeg"
+  },
+  {
+    "titulo": "Volkswagen también apuesta por la tasa 0%",
+    "link": "https://eleconomista.com.ar/autos/volkswagen-tambien-apuesta-tasa-0-n99033",
+    "fuente": "El Economista",
+    "fecha": "2026-10-20T20:20:00Z",
+    "resumen": "La marca lanza la \"Semana de los 0 KM\" en la que ofrece beneficios exclusivos con tasa sin interés y bonificaciones.",
+    "imagen": "https://statics.eleconomista.com.ar/2026/10/crop/6ad7c2008c15d__950x512.webp"
   },
   {
     "titulo": "Así es el BMW iX4: un iX3 con el techo caído que le saca más de 120 km de autonomía a sus rivales alemanes. Y que ya está a la venta",
