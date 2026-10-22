@@ -1,8 +1,36 @@
 {
-  "actualizado": "2026-10-21T22:45:41Z",
-  "desde": "2026-10-14",
-  "hasta": "2026-10-21",
+  "actualizado": "2026-10-22T17:59:13Z",
+  "desde": "2026-10-15",
+  "hasta": "2026-10-22",
   "destacadas": [
+    {
+      "titulo": "Se lanzó el Jeep Avenger: a qué precio y con qué financiación",
+      "link": "https://eleconomista.com.ar/autos/se-lanzo-jeep-avenger-precio-financiacion-n99132",
+      "fuente": "El Economista",
+      "fecha": "2026-10-22T17:20:00Z",
+      "resumen": "Se trata del nuevo modelo de entrada de la marca, que se posiciona por debajo de Renegade. Fabricado en Brasil, arriba en tres versiones y estrena motorización micro-híbrida.",
+      "imagen": "https://statics.eleconomista.com.ar/2026/10/crop/6ada26a7f0d87__950x512.webp",
+      "menciones": 4,
+      "fuentes": [
+        "Autotest",
+        "El Economista",
+        "Megautos"
+      ]
+    },
+    {
+      "titulo": "Mercedes-Benz Camiones y Buses está presente en AOG Patagonia 2026",
+      "link": "https://eleconomista.com.ar/autos/mercedes-benz-camiones-buses-esta-presente-aog-patagonia-2026-n99123",
+      "fuente": "El Economista",
+      "fecha": "2026-10-22T02:32:00Z",
+      "resumen": "Exhibe el Arocs 4848 K/45 y el Actros 2651 S/36 Pack Off-Road junto a soluciones diseñadas para responder a las exigencias de la industria energética.",
+      "imagen": "https://statics.eleconomista.com.ar/2026/10/crop/6ada1e9e6d411__950x512.webp",
+      "menciones": 3,
+      "fuentes": [
+        "Autotest",
+        "El Economista",
+        "iProfesional"
+      ]
+    },
     {
       "titulo": "BYD lanzó el Ti7 en Argentina",
       "link": "https://www.megautos.com/byd-ti7/",
@@ -10,35 +38,60 @@
       "fecha": "2026-10-19T18:41:34Z",
       "resumen": "El SUV producido en China está equipado con una mecánica híbrida enchufable con 354 CV, tracción integral, con 1.015 kilómetros de autonomía. Está disponible con una gama con dos versiones. La entrada BYD lanzó el Ti7 en Argentina aparece primero en Mega Autos .",
       "imagen": "https://www.megautos.com/wp-content/uploads/2026/10/BYD-Ti7-11.jpg",
-      "menciones": 6,
+      "menciones": 3,
       "fuentes": [
         "Autotest",
-        "Diariomotor (ES)",
         "iProfesional",
         "Megautos"
       ]
     },
     {
-      "titulo": "157 CV y ocho airbags: el SUV que compite contra Ford Territory por menos de 60 millones",
-      "link": "https://autotest.com.ar/noticias/descubre-el-nuevo-honda-zr-v-touring-suv-potencia-y-seguridad-a-un-precio-competitivo/",
+      "titulo": "Cuesta 10.000 dólares: el hatchback rival de Toyota Yaris se renovó con seis airbags y más tecnología",
+      "link": "https://autotest.com.ar/noticias/cuesta-10-000-dolares-el-hatchback-rival-de-toyota-yaris-se-renovo-con-seis-airbags-y-mas-tecnologia/",
       "fuente": "Autotest",
-      "fecha": "2026-10-21T20:01:51Z",
-      "resumen": "El Honda ZR-V Touring ofrece un motor naftero de 157 CV, ocho airbags y el avanzado sistema de asistencia Honda Sensing, todo por menos de $60 millones.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/Honda-ZR-V-5.jpg",
-      "menciones": 31,
+      "fecha": "2026-10-22T17:42:24Z",
+      "resumen": "El Suzuki Baleno 2026 llega con un diseño actualizado, mejoras en seguridad y un motor eficiente que promete menos consumo. Descubre las novedades de este hatchback producido en India.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/Hatchback-Suzuki-Baleno-accion.jpg",
+      "menciones": 54,
       "fuentes": [
         "Autotest",
         "Diariomotor (ES)"
       ]
     },
     {
-      "titulo": "El nuevo SUV híbrido con diseño moderno y 224 CV que competirá contra Toyota Yaris Cross",
-      "link": "https://autotest.com.ar/noticias/el-nuevo-suv-hibrido-con-diseno-moderno-y-224-cv-que-competira-contra-toyota-yaris-cross/",
-      "fuente": "Autotest",
-      "fecha": "2026-10-21T18:00:37Z",
-      "resumen": "El Omoda 4 híbrido debuta en Brasil en 2027 con un sistema híbrido avanzado, posicionándose entre los líderes del segmento SUV compacto.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/SUV-Omoda-4-perfil.jpg",
-      "menciones": 19,
+      "titulo": "No hace falta comprarse un coche chino para tener un SUV eléctrico barato: este se fabrica en España, tiene 475 litros de maletero y cuesta 18.500 euros",
+      "link": "https://www.motorpasion.com/compra-coches/skoda-epiq-40-2026-precio",
+      "fuente": "Motorpasión (ES)",
+      "fecha": "2026-10-22T15:38:00Z",
+      "resumen": "El coche eléctrico más barato de Skoda es el Skoda Epiq . Y ahora este SUV urbano cumple aún más esa premisa porque acaba de lanzar una nueva versión de acceso que no llega a los 20.000 euros, con descuentos y ayudas. A diferencia de los modelos eléctricos chinos, el de Skoda se fabrica en España , así que puede optar al incentivo máximo del Plan Auto+ (4.500 euros). Entre sus credenciales, 135 CV…",
+      "imagen": "https://i.blogs.es/993688/skoda-epic-40-precios-01/1024_2000.jpeg",
+      "menciones": 3,
+      "fuentes": [
+        "Diariomotor (ES)",
+        "Motorpasión (ES)"
+      ]
+    },
+    {
+      "titulo": "Mercedes-AMG presentó un SUV eléctrico de hasta 1.169 CV",
+      "link": "https://www.megautos.com/mercedes-amg-gt-suv/",
+      "fuente": "Megautos",
+      "fecha": "2026-10-22T14:12:45Z",
+      "resumen": "El nuevo Mercedes-AMG GT SUV combina prestaciones de superdeportivo con el espacio y el confort de un vehículo familiar. Tiene tres versiones, hasta 700 kilómetros de autonomía y una capacidad de carga ultrarrápida. La entrada Mercedes-AMG presentó un SUV eléctrico de hasta 1.169 CV aparece primero en Mega Autos .",
+      "imagen": "https://www.megautos.com/wp-content/uploads/2026/10/26C0332_076.jpg",
+      "menciones": 2,
+      "fuentes": [
+        "Diariomotor (ES)",
+        "Megautos"
+      ]
+    },
+    {
+      "titulo": "El Porsche Cayenne de Lotus es, irónicamente, el anti-Lotus, pero también 70.000 € más barato con casi 1.000 CV y sin necesidad de encender su motor de gasolina durante 350 km (+vídeo)",
+      "link": "https://www.diariomotor.com/noticia/prueba-lotus-eletre-x/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-10-22T14:00:05Z",
+      "resumen": "Cuando pensamos en un Lotus pensamos en un deportivo bi-plaza, bajo, incómodo, con cambio manual, ligero y muy radical. Cúmulo de epítetos que nos hacen suspirar a los petrolheads . Entonces cuando escuchamos que un Lotus pesa más de 2.600 kg, tiene cinco plazas, y casi 1.000 CV uno piensa: ¿qué c*****s es esto? El anti-Lotus es uno de los mejores SUV PHEV del momento Pero claro, para juzgar algo…",
+      "imagen": "https://www.diariomotor.com/imagenes/2022/03/lotus-eletre-2023-12-62435deab6407.jpg?class=XL",
+      "menciones": 4,
       "fuentes": [
         "Autotest",
         "Diariomotor (ES)"
@@ -58,19 +111,6 @@
       ]
     },
     {
-      "titulo": "Mercedes-Benz Camiones y Buses presente en AOG Patagonia 2026",
-      "link": "https://autotest.com.ar/transportes/mercedes-benz-camiones-y-buses-presente-en-aog-patagonia-2026/",
-      "fuente": "Autotest",
-      "fecha": "2026-10-21T10:49:17Z",
-      "resumen": "Mercedes-Benz Camiones y Buses participa en una nueva edición de Argentina Oil & Gas Patagonia (AOG Patagonia), uno de los principales encuentros de la industria hidrocarburífera de la región. En un espacio de 140 m² ubicado en una posición central dentro del predio, la marca de la estrella exhibe dos camiones pesados, Arocs y Actros, […]",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/mercedes-benz2.jpg",
-      "menciones": 2,
-      "fuentes": [
-        "Autotest",
-        "iProfesional"
-      ]
-    },
-    {
       "titulo": "Fiat lanzará un nuevo modelo: costará menos de 17000 dólares y tendrá base de Citroën 2CV",
       "link": "https://autotest.com.ar/noticias/fiat-lanzara-un-nuevo-modelo-costara-menos-de-17000-dolares-y-tendra-base-de-citroen-2cv/",
       "fuente": "Autotest",
@@ -81,19 +121,6 @@
       "fuentes": [
         "Autotest",
         "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "Europa convencida de que está acabando con el motor de combustión y llega Japón y planta, por 25.000 € menos que los alemanes, un seis cilindros diésel en un SUV con tamaño de BMW X3",
-      "link": "https://www.diariomotor.com/noticia/oferta-mazda-cx-60-octubre-2026/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-10-19T19:18:54Z",
-      "resumen": "Con el objetivo de acabar con el motor de combustión en 2035 es normal que salten de nuevo las alarmas sobre el futuro de la industria. Pero mientras que Europa da por zanjado el asunto, aparece Japón con no solo un SUV más barato que los alemanes y con tamaño de BMW X3, sino también con un seis cilindros diésel y etiqueta ECO . Mazda consigue nadar a contracorriente con un seis cilindros diésel…",
-      "imagen": "https://www.diariomotor.com/imagenes/2022/09/mazda-cx-60-phev-2022-27-63199610e7943.jpg?class=XL",
-      "menciones": 2,
-      "fuentes": [
-        "Diariomotor (ES)",
-        "Motorpasión (ES)"
       ]
     },
     {
@@ -110,196 +137,171 @@
       ]
     },
     {
-      "titulo": "El coche de gasolina no morirá: Volkswagen, Stellantis y Renault se han unido contra Bruselas para salvarlo",
-      "link": "https://www.motorpasion.com/industria/volkswagen-stellantis-renault-quieren-ser-tres-grandes-detroit-luchar-bruselas-para-salvar-coche-combustion",
-      "fuente": "Motorpasión (ES)",
-      "fecha": "2026-10-19T10:00:00Z",
-      "resumen": "Después de años y años con el 2030 marcado en rojo en el calendario, la futura prohibición de los motores de combustión en Europa se ha convertido en un \"que viene el lobo\". Pero el lobo no va a venir. Bruselas sigue empantanada con los grupos de presión, que no van a permitir que dicha prohibición se cumpla. Entre estos grupos de presión se encuentran Alemania, Francia e Italia : de hecho…",
-      "imagen": "https://i.blogs.es/bf5fb0/portada-mop-1792403240209/1024_2000.jpeg",
-      "menciones": 2,
-      "fuentes": [
-        "Diariomotor (ES)",
-        "Motorpasión (ES)"
-      ]
-    },
-    {
-      "titulo": "Estados Unidos se llena de colores especiales: Ferrari, Mercedes y Aston Martin renuevan sus monoplazas",
-      "link": "https://www.diariomotor.com/competicion/noticia/estados-unidos-gp-libreas-ferrari-mercedes-aston/",
+      "titulo": "Renault recupera el espíritu de los Clio de rallyes con una nueva versión Rally5",
+      "link": "https://www.diariomotor.com/competicion/noticia/renault-clio-rally5-2027/",
       "fuente": "Diariomotor (ES)",
-      "fecha": "2026-10-21T23:10:13Z",
-      "resumen": "El Campeonato del Mundo de Fórmula 1 visita Estados Unidos de nuevo y como suele ser habitual, los equipos han decidido vestirse con sus mejores galas para lucir aún más sobre el asfalto del Circuito de Las Américas. Ferrari, Mercedes-AMG F1 y Aston Martin han confirmado que contarán con libreas alternativas para sus respectivos monoplazas. El último en presentarla este miércoles ha sido…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/10/F1_F678_AUSTIN_stills-1-6ad92a1c199b7.jpg?class=XL",
+      "fecha": "2026-10-22T19:17:44Z",
+      "resumen": "A pesar de las noticias amargas que han rodeado este año a los proyectos en competición del Grupo Renault, con los anuncios concernientes a los programas de Dacia en el Rally Dakar y de Alpine en el Campeonato del Mundo de Resistencia, el fabricante del rombo quiere seguir ligada al automovilismo y más concretamente a los rallyes. La firma francesa ha tenido una larga trayectoria en la disciplina…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/10/New-Renault-Clio-Rally5-to-be-unveiled-soon-and-on-the-start-line-from-2027-6ada44c92f0d5.jpg?class=XL",
       "menciones": 1,
       "fuentes": [
         "Diariomotor (ES)"
       ]
     },
     {
-      "titulo": "El presidente de la FIA insiste en que los GP de Qatar y Abu Dhabi se disputarán según lo previsto",
-      "link": "https://www.diariomotor.com/competicion/noticia/gp-de-qatar-y-abu-dhabi-ataques/",
+      "titulo": "Lexus pone precio al coche que podría estar adelantando al Toyota Land Cruiser eléctrico, un salón con ruedas de 6 plazas y hasta 408 CV",
+      "link": "https://www.diariomotor.com/noticia/lexus-tz-precio-espana/",
       "fuente": "Diariomotor (ES)",
-      "fecha": "2026-10-21T20:39:36Z",
-      "resumen": "Mientras que las carreras en Arabia Saudí han ido cayendo en los últimos días después de los atentados que se dieron lugar en la segunda semana de octubre en Riyadh, el resto de eventos programados en Oriente Medio dentro del automovilismo internacional contienen la respiración a la espera de conocer qué decisiones se tomarán al respecto . El presidente de la FIA, Mohammed Ben Sulayem, ha sido una…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/10/SI202512010088-6ad906df6a2fd.jpg?class=XL",
+      "fecha": "2026-10-22T19:00:07Z",
+      "resumen": "La idea de un Toyota Land Cruiser eléctrico seguro que asusta a más de uno, pero conociendo a la firma nipona, ¿de verdad creéis que haría un mal coche? Y aunque aún no haya ocurrido sí que somos testigos de un coche con 6 plazas y hasta 408 CV que, con casi toda probabilidad, podría estar adelantando al Land Cruiser eléctrico , incluso más que su prototipo. El Lexus que podría estar anticipando…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/10/lexus-tz-precio-espana-6ada3eb54407c.png?class=XL",
       "menciones": 1,
       "fuentes": [
         "Diariomotor (ES)"
       ]
     },
     {
-      "titulo": "Prueba del Ferrari 12Cilindri Manuale, el coche que lo cambia todo",
-      "link": "https://www.diariomotor.com/noticia/prueba-ferrari-12cilindri-manuale/",
+      "titulo": "Como la Honda SH-125i pero por 1.600 € menos, este nuevo rueda alta de marca española llega con 15 CV y súper equipado",
+      "link": "https://www.diariomotor.com/noticia/mitt-alto-promo-oct/",
       "fuente": "Diariomotor (ES)",
-      "fecha": "2026-10-21T20:00:11Z",
-      "resumen": "Ha llegado el día, el cambio manual ha vuelto a Ferrari , pero curiosamente, este retorno ha dividido el mundo entre los que adoran esta decisión y quienes la detestan. Por eso hemos viajado hasta el circuito italiano de Balocco para explicaros cómo funciona la nueva caja de cambios Manuale By Wire, qué se siente al conducirla y por qué Ferrari ha creado el mejor cambio manual del momento con una…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/10/ferrari-12cilindri-manuale-david-clavero-dmwm-17-6ad8f8f5db6b6.jpg?class=XL",
-      "menciones": 1,
-      "fuentes": [
-        "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "Cargar el coche en una farola o enchufado al bordillo: la solución al gran dilema del coche eléctrico sin plaza de garaje",
-      "link": "https://www.motorpasion.com/observatorio-motorpasion/cargar-coche-farola-enchufado-al-bordillo-solucion-al-gran-dilema-coche-electrico-plaza-garaje",
-      "fuente": "Motorpasión (ES)",
-      "fecha": "2026-10-21T19:01:39Z",
-      "resumen": "En España, cerca del 70 % de coches duermen en la calle, unos 9 millones de nuestro parque según la OCU . Esto choca de frente con el coche eléctrico y poder cargarlo en casa por la noche. Si bien se puede recargar en puntos públicos , acoger un parque exclusivamente eléctrico exige una amplia red de carga en la calle para que los que no disponen de garaje propio donde instalar un Wallbox. De no…",
-      "imagen": "https://i.blogs.es/849e0c/cargar-coche-electrico-sin-garaje-01/1024_2000.jpeg",
-      "menciones": 1,
-      "fuentes": [
-        "Motorpasión (ES)"
-      ]
-    },
-    {
-      "titulo": "El SUV de Renault por encima de Duster con 200 CV, bajo consumo y pantalla de 12,3 pulgadas",
-      "link": "https://autotest.com.ar/noticias/el-suv-de-renault-por-encima-de-duster-con-200-cv-bajo-consumo-y-pantalla-de-123-pulgadas/",
-      "fuente": "Autotest",
-      "fecha": "2026-10-21T19:00:56Z",
-      "resumen": "El Renault Austral E-Tech es un SUV híbrido que combina potencia de 200 CV y bajo consumo, presentándose como una alternativa económica frente al popular Toyota RAV4.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2025/04/Nuevo-Renault-Austral-perfil.jpg",
-      "menciones": 6,
-      "fuentes": [
-        "Autotest"
-      ]
-    },
-    {
-      "titulo": "Ya le han puesto precio a la versión más barata del ID. Cross, un \"made in Spain\" que teniendo 116 CV gasta solo 1,4 € cada 100 km",
-      "link": "https://www.diariomotor.com/noticia/precio-volkswagen-id-cross-37-kwh/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-10-21T19:00:04Z",
-      "resumen": "Un SUV pequeño por fuera, con 475 litros de maletero y fabricado en Navarra . El Volkswagen ID. Cross ya tenía argumentos para interesar a quienes buscan un eléctrico práctico, pero le faltaba ampliar su gama por abajo. Ahora llega la versión con batería de 37 kWh y hasta 324 kilómetros de autonomía , acompañada de un precio anunciado en España de 20.500 euros. Una cifra que exige mirar las…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/10/Volkswagen-ID-Cross-Match-37-kWh_port-6ad8cc106a169.jpg?class=XL",
+      "fecha": "2026-10-22T18:00:16Z",
+      "resumen": "Si estás buscando un scooter de rueda alta para moverte a diario y no quieres dejarte un riñón, hay alternativas interesantes a los modelos de siempre. Esta propuesta que te traemos hoy destaca por su completo equipamiento, unos acabados bastante cuidados y, especialmente, un precio muy competitivo . De hecho, cuesta alrededor de 1.600 euros menos que una de las grandes referencias del segmento,…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/08/Mitt-Alto-125i27-6a71e1d54a1aa.jpg?class=XL",
       "menciones": 2,
       "fuentes": [
         "Diariomotor (ES)"
       ]
     },
     {
-      "titulo": "Toyota celebra los 75 años del Land Cruiser con una serie limitada de solo 75 unidades y llantas de 18 pulgadas",
-      "link": "https://autotest.com.ar/noticias/toyota-celebra-los-75-anos-del-land-cruiser-con-una-serie-limitada-de-solo-75-unidades-y-llantas-de-18-pulgadas/",
+      "titulo": "El Grupo Dumarey adquiere las instalaciones de Renault en Viry-Châtillon",
+      "link": "https://www.diariomotor.com/competicion/noticia/dumarey-adquiere-instalaciones-renault-viry-chatillon/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-10-22T17:21:26Z",
+      "resumen": "Tras la negativa de Geely de hacerse con el programa Alpine en el Campeonato Mundial de Resistencia, el Grupo Renault aceptó una oferta proveniente del Grupo Dumarey y se comprometió a vender su histórica sede ubicada en Viry-Châtillon y que durante muchos años fue sede del departamento de motores de alto rendimiento de Renault Sport, incluyendo el programa de Fórmula 1 que debutó en 1977 y cerró…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/10/Dumarey_Instalaciones_Ad_Motorport_2026_26-1-6ada1d35f0dea.jpg?class=XL",
+      "menciones": 1,
+      "fuentes": [
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "No es Corolla Cross: así es el renovado SUV de Toyota con 238 CV, tracción integral y bajo consumo",
+      "link": "https://autotest.com.ar/noticias/no-es-corolla-cross-asi-es-el-renovado-suv-de-toyota-con-238-cv-traccion-integral-y-bajo-consumo/",
       "fuente": "Autotest",
-      "fecha": "2026-10-21T18:35:57Z",
-      "resumen": "Este tipo de series limitadas apunta a mantener vivo el deseo sobre una placa que ya no necesita presentación.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/toyota-celebra-los-75-a-os-del-land-crui-1200x740-1.jpg",
+      "fecha": "2026-10-22T17:18:11Z",
+      "resumen": "El Toyota Crown Signia 2027 regresa con más asistencias de serie en la versión Limited, manteniendo sus 238 HP y un nuevo color exterior. Llegará a concesionarios a finales de 2026.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/Toyota-Crown-Signia-2027-5.jpg",
+      "menciones": 2,
+      "fuentes": [
+        "Autotest"
+      ]
+    },
+    {
+      "titulo": "Lo más absurdo que verás hoy es una pick-up de 900 CV con el marcador calibrado a 300 km/h que cuesta como cuatro G 63 normales",
+      "link": "https://www.diariomotor.com/noticia/brabus-p-900-rocket-edition/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-10-22T17:00:29Z",
+      "resumen": "Lo que vas a ver a continuación es completamente absurdo, pero ¿qué sería de este mundo sin coches absurdos? Una pick-up suele ser una herramienta de trabajo pensada para aguantar carros y carretas, pero en Brabus entienden este concepto de una manera un pelín diferente y acaban de presentar una pick-up de 900 CV, capaz de acelerar de 0 a 100 km/h en 3,7 segundos, con fibra de carbono por todas…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/10/Brabus-P-900-Rocket-Edition_port2-6ada0d520a888.jpeg?class=XL",
+      "menciones": 1,
+      "fuentes": [
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "Juan Carlos, prejubilado a los 58 años, ha encontrado la felicidad: \"Me compré una autocaravana y he visitado más de 60 pueblos\"",
+      "link": "https://www.motorpasion.com/furgonetas-y-caravanas/juan-carlos-prejubilado-a-58-anos-ha-encontrado-felicidad-me-compre-autocaravana-he-visitado-60-pueblos",
+      "fuente": "Motorpasión (ES)",
+      "fecha": "2026-10-22T17:00:09Z",
+      "resumen": "Prejubilarse y comprar una autocaravana : así ha encontrado Juan Carlos Roca la felicidad plena . Trabajaba en la sucursal de un banco y, a los 58 años, optó por adelantar \"las vacaciones eternas\". Para Juan Carlos no es un eufemismo: no deja de viajar en su casa con ruedas. \"Ya he visitado más de 60 pueblos\" entre España y Portugal. Además, llevar el \"hotel\" a cuestas es otra gran ventaja para ir…",
+      "imagen": "https://i.blogs.es/41200b/portada-mop-1792670218329/1024_2000.jpeg",
+      "menciones": 1,
+      "fuentes": [
+        "Motorpasión (ES)"
+      ]
+    },
+    {
+      "titulo": "Así es el Jeep Avenger más barato: menos de 42 millones, 120 CV, caja automática y seis airbags",
+      "link": "https://autotest.com.ar/noticias/asi-es-el-jeep-avenger-mas-barato-menos-de-42-millones-120-cv-caja-automatica-y-seis-airbags/",
+      "fuente": "Autotest",
+      "fecha": "2026-10-22T17:00:08Z",
+      "resumen": "El Jeep Avenger Altitude 2027 llega a Brasil con un motor híbrido ligero y un amplio equipamiento de seguridad desde su versión base. Conoce lo que ofrece este SUV en detalle.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/08/Jeep-Avenger-Altitude-perfil.jpg",
+      "menciones": 9,
+      "fuentes": [
+        "Autotest"
+      ]
+    },
+    {
+      "titulo": "Si no necesitas un híbrido y quieres un utilitario sencillo y barato con cambio manual, sólo necesitas 89 euros al mes",
+      "link": "https://www.diariomotor.com/noticia/oferta-citroen-c3-octubre-2026/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-10-22T16:00:06Z",
+      "resumen": "En estos tiempos que corren, lo cierto es que un coche con etiqueta ECO es garantía de futuro . Nos permitirá acceder a toda ZBE y no sufrir restricciones a la movilidad. Pero no debemos olvidar que no todo el mundo vive en una gran ciudad. Si vives en un pueblo o una ciudad pequeña las zonas de bajas emisiones jamás te van a molestar, y la prueba es que hay miles de coches sin etiqueta circulando…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/02/Citroen-eC345-699de15b28e79.jpg?class=XL",
+      "menciones": 1,
+      "fuentes": [
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "La FIA prohíbe distintos diseños de llantas para un mismo gran premio a partir de 2027",
+      "link": "https://www.diariomotor.com/competicion/noticia/la-fia-prohibe-disenos-de-llantas-2027/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-10-22T15:47:18Z",
+      "resumen": "Si bien este año se permitió libertad en el diseño de las llantas, o ruedas, en la Fórmula 1, tras varias temporadas utilizando un modelo estándar, resulta que la FIA advirtió que los equipos están utilizando varios diseños durante un mismo gran premio, lo que lleva a pensar que los ingenieros han encontrado otra área de desarrollo en el uso de la llanta, más allá de servir para instalar los…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/10/Llantas_McLaren_Formula-1_FIA_2026_2_26-6ada0616bcbf7.jpg?class=XL",
+      "menciones": 1,
+      "fuentes": [
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "Llegó a la región un nuevo SUV de Renault por encima de Duster: diseño disruptivo, 247 HP y tres pantallas",
+      "link": "https://autotest.com.ar/noticias/llego-a-la-region-un-nuevo-suv-de-renault-por-encima-de-duster-diseno-disruptivo-247-hp-y-tres-pantallas/",
+      "fuente": "Autotest",
+      "fecha": "2026-10-22T15:30:21Z",
+      "resumen": "Renault presenta en Colombia su SUV más lujosa, la Filante Esprit Alpine E-Tech Hybrid, que impresiona con potencia, tecnología de punta y un diseño impactante.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/Renualt-Filante-trompa.jpg",
+      "menciones": 3,
+      "fuentes": [
+        "Autotest"
+      ]
+    },
+    {
+      "titulo": "Más de 1.600 km con un solo tanque de gasoil: la pick up que sorprendió por su autonomía",
+      "link": "https://autotest.com.ar/noticias/isuzu-d-max-2026-pick-up-recorrer-1-605-km-con-un-solo-tanque/",
+      "fuente": "Autotest",
+      "fecha": "2026-10-22T15:00:25Z",
+      "resumen": "Isuzu Malasia demuestra la eficiencia del D-Max 2.2L viajando más de 1.600 km sin repostar, enfrentando diversas condiciones de ruta.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/Isuzu-D-Max-Pick-up-consumo-1.jpg",
       "menciones": 1,
       "fuentes": [
         "Autotest"
       ]
     },
     {
-      "titulo": "Chery no descarta asociarse a un fabricante estadounidense",
-      "link": "https://eleconomista.com.ar/autos/chery-descarta-asociarse-fabricante-estadounidense-n99087",
-      "fuente": "El Economista",
-      "fecha": "2026-10-21T18:26:00Z",
-      "resumen": "Ante la barrera arancelaria impuesta por el Gobierno de Donald Trump, la automotriz china está abierta a la posibilidad de iniciar una colaboración con alguno de los fabricantes locales.",
-      "imagen": "https://statics.eleconomista.com.ar/2026/10/crop/6ad904d773bdd__950x512.webp",
-      "menciones": 1,
-      "fuentes": [
-        "El Economista"
-      ]
-    },
-    {
-      "titulo": "Cambiar el aceite al coche tú mismo está bien. Tirarlo al campo te puede costar una multa de un millón de euros",
-      "link": "https://www.motorpasion.com/revision/multa-tirar-campo-aceite-usado-tu-coche-filtros-neumaticos-varios-miles-euros-millon-ser-residuos-peligrosos",
-      "fuente": "Motorpasión (ES)",
-      "fecha": "2026-10-21T18:01:38Z",
-      "resumen": "En pleno 2026, todo el mundo debería tener claro que el aceite de motor usado está considerado como residuo peligroso en España y, como tal, debe desecharse de una forma concreta y no se puede tirar al suelo, a una alcantarilla, a un contenedor de basura o al medio del campo. Tampoco se pueden tirar en cualquier lado los neumáticos usados o los filtros viejos del coche. Sin embargo, todavía hay…",
-      "imagen": "https://i.blogs.es/aae798/neumaticos-mop-2_1/1024_2000.jpeg",
-      "menciones": 1,
-      "fuentes": [
-        "Motorpasión (ES)"
-      ]
-    },
-    {
-      "titulo": "Si piensas en un todoterreno capaz, y casi irrompible, piensas en él, y ahora se puede conducir sin pedales",
-      "link": "https://www.diariomotor.com/noticia/toyota-land-cruiser-neo-steer/",
+      "titulo": "Mide \"solo\" seis metros, pero esta pequeña autocaravana lleva un enorme V8 de 7.3 litros que gasta como si fuese gratis",
+      "link": "https://www.diariomotor.com/noticia/autocaravana-v8-thor-rize-plus/",
       "fuente": "Diariomotor (ES)",
-      "fecha": "2026-10-21T18:00:19Z",
-      "resumen": "Estoy convencido de que sabes de qué te hablo. Toyota ha conseguido hacer del Toyota Land Cruiser uno de los referentes del todoterreno, no solo por sus capacidades 4x4, que las tiene y de las mejores, sino también por su fama de vehículo fiable y casi indestructible. La expansión de Toyota por todo el mundo, desde el Occidente más desarrollado, hasta países emergentes, han contribuido también a…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/10/toyota-land-cruiser-neo-steer-2026-detalles-06-6ad89fef16678.jpg?class=XL",
+      "fecha": "2026-10-22T15:00:09Z",
+      "resumen": "Se puede hacer una autocaravana compacta con un motor descomunal, al menos si vives el estilo de vida americano, el \"American way of life\". La prueba se llama Thor Rize+ , una pequeña casa sobre ruedas que mide seis metros y lleva bajo el capó un V8 de gasolina de 7.3 litros . Una combinación muy estadounidense para quienes quieren viajar con cocina, baño y cama evitando las dimensiones de las…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/10/autocaravana-Thor-Rize-plus-v8_port-6ad9e91399fa9.jpeg?class=XL",
       "menciones": 1,
       "fuentes": [
         "Diariomotor (ES)"
       ]
     },
     {
-      "titulo": "Ya sabemos cuánto cuesta el GTI español de 2026, un CUPRA con preparación ABT, diferencial autoblocante y 226 CV",
-      "link": "https://www.diariomotor.com/noticia/precio-cupra-raval-vz-custom-by-abt/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-10-21T17:00:31Z",
-      "resumen": "El CUPRA Raval ya tiene su versión más radical y, aunque parece casi sacada del circuito, está homologada para circular por la calle (lógicamente). Se llama Raval VZ CUSTOM CUPRA by ABT , tiene 226 CV, un kit de carrocería inspirado en la competición y un chasis con más chucherías de las normales en un utilitario eléctrico. El VZ CUSTOM CUPRA by ABT ya está disponible en España CUPRA acaba de…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/10/Cupra-Raval-VZ-CUSTOM-CUPRA-by-ABT_port-6ad89d30506f6.jpg?class=XL",
+      "titulo": "Lexus lanzó el nuevo ES en Argentina",
+      "link": "https://www.megautos.com/lexus-es-2026/",
+      "fuente": "Megautos",
+      "fecha": "2026-10-22T14:38:19Z",
+      "resumen": "El sedán de lujo inicia una nueva etapa en el país con una versión híbrida de 247 CV y otra eléctrica de 342 CV. Estrena diseño, suma equipamiento tecnológico y ofrece hasta 450 kilómetros de autonomía eléctrica. La entrada Lexus lanzó el nuevo ES en Argentina aparece primero en Mega Autos .",
+      "imagen": "https://www.megautos.com/wp-content/uploads/2026/10/ES350E_Luxury-Executive_Sonic-ChromeCloudburst-Gray_Black_011.jpg",
       "menciones": 1,
       "fuentes": [
-        "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "La Chevrolet Tracker más barata: 132 CV, caja automática y seis airbags",
-      "link": "https://autotest.com.ar/noticias/la-chevrolet-tracker-mas-barata-132-cv-caja-automatica-y-seis-airbags/",
-      "fuente": "Autotest",
-      "fecha": "2026-10-21T17:00:06Z",
-      "resumen": "La Chevrolet Tracker LT 2026 es la opción más económica en la gama de SUV compactas de Chevrolet en Argentina, manteniendo un rendimiento destacable con su motor turbo de 132 CV.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/Chevrolet-Tracker-LT-trasera.jpg",
-      "menciones": 12,
-      "fuentes": [
-        "Autotest"
-      ]
-    },
-    {
-      "titulo": "La DGT y Protección Civil coinciden en que bastan 30 cm de profundidad para que el agua arrastre un coche. Qué hago si me encuentro con una carretera inundada",
-      "link": "https://www.motorpasion.com/seguridad/dgt-proteccion-civil-coinciden-que-bastan-30-cm-profundidad-agua-arrastre-coche-que-hago-me-encuentro-carretera-inundada",
-      "fuente": "Motorpasión (ES)",
-      "fecha": "2026-10-21T16:31:40Z",
-      "resumen": "Con parte del país azotado por las fuertes lluvias, lo ideal es permanecer atento a las predicciones y recomendaciones y, en la medida de lo posible, evitar conducir si nos encontramos en zonas afectadas. Pero para quienes no tengan otro remedio que coger el coche, la DGT recuerda las claves para conducir con fuertes lluvias de forma segura y cómo actuar en caso de vernos sorprendidos al volante…",
-      "imagen": "https://i.blogs.es/629754/aperlluvia/1024_2000.jpeg",
-      "menciones": 1,
-      "fuentes": [
-        "Motorpasión (ES)"
-      ]
-    },
-    {
-      "titulo": "Ford Racing analiza la promoción de Frankie Muniz al programa oficial Mustang GT3 Evo",
-      "link": "https://www.diariomotor.com/competicion/noticia/ford-racing-promocion-frankie-muniz-mustang-gt3-evo/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-10-21T16:17:33Z",
-      "resumen": "El piloto Frankie Muniz, nacido Francisco Muñiz, sigue llamando la atención por sus actuaciones en la pista, aunque es reconocido por su actuación en la popular serie televisiva 'Malcolm in the Middle', y por tal razón desde Ford Racing meditan la opción de concederle un espacio en su programa de fábrica asociado al Mustang GT3 Evo. Se han confirmado las primeras conversaciones para promover al ex…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/10/Frankie-Muniz_Ford_Racing_Mustang_GT4_2026_26-6ad8bb8b367f2.jpg?class=XL",
-      "menciones": 1,
-      "fuentes": [
-        "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "Eugene, jubilado de 71 años, vive en una camper plegable: “Llevo años viviendo así, pero hay algo que empieza a frenarme”",
-      "link": "https://www.motorpasion.com/furgonetas-y-caravanas/eugene-jubilado-71-anos-vive-camper-plegable-llevo-anos-viviendo-asi-hay-algo-que-empieza-a-frenarme",
-      "fuente": "Motorpasión (ES)",
-      "fecha": "2026-10-21T16:01:38Z",
-      "resumen": "A sus 71 años, Eugene Breindel lleva ocho años viviendo sobre ruedas y recorriendo EEUU. En 2018 compró una caravana plegable con la que decidió emprender una aventura sin fecha de regreso y, desde entonces, asegura haber acampado en 48 estados del país y visitado 284 parques nacionales . Su casa rodante es de todo menos convencional: hablamos de una Aliner Expedition de 2018 , una caravana de…",
-      "imagen": "https://i.blogs.es/0c8585/eugene/1024_2000.jpeg",
-      "menciones": 1,
-      "fuentes": [
-        "Motorpasión (ES)"
+        "Megautos"
       ]
     }
   ]
