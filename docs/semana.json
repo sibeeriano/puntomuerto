@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-22T20:12:30Z",
+  "actualizado": "2026-10-22T22:46:44Z",
   "desde": "2026-10-15",
   "hasta": "2026-10-22",
   "destacadas": [
@@ -162,6 +162,18 @@
       ]
     },
     {
+      "titulo": "Destrozó un SUV chino de u$s45.000 que probaba en la agencia: ¿quién tiene que pagar?",
+      "link": "https://www.iprofesional.com/legales/467228-quien-debe-pagar-el-desastre-que-causo-un-cliente-con-suv-chino-en-agencia",
+      "fuente": "iProfesional",
+      "fecha": "2026-10-22T20:34:00Z",
+      "resumen": "Una prueba de manejo terminó en destrozos y abrió una controversia sobre la responsabilidad civil ante daños ocasionados durante estas situaciones (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
+      "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/10/628142.jpg",
+      "menciones": 1,
+      "fuentes": [
+        "iProfesional"
+      ]
+    },
+    {
       "titulo": "De la Fórmula 1 al Rally Dakar: Fernando Alonso no es el único que disfruta al volante de un T1+",
       "link": "https://www.diariomotor.com/competicion/noticia/liam-lawson-dakar-rally-ford-raptor/",
       "fuente": "Diariomotor (ES)",
@@ -291,18 +303,6 @@
       "menciones": 9,
       "fuentes": [
         "Autotest"
-      ]
-    },
-    {
-      "titulo": "Si no necesitas un híbrido y quieres un utilitario sencillo y barato con cambio manual, sólo necesitas 89 euros al mes",
-      "link": "https://www.diariomotor.com/noticia/oferta-citroen-c3-octubre-2026/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-10-22T16:00:06Z",
-      "resumen": "En estos tiempos que corren, lo cierto es que un coche con etiqueta ECO es garantía de futuro . Nos permitirá acceder a toda ZBE y no sufrir restricciones a la movilidad. Pero no debemos olvidar que no todo el mundo vive en una gran ciudad. Si vives en un pueblo o una ciudad pequeña las zonas de bajas emisiones jamás te van a molestar, y la prueba es que hay miles de coches sin etiqueta circulando…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/02/Citroen-eC345-699de15b28e79.jpg?class=XL",
-      "menciones": 1,
-      "fuentes": [
-        "Diariomotor (ES)"
       ]
     }
   ]
