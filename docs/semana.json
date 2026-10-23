@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-23T19:59:10Z",
+  "actualizado": "2026-10-23T22:38:43Z",
   "desde": "2026-10-16",
   "hasta": "2026-10-23",
   "destacadas": [
@@ -107,6 +107,18 @@
       "menciones": 2,
       "fuentes": [
         "Autotest",
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "Charles Leclerc también lidera el segundo entrenamiento en el Circuito de las Américas",
+      "link": "https://www.diariomotor.com/competicion/noticia/charles-leclerc-tambien-lidera-el-segundo-entrenamiento-en-el-circuito-de-las-americas/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-10-24T00:16:06Z",
+      "resumen": "Viernes de distintas configuraciones y velocidades en el bacheado trazado de las afueras de Austin. Charles Leclerc marcó el mejor tiempo en las dos sesiones del Gran Premio de los Estados Unidos y da una primera ventaja simbólica a Ferrari. Andrea Kimi Antonelli y Max Verstappen siguieron de cerca al piloto de la Scuderia italiana, con Lewis Hamilton y George Russell a más de medio segundo de…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/10/charles-leclerc-libres-f1-austin-2026-6adbd5843ba82.jpg?class=XL",
+      "menciones": 1,
+      "fuentes": [
         "Diariomotor (ES)"
       ]
     },
@@ -289,18 +301,6 @@
       "menciones": 1,
       "fuentes": [
         "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "Por debajo de Corolla: el sedán de Toyota con precio accesible y un consumo que sorprende",
-      "link": "https://autotest.com.ar/noticias/por-debajo-de-corolla-el-sedan-de-toyota-con-precio-accesible-y-un-consumo-que-sorprende/",
-      "fuente": "Autotest",
-      "fecha": "2026-10-23T15:30:22Z",
-      "resumen": "El Toyota Yaris sedán híbrido redefine el estándar de eficiencia con un consumo de menos de 4 litros cada 100 km, ofreciendo una opción accesible en el mercado mexicano.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2025/10/Toyota-Yaris-sedan-hibrido-perfil.jpg",
-      "menciones": 1,
-      "fuentes": [
-        "Autotest"
       ]
     }
   ]
