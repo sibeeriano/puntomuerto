@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-24T18:50:59Z",
+  "actualizado": "2026-10-24T21:54:14Z",
   "desde": "2026-10-17",
   "hasta": "2026-10-24",
   "destacadas": [
@@ -107,6 +107,30 @@
       "menciones": 1,
       "fuentes": [
         "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "BYD presentó un nuevo SUV eléctrico de siete plazas",
+      "link": "https://www.megautos.com/byd-atto-8/",
+      "fuente": "Megautos",
+      "fecha": "2026-10-24T19:46:13Z",
+      "resumen": "El Atto 8 debutó en el Salón del Automóvil de París con dos versiones, hasta 653 kilómetros de autonomía y una tecnología de carga que promete recuperar del 10 al 97% de la batería en solo nueve minutos. La entrada BYD presentó un nuevo SUV eléctrico de siete plazas aparece primero en Mega Autos .",
+      "imagen": "https://www.megautos.com/wp-content/uploads/2026/10/byd-atto-8-06.jpg",
+      "menciones": 1,
+      "fuentes": [
+        "Megautos"
+      ]
+    },
+    {
+      "titulo": "\"¿Estamos locos o qué?\". Este hombre llevaba prisa, pero su coche tenía otros planes para él: una actualización que no le dejó ni arrancarlo",
+      "link": "https://www.motorpasion.com/tecnologia/estamos-locos-que-este-hombre-llevaba-prisa-su-coche-tenia-otros-planes-para-actualizacion-que-no-le-dejo-arrancarlo",
+      "fuente": "Motorpasión (ES)",
+      "fecha": "2026-10-24T19:00:07Z",
+      "resumen": "Hace unos años, cuando los coches no eran smartphones con ruedas, había muchas cosas que no se podían hacer, pero otras muy básicas que sí: arrancar el coche cuando lo necesitabas. Aquí la culpa la tienen la actualizaciones OTA (o inalámbricas) , que cuando afectan a centralistas críticas, impiden que el vehículo pueda ser conducido hasta que no terminan. Fue lo que le pasó a un buen hombre que…",
+      "imagen": "https://i.blogs.es/808917/portada-mop-1792752477923/1024_2000.jpeg",
+      "menciones": 1,
+      "fuentes": [
+        "Motorpasión (ES)"
       ]
     },
     {
@@ -276,30 +300,6 @@
       "menciones": 2,
       "fuentes": [
         "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "Un error al pasar de litros en kilos dejó sin combustible en pleno vuelo a un Boeing 767. Aterrizaron sin heridos y sin tren de aterrizaje en medio de una carrera de karts",
-      "link": "https://www.motorpasion.com/seguridad/error-al-pasar-litros-kilos-dejo-combustible-pleno-vuelo-a-boeing-767-aterrizaron-heridos-tren-aterrizaje-medio-carrera-karts",
-      "fuente": "Motorpasión (ES)",
-      "fecha": "2026-10-24T13:32:11Z",
-      "resumen": "Los pilotos estaban en sus monoplazas listos para enfrentarse a una nueva carrera. En boxes y en pista, se oían los motores rugir, mientras el público, expectante, no se perdía nada de los preparativos de esta manga del campeonato de la Canadian Automobile Sport Clubs. En cambio, lo que nadie vio ni oyó llegar en la recta de salida fue un Boeing 767-200 de Air Canada que intentaba aterrizar . El…",
-      "imagen": "https://i.blogs.es/f05230/air-canada-ac143-gimli-circuito/1024_2000.jpeg",
-      "menciones": 1,
-      "fuentes": [
-        "Motorpasión (ES)"
-      ]
-    },
-    {
-      "titulo": "Así es la Ford Ranger 2027 con motor V6, doble turbo y 385 CV para enfrentar a Toyota Hilux",
-      "link": "https://autotest.com.ar/noticias/asi-es-la-ford-ranger-2027-con-motor-v6-doble-turbo-y-385-cv-para-enfrentar-a-toyota-hilux/",
-      "fuente": "Autotest",
-      "fecha": "2026-10-24T13:26:00Z",
-      "resumen": "La Ford Ranger 2027 se diferenciará de las anteriores a partir de un cambio fuerte en su gama mecánica: las versiones XLT y Lariat equiparán el motor V6 EcoBoost biturbo de 3.0 litros que hasta ahora está reservado para la Raptor. Así, entregará 385 CV y reemplazará al 2.7 para superar a Toyota Hilux y […]",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/Nueva-Ford-Ranger-2027.jpg",
-      "menciones": 6,
-      "fuentes": [
-        "Autotest"
       ]
     }
   ]
