@@ -1,5 +1,21 @@
 [
   {
+    "titulo": "Lewis Hamilton culmina el 3 de 3 de Ferrari en los libres del GP de los Estados Unidos",
+    "link": "https://www.diariomotor.com/competicion/noticia/lewis-hamilton-culmina-el-3-de-3-de-ferrari-en-los-libres-del-gp-de-los-estados-unidos/",
+    "fuente": "Diariomotor (ES)",
+    "fecha": "2026-10-24T20:48:24Z",
+    "resumen": "Se mantiene la tensión entre monoplazas de importancia en el Circuito de las Américas, trazado donde se compensan las altas velocidades y las curvas sinuosas. Lewis Hamilton mantuvo la marcha potente de Ferrari en el tercer entrenamiento , completando así el trío de lideratos para la Scuderia del Cavallino. Le siguieron Max Verstappen y Charles Leclerc ( que perdió un tiempo mejor que el de…",
+    "imagen": "https://www.diariomotor.com/imagenes/2026/10/lewis-hamilton-libres-f1-austin-2026-6adcfd6bd8274.jpg?class=XL"
+  },
+  {
+    "titulo": "Juande Rodríguez, mecánico con 18 años de oficio: “El error más caro es acostumbrarse a que el coche ya no va como antes”",
+    "link": "https://www.motorpasion.com/revision/juande-rodriguez-mecanico-18-anos-oficio-error-caro-acostumbrarse-a-que-coche-no-va-como-antes",
+    "fuente": "Motorpasión (ES)",
+    "fecha": "2026-10-24T18:00:09Z",
+    "resumen": "“¿Ese ruido? Nada, lleva tiempo haciéndolo.” Nos acostumbramos a todo, incluso a un ruido nuevo que hace el coche, un tirón al acelerar o una pérdida de potencia. Muchas veces no le damos importancia, mientras el coche arranque y se mueva, no nos preocupamos. Achacamos esos cambios al paso de los kilómetros y los normalizamos. Sin embargo, algunas de las averías más serias y caras empiezan…",
+    "imagen": "https://i.blogs.es/3cebb2/juande-rodriguez-mecanico/1024_2000.jpeg"
+  },
+  {
     "titulo": "Adrian Newey desmiente supuesto interés de Aston Martin en romper el contrato con Honda",
     "link": "https://www.diariomotor.com/competicion/noticia/adrian-newey-desmiente-interes-aston-martin-romper-honda/",
     "fuente": "Diariomotor (ES)",
@@ -8,12 +24,12 @@
     "imagen": "https://www.diariomotor.com/imagenes/2026/10/Adrian_Newey_Aston_Martin_Formula_1-NCH_2026_26-6adcc457c40a9.jpg?class=XL"
   },
   {
-    "titulo": "En Cantabria, dormir dentro de la camper puede ser acampar: depende de dónde aparques",
-    "link": "https://www.motorpasion.com/furgonetas-y-caravanas/cantabria-dormir-dentro-camper-puede-ser-acampar-depende-donde-aparques",
-    "fuente": "Motorpasión (ES)",
-    "fecha": "2026-10-24T16:00:11Z",
-    "resumen": "Un gran cambio para campers y autocaravanas llegó cuando la DGT por fin distinguió entre acampar y pernoctar . Una normativa que se ha actualizado en 2026 manteniendo esa máxima, pero recordando que los ayuntamientos pueden imponer restricciones de tiempo o incluso prohibir el estacionamiento. Hasta ahí, todo bien. Pero, ¿y si la ordenanza de un Ayuntamiento considera acampar a dormir dentro de la…",
-    "imagen": "https://i.blogs.es/a0a2d5/cantabria-autocaravana-normativa-01/1024_2000.jpeg"
+    "titulo": "Ford prepara una Bronco híbrida en Brasil",
+    "link": "https://www.megautos.com/ford-bronco-hibrida-caracteristicas/",
+    "fuente": "Megautos",
+    "fecha": "2026-10-24T16:45:10Z",
+    "resumen": "El SUV desarrollado en China ya está siendo probado en ese país, donde tendría su lanzamiento a mediados de 2027. Combina dos motores eléctricos, tracción integral y un motor naftero que funciona como generador. ¿Lo veremos en Argentina? La entrada Ford prepara una Bronco híbrida en Brasil aparece primero en Mega Autos .",
+    "imagen": "https://www.megautos.com/wp-content/uploads/2026/10/ford-bronco-new-energy-frente.jpg"
   },
   {
     "titulo": "La IndyCar analiza la opción de introducir un piloto wildcard para sus fechas en Barcelona",
@@ -32,6 +48,22 @@
     "imagen": "https://www.megautos.com/wp-content/uploads/2026/10/nuevo-vw-taos-2028-revelado-china-3.jpg"
   },
   {
+    "titulo": "En Cantabria, dormir dentro de la camper puede ser acampar: depende de dónde aparques",
+    "link": "https://www.motorpasion.com/furgonetas-y-caravanas/cantabria-dormir-dentro-camper-puede-ser-acampar-depende-donde-aparques",
+    "fuente": "Motorpasión (ES)",
+    "fecha": "2026-10-24T16:00:11Z",
+    "resumen": "Un gran cambio para campers y autocaravanas llegó cuando la DGT por fin distinguió entre acampar y pernoctar . Una normativa que se ha actualizado en 2026 manteniendo esa máxima, pero recordando que los ayuntamientos pueden imponer restricciones de tiempo o incluso prohibir el estacionamiento. Hasta ahí, todo bien. Pero, ¿y si la ordenanza de un Ayuntamiento considera acampar a dormir dentro de la…",
+    "imagen": "https://i.blogs.es/a0a2d5/cantabria-autocaravana-normativa-01/1024_2000.jpeg"
+  },
+  {
+    "titulo": "Stellantis suspende fabricación de pick-ups en Córdoba por caída en la demanda",
+    "link": "https://www.iprofesional.com/autos/467396-stellantis-frena-pick-ups-cordoba-deja-vilo-cadena-autopartista-octubre-2026",
+    "fuente": "iProfesional",
+    "fecha": "2026-10-24T16:00:00Z",
+    "resumen": "La caída del mercado regional obligó a la compañía a interrumpir la producción de camionetas en Córdoba por falta de ventas hasta enero (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
+    "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2025/05/596073.jpg"
+  },
+  {
     "titulo": "FIAT Ducato, el utilitario líder: ¿cómo es por dentro y qué más explica su alta demanda?",
     "link": "https://autotest.com.ar/transportes/fiat-ducato-el-utilitario-lider-como-es-por-dentro-y-que-mas-explica-su-alta-demanda/",
     "fuente": "Autotest",
@@ -40,12 +72,12 @@
     "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/Fiat-Ducato-2026.jpg"
   },
   {
-    "titulo": "Un error al pasar de litros en kilos dejó sin combustible en pleno vuelo a un Boeing 767. Aterrizaron sin heridos y sin tren de aterrizaje en medio de una carrera de karts",
-    "link": "https://www.motorpasion.com/seguridad/error-al-pasar-litros-kilos-dejo-combustible-pleno-vuelo-a-boeing-767-aterrizaron-heridos-tren-aterrizaje-medio-carrera-karts",
-    "fuente": "Motorpasión (ES)",
-    "fecha": "2026-10-24T13:32:11Z",
-    "resumen": "Los pilotos estaban en sus monoplazas listos para enfrentarse a una nueva carrera. En boxes y en pista, se oían los motores rugir, mientras el público, expectante, no se perdía nada de los preparativos de esta manga del campeonato de la Canadian Automobile Sport Clubs. En cambio, lo que nadie vio ni oyó llegar en la recta de salida fue un Boeing 767-200 de Air Canada que intentaba aterrizar . El…",
-    "imagen": "https://i.blogs.es/f05230/air-canada-ac143-gimli-circuito/1024_2000.jpeg"
+    "titulo": "Amenaza al boom de autos chinos: el acuerdo que puede cambiar las reglas del juego",
+    "link": "https://www.iprofesional.com/autos/467394-amenaza-al-boom-de-autos-chinos-acuerdo-que-puede-cambiar-reglas-del-juego",
+    "fuente": "iProfesional",
+    "fecha": "2026-10-24T15:30:00Z",
+    "resumen": "Empresarios enfrentan incertidumbre ante demoras regulatorias y cambios imprevistos que podrían redefinir incentivos para nuevas tecnologías (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
+    "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2025/07/599848.jpg"
   },
   {
     "titulo": "El Jeep Compass 2027 suma tecnología híbrida",
@@ -88,6 +120,14 @@
     "imagen": "https://www.diariomotor.com/imagenes/2025/09/FIAT-Grande-Panda-gasolina-llega-Espana-14-68b82984906d6.jpg?class=XL"
   },
   {
+    "titulo": "Un error al pasar de litros en kilos dejó sin combustible en pleno vuelo a un Boeing 767. Aterrizaron sin heridos y sin tren de aterrizaje en medio de una carrera de karts",
+    "link": "https://www.motorpasion.com/seguridad/error-al-pasar-litros-kilos-dejo-combustible-pleno-vuelo-a-boeing-767-aterrizaron-heridos-tren-aterrizaje-medio-carrera-karts",
+    "fuente": "Motorpasión (ES)",
+    "fecha": "2026-10-24T13:32:11Z",
+    "resumen": "Los pilotos estaban en sus monoplazas listos para enfrentarse a una nueva carrera. En boxes y en pista, se oían los motores rugir, mientras el público, expectante, no se perdía nada de los preparativos de esta manga del campeonato de la Canadian Automobile Sport Clubs. En cambio, lo que nadie vio ni oyó llegar en la recta de salida fue un Boeing 767-200 de Air Canada que intentaba aterrizar . El…",
+    "imagen": "https://i.blogs.es/f05230/air-canada-ac143-gimli-circuito/1024_2000.jpeg"
+  },
+  {
     "titulo": "Así es la Ford Ranger 2027 con motor V6, doble turbo y 385 CV para enfrentar a Toyota Hilux",
     "link": "https://autotest.com.ar/noticias/asi-es-la-ford-ranger-2027-con-motor-v6-doble-turbo-y-385-cv-para-enfrentar-a-toyota-hilux/",
     "fuente": "Autotest",
@@ -112,20 +152,12 @@
     "imagen": "https://www.diariomotor.com/imagenes/2026/10/mahindra-bolero-2025-exterior-09-6adc74996774f.jpg?class=XL"
   },
   {
-    "titulo": "Stellantis suspende fabricación de pick-ups en Córdoba por caída en la demanda",
-    "link": "https://www.iprofesional.com/autos/467396-stellantis-frena-pick-ups-cordoba-deja-vilo-cadena-autopartista-octubre-2026",
+    "titulo": "Voge 900 DSX: así es la moto maxi trail full equipada por $20 millones",
+    "link": "https://www.iprofesional.com/autos/467204-voge-900-dsx-una-moto-maxi-trail-full-equipada-por-20-millones",
     "fuente": "iProfesional",
-    "fecha": "2026-10-24T16:00:00Z",
-    "resumen": "La caída del mercado regional obligó a la compañía a interrumpir la producción de camionetas en Córdoba por falta de ventas hasta enero (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
-    "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2025/05/596073.jpg"
-  },
-  {
-    "titulo": "Amenaza al boom de autos chinos: el acuerdo que puede cambiar las reglas del juego",
-    "link": "https://www.iprofesional.com/autos/467394-amenaza-al-boom-de-autos-chinos-acuerdo-que-puede-cambiar-reglas-del-juego",
-    "fuente": "iProfesional",
-    "fecha": "2026-10-24T15:30:00Z",
-    "resumen": "Empresarios enfrentan incertidumbre ante demoras regulatorias y cambios imprevistos que podrían redefinir incentivos para nuevas tecnologías (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
-    "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2025/07/599848.jpg"
+    "fecha": "2026-10-24T12:30:00Z",
+    "resumen": "Es una de las motos de Voge más completas. Tiene confort para largos caminos y buen agarre y equipamiento para manejo off road. Cómo se siente (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
+    "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/10/628123.jpg"
   },
   {
     "titulo": "Menos de 60 millones: la pick up 4×4 de 200 CV que compite contra Toyota Hilux",
@@ -150,14 +182,6 @@
     "fecha": "2026-10-24T12:00:21Z",
     "resumen": "El BYD Song Pro GL híbrido enchufable se ofrece con un significativo descuento en Brasil, poniéndolo a competir con SUVs compactos aunque pertenece a un segmento superior.",
     "imagen": "https://autotest.com.ar/wp-content/uploads/2025/01/SUV-BYD-Song-pro-perfil-accion.jpg"
-  },
-  {
-    "titulo": "Jakub Gersl, responsable de China EV Marketplace: \"Los coches eléctricos usados no pagan aranceles, así que los europeos los están comprando de China\"",
-    "link": "https://www.motorpasion.com/observatorio-motorpasion/jakub-gersl-responsable-china-ev-marketplace-coches-electricos-usados-no-pagan-aranceles-asi-que-europeos-estan-comprando-china",
-    "fuente": "Motorpasión (ES)",
-    "fecha": "2026-10-24T10:00:13Z",
-    "resumen": "Los aranceles a los coche híbridos enchufables y a los eléctricos puros 'made in China' ya está empujando a la baja la demanda. Hace poco Bruselas firmó un acuerdo con el gigante asiático para limitar a la mitad la cuota de estos vehículos en Europa , con una consecuencia: serán más caros. La compañía China EV Marketplace , entre otras, ha encontrado una solución al problema: ayudar al comprador…",
-    "imagen": "https://i.blogs.es/5e1bc4/portada-mop-1792764847700/1024_2000.jpeg"
   },
   {
     "titulo": "Arriba de Duster: el SUV de Renault que tiene 3 motores, 160 CV y consume 1 litro cada 24 km",
@@ -192,20 +216,12 @@
     "imagen": "https://www.diariomotor.com/imagenes/2024/06/bugatti-tourbillon-2024-07-6674958400253.jpg?class=XL"
   },
   {
-    "titulo": "Este soldado ucraniano llevaba 500 días solo en territorio enemigo y fue evacuado en un dron gigante: \"Es un acontecimiento histórico\"",
-    "link": "https://www.motorpasion.com/furgonetas-y-caravanas/este-soldado-ucraniano-llevaba-500-dias-territorio-enemigo-fue-evacuado-dron-gigante-acontecimiento-historico",
+    "titulo": "Jakub Gersl, responsable de China EV Marketplace: \"Los coches eléctricos usados no pagan aranceles, así que los europeos los están comprando de China\"",
+    "link": "https://www.motorpasion.com/observatorio-motorpasion/jakub-gersl-responsable-china-ev-marketplace-coches-electricos-usados-no-pagan-aranceles-asi-que-europeos-estan-comprando-china",
     "fuente": "Motorpasión (ES)",
-    "fecha": "2026-10-24T08:00:11Z",
-    "resumen": "El Ejército ucraniano publicó el vídeo y al poco tiempo las imágenes estaban por todas partes. En él se podía ver cómo un soldado era evacuado en un dron de gran tamaño y controlado de forma remota por las fuerzas ucranianas . El hombre, perteneciente a la 30ª Brigada, había pasado casi 500 días en primera línea \"bajo la constante amenaza de muerte\" y se había tenido que amputar los dos pies y…",
-    "imagen": "https://i.blogs.es/da2f8c/portada-mop-1792674116914/1024_2000.jpeg"
-  },
-  {
-    "titulo": "Voge 900 DSX: así es la moto maxi trail full equipada por $20 millones",
-    "link": "https://www.iprofesional.com/autos/467204-voge-900-dsx-una-moto-maxi-trail-full-equipada-por-20-millones",
-    "fuente": "iProfesional",
-    "fecha": "2026-10-24T12:30:00Z",
-    "resumen": "Es una de las motos de Voge más completas. Tiene confort para largos caminos y buen agarre y equipamiento para manejo off road. Cómo se siente (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
-    "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/10/628123.jpg"
+    "fecha": "2026-10-24T10:00:13Z",
+    "resumen": "Los aranceles a los coche híbridos enchufables y a los eléctricos puros 'made in China' ya está empujando a la baja la demanda. Hace poco Bruselas firmó un acuerdo con el gigante asiático para limitar a la mitad la cuota de estos vehículos en Europa , con una consecuencia: serán más caros. La compañía China EV Marketplace , entre otras, ha encontrado una solución al problema: ayudar al comprador…",
+    "imagen": "https://i.blogs.es/5e1bc4/portada-mop-1792764847700/1024_2000.jpeg"
   },
   {
     "titulo": "Es el urbano chino más barato y vendido en España, y su nueva generación quiere ser la peor pesadilla del Geely E2 y el Renault 5",
@@ -222,6 +238,14 @@
     "fecha": "2026-10-24T08:00:31Z",
     "resumen": "La firma española Benimar aprovechó el pasado Salón de la Caravana de Düsseldorf para presentar una nueva familia de autocaravanas con la que pretende atraer a un público que busca perfiladas de ancho normal a precios más contenidos . Situada un escalón por debajo de las conocidas Tessoro y Mileo, es sin lugar a dudas una excelente opción cuando el dinero manda , presumiendo de una de las mejores…",
     "imagen": "https://www.diariomotor.com/imagenes/2026/08/Benimar-Kaleo-K640MY6-6a94093e199c8.jpg?class=XL"
+  },
+  {
+    "titulo": "Este soldado ucraniano llevaba 500 días solo en territorio enemigo y fue evacuado en un dron gigante: \"Es un acontecimiento histórico\"",
+    "link": "https://www.motorpasion.com/furgonetas-y-caravanas/este-soldado-ucraniano-llevaba-500-dias-territorio-enemigo-fue-evacuado-dron-gigante-acontecimiento-historico",
+    "fuente": "Motorpasión (ES)",
+    "fecha": "2026-10-24T08:00:11Z",
+    "resumen": "El Ejército ucraniano publicó el vídeo y al poco tiempo las imágenes estaban por todas partes. En él se podía ver cómo un soldado era evacuado en un dron de gran tamaño y controlado de forma remota por las fuerzas ucranianas . El hombre, perteneciente a la 30ª Brigada, había pasado casi 500 días en primera línea \"bajo la constante amenaza de muerte\" y se había tenido que amputar los dos pies y…",
+    "imagen": "https://i.blogs.es/da2f8c/portada-mop-1792674116914/1024_2000.jpeg"
   },
   {
     "titulo": "Llevo toda la vida poniendo mal la pegatina de la ITV. Resulta que no se puede poner en el coche de cualquier manera",
