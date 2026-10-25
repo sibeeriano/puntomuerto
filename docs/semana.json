@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-25T17:03:45Z",
+  "actualizado": "2026-10-25T19:07:08Z",
   "desde": "2026-10-18",
   "hasta": "2026-10-25",
   "destacadas": [
@@ -15,20 +15,6 @@
         "Autotest",
         "El Economista",
         "iProfesional",
-        "Megautos"
-      ]
-    },
-    {
-      "titulo": "Se lanzó el Jeep Avenger: a qué precio y con qué financiación",
-      "link": "https://eleconomista.com.ar/autos/se-lanzo-jeep-avenger-precio-financiacion-n99132",
-      "fuente": "El Economista",
-      "fecha": "2026-10-22T17:20:00Z",
-      "resumen": "Se trata del nuevo modelo de entrada de la marca, que se posiciona por debajo de Renegade. Fabricado en Brasil, arriba en tres versiones y estrena motorización micro-híbrida.",
-      "imagen": "https://statics.eleconomista.com.ar/2026/10/crop/6ada26a7f0d87__950x512.webp",
-      "menciones": 4,
-      "fuentes": [
-        "Autotest",
-        "El Economista",
         "Megautos"
       ]
     },
@@ -72,6 +58,19 @@
       ]
     },
     {
+      "titulo": "Se lanzó el Jeep Avenger: a qué precio y con qué financiación",
+      "link": "https://eleconomista.com.ar/autos/se-lanzo-jeep-avenger-precio-financiacion-n99132",
+      "fuente": "El Economista",
+      "fecha": "2026-10-22T17:20:00Z",
+      "resumen": "Se trata del nuevo modelo de entrada de la marca, que se posiciona por debajo de Renegade. Fabricado en Brasil, arriba en tres versiones y estrena motorización micro-híbrida.",
+      "imagen": "https://statics.eleconomista.com.ar/2026/10/crop/6ada26a7f0d87__950x512.webp",
+      "menciones": 3,
+      "fuentes": [
+        "Autotest",
+        "El Economista"
+      ]
+    },
+    {
       "titulo": "Mercedes-AMG presentó un SUV eléctrico de hasta 1.169 CV",
       "link": "https://www.megautos.com/mercedes-amg-gt-suv/",
       "fuente": "Megautos",
@@ -81,6 +80,30 @@
       "menciones": 2,
       "fuentes": [
         "Diariomotor (ES)",
+        "Megautos"
+      ]
+    },
+    {
+      "titulo": "OFICIAL: El Rally Dakar 2027 no se disputará en Arabia Saudí por el conflicto armado",
+      "link": "https://www.diariomotor.com/competicion/noticia/rally-dakar-2027-fuera-arabia-saudi/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-10-25T19:11:25Z",
+      "resumen": "Ya no hay tiempo para más. Se esperaba que ASO hiciera un anuncio acerca del cambio de destino del Rally Dakar el próximo lunes o martes, por lo que, antes, había que confirmar lo que parecía un secreto a voces, que la edición 2027 no podrá situarse en Arabia Saudí . El anuncio, que se ha realizado en común acuerdo entre la Amaury Sport Organisation (ASO) y la Compañía Saudí de Automovilismo…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/10/rally-dakar-2027-w2rc-aso-fia-1-6ade461f8bee5.jpg?class=XL",
+      "menciones": 1,
+      "fuentes": [
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "MG lanzó el HS Hybrid+ en Argentina",
+      "link": "https://www.megautos.com/mg-hs-hybrid/",
+      "fuente": "Megautos",
+      "fecha": "2026-10-25T17:27:59Z",
+      "resumen": "El SUV mediano llega en la versión Luxury, con un sistema híbrido de 224 CV, hasta 995 kilómetros de autonomía, asistencias a la conducción y cinco estrellas en las pruebas de seguridad de Euro NCAP. La entrada MG lanzó el HS Hybrid+ en Argentina aparece primero en Mega Autos .",
+      "imagen": "https://www.megautos.com/wp-content/uploads/2026/10/02-MG-HS-perfil.jpg",
+      "menciones": 4,
+      "fuentes": [
         "Megautos"
       ]
     },
@@ -275,30 +298,6 @@
       "menciones": 1,
       "fuentes": [
         "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "Alemania quiere volver a pasarse el juego, es una moto, pero no necesita casco, tiene cinturones, “techo”, y no se cae hacia los lados",
-      "link": "https://www.diariomotor.com/noticia/bmw-moto-sin-casco-con-cinturones-techo/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-10-25T07:00:50Z",
-      "resumen": "Parece una auténtica locura. Pero, a juzgar por las últimas noticias que han surgido estos días, podríamos estar muy cerca de ver en los concesionarios una de las motos más peculiares del mercado. Y también el regreso de un formato que hizo historia y que convertiría a la predecesora de la moto que hoy nos ocupa en moto de culto. Alemania quiere volver a pasarse el juego. Hace algo más de 25 años…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/10/bmw-vision-ce-6adcbfc1f3dfe.jpg?class=XL",
-      "menciones": 1,
-      "fuentes": [
-        "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "Se me ha encendido la luz de fallo motor en marcha. ¿Cuánto tiempo puedo circular con ella encendida?",
-      "link": "https://www.motorpasion.com/revision/se-me-ha-encendido-luz-fallo-motor-marcha-cuanto-tiempo-puedo-circular-ella-encendida-1",
-      "fuente": "Motorpasión (ES)",
-      "fecha": "2026-10-25T07:00:10Z",
-      "resumen": "Son las tres de la tarde y en la autopista hacia Stuttgart, por una vez, apenas hay tráfico. Libre de restricciones de velocidad, sigo acelerando el Irmscher Vectra GTS i35 Kompressor . 235 km/h, 240, 250 km/h, la aceleración ya no es brutal y la estabilidad, no muy allá. En teoría, el coche era capaz de alcanzar los 285 km/h. Nunca sabré si podía o no alcanzar esa velocidad: se encendió la luz…",
-      "imagen": "https://i.blogs.es/b331cf/luz-fallo-motor/1024_2000.jpeg",
-      "menciones": 1,
-      "fuentes": [
-        "Motorpasión (ES)"
       ]
     }
   ]
