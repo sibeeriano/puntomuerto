@@ -1,5 +1,77 @@
 [
   {
+    "titulo": "El Extreme H también cancela su cita en Arabia Saudí: la Copa del Mundo se aplaza a 2027",
+    "link": "https://www.diariomotor.com/competicion/noticia/extreme-h-aplaza-copa-mundo-2027/",
+    "fuente": "Diariomotor (ES)",
+    "fecha": "2026-10-26T22:28:10Z",
+    "resumen": "Este domingo fue ASO la que confirmaba que finalmente el Rally Dakar 2027 no se llevará a cabo en Arabia Saudí y ahora es el turno por parte de la FIA de confirmar que no habrá segunda edición de la Coma del Mundo del Extreme H, evento que estaba programado para el próximo 29-31 de octubre en la ciudad de Qiddiyah, Arabia Saudí. Quedará en este caso pospuesta hasta el próximo año tras la decisión…",
+    "imagen": "https://www.diariomotor.com/imagenes/2026/10/copa-del-mundo-extreme-h-2025-2-6adfc5d426bcf.jpg?class=XL"
+  },
+  {
+    "titulo": "El Suzuki eVitara sacó 5 estrellas en India y solo 4 en Japón: qué cambia entre un NCAP y otro",
+    "link": "https://autotest.com.ar/noticias/el-suzuki-evitara-saco-5-estrellas-en-india-y-solo-4-en-japon-que-cambia-entre-un-ncap-y-otro/",
+    "fuente": "Autotest",
+    "fecha": "2026-10-26T22:16:16Z",
+    "resumen": "El antecedente de ANCAP lo confirma: el programa de Australasia, alineado con Euro NCAP en varios criterios, ya le había dado cuatro estrellas.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/el-suzuki-evitara-sac-5-estrellas-en-ind-1200x740-1.jpg"
+  },
+  {
+    "titulo": "V8 de 400 CV y caja manual: el Fiat 131 Abarth revive en solo 10 unidades",
+    "link": "https://autotest.com.ar/carreras/v8-de-400-cv-y-caja-manual-el-fiat-131-abarth-revive-en-solo-10-unidades/",
+    "fuente": "Autotest",
+    "fecha": "2026-10-26T22:16:11Z",
+    "resumen": "En competición, el auto fue una máquina dominante: ganó tres campeonatos de constructores del WRC, en 1977, 1978 y 1980, y llevó a Walter Röhrl al título de pilotos en 1980.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/v8-de-400-cv-y-caja-manual-el-fiat-131-a-1200x740-1.jpg"
+  },
+  {
+    "titulo": "De fracaso a récord: el New Beetle RSi de 225 CV que nadie quiso en 2001 hoy se paga USD 90.000",
+    "link": "https://autotest.com.ar/noticias/de-fracaso-a-record-el-new-beetle-rsi-de-225-cv-que-nadie-quiso-en-2001-hoy-se-paga-usd-90-000/",
+    "fuente": "Autotest",
+    "fecha": "2026-10-26T22:16:06Z",
+    "resumen": "El RSi resume una jugada extraña de Volkswagen: tomar un auto simpático y redondeado, meterle un motor noble, tracción integral y fibra de carbono, y cobrarlo como un deportivo alemán de primer nivel.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/de-fracaso-a-r-cord-el-new-beetle-rsi-de-1200x740-1.jpg"
+  },
+  {
+    "titulo": "Hyundai vuelve al off-road puro después de 20 años: la Boulder, más barata que un Bronco y con chasis de escalera",
+    "link": "https://autotest.com.ar/offroad/hyundai-vuelve-al-off-road-puro-despues-de-20-anos-la-boulder-mas-barata-que-un-bronco-y-con-chasis-de-escalera/",
+    "fuente": "Autotest",
+    "fecha": "2026-10-26T22:16:00Z",
+    "resumen": "Una hipótesis técnica menciona que la plataforma podría derivar del Kia Mohave, el todoterreno con chasis de largueros que Kia fabrica en Corea y otros mercados.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/hyundai-vuelve-al-off-road-puro-despu-s-1200x740-1.jpg"
+  },
+  {
+    "titulo": "Bronco RTR: 300 CV para el barro extremo por 118 CV menos que el Raptor de 418 CV",
+    "link": "https://autotest.com.ar/offroad/bronco-rtr-300-cv-para-el-barro-extremo-por-118-cv-menos-que-el-raptor-de-418-cv/",
+    "fuente": "Autotest",
+    "fecha": "2026-10-26T22:15:55Z",
+    "resumen": "El Bronco RTR resigna los 118 CV de diferencia y no lleva las 37 pulgadas del Raptor, pero conserva la silueta ensanchada y una capacidad off-road más que suficiente para el uso real.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/bronco-rtr-300-cv-para-el-barro-extremo-1200x740-1.jpg"
+  },
+  {
+    "titulo": "Porsche analiza el 911 más caro de su historia: USD 400.000, más del triple que el Carrera base",
+    "link": "https://autotest.com.ar/noticias/porsche-analiza-el-911-mas-caro-de-su-historia-usd-400-000-mas-del-triple-que-el-carrera-base/",
+    "fuente": "Autotest",
+    "fecha": "2026-10-26T22:15:48Z",
+    "resumen": "Es la misma lógica que Ferrari aplica con sus series limitadas, donde la lista de espera y la reventa asegurada sostienen la exclusividad.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/porsche-analiza-el-911-m-s-caro-de-su-hi-1200x740-1.jpg"
+  },
+  {
+    "titulo": "Bugatti Veyron one-off de 1.183 CV: el único sin pintura que tuvieron que pulir a mano como un espejo",
+    "link": "https://autotest.com.ar/noticias/bugatti-veyron-one-off-de-1-183-cv-el-unico-sin-pintura-que-tuvieron-que-pulir-a-mano-como-un-espejo/",
+    "fuente": "Autotest",
+    "fecha": "2026-10-26T21:26:01Z",
+    "resumen": "El motor W16 no es un detalle menor: dieciséis cilindros en disposición W, cuatro turbos y una gestión térmica compleja exigen refrigeración y calibraciones específicas.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/bugatti-veyron-one-off-de-1-183-cv-el-ni-1200x740-1.jpg"
+  },
+  {
+    "titulo": "¿Cómo es el nuevo Lexus electrificado que llegó a la Argentina?",
+    "link": "https://eleconomista.com.ar/autos/como-nuevo-lexus-electrificado-llego-argentina-n99215",
+    "fuente": "El Economista",
+    "fecha": "2026-10-26T20:33:00Z",
+    "resumen": "La marca premium de Toyota lanzó la octava generación del ES, un imponente sedán del segmento D. Está disponible en variantes híbrida y 100% eléctrica.",
+    "imagen": "https://statics.eleconomista.com.ar/2026/10/crop/6adfbca9666ea__950x512.webp?v=1793048007"
+  },
+  {
     "titulo": "178 CV y hasta 1.600 km de autonomía: así es el sedán que cuesta menos que Toyota Corolla",
     "link": "https://autotest.com.ar/noticias/178-cv-y-hasta-1-600-km-de-autonomia-asi-es-el-sedan-que-cuesta-menos-que-toyota-corolla/",
     "fuente": "Autotest",
@@ -46,14 +118,6 @@
     "fecha": "2026-10-26T18:00:19Z",
     "resumen": "A día de hoy tenemos meridianamente claro que China domina la tecnología eléctrica y, en este campo que evoluciona día sí, día también, BYD sigue empeñada en demostrar hasta dónde puede llegar la tecnología de sus coches eléctricos. Su última creación es un SUV de lujo, más de cinco metros de longitud y unas cifras escandalosas: 1.210 CV de potencia, más de 1.000 kilómetros de autonomía y una…",
     "imagen": "https://www.diariomotor.com/imagenes/2026/10/Denza-N8-11-6adf683c5e7d5.jpg?class=XL"
-  },
-  {
-    "titulo": "¿Cómo es el nuevo Lexus electrificado que llegó a la Argentina?",
-    "link": "https://eleconomista.com.ar/autos/como-nuevo-lexus-electrificado-llego-argentina-n99215",
-    "fuente": "El Economista",
-    "fecha": "2026-10-26T20:33:00Z",
-    "resumen": "La marca premium de Toyota lanzó la octava generación del ES, un imponente sedán del segmento D. Está disponible en variantes híbrida y 100% eléctrica.",
-    "imagen": "https://statics.eleconomista.com.ar/2026/10/crop/6adfbca9666ea__950x512.webp?v=1793048007"
   },
   {
     "titulo": "Costaba el doble que un BMW M5 y corría a 290 km/h. Hace 37 años el Alpina B10 Bi-Turbo era el Concorde de las Autobahn",
