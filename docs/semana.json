@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-26T19:18:42Z",
+  "actualizado": "2026-10-26T21:04:28Z",
   "desde": "2026-10-19",
   "hasta": "2026-10-26",
   "destacadas": [
@@ -25,11 +25,37 @@
       "fecha": "2026-10-26T18:00:20Z",
       "resumen": "Descubre las principales diferencias en precio, equipamiento y características entre el Volkswagen Polo Comfortline y Tera Comfort. Conoce cuál ofrece mayor valor por su costo.",
       "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/Volkswagen-Tera-Comfort-perfil.jpg",
-      "menciones": 23,
+      "menciones": 20,
       "fuentes": [
         "Autotest",
         "Diariomotor (ES)",
         "Motorpasión (ES)"
+      ]
+    },
+    {
+      "titulo": "¿Cómo es el nuevo Lexus electrificado que llegó a la Argentina?",
+      "link": "https://eleconomista.com.ar/autos/como-nuevo-lexus-electrificado-llego-argentina-n99215",
+      "fuente": "El Economista",
+      "fecha": "2026-10-26T20:33:00Z",
+      "resumen": "La marca premium de Toyota lanzó la octava generación del ES, un imponente sedán del segmento D. Está disponible en variantes híbrida y 100% eléctrica.",
+      "imagen": "https://statics.eleconomista.com.ar/2026/10/crop/6adfbca9666ea__950x512.webp?v=1793048007",
+      "menciones": 2,
+      "fuentes": [
+        "El Economista",
+        "Megautos"
+      ]
+    },
+    {
+      "titulo": "178 CV y hasta 1.600 km de autonomía: así es el sedán que cuesta menos que Toyota Corolla",
+      "link": "https://autotest.com.ar/noticias/178-cv-y-hasta-1-600-km-de-autonomia-asi-es-el-sedan-que-cuesta-menos-que-toyota-corolla/",
+      "fuente": "Autotest",
+      "fecha": "2026-10-26T20:00:37Z",
+      "resumen": "El BYD Seal 5 DM-i llega a Argentina ofreciendo hasta 1.600 km de autonomía y tecnología avanzada, todo a un precio competitivo que seduce a quienes buscan sedanes medianos.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/08/Sedan-BYD-Seal-5-DM-i-trasera.jpg",
+      "menciones": 41,
+      "fuentes": [
+        "Autotest",
+        "Diariomotor (ES)"
       ]
     },
     {
@@ -39,7 +65,7 @@
       "fecha": "2026-10-26T19:00:46Z",
       "resumen": "Hyundai presenta el nuevo Bayon 2026 con motor 1.5 aspirado, doble pantalla y tecnología ADAS de nivel 2, listo para conquistar más de 50 mercados, incluyendo Chile.",
       "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/SUV-Hyundai-Bayon-teaser.jpg",
-      "menciones": 56,
+      "menciones": 19,
       "fuentes": [
         "Autotest",
         "Diariomotor (ES)"
@@ -78,7 +104,7 @@
       "fecha": "2026-10-26T19:02:05Z",
       "resumen": "La época en la que toda marca tenía un GTI a la venta por relativamente poco dinero ha acabado. Pero no solo ha acabado, sino que también, por norma general, lo que ofrece la industria en el segmento a día de hoy es un compacto caro y que corre mucho pero que no emociona. Por eso sorprende que Japón siga ofreciendo, por 31.080 euros , un deportivo descapotable de apenas 1.000 kg de peso con cambio…",
       "imagen": "https://www.diariomotor.com/imagenes/2019/11/mazda-mx-5-nd-vs-nb-dcd-1019-035-mdm.jpg?class=XL",
-      "menciones": 3,
+      "menciones": 2,
       "fuentes": [
         "Diariomotor (ES)"
       ]
@@ -274,30 +300,6 @@
       "menciones": 1,
       "fuentes": [
         "Motorpasión (ES)"
-      ]
-    },
-    {
-      "titulo": "Antonelli, de 19 años, ganó en Austin y dejó el título de F1 al borde de la definición",
-      "link": "https://autotest.com.ar/carreras/antonelli-de-19-anos-gano-en-austin-y-dejo-el-titulo-de-f1-al-borde-de-la-definicion/",
-      "fuente": "Autotest",
-      "fecha": "2026-10-26T14:41:38Z",
-      "resumen": "Andrea Kimi Antonelli nació en Bologna el 25 de agosto de 2006 y llegó a la Fórmula 1 como la gran apuesta de Mercedes para la temporada 2025, después de la salida de Lewis Hamilton a Ferrari.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/antonelli-de-19-a-os-gan-en-austin-y-dej-1200x740-1.jpg",
-      "menciones": 1,
-      "fuentes": [
-        "Autotest"
-      ]
-    },
-    {
-      "titulo": "Asientos con masaje y estacionamiento automático: el SUV con 185 HP que compite contra Ford Territory",
-      "link": "https://autotest.com.ar/noticias/asientos-con-masaje-y-estacionamiento-automatico-el-suv-con-185-hp-que-compite-contra-ford-territory/",
-      "fuente": "Autotest",
-      "fecha": "2026-10-26T14:30:05Z",
-      "resumen": "Con un motor turbo de 185 CV y un diseño que supera a competidores como el Ford Territory y Toyota Corolla Cross, el BAIC X55 Plus redefine el segmento de SUV en Argentina.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2025/08/SUV-BAIC-X55-PLUS-perfil.jpg",
-      "menciones": 1,
-      "fuentes": [
-        "Autotest"
       ]
     }
   ]
