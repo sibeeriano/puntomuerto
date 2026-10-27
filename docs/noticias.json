@@ -1,27 +1,67 @@
 [
   {
+    "titulo": "Ocho historias que nos habríamos perdido si el Rally Dakar 2027 hubiera sido cancelado",
+    "link": "https://www.diariomotor.com/competicion/noticia/ocho-historias-rally-dakar-cancelado/",
+    "fuente": "Diariomotor (ES)",
+    "fecha": "2026-10-27T21:29:08Z",
+    "resumen": "Es oficial: el Rally Dakar 2027 no se celebrará en Arabia Saudí , sin embargo, esto no implicará que la cita más famosa del mundo de los rally-raids se lleve a cabo el próximo mes de enero y celebre su 49ª edición , a un paso de las particulares bodas de oro que en principio sí están programadas para que regresen a territorio saudita. El anuncio de este domingo ponía fin a semanas de rumores,…",
+    "imagen": "https://www.diariomotor.com/imagenes/2026/10/rally-dakar-2027-razones-6-6ae10893b75a3.jpg?class=XL"
+  },
+  {
+    "titulo": "La aduana intercepta en el aeropuerto de Frankurt un Ferrari 849 Testarossa de medio millón de euros. Había sido robado",
+    "link": "https://www.motorpasion.com/superdeportivos/aduana-intercepta-aeropuerto-frankurt-ferrari-849-testarossa-medio-millon-euros-habia-sido-robado",
+    "fuente": "Motorpasión (ES)",
+    "fecha": "2026-10-27T20:01:27Z",
+    "resumen": "Era la noche del 23 de octubre, y los agentes de Aduanas de Frankfurt estaban inspeccionando un Ferrari 849 Testarossa valorado en más de 500.000 euros que había llegado. La policía había dado el aviso de que algo no cuadraba, y estaba en lo cierto. El deportivo había sido robado en Bélgica, e iba a ser transportado por avión desde Frankfurt a México . No es un caso aislado. El modus operandi: de…",
+    "imagen": "https://i.blogs.es/7f6196/portada-mop-1793099618989/1024_2000.jpeg"
+  },
+  {
+    "titulo": "Bridgestone quiere volver a la F1 en 2029: 175 victorias y 11 títulos para destronar a Pirelli",
+    "link": "https://autotest.com.ar/carreras/bridgestone-quiere-volver-a-la-f1-en-2029-175-victorias-y-11-titulos-para-destronar-a-pirelli/",
+    "fuente": "Autotest",
+    "fecha": "2026-10-27T20:21:12Z",
+    "resumen": "El pliego de la FIA y Liberty Media fija requisitos técnicos y de suministro: cantidad de juegos por fin de semana, compuestos disponibles, ventana de temperatura de funcionamiento y topes de costo.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/bridgestone-quiere-volver-a-la-f1-en-202-1200x740-1.jpg"
+  },
+  {
+    "titulo": "Aunque ha vendido 34.000 coches menos, Porsche multiplica por 43 su beneficio operativo en nueve meses de 2026 y empieza a ver la luz de nuevo",
+    "link": "https://www.diariomotor.com/noticia/beneficios-porsche-septiembre-2026/",
+    "fuente": "Diariomotor (ES)",
+    "fecha": "2026-10-27T20:00:14Z",
+    "resumen": "Aunque sus ventas siguen cayendo, Porsche está empezando a recuperar la rentabilidad. El fabricante alemán ha cerrado los nueve primeros meses de 2026 con un beneficio operativo de 1.740 millones de euros, frente a los apenas 40 millones del mismo periodo de 2025. Detrás de esas cifras hay una combinación de ajuste de costes, precios más altos y una estrategia que busca ganar más dinero con cada…",
+    "imagen": "https://www.diariomotor.com/imagenes/2026/04/Porsche-911-GT3-SC-6-69de2e9005bb4.jpg?class=XL"
+  },
+  {
+    "titulo": "Alquiler de autos deportivos y de lujo: otra forma de disfrutar al volante",
+    "link": "https://www.megautos.com/alquiler-de-autos-deportivos-y-de-lujo/",
+    "fuente": "Megautos",
+    "fecha": "2026-10-27T19:43:12Z",
+    "resumen": "El alquiler de deportivos permite acceder a modelos de Ferrari, Lamborghini y Porsche sin afrontar los costos de compra y mantenimiento. En España, la propuesta abarca desde escapadas de varios días hasta rutas con acompañamiento de un instructor. La entrada Alquiler de autos deportivos y de lujo: otra forma de disfrutar al volante aparece primero en Mega Autos .",
+    "imagen": ""
+  },
+  {
+    "titulo": "Hummer EV SUV: 1.000 CV y 0 a 100 en 3 segundos, pero pesa casi 4 toneladas",
+    "link": "https://autotest.com.ar/noticias/hummer-ev-suv-1-000-cv-y-0-a-100-en-3-segundos-pero-pesa-casi-4-toneladas/",
+    "fuente": "Autotest",
+    "fecha": "2026-10-27T19:31:01Z",
+    "resumen": "Hay un detalle técnico que conviene aclarar: las cifras de torque que General Motors declara suelen medirse en el eje, no en el motor.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/hummer-ev-suv-1-000-cv-y-0-a-100-en-3-se-1200x740-1.jpg"
+  },
+  {
+    "titulo": "Más barato que Territory: el SUV de Ford con 184 CV, tracción integral y pantalla de 13,2 pulgadas",
+    "link": "https://autotest.com.ar/noticias/mas-barato-que-territory-el-suv-de-ford-con-184-cv-traccion-integral-y-pantalla-de-132-pulgadas/",
+    "fuente": "Autotest",
+    "fecha": "2026-10-27T19:00:59Z",
+    "resumen": "El renovado Ford Bronco Sport llega con mejoras en tecnología y seguridad. Descubre cuál es la mejor opción según tus necesidades.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2024/08/Ford-Bronco-Sport-2025-perfil.jpg"
+  },
+  {
     "titulo": "Algunos coches eléctricos pesan tanto que pronto no se podrán conducir con el carnet B de conducir",
     "link": "https://www.motorpasion.com/coches-electricos/algunos-coches-electricos-pesan-que-pronto-no-se-podran-conducir-carnet-conducir-b",
     "fuente": "Motorpasión (ES)",
     "fecha": "2026-10-27T18:01:28Z",
     "resumen": "No es ningún secreto que el peso de los coches eléctricos e híbridos supone un reto no solo para la infraestructura , sino para el consumo y hasta la propia conducción del vehículo. Para que te hagas una idea, el Mercedes-Benz Clase G con tecnología EQ supera con creces las tres toneladas , mientras que el Volvo EX90 , el BMW i7 o el Audi SQ8 e-tron coquetean con los 2.900 kg de peso en vacío. En…",
     "imagen": "https://i.blogs.es/865f2d/portada-mop-1793111106596/1024_2000.jpeg"
-  },
-  {
-    "titulo": "Hace casi 50 años un piloto se coló en una carrera de F1. Cuando quisieron darse cuenta ya se había retirado por una avería",
-    "link": "https://www.motorpasion.com/formula1/hace-casi-50-anos-piloto-se-colo-carrera-f1-cuando-quisieron-darse-cuenta-se-habia-retirado-averia-1",
-    "fuente": "Motorpasión (ES)",
-    "fecha": "2026-10-27T17:31:27Z",
-    "resumen": "Hay muchas formas de participar en una carrera de Fórmula 1, pero la que eligió Hans Heyer es única y, probablemente, irrepetible. Porque en aquel Gran Premio de Alemania de 1977, Heyer fue el único piloto que se ha colado en una carrera de Fórmula 1 . Sin estar clasificado, el alemán se coló en la pista de Hockenheim y dio nueve vueltas. Heyer aprovechó un caos en la salida para saltar a la pista…",
-    "imagen": "https://i.blogs.es/1f15ab/heyer-alemania-f1-1977/1024_2000.jpeg"
-  },
-  {
-    "titulo": "¿Estafados al comprar su camper?: \"785.000 euros pagados, ni autocaravana ni papeles y 13 familias esperando\"",
-    "link": "https://www.motorpasion.com/furgonetas-y-caravanas/estafados-al-comprar-su-camper-785-000-euros-pagados-autocaravana-papeles-13-familias-esperando",
-    "fuente": "Motorpasión (ES)",
-    "fecha": "2026-10-27T17:01:30Z",
-    "resumen": "Se c ompraron una autocaravana en el Salón Internacional del Caravaning 2025 , celebrado hace más de un año. Hoy siguen sin recibir su vehículo camper tras haber ya pagado parte del importe o comenzar la financiación: le ha ocurrido a cerca de una decena de clientes. Algunos lo han denunciado ante la Guardia Civil por posible estafa. Hablamos de inversiones notables: más de 60.000 euros, siendo el…",
-    "imagen": "https://i.blogs.es/6c9862/salon-caravaning-01/1024_2000.jpeg"
   },
   {
     "titulo": "Nació para atravesar pantanos, tiene ruedas de 1,3 m y solo 80 CV: el Lada Niva más insólito se vende por 19.999 euros",
@@ -40,12 +80,20 @@
     "imagen": "https://autotest.com.ar/wp-content/uploads/2026/07/Kia-Soluto-Sedan-4.jpg"
   },
   {
-    "titulo": "BMW decidió recortar 8.000 empleos y ha cerrado las bajas voluntarias en tiempo récord: hasta 650.000 euros de indemnización",
-    "link": "https://www.motorpasion.com/industria/bmw-decidio-recortar-8-000-empleos-ha-cerrado-bajas-voluntarias-tiempo-record-650-000-euros-indemnizacion",
+    "titulo": "Hace casi 50 años un piloto se coló en una carrera de F1. Cuando quisieron darse cuenta ya se había retirado por una avería",
+    "link": "https://www.motorpasion.com/formula1/hace-casi-50-anos-piloto-se-colo-carrera-f1-cuando-quisieron-darse-cuenta-se-habia-retirado-averia-1",
     "fuente": "Motorpasión (ES)",
-    "fecha": "2026-10-27T16:18:00Z",
-    "resumen": "BMW va a recortar 8.000 puestos de trabajo de aquí a 2027. Este plan de reducción de costes, con empleados en el centro, responde a lo mismo que la estrategia de recortes de Volkswagen: asegurar su rentabilidad ante una tesitura complicada. Volkswagen planea recortar unos 50.000 puestos hasta 2030 . En el caso de la marca premium bávara lo anunció a finales de julio y, como parte de este plan,…",
-    "imagen": "https://i.blogs.es/1ccf8e/portada-mop-1793117383053/1024_2000.jpeg"
+    "fecha": "2026-10-27T17:31:27Z",
+    "resumen": "Hay muchas formas de participar en una carrera de Fórmula 1, pero la que eligió Hans Heyer es única y, probablemente, irrepetible. Porque en aquel Gran Premio de Alemania de 1977, Heyer fue el único piloto que se ha colado en una carrera de Fórmula 1 . Sin estar clasificado, el alemán se coló en la pista de Hockenheim y dio nueve vueltas. Heyer aprovechó un caos en la salida para saltar a la pista…",
+    "imagen": "https://i.blogs.es/1f15ab/heyer-alemania-f1-1977/1024_2000.jpeg"
+  },
+  {
+    "titulo": "¿Estafados al comprar su camper?: \"785.000 euros pagados, ni autocaravana ni papeles y 13 familias esperando\"",
+    "link": "https://www.motorpasion.com/furgonetas-y-caravanas/estafados-al-comprar-su-camper-785-000-euros-pagados-autocaravana-papeles-13-familias-esperando",
+    "fuente": "Motorpasión (ES)",
+    "fecha": "2026-10-27T17:01:30Z",
+    "resumen": "Se c ompraron una autocaravana en el Salón Internacional del Caravaning 2025 , celebrado hace más de un año. Hoy siguen sin recibir su vehículo camper tras haber ya pagado parte del importe o comenzar la financiación: le ha ocurrido a cerca de una decena de clientes. Algunos lo han denunciado ante la Guardia Civil por posible estafa. Hablamos de inversiones notables: más de 60.000 euros, siendo el…",
+    "imagen": "https://i.blogs.es/6c9862/salon-caravaning-01/1024_2000.jpeg"
   },
   {
     "titulo": "Así sería la nueva generación del Toyota Corolla: diseño deportivo y hasta 395 HP",
@@ -56,6 +104,22 @@
     "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/Nuevo-Toyota-Corolla-2028-cola.jpg"
   },
   {
+    "titulo": "BMW decidió recortar 8.000 empleos y ha cerrado las bajas voluntarias en tiempo récord: hasta 650.000 euros de indemnización",
+    "link": "https://www.motorpasion.com/industria/bmw-decidio-recortar-8-000-empleos-ha-cerrado-bajas-voluntarias-tiempo-record-650-000-euros-indemnizacion",
+    "fuente": "Motorpasión (ES)",
+    "fecha": "2026-10-27T16:18:00Z",
+    "resumen": "BMW va a recortar 8.000 puestos de trabajo de aquí a 2027. Este plan de reducción de costes, con empleados en el centro, responde a lo mismo que la estrategia de recortes de Volkswagen: asegurar su rentabilidad ante una tesitura complicada. Volkswagen planea recortar unos 50.000 puestos hasta 2030 . En el caso de la marca premium bávara lo anunció a finales de julio y, como parte de este plan,…",
+    "imagen": "https://i.blogs.es/1ccf8e/portada-mop-1793117383053/1024_2000.jpeg"
+  },
+  {
+    "titulo": "Jeep Avenger, nos subimos al SUV más chico y accesible de la marca",
+    "link": "https://www.iprofesional.com/autos/467294-jeep-avenger-como-anda-el-motor-hibrido-que-ofrece-precios-y-rivales",
+    "fuente": "iProfesional",
+    "fecha": "2026-10-27T16:05:00Z",
+    "resumen": "Es la puerta de entrada al universo Jeep. Tiene motor turbo con tecnología híbrida. Lo manejamos hasta Salinas Grandes para conocer cómo anda (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
+    "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/10/628326.jpg"
+  },
+  {
     "titulo": "Hecha con una furgoneta Kia, esta camper tiene, en solo 4,69 m, dos asientos y dos camas dobles que cambian por completo las vacaciones",
     "link": "https://www.diariomotor.com/noticia/kia-pv5-i-camper/",
     "fuente": "Diariomotor (ES)",
@@ -64,20 +128,28 @@
     "imagen": "https://www.diariomotor.com/imagenes/2026/10/Kia-iCamper-Wellhouse-Leisure-12-6ae081b73a0ee.jpg?class=XL"
   },
   {
+    "titulo": "Stellantis adelanta vacaciones y frena la producción en El Palomar hasta enero de 2027",
+    "link": "https://www.iprofesional.com/autos/467589-stellantis-frena-produccion-en-el-palomar-hasta-enero-de-2027-y-adelanta-vacaciones",
+    "fuente": "iProfesional",
+    "fecha": "2026-10-27T15:55:00Z",
+    "resumen": "La firma ajusta la producción en Buenos Aires y Córdoba por la caída de las ventas y las exportaciones, con vacaciones anticipadas y sin despidos (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
+    "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/04/614491.jpg"
+  },
+  {
+    "titulo": "Para Argentina, el acuerdo de libre comercio automotor con México está cerrado",
+    "link": "https://www.iprofesional.com/autos/467575-argentina-el-acuerdo-de-libre-comercio-automotor-conmexico-esta-cerrado",
+    "fuente": "iProfesional",
+    "fecha": "2026-10-27T15:40:00Z",
+    "resumen": "Las negociaciones están a un paso de la firma. De esta manera, se destrabaría el ingreso de autos al país. Detalles de un negocio clave (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
+    "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/06/620091.jpg"
+  },
+  {
     "titulo": "Por debajo de Duster: el Renault con precio accesible, 160 CV y hasta 1.000 km de autonomía",
     "link": "https://autotest.com.ar/noticias/por-debajo-de-duster-el-renault-con-precio-accesible-160-cv-y-hasta-1-000-km-de-autonomia/",
     "fuente": "Autotest",
     "fecha": "2026-10-27T15:30:56Z",
     "resumen": "Descubre la completa gama de vehículos eléctricos e híbridos de Renault para 2026, diseñada para satisfacer todas las necesidades de movilidad sostenible en España.",
     "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/Nuevo-Renault-Clio-teaser-1.jpg"
-  },
-  {
-    "titulo": "Dos jóvenes de Granada crean una app para aprovechar los garajes vacíos: “El truco de Airbnb llevado a los garajes de toda la vida”",
-    "link": "https://www.motorpasion.com/industria/dos-jovenes-granada-crean-app-para-aprovechar-garajes-vacios-truco-airbnb-llevado-a-garajes-toda-vida",
-    "fuente": "Motorpasión (ES)",
-    "fecha": "2026-10-27T14:01:28Z",
-    "resumen": "Dos jóvenes de Granada crean una plataforma colaborativa para que los propietarios de plazas de garaje las ofrezcan por horas o días a otros usuarios que necesitan aparcar. Se llama Nodpark y funciona a través de una app de una forma muy sencilla. Ya está disponible en varias ciudades españolas. “Conectamos dos situaciones que conviven durante mucho tiempo: plazas de garaje vacías y gente buscando…",
-    "imagen": "https://i.blogs.es/bdab5e/garaje-6/1024_2000.jpeg"
   },
   {
     "titulo": "Primeras imágenes del Rolls-Royce Ghost de BYD, una enorme limusina de 5,5 m y más de 1.100 CV",
@@ -104,6 +176,14 @@
     "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/Toyota-Corolla-Deck.jpg"
   },
   {
+    "titulo": "Dos jóvenes de Granada crean una app para aprovechar los garajes vacíos: “El truco de Airbnb llevado a los garajes de toda la vida”",
+    "link": "https://www.motorpasion.com/industria/dos-jovenes-granada-crean-app-para-aprovechar-garajes-vacios-truco-airbnb-llevado-a-garajes-toda-vida",
+    "fuente": "Motorpasión (ES)",
+    "fecha": "2026-10-27T14:01:28Z",
+    "resumen": "Dos jóvenes de Granada crean una plataforma colaborativa para que los propietarios de plazas de garaje las ofrezcan por horas o días a otros usuarios que necesitan aparcar. Se llama Nodpark y funciona a través de una app de una forma muy sencilla. Ya está disponible en varias ciudades españolas. “Conectamos dos situaciones que conviven durante mucho tiempo: plazas de garaje vacías y gente buscando…",
+    "imagen": "https://i.blogs.es/bdab5e/garaje-6/1024_2000.jpeg"
+  },
+  {
     "titulo": "Lo que parecía imposible hace unos años, está pasando: BYD ya vende más coches que Ford en Europa entera",
     "link": "https://www.diariomotor.com/noticia/byd-vende-mas-coches-ford-europa/",
     "fuente": "Diariomotor (ES)",
@@ -120,20 +200,20 @@
     "imagen": "https://www.diariomotor.com/imagenes/2026/10/Alex_Dunne_Test_IndyCar_2026_RR_26-6ae08ff7a330e.jpg?class=XL"
   },
   {
-    "titulo": "Nick Page, operario de reciclaje: \"Vi montones de billetes\". Todos los ahorros de un hombre para comprarse una autocaravana terminaron en la basura, y los recuperó en menos de 48 horas",
-    "link": "https://www.motorpasion.com/furgonetas-y-caravanas/nick-page-operario-reciclaje-vi-montones-billetes-todos-ahorros-hombre-para-comprarse-autocaravana-terminaron-basura-recupero-48-horas",
-    "fuente": "Motorpasión (ES)",
-    "fecha": "2026-10-27T12:31:27Z",
-    "resumen": "Los finales no siempre son felices pero el de este hombre lo fue. Mucho. Estuvo a punto de perder todos los ahorros para comprarse su autocaravana soñada, pero recuperó el dinero milagrosamente . No fue sencillo y, sobre todo, dependió de la honradez de terceras personas. En esta bonita historia son protagonistas la caja de unas viejas zapatillas Vans, un estupendo fajo de dólares y un buenísimo…",
-    "imagen": "https://i.blogs.es/f44a57/reciclaje/1024_2000.jpeg"
-  },
-  {
     "titulo": "El Nissan Versa más barato: menos de 35 millones, caja manual y frenado autónomo",
     "link": "https://autotest.com.ar/noticias/el-nissan-versa-mas-barato-menos-de-35-millones-caja-manual-y-frenado-autonomo/",
     "fuente": "Autotest",
     "fecha": "2026-10-27T13:30:24Z",
     "resumen": "El Nissan Versa 2026 llega a Argentina con un rango de precios desde $34.815.400 hasta $42.349.900, manteniendo sus cinco versiones y un motor naftero 1.6 de 118 CV.",
     "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/Nissan-Versa-Sense-teaser-1.jpg"
+  },
+  {
+    "titulo": "Se renovó una de las motos más vendidas del mercado: qué cambió y cuánto sale",
+    "link": "https://eleconomista.com.ar/autos/se-renovo-una-motos-mas-vendidas-mercado-cambio-cuanto-sale-n99242",
+    "fuente": "El Economista",
+    "fecha": "2026-10-27T13:10:00Z",
+    "resumen": "Corven lanza la nueva Energy Max 110, que estrena rediseño y suma equipamiento y tecnología. Sin embargo, una de las claves pasa por su posicionamiento agresivo de precio.",
+    "imagen": "https://statics.eleconomista.com.ar/2026/10/crop/6ae0a08013ad1__950x512.webp"
   },
   {
     "titulo": "Llegó un nuevo SUV híbrido más barato que Corolla Cross: tiene 265 CV y pantalla de 15.6 pulgadas",
@@ -144,36 +224,12 @@
     "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/Soueast-S06-nuevo-SUV.jpg"
   },
   {
-    "titulo": "Jeep Avenger, nos subimos al SUV más chico y accesible de la marca",
-    "link": "https://www.iprofesional.com/autos/467294-jeep-avenger-como-anda-el-motor-hibrido-que-ofrece-precios-y-rivales",
-    "fuente": "iProfesional",
-    "fecha": "2026-10-27T16:05:00Z",
-    "resumen": "Es la puerta de entrada al universo Jeep. Tiene motor turbo con tecnología híbrida. Lo manejamos hasta Salinas Grandes para conocer cómo anda (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
-    "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/10/628326.jpg"
-  },
-  {
-    "titulo": "Es eléctrico, es chino y lo hace (casi) todo bien. He probado el GAC AION UT y se parece mucho a los coches que necesitamos",
-    "link": "https://www.motorpasion.com/pruebas-de-coches/prueba-gac-aion-ut-2026",
-    "fuente": "Motorpasión (ES)",
-    "fecha": "2026-10-27T12:01:28Z",
-    "resumen": "De la enorme cantidad de marcas chinas que han llegado a Europa a lo largo de los últimos meses, hay una que no está haciendo tanto ruido como otras: GAC . Es probable que su nombre no te suene tanto como el de otras firmas chinas, pero este fabricante que tiene varias décadas de historia ya cuenta con dos modelos a la venta en nuestro mercado. El primero es el GAC AION V, un SUV compacto…",
-    "imagen": "https://i.blogs.es/b14d0a/gac-aion-ut-2026-mop-1/1024_2000.jpeg"
-  },
-  {
     "titulo": "Parece una moto antigua, pero es la plataforma sobre la que se prepara una solución para un futuro de motos que no quemen gasolina y sigan siendo divertidas",
     "link": "https://www.diariomotor.com/noticia/e-motiv-transmision/",
     "fuente": "Diariomotor (ES)",
     "fecha": "2026-10-27T13:00:05Z",
     "resumen": "Lo retro está de moda. Hace tan solo unos días os hablábamos de la renovación de las Yamaha XSR900 y XSR900 GP , y cómo Yamaha había dotado a estas motos modernas, a la última en tecnología, de una apariencia clásica. Honda, por su parte, lanzaba su CB1000F , un Hornet vestida de moto clásica. En el mundo del automóvil ya hemos visto el renacimiento del Renault 5 , y muy pronto del Citroën 2CV .…",
     "imagen": "https://www.diariomotor.com/imagenes/2026/10/e-motiv-transmision-moto-electrica-2027-exterior-06-6ae03a07b64c3.jpg?class=XL"
-  },
-  {
-    "titulo": "Stellantis adelanta vacaciones y frena la producción en El Palomar hasta enero de 2027",
-    "link": "https://www.iprofesional.com/autos/467589-stellantis-frena-produccion-en-el-palomar-hasta-enero-de-2027-y-adelanta-vacaciones",
-    "fuente": "iProfesional",
-    "fecha": "2026-10-27T15:55:00Z",
-    "resumen": "La firma ajusta la producción en Buenos Aires y Córdoba por la caída de las ventas y las exportaciones, con vacaciones anticipadas y sin despidos (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
-    "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/04/614491.jpg"
   },
   {
     "titulo": "Así es el Fiat Multiplina: el pequeño eléctrico de cuatro plazas",
@@ -184,12 +240,12 @@
     "imagen": "https://www.megautos.com/wp-content/uploads/2026/10/multiplina-1.jpg"
   },
   {
-    "titulo": "Para Argentina, el acuerdo de libre comercio automotor con México está cerrado",
-    "link": "https://www.iprofesional.com/autos/467575-argentina-el-acuerdo-de-libre-comercio-automotor-conmexico-esta-cerrado",
-    "fuente": "iProfesional",
-    "fecha": "2026-10-27T15:40:00Z",
-    "resumen": "Las negociaciones están a un paso de la firma. De esta manera, se destrabaría el ingreso de autos al país. Detalles de un negocio clave (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
-    "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/06/620091.jpg"
+    "titulo": "Nick Page, operario de reciclaje: \"Vi montones de billetes\". Todos los ahorros de un hombre para comprarse una autocaravana terminaron en la basura, y los recuperó en menos de 48 horas",
+    "link": "https://www.motorpasion.com/furgonetas-y-caravanas/nick-page-operario-reciclaje-vi-montones-billetes-todos-ahorros-hombre-para-comprarse-autocaravana-terminaron-basura-recupero-48-horas",
+    "fuente": "Motorpasión (ES)",
+    "fecha": "2026-10-27T12:31:27Z",
+    "resumen": "Los finales no siempre son felices pero el de este hombre lo fue. Mucho. Estuvo a punto de perder todos los ahorros para comprarse su autocaravana soñada, pero recuperó el dinero milagrosamente . No fue sencillo y, sobre todo, dependió de la honradez de terceras personas. En esta bonita historia son protagonistas la caja de unas viejas zapatillas Vans, un estupendo fajo de dólares y un buenísimo…",
+    "imagen": "https://i.blogs.es/f44a57/reciclaje/1024_2000.jpeg"
   },
   {
     "titulo": "Desde 32.000 dólares: la pick up 4×4 con motor turbodiésel, hasta 1.000 kg de carga y pantalla de 12,3 pulgadas",
@@ -216,6 +272,14 @@
     "imagen": "https://www.diariomotor.com/imagenes/2026/10/Racing_Bulls-Red_Bull_Powertrains_Formula-1_Cl_2026_26-6ae07ac379adf.jpg?class=XL"
   },
   {
+    "titulo": "Es eléctrico, es chino y lo hace (casi) todo bien. He probado el GAC AION UT y se parece mucho a los coches que necesitamos",
+    "link": "https://www.motorpasion.com/pruebas-de-coches/prueba-gac-aion-ut-2026",
+    "fuente": "Motorpasión (ES)",
+    "fecha": "2026-10-27T12:01:28Z",
+    "resumen": "De la enorme cantidad de marcas chinas que han llegado a Europa a lo largo de los últimos meses, hay una que no está haciendo tanto ruido como otras: GAC . Es probable que su nombre no te suene tanto como el de otras firmas chinas, pero este fabricante que tiene varias décadas de historia ya cuenta con dos modelos a la venta en nuestro mercado. El primero es el GAC AION V, un SUV compacto…",
+    "imagen": "https://i.blogs.es/b14d0a/gac-aion-ut-2026-mop-1/1024_2000.jpeg"
+  },
+  {
     "titulo": "El SUV más barato de Toyota cuesta menos de 42 millones: 106 CV, caja automática y seis airbags",
     "link": "https://autotest.com.ar/noticias/el-suv-mas-barato-de-toyota-cuesta-menos-de-42-millones-106-cv-caja-automatica-y-seis-airbags/",
     "fuente": "Autotest",
@@ -230,30 +294,6 @@
     "fecha": "2026-10-27T12:00:41Z",
     "resumen": "Este titán es el vehículo terrestre más grande del mundo con una altura de 96m y una longitud de 225m. Se llama MAN TAKRAF RB293, aunque se le conoce con el sobrenombre de Bagger 293 y te voy a desvelar su historia, su por qué y sus imponentes cifras. Es capaz de mover unas 218.880 toneladas de material al día , que equivale al curro manual de unos 40.000 mineros. Sin embargo, se fabricó para ser…",
     "imagen": "https://www.diariomotor.com/imagenes/2026/10/man-takraf-rb293-excavote_4-6ae06b12ad4a4.png?class=XL"
-  },
-  {
-    "titulo": "Pillado tres veces en dos días por exceso de velocidad con un autobús. Le han llevado a juicio",
-    "link": "https://www.motorpasion.com/industria/le-cazan-tres-veces-dos-dias-exceso-velocidad-autobus-singapur-lleva-a-juicio-a-seis-conductores-superar-limites-vehiculos-pesados",
-    "fuente": "Motorpasión (ES)",
-    "fecha": "2026-10-27T11:00:00Z",
-    "resumen": "Singapur se está tomando muy en serio los excesos de velocidad en los vehículos pesados. Desde el 1 de enero de este año, tanto los camiones como los autobuses deben llevar limitadores de velocidad, pero eso no es todo. Los conductores de este tipo de vehículos que cometen excesos de velocidad, se enfrentan a penas muy duras. La Policía de Singapur llevará a juicio a seis de estos conductores por…",
-    "imagen": "https://i.blogs.es/223bf4/vehiculos-pesados-8/1024_2000.jpeg"
-  },
-  {
-    "titulo": "Juan José Ebenezer, mecánico, advierte: \"El coche no gasta nada de combustible si vamos cuesta abajo con el freno de motor\"",
-    "link": "https://www.motorpasion.com/revision/juan-jose-ebenezer-mecanico-explica-que-no-tiene-sentido-ir-punto-muerto-bajadas-coche-sigue-gastando-combustible",
-    "fuente": "Motorpasión (ES)",
-    "fecha": "2026-10-27T10:39:00Z",
-    "resumen": "Posiblemente tu abuelo te haya comentado alguna vez que, para ahorrar gasolina , hay que poner el coche en punto muerto yendo cuesta abajo . Pero esta técnica dejó de tener sentido hace más de 35 años: con los automóviles de hoy es justo lo contrario, el consumo cero es con la marcha puesta . Y además ir sin engranar la marcha puede ser peligroso y desgasta más los frenos. Sobre ello reflexiona…",
-    "imagen": "https://i.blogs.es/4566a0/mecanico-punto.muerto.bajadas-consumo/1024_2000.jpeg"
-  },
-  {
-    "titulo": "Benidorm echa el freno a las sillas motorizadas y veta a las que tengan más de una plaza",
-    "link": "https://www.motorpasion.com/seguridad/sillitas-motorizadas-abuelos-ingleses-han-invadido-benidorm-ahora-ayuntamiento-se-pone-serio-prohibe-llevar-pasajeros",
-    "fuente": "Motorpasión (ES)",
-    "fecha": "2026-10-27T10:19:00Z",
-    "resumen": "Si alguna vez has estado en Benidorm sabrás que es una suerte de Ámsterdam, pero muy kitsch: en vez de esquivar bicis, tienes que esquivar sillas motorizadas . Un pequeño vistazo a Google Maps permite ver la cantidad de empresas que se dedican a alquilar estos vehículos de movilidad personal que, supuestamente, son asistenciales, pero que se han convertido en la forma de transporte de muchos…",
-    "imagen": "https://i.blogs.es/ba5a18/portada-mop-1793095997308/1024_2000.jpeg"
   },
   {
     "titulo": "Menos de 23000 dólares: así es el Nissan Sentra más barato con 149 CV para enfrentar a Corolla",
@@ -288,6 +328,14 @@
     "imagen": "https://www.diariomotor.com/imagenes/2026/10/renault-5-2027-exterior-01-6ae05067aac7c.jpg?class=XL"
   },
   {
+    "titulo": "Pillado tres veces en dos días por exceso de velocidad con un autobús. Le han llevado a juicio",
+    "link": "https://www.motorpasion.com/industria/le-cazan-tres-veces-dos-dias-exceso-velocidad-autobus-singapur-lleva-a-juicio-a-seis-conductores-superar-limites-vehiculos-pesados",
+    "fuente": "Motorpasión (ES)",
+    "fecha": "2026-10-27T11:00:00Z",
+    "resumen": "Singapur se está tomando muy en serio los excesos de velocidad en los vehículos pesados. Desde el 1 de enero de este año, tanto los camiones como los autobuses deben llevar limitadores de velocidad, pero eso no es todo. Los conductores de este tipo de vehículos que cometen excesos de velocidad, se enfrentan a penas muy duras. La Policía de Singapur llevará a juicio a seis de estos conductores por…",
+    "imagen": "https://i.blogs.es/223bf4/vehiculos-pesados-8/1024_2000.jpeg"
+  },
+  {
     "titulo": "FOTON DAYS en Rosario: Test Drive del line up completo y los últimos lanzamientos de la marca",
     "link": "https://autotest.com.ar/transportes/foton-days-en-rosario-test-drive-del-line-up/",
     "fuente": "Autotest",
@@ -296,12 +344,20 @@
     "imagen": "https://transportemundial.com.ar/wp-content/uploads/2026/10/FOTON-DAYS-en-Rosario-2.jpg"
   },
   {
-    "titulo": "Se renovó una de las motos más vendidas del mercado: qué cambió y cuánto sale",
-    "link": "https://eleconomista.com.ar/autos/se-renovo-una-motos-mas-vendidas-mercado-cambio-cuanto-sale-n99242",
-    "fuente": "El Economista",
-    "fecha": "2026-10-27T13:10:00Z",
-    "resumen": "Corven lanza la nueva Energy Max 110, que estrena rediseño y suma equipamiento y tecnología. Sin embargo, una de las claves pasa por su posicionamiento agresivo de precio.",
-    "imagen": "https://statics.eleconomista.com.ar/2026/10/crop/6ae0a08013ad1__950x512.webp"
+    "titulo": "Juan José Ebenezer, mecánico, advierte: \"El coche no gasta nada de combustible si vamos cuesta abajo con el freno de motor\"",
+    "link": "https://www.motorpasion.com/revision/juan-jose-ebenezer-mecanico-explica-que-no-tiene-sentido-ir-punto-muerto-bajadas-coche-sigue-gastando-combustible",
+    "fuente": "Motorpasión (ES)",
+    "fecha": "2026-10-27T10:39:00Z",
+    "resumen": "Posiblemente tu abuelo te haya comentado alguna vez que, para ahorrar gasolina , hay que poner el coche en punto muerto yendo cuesta abajo . Pero esta técnica dejó de tener sentido hace más de 35 años: con los automóviles de hoy es justo lo contrario, el consumo cero es con la marcha puesta . Y además ir sin engranar la marcha puede ser peligroso y desgasta más los frenos. Sobre ello reflexiona…",
+    "imagen": "https://i.blogs.es/4566a0/mecanico-punto.muerto.bajadas-consumo/1024_2000.jpeg"
+  },
+  {
+    "titulo": "Benidorm echa el freno a las sillas motorizadas y veta a las que tengan más de una plaza",
+    "link": "https://www.motorpasion.com/seguridad/sillitas-motorizadas-abuelos-ingleses-han-invadido-benidorm-ahora-ayuntamiento-se-pone-serio-prohibe-llevar-pasajeros",
+    "fuente": "Motorpasión (ES)",
+    "fecha": "2026-10-27T10:19:00Z",
+    "resumen": "Si alguna vez has estado en Benidorm sabrás que es una suerte de Ámsterdam, pero muy kitsch: en vez de esquivar bicis, tienes que esquivar sillas motorizadas . Un pequeño vistazo a Google Maps permite ver la cantidad de empresas que se dedican a alquilar estos vehículos de movilidad personal que, supuestamente, son asistenciales, pero que se han convertido en la forma de transporte de muchos…",
+    "imagen": "https://i.blogs.es/ba5a18/portada-mop-1793095997308/1024_2000.jpeg"
   },
   {
     "titulo": "Tu próximo coche puede que no sea un Toyota, pero sí tendrá uno de sus motores, te explicamos el por qué",
@@ -310,6 +366,14 @@
     "fecha": "2026-10-27T10:00:51Z",
     "resumen": "El motor térmico está lejos de desaparecer de nuestras calles, sin embargo cada vez menos fabricantes tienen la capacidad o el interés de desarrollar mecánicas más eficientes . Y sí, esto es un gran problema, pero Toyota lo ha transformado en una gran oportunidad a su favor y por eso tu próximo coche, aunque no lleve el logo de Toyota, sí que podría montar uno de sus motores . Toyota está en…",
     "imagen": "https://www.diariomotor.com/imagenes/2024/05/nueva-generacion-motores-toyota-e-fuel-2024-1074273.jpg?class=XL"
+  },
+  {
+    "titulo": "Guarda la cama sobre el salón, que es enorme para una camper de su tamaño, y ya está a la venta en España",
+    "link": "https://www.diariomotor.com/noticia/camper-burstner-b66-644-c/",
+    "fuente": "Diariomotor (ES)",
+    "fecha": "2026-10-27T09:00:05Z",
+    "resumen": "Aprovechar el espacio en una furgoneta camper es fundamental y lo que propone la Bürstner B66 644 C es bastante interesante. En lugar de colocar una cama fija en la parte trasera, esta camper tiene un enorme salón en forma de U y una cama doble que se guarda sobre él , junto al techo. Todo ello en una furgoneta de poco más de 6 metros que ya tiene precio anunciado para España: desde 69.845 euros.…",
+    "imagen": "https://www.diariomotor.com/imagenes/2026/10/Burstner-B66-644-camper-3-6adf212bd9ebb.jpg?class=XL"
   },
   {
     "titulo": "Por qué Aston Martin no se plantea romper con Honda todavía a pesar de que su motor no termine de arrancar",
@@ -326,14 +390,6 @@
     "fecha": "2026-10-27T08:44:00Z",
     "resumen": "Arrancamos otro día con el precio de los combustibles por las nubes , si bien es verdad que, dentro de lo malo, tenemos cierta estabilidad en las tarifas con respecto a los últimos días, de hecho, el barril de brent está ligeramente más barato que ayer y se sitúa en los 111 dólares. La coyuntura internacional sigue marcando el precio del diésel y la gasolina, así como del gas; las tensiones en las…",
     "imagen": "https://i.blogs.es/106a70/1366_2000/1024_2000.jpeg"
-  },
-  {
-    "titulo": "Guarda la cama sobre el salón, que es enorme para una camper de su tamaño, y ya está a la venta en España",
-    "link": "https://www.diariomotor.com/noticia/camper-burstner-b66-644-c/",
-    "fuente": "Diariomotor (ES)",
-    "fecha": "2026-10-27T09:00:05Z",
-    "resumen": "Aprovechar el espacio en una furgoneta camper es fundamental y lo que propone la Bürstner B66 644 C es bastante interesante. En lugar de colocar una cama fija en la parte trasera, esta camper tiene un enorme salón en forma de U y una cama doble que se guarda sobre él , junto al techo. Todo ello en una furgoneta de poco más de 6 metros que ya tiene precio anunciado para España: desde 69.845 euros.…",
-    "imagen": "https://www.diariomotor.com/imagenes/2026/10/Burstner-B66-644-camper-3-6adf212bd9ebb.jpg?class=XL"
   },
   {
     "titulo": "Lo último de Voge llega en formato scooter con un motor 4v más potente, más dotación y por menos de 3.000 €",
@@ -358,6 +414,14 @@
     "fecha": "2026-10-27T04:31:27Z",
     "resumen": "\"A menudo oímos decir que los motores híbridos son recientes, pero eso no es cierto\", comenta Hervé Charpentier, conservador del Museo de la Aventura de Peugeot en Sochaux. Y así es, el primer coche híbrido fue creado por Ferdinand Porsche para la marca Lohner en 1899, el conocido como Lohner-Porsche . Peugeot es otra marca que experimentó en este campo hace más de 100 años ya. \"El primer híbrido…",
     "imagen": "https://i.blogs.es/057e9c/char-assaut-peugeot/1024_2000.jpeg"
+  },
+  {
+    "titulo": "Efecto Lula: temen que la caída del real impacte en la industria automotriz argentina",
+    "link": "https://www.iprofesional.com/autos/467533-efecto-lula-temen-que-la-caida-del-real-impacte-en-la-industria-automotriz-argentina",
+    "fuente": "iProfesional",
+    "fecha": "2026-10-26T22:32:00Z",
+    "resumen": "Dos de cada tres 0km que se producen en Argentina se exportan al país vecino. Qué puede pasar con la política y economía en el cuarto mandato de Lula (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
+    "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/10/628443.jpg"
   },
   {
     "titulo": "El Extreme H también cancela su cita en Arabia Saudí: la Copa del Mundo se aplaza a 2027",
@@ -440,14 +504,6 @@
     "imagen": "https://autotest.com.ar/wp-content/uploads/2026/08/Sedan-BYD-Seal-5-DM-i-trasera.jpg"
   },
   {
-    "titulo": "Efecto Lula: temen que la caída del real impacte en la industria automotriz argentina",
-    "link": "https://www.iprofesional.com/autos/467533-efecto-lula-temen-que-la-caida-del-real-impacte-en-la-industria-automotriz-argentina",
-    "fuente": "iProfesional",
-    "fecha": "2026-10-26T22:32:00Z",
-    "resumen": "Dos de cada tres 0km que se producen en Argentina se exportan al país vecino. Qué puede pasar con la política y economía en el cuarto mandato de Lula (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
-    "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/10/628443.jpg"
-  },
-  {
     "titulo": "Mientras Europa encarece sus cada vez más anodinos GTI, llega Japón y planta, por 31.000 €, un deportivo descapotable de poco más de 1.000 kg con cambio manual y tracción trasera",
     "link": "https://www.diariomotor.com/noticia/oferta-mazda-mx-5-octubre-2026/",
     "fuente": "Diariomotor (ES)",
@@ -470,6 +526,14 @@
     "fecha": "2026-10-26T19:00:46Z",
     "resumen": "Hyundai presenta el nuevo Bayon 2026 con motor 1.5 aspirado, doble pantalla y tecnología ADAS de nivel 2, listo para conquistar más de 50 mercados, incluyendo Chile.",
     "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/SUV-Hyundai-Bayon-teaser.jpg"
+  },
+  {
+    "titulo": "Cuáles son los autos más buscados por los delincuentes para robar",
+    "link": "https://www.iprofesional.com/autos/467538-cuales-son-los-autos-mas-buscados-por-los-delincuentes-para-robar",
+    "fuente": "iProfesional",
+    "fecha": "2026-10-26T19:00:00Z",
+    "resumen": "Los hechos delictivos preocupan cada vez más a los usuarios particulares. Y la mayoría de los hechos ocurren los días de semana (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
+    "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2025/06/598563.jpg"
   },
   {
     "titulo": "El Volkswagen Tera automático que cuesta menos que un Polo: motor turbo, seis airbags y baúl de 350 litros",
@@ -550,14 +614,6 @@
     "fecha": "2026-10-26T16:00:33Z",
     "resumen": "A veces, lo más interesante de un coche no es cuánto cuesta la versión más barata, sino lo que puedes conseguir por un poco más de dinero, y te voy a poner un ejemplo con el nuevo GWM Haval H7. Es un SUV familiar de casi 4,8 metros que se vende en España desde 28.000 euros con motor híbrido de 247 CV, pero lo que me parece más interesante es que por 1.625 euros más puedes llevarte el híbrido…",
     "imagen": "https://www.diariomotor.com/imagenes/2026/10/Haval-H7-frontal-6adf4c5750642.jpg?class=XL"
-  },
-  {
-    "titulo": "Cuáles son los autos más buscados por los delincuentes para robar",
-    "link": "https://www.iprofesional.com/autos/467538-cuales-son-los-autos-mas-buscados-por-los-delincuentes-para-robar",
-    "fuente": "iProfesional",
-    "fecha": "2026-10-26T19:00:00Z",
-    "resumen": "Los hechos delictivos preocupan cada vez más a los usuarios particulares. Y la mayoría de los hechos ocurren los días de semana (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
-    "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2025/06/598563.jpg"
   },
   {
     "titulo": "682 CV y solo 252 unidades: el Escalade-V más caro que un BMW XM",
@@ -800,6 +856,14 @@
     "imagen": "https://i.blogs.es/aa80cd/portada-mop-1793008988270/1024_2000.jpeg"
   },
   {
+    "titulo": "El fabricante local Okinoi analiza el futuro de la moto eléctrica",
+    "link": "https://www.iprofesional.com/autos/467539-conviene-comprar-una-moto-electrica-asi-lo-analiza-el-fabricante-local-okinoi",
+    "fuente": "iProfesional",
+    "fecha": "2026-10-26T10:30:00Z",
+    "resumen": "Es motopartista, abastece a más de 3000 clientes y también fabrica motos. Su experiencia con las electrificación y cómo enfrenta a los chinos (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
+    "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2023/11/562465.jpg"
+  },
+  {
     "titulo": "Corren y molan mucho, por poco dinero, 3 motos por las que merece la pena esperar a 2027",
     "link": "https://www.diariomotor.com/noticia/motos-deportivas-merece-pena-esperar-2027/",
     "fuente": "Diariomotor (ES)",
@@ -854,14 +918,6 @@
     "fecha": "2026-10-26T08:00:25Z",
     "resumen": "Si algo saben hacer las premium alemanas es crear grandes SUV de lujo y, en ocasiones, SUV que han estado preparados para salir del asfalto con ciertas garantías, y con capacidades 4x4. Pero a día de hoy la única que sigue apostando el verdadero todoterreno - y lo lleva haciendo durante casi cinco décadas - es Mercedes-Benz. Clase G El Mercedes Clase G sigue siendo el referente del todoterreno, no…",
     "imagen": "https://www.diariomotor.com/imagenes/2025/11/audi-todoterreno-scout-traveler-aigen-69269ec667b37.png?class=XL"
-  },
-  {
-    "titulo": "El fabricante local Okinoi analiza el futuro de la moto eléctrica",
-    "link": "https://www.iprofesional.com/autos/467539-conviene-comprar-una-moto-electrica-asi-lo-analiza-el-fabricante-local-okinoi",
-    "fuente": "iProfesional",
-    "fecha": "2026-10-26T10:30:00Z",
-    "resumen": "Es motopartista, abastece a más de 3000 clientes y también fabrica motos. Su experiencia con las electrificación y cómo enfrenta a los chinos (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
-    "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2023/11/562465.jpg"
   },
   {
     "titulo": "Diseñado en Alemania, fabricado en América, y por qué Audi cruza el Atlántico para fabricar sus coches en Estados Unidos",
