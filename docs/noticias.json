@@ -8,20 +8,20 @@
     "imagen": "https://www.diariomotor.com/imagenes/2026/10/rally-dakar-2027-razones-6-6ae10893b75a3.jpg?class=XL"
   },
   {
-    "titulo": "La aduana intercepta en el aeropuerto de Frankurt un Ferrari 849 Testarossa de medio millón de euros. Había sido robado",
-    "link": "https://www.motorpasion.com/superdeportivos/aduana-intercepta-aeropuerto-frankurt-ferrari-849-testarossa-medio-millon-euros-habia-sido-robado",
-    "fuente": "Motorpasión (ES)",
-    "fecha": "2026-10-27T20:01:27Z",
-    "resumen": "Era la noche del 23 de octubre, y los agentes de Aduanas de Frankfurt estaban inspeccionando un Ferrari 849 Testarossa valorado en más de 500.000 euros que había llegado. La policía había dado el aviso de que algo no cuadraba, y estaba en lo cierto. El deportivo había sido robado en Bélgica, e iba a ser transportado por avión desde Frankfurt a México . No es un caso aislado. El modus operandi: de…",
-    "imagen": "https://i.blogs.es/7f6196/portada-mop-1793099618989/1024_2000.jpeg"
-  },
-  {
     "titulo": "Bridgestone quiere volver a la F1 en 2029: 175 victorias y 11 títulos para destronar a Pirelli",
     "link": "https://autotest.com.ar/carreras/bridgestone-quiere-volver-a-la-f1-en-2029-175-victorias-y-11-titulos-para-destronar-a-pirelli/",
     "fuente": "Autotest",
     "fecha": "2026-10-27T20:21:12Z",
     "resumen": "El pliego de la FIA y Liberty Media fija requisitos técnicos y de suministro: cantidad de juegos por fin de semana, compuestos disponibles, ventana de temperatura de funcionamiento y topes de costo.",
     "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/bridgestone-quiere-volver-a-la-f1-en-202-1200x740-1.jpg"
+  },
+  {
+    "titulo": "La aduana intercepta en el aeropuerto de Frankurt un Ferrari 849 Testarossa de medio millón de euros. Había sido robado",
+    "link": "https://www.motorpasion.com/superdeportivos/aduana-intercepta-aeropuerto-frankurt-ferrari-849-testarossa-medio-millon-euros-habia-sido-robado",
+    "fuente": "Motorpasión (ES)",
+    "fecha": "2026-10-27T20:01:27Z",
+    "resumen": "Era la noche del 23 de octubre, y los agentes de Aduanas de Frankfurt estaban inspeccionando un Ferrari 849 Testarossa valorado en más de 500.000 euros que había llegado. La policía había dado el aviso de que algo no cuadraba, y estaba en lo cierto. El deportivo había sido robado en Bélgica, e iba a ser transportado por avión desde Frankfurt a México . No es un caso aislado. El modus operandi: de…",
+    "imagen": "https://i.blogs.es/7f6196/portada-mop-1793099618989/1024_2000.jpeg"
   },
   {
     "titulo": "Aunque ha vendido 34.000 coches menos, Porsche multiplica por 43 su beneficio operativo en nueve meses de 2026 y empieza a ver la luz de nuevo",
@@ -37,7 +37,7 @@
     "fuente": "Megautos",
     "fecha": "2026-10-27T19:43:12Z",
     "resumen": "El alquiler de deportivos permite acceder a modelos de Ferrari, Lamborghini y Porsche sin afrontar los costos de compra y mantenimiento. En España, la propuesta abarca desde escapadas de varios días hasta rutas con acompañamiento de un instructor. La entrada Alquiler de autos deportivos y de lujo: otra forma de disfrutar al volante aparece primero en Mega Autos .",
-    "imagen": ""
+    "imagen": "https://www.megautos.com/wp-content/uploads/2026/10/gtrentals-alquiler-lamborghini.jpg"
   },
   {
     "titulo": "Hummer EV SUV: 1.000 CV y 0 a 100 en 3 segundos, pero pesa casi 4 toneladas",
@@ -54,6 +54,14 @@
     "fecha": "2026-10-27T19:00:59Z",
     "resumen": "El renovado Ford Bronco Sport llega con mejoras en tecnología y seguridad. Descubre cuál es la mejor opción según tus necesidades.",
     "imagen": "https://autotest.com.ar/wp-content/uploads/2024/08/Ford-Bronco-Sport-2025-perfil.jpg"
+  },
+  {
+    "titulo": "Parate y adelanto de vacaciones: Qué pasa con Stellantis en Argentina",
+    "link": "https://eleconomista.com.ar/autos/parate-adelanto-vacaciones-pasa-stellantis-argentina-n99258",
+    "fuente": "El Economista",
+    "fecha": "2026-10-27T21:25:00Z",
+    "resumen": "La caída de la demanda de los productos que salen de las plantas de El Palomar y Ferreyra obligó a un replanteo. En medio de este panorama, la línea de motores de Córdoba arrancará a fin de noviembre y no se detendrá.",
+    "imagen": "https://statics.eleconomista.com.ar/2024/04/crop/662a6f9db5bb7__950x512.webp"
   },
   {
     "titulo": "Algunos coches eléctricos pesan tanto que pronto no se podrán conducir con el carnet B de conducir",

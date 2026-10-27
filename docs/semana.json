@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-27T20:47:06Z",
+  "actualizado": "2026-10-27T23:13:04Z",
   "desde": "2026-10-20",
   "hasta": "2026-10-27",
   "destacadas": [
@@ -109,6 +109,18 @@
       ]
     },
     {
+      "titulo": "Parate y adelanto de vacaciones: Qué pasa con Stellantis en Argentina",
+      "link": "https://eleconomista.com.ar/autos/parate-adelanto-vacaciones-pasa-stellantis-argentina-n99258",
+      "fuente": "El Economista",
+      "fecha": "2026-10-27T21:25:00Z",
+      "resumen": "La caída de la demanda de los productos que salen de las plantas de El Palomar y Ferreyra obligó a un replanteo. En medio de este panorama, la línea de motores de Córdoba arrancará a fin de noviembre y no se detendrá.",
+      "imagen": "https://statics.eleconomista.com.ar/2024/04/crop/662a6f9db5bb7__950x512.webp",
+      "menciones": 1,
+      "fuentes": [
+        "El Economista"
+      ]
+    },
+    {
       "titulo": "Bridgestone quiere volver a la F1 en 2029: 175 victorias y 11 títulos para destronar a Pirelli",
       "link": "https://autotest.com.ar/carreras/bridgestone-quiere-volver-a-la-f1-en-2029-175-victorias-y-11-titulos-para-destronar-a-pirelli/",
       "fuente": "Autotest",
@@ -150,7 +162,7 @@
       "fuente": "Megautos",
       "fecha": "2026-10-27T19:43:12Z",
       "resumen": "El alquiler de deportivos permite acceder a modelos de Ferrari, Lamborghini y Porsche sin afrontar los costos de compra y mantenimiento. En España, la propuesta abarca desde escapadas de varios días hasta rutas con acompañamiento de un instructor. La entrada Alquiler de autos deportivos y de lujo: otra forma de disfrutar al volante aparece primero en Mega Autos .",
-      "imagen": "",
+      "imagen": "https://www.megautos.com/wp-content/uploads/2026/10/gtrentals-alquiler-lamborghini.jpg",
       "menciones": 1,
       "fuentes": [
         "Megautos"
@@ -283,18 +295,6 @@
       "fecha": "2026-10-27T15:55:00Z",
       "resumen": "La firma ajusta la producción en Buenos Aires y Córdoba por la caída de las ventas y las exportaciones, con vacaciones anticipadas y sin despidos (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
       "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/04/614491.jpg",
-      "menciones": 1,
-      "fuentes": [
-        "iProfesional"
-      ]
-    },
-    {
-      "titulo": "Para Argentina, el acuerdo de libre comercio automotor con México está cerrado",
-      "link": "https://www.iprofesional.com/autos/467575-argentina-el-acuerdo-de-libre-comercio-automotor-conmexico-esta-cerrado",
-      "fuente": "iProfesional",
-      "fecha": "2026-10-27T15:40:00Z",
-      "resumen": "Las negociaciones están a un paso de la firma. De esta manera, se destrabaría el ingreso de autos al país. Detalles de un negocio clave (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
-      "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/06/620091.jpg",
       "menciones": 1,
       "fuentes": [
         "iProfesional"
