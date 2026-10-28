@@ -1,16 +1,30 @@
 {
-  "actualizado": "2026-10-27T23:13:04Z",
-  "desde": "2026-10-20",
-  "hasta": "2026-10-27",
+  "actualizado": "2026-10-28T18:52:05Z",
+  "desde": "2026-10-21",
+  "hasta": "2026-10-28",
   "destacadas": [
     {
-      "titulo": "Más barato que Territory: el SUV de Ford con 184 CV, tracción integral y pantalla de 13,2 pulgadas",
-      "link": "https://autotest.com.ar/noticias/mas-barato-que-territory-el-suv-de-ford-con-184-cv-traccion-integral-y-pantalla-de-132-pulgadas/",
+      "titulo": "238 CV, techo panorámico y cámara 360°: la versión full del SUV híbrido que compite con Ford Territory",
+      "link": "https://autotest.com.ar/noticias/238-cv-techo-panoramico-y-camara-360-la-version-full-del-suv-hibrido-que-compite-con-ford-territory/",
       "fuente": "Autotest",
-      "fecha": "2026-10-27T19:00:59Z",
-      "resumen": "El renovado Ford Bronco Sport llega con mejoras en tecnología y seguridad. Descubre cuál es la mejor opción según tus necesidades.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2024/08/Ford-Bronco-Sport-2025-perfil.jpg",
-      "menciones": 63,
+      "fecha": "2026-10-28T18:30:11Z",
+      "resumen": "El GAC Emkoo GL se presenta como un SUV híbrido que combina confort, seguridad y tecnología, ofreciendo un competitivo motor de 238 CV. Con un precio de USD 36.800, es una opción a considerar frente a modelos como el Ford Territory.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/SUV-GAC-Emkoo-GL-teaser-1.jpg",
+      "menciones": 29,
+      "fuentes": [
+        "Autotest",
+        "Diariomotor (ES)",
+        "iProfesional"
+      ]
+    },
+    {
+      "titulo": "Motor 1.6 y seis airbags: qué ofrece el Volkswagen Tera más barato con caja manual",
+      "link": "https://autotest.com.ar/noticias/motor-1-6-y-seis-airbags-que-ofrece-el-volkswagen-tera-mas-barato-con-caja-manual/",
+      "fuente": "Autotest",
+      "fecha": "2026-10-28T18:29:39Z",
+      "resumen": "La versión de entrada del SUV Volkswagen Tera Trend combina un motor 1.6 de 110 CV con una caja manual, ofreciendo seis airbags, faros LED y pantalla VW Play de 10 pulgadas.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/Volkswagen-Tera-Trend.jpg",
+      "menciones": 17,
       "fuentes": [
         "Autotest",
         "Diariomotor (ES)",
@@ -24,11 +38,37 @@
       "fecha": "2026-10-26T15:20:24Z",
       "resumen": "Mercedes-Benz Camiones y Buses realizó en Córdoba la segunda semifinal del Concurso Nacional de Conductores 2026, una iniciativa que busca reconocer a los profesionales que se destacan por su compromiso, desempeño y buenas prácticas de manejo. La jornada se desarrolló en el Estadio Mario Alberto Kempes y contó con la participación de 10 conductores provenientes […]",
       "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/mercedes-benz-camiones-y-buses-concurso-nacional-de-conductores-20261.jpg",
-      "menciones": 5,
+      "menciones": 4,
       "fuentes": [
         "Autotest",
         "El Economista",
         "Megautos"
+      ]
+    },
+    {
+      "titulo": "No es Stargate, pero casi: la montaña a la que EEUU le sacó 693.000 toneladas de granito para sobrevivir a un ataque nuclear de Rusia",
+      "link": "https://www.motorpasion.com/cine-tv-juegos/no-stargate-casi-montana-colorado-a-que-eeuu-le-saco-693-000-toneladas-granito-para-sobrevivir-a-ataque-nuclear-rusia",
+      "fuente": "Motorpasión (ES)",
+      "fecha": "2026-10-28T16:01:27Z",
+      "resumen": "Esta entrada es una de las más famosas de la televisión y del cine. ¿Qué hay al fondo de ese túnel? No, Cheyenne Mountain no alberga la puerta de las estrellas o el SG1. Es una pena, aunque esta base existe de verdad. Y lo que hay realmente bajo esa montaña merece una pequeña explicación. De la Guerra Fría a la cultura popular Cheyenne Mountain y el NORAD (centro de alerta temprana de ataques) se…",
+      "imagen": "https://i.blogs.es/0e8a6e/cheyenne-mountain-01/1024_2000.jpeg",
+      "menciones": 2,
+      "fuentes": [
+        "Autotest",
+        "Motorpasión (ES)"
+      ]
+    },
+    {
+      "titulo": "El nuevo sedán de Volkswagen ya llegó a la región: hasta 220 HP y pantalla de 12,9 pulgadas",
+      "link": "https://autotest.com.ar/noticias/el-nuevo-sedan-de-volkswagen-ya-llego-a-la-region-hasta-220-hp-y-pantalla-de-129-pulgadas/",
+      "fuente": "Autotest",
+      "fecha": "2026-10-28T15:30:56Z",
+      "resumen": "Volkswagen anuncia la llegada del Lamando L a México antes de 2026, un sedán con diseño deportivo y motor hasta 220 HP.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/Volkswagen-Lamando-L-unidad-en-mexico.jpg",
+      "menciones": 15,
+      "fuentes": [
+        "Autotest",
+        "Diariomotor (ES)"
       ]
     },
     {
@@ -58,19 +98,6 @@
       ]
     },
     {
-      "titulo": "Bronco RTR: 300 CV para el barro extremo por 118 CV menos que el Raptor de 418 CV",
-      "link": "https://autotest.com.ar/offroad/bronco-rtr-300-cv-para-el-barro-extremo-por-118-cv-menos-que-el-raptor-de-418-cv/",
-      "fuente": "Autotest",
-      "fecha": "2026-10-26T22:15:55Z",
-      "resumen": "El Bronco RTR resigna los 118 CV de diferencia y no lleva las 37 pulgadas del Raptor, pero conserva la silueta ensanchada y una capacidad off-road más que suficiente para el uso real.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/bronco-rtr-300-cv-para-el-barro-extremo-1200x740-1.jpg",
-      "menciones": 3,
-      "fuentes": [
-        "Autotest",
-        "Diariomotor (ES)"
-      ]
-    },
-    {
       "titulo": "¿Cómo es el nuevo Lexus electrificado que llegó a la Argentina?",
       "link": "https://eleconomista.com.ar/autos/como-nuevo-lexus-electrificado-llego-argentina-n99215",
       "fuente": "El Economista",
@@ -84,220 +111,195 @@
       ]
     },
     {
-      "titulo": "Confirmado. La IndyCar de Álex Palou correrá una carrera en España por primera vez en toda su historia",
-      "link": "https://www.motorpasion.com/otras-competiciones/confirmado-indycar-alex-palou-correra-carrera-espana-primera-vez-toda-su-historia",
+      "titulo": "Imágenes de satélite llevan años mostrando el avión espacial secreto de China. Ahora EEUU confirma qué es... y se parece mucho al suyo",
+      "link": "https://www.motorpasion.com/tecnologia/imagenes-satelite-llevan-anos-mostrando-avion-espacial-secreto-china-ahora-eeuu-confirma-que-se-parece-mucho-al-suyo",
       "fuente": "Motorpasión (ES)",
-      "fecha": "2026-10-23T18:00:08Z",
-      "resumen": "Sorpresa absoluta en el mundo del automovilismo. La IndyCar va a correr una carrera en España la próxima temporada. El Circuit de Barcelona-Catalunya acaba de anunciar que ha llegado a un acuerdo con la IndyCar para que el campeonato estadounidense haga su primera salida del país en más de una década. La carrera se disputará en Montmeló, el primer fin de semana de julio de 2027, aprovechando el…",
-      "imagen": "https://i.blogs.es/79ad2f/palou-indycar-2026/1024_2000.jpeg",
-      "menciones": 2,
+      "fecha": "2026-10-28T17:44:00Z",
+      "resumen": "Una imagen de un avión espacial chino en órbita ha estado circulando desde 2024 , siendo objeto de múltiples especulaciones. Ahora la Agencia de Inteligencia de Defensa de EEUU (DIA por sus siglas en inglés) acaba de confirmar que se trata efectivamente de un avión espacial reutilizable experimental . También ha publicado una imagen de satélite que permite ver con mayor claridad sus…",
+      "imagen": "https://i.blogs.es/b176a2/avion-espacial-chino/1024_2000.jpeg",
+      "menciones": 1,
       "fuentes": [
-        "Diariomotor (ES)",
         "Motorpasión (ES)"
       ]
     },
     {
-      "titulo": "Ocho historias que nos habríamos perdido si el Rally Dakar 2027 hubiera sido cancelado",
-      "link": "https://www.diariomotor.com/competicion/noticia/ocho-historias-rally-dakar-cancelado/",
+      "titulo": "España lo olvida, pero este SUV híbrido con el tamaño de un Toyota RAV4 y mecánica BYD gasta 6,0 l/100 km y es el chollo más grande del segmento",
+      "link": "https://www.diariomotor.com/noticia/oferta-kgm-torres-hev-octubre-2026/",
       "fuente": "Diariomotor (ES)",
-      "fecha": "2026-10-27T21:29:08Z",
-      "resumen": "Es oficial: el Rally Dakar 2027 no se celebrará en Arabia Saudí , sin embargo, esto no implicará que la cita más famosa del mundo de los rally-raids se lleve a cabo el próximo mes de enero y celebre su 49ª edición , a un paso de las particulares bodas de oro que en principio sí están programadas para que regresen a territorio saudita. El anuncio de este domingo ponía fin a semanas de rumores,…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/10/rally-dakar-2027-razones-6-6ae10893b75a3.jpg?class=XL",
+      "fecha": "2026-10-28T17:30:22Z",
+      "resumen": "Si estás buscando un SUV híbrido mediano está claro que piensas en coches como el Toyota RAV4 , el Ford Kuga o el Honda CR-V . Y posiblemente estás horrorizado con la trayectoria ascendente que han marcado los precios de estos híbridos a lo largo de los últimos años. Pero por fortuna para ti, hay opciones muy asequibles que siempre olvidas. Y no, en este caso, no es un coche chino. Coches como…",
+      "imagen": "https://www.diariomotor.com/imagenes/2025/09/KGM-Torres-HEV43-68c863d895cae.jpg?class=XL",
+      "menciones": 2,
+      "fuentes": [
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "Los agentes intensifican la vigilancia a los ciclistas que cruzan por los pasos de peatones. La multa puede ser de 200 euros",
+      "link": "https://www.motorpasion.com/seguridad/agentes-intensifican-vigilancia-a-ciclistas-que-cruzan-pasos-peatones-multa-puede-ser-200-euros",
+      "fuente": "Motorpasión (ES)",
+      "fecha": "2026-10-28T17:01:28Z",
+      "resumen": "Seguramente te haya pasado. Vas conduciendo y al llegar a un paso de peatones te encuentras a un ciclista esperando para cruzar . En este caso hay algo en lo que debes fijarte: si va subido a la bici o no. Y lo mismo ocurre con los patinetes , puesto que se consideran vehículos en términos legales. En este caso, los conductores de estos medios de transporte deben tener clara una cosa: no son…",
+      "imagen": "https://i.blogs.es/5a04e7/guardia-civil/1024_2000.jpeg",
+      "menciones": 1,
+      "fuentes": [
+        "Motorpasión (ES)"
+      ]
+    },
+    {
+      "titulo": "El Renault que cuesta menos de 10.000 dólares: tiene motor turbo y seis airbags",
+      "link": "https://autotest.com.ar/noticias/el-renault-que-cuesta-menos-de-10-000-dolares-tiene-motor-turbo-y-seis-airbags/",
+      "fuente": "Autotest",
+      "fecha": "2026-10-28T17:00:26Z",
+      "resumen": "Renault ha renovado el Kiger en India, mostrándose como un SUV accesible con cambios estéticos y seis airbags de serie, aunque sin planes para llegar a Argentina.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/Renault-Kiger-teaser.jpg",
+      "menciones": 1,
+      "fuentes": [
+        "Autotest"
+      ]
+    },
+    {
+      "titulo": "Cadillac renovó el contrato de Sergio Pérez hasta el final de la temporada 2029",
+      "link": "https://www.diariomotor.com/competicion/noticia/cadillac-sergio-perez-hasta-2029/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-10-28T16:40:58Z",
+      "resumen": "Previo al Gran Premio de México, la escudería Cadillac confirmó que ha extendido el contrato del piloto Sergio Pérez hasta el término de la temporada 2029. Justamente Pérez disputará su gran premio número 300 en el circuito Hermanos Rodríguez, así que es uno de los pilotos más veteranos de la parrilla, Por supuesto que Cadillac espera que su experiencia contribuya al desarrollo del monoplaza que…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/10/Sergio_Perez_Cadillac_F1_Team_NC3_2026_26-6ae2189f68eb5.jpg?class=XL",
       "menciones": 1,
       "fuentes": [
         "Diariomotor (ES)"
       ]
     },
     {
-      "titulo": "Parate y adelanto de vacaciones: Qué pasa con Stellantis en Argentina",
-      "link": "https://eleconomista.com.ar/autos/parate-adelanto-vacaciones-pasa-stellantis-argentina-n99258",
+      "titulo": "Toyota quiere que sus próximos híbridos gasten poco más de 3 litros a los 100 km y está preparando los motores más eficientes para conseguirlo",
+      "link": "https://www.diariomotor.com/noticia/toyota-prepara-hibridos-3-litros/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-10-28T16:00:11Z",
+      "resumen": "Toyota tiene algunos de los coches híbridos más eficientes del mundo y ahora quiere dar un salto. La marca japonesa sigue considerando que los híbridos convencionales tendrán un papel importante durante los próximos años y está desarrollando una generación completamente nueva de motores y sistemas híbridos con los que pretende reducir el consumo de gasolina más de un 15%. Un objetivo ambicioso si…",
+      "imagen": "https://www.diariomotor.com/imagenes/2024/05/nueva-generacion-motores-toyota-e-fuel-2024-1074285.jpg?class=XL",
+      "menciones": 1,
+      "fuentes": [
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "El modelo de entrada de gama de una marca china sacó 0 estrellas en seguridad",
+      "link": "https://eleconomista.com.ar/autos/el-modelo-entrada-gama-una-marca-china-saco-0-estrellas-seguridad-n99279",
       "fuente": "El Economista",
-      "fecha": "2026-10-27T21:25:00Z",
-      "resumen": "La caída de la demanda de los productos que salen de las plantas de El Palomar y Ferreyra obligó a un replanteo. En medio de este panorama, la línea de motores de Córdoba arrancará a fin de noviembre y no se detendrá.",
-      "imagen": "https://statics.eleconomista.com.ar/2024/04/crop/662a6f9db5bb7__950x512.webp",
+      "fecha": "2026-10-28T15:50:00Z",
+      "resumen": "Latin NCAP ensayó por primera vez un vehículo con su nuevo protocolo para determinar el nivel de seguridad que ofrece a sus ocupantes. El elegido fue el Chery Tiggo 2, que logró una \"decepcionante calificación\".",
+      "imagen": "https://statics.eleconomista.com.ar/2026/10/crop/6ae209f26a83c__950x512.webp",
       "menciones": 1,
       "fuentes": [
         "El Economista"
       ]
     },
     {
-      "titulo": "Bridgestone quiere volver a la F1 en 2029: 175 victorias y 11 títulos para destronar a Pirelli",
-      "link": "https://autotest.com.ar/carreras/bridgestone-quiere-volver-a-la-f1-en-2029-175-victorias-y-11-titulos-para-destronar-a-pirelli/",
-      "fuente": "Autotest",
-      "fecha": "2026-10-27T20:21:12Z",
-      "resumen": "El pliego de la FIA y Liberty Media fija requisitos técnicos y de suministro: cantidad de juegos por fin de semana, compuestos disponibles, ventana de temperatura de funcionamiento y topes de costo.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/bridgestone-quiere-volver-a-la-f1-en-202-1200x740-1.jpg",
-      "menciones": 1,
-      "fuentes": [
-        "Autotest"
-      ]
-    },
-    {
-      "titulo": "La aduana intercepta en el aeropuerto de Frankurt un Ferrari 849 Testarossa de medio millón de euros. Había sido robado",
-      "link": "https://www.motorpasion.com/superdeportivos/aduana-intercepta-aeropuerto-frankurt-ferrari-849-testarossa-medio-millon-euros-habia-sido-robado",
-      "fuente": "Motorpasión (ES)",
-      "fecha": "2026-10-27T20:01:27Z",
-      "resumen": "Era la noche del 23 de octubre, y los agentes de Aduanas de Frankfurt estaban inspeccionando un Ferrari 849 Testarossa valorado en más de 500.000 euros que había llegado. La policía había dado el aviso de que algo no cuadraba, y estaba en lo cierto. El deportivo había sido robado en Bélgica, e iba a ser transportado por avión desde Frankfurt a México . No es un caso aislado. El modus operandi: de…",
-      "imagen": "https://i.blogs.es/7f6196/portada-mop-1793099618989/1024_2000.jpeg",
-      "menciones": 1,
-      "fuentes": [
-        "Motorpasión (ES)"
-      ]
-    },
-    {
-      "titulo": "Aunque ha vendido 34.000 coches menos, Porsche multiplica por 43 su beneficio operativo en nueve meses de 2026 y empieza a ver la luz de nuevo",
-      "link": "https://www.diariomotor.com/noticia/beneficios-porsche-septiembre-2026/",
+      "titulo": "El Omoda X llega como el todoterreno de Omoda, con altura y diseño de 4x4, y tiene un motor perfecto para cada conductor",
+      "link": "https://www.diariomotor.com/noticia/omoda-x-posicionamiento-datos/",
       "fuente": "Diariomotor (ES)",
-      "fecha": "2026-10-27T20:00:14Z",
-      "resumen": "Aunque sus ventas siguen cayendo, Porsche está empezando a recuperar la rentabilidad. El fabricante alemán ha cerrado los nueve primeros meses de 2026 con un beneficio operativo de 1.740 millones de euros, frente a los apenas 40 millones del mismo periodo de 2025. Detrás de esas cifras hay una combinación de ajuste de costes, precios más altos y una estrategia que busca ganar más dinero con cada…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/04/Porsche-911-GT3-SC-6-69de2e9005bb4.jpg?class=XL",
+      "fecha": "2026-10-28T15:30:22Z",
+      "resumen": "Recientemente, el que escribe estas líneas ha representado a Diariomotor en el International User Summit de Chery Auto de este 2026 y una de las citas más señaladas del evento era la Omoda Night. Allí ya sabíamos que íbamos a poder ver y tocar el que puede ser el coche de Omoda que más dé que hablar en los próximos meses: el Omoda X . Había muchas suposiciones acerca del modelo, pero, llamándose…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/10/Omoda-X-9-6ae1fe24d4466.jpg?class=XL",
       "menciones": 1,
       "fuentes": [
         "Diariomotor (ES)"
       ]
     },
     {
-      "titulo": "Alquiler de autos deportivos y de lujo: otra forma de disfrutar al volante",
-      "link": "https://www.megautos.com/alquiler-de-autos-deportivos-y-de-lujo/",
-      "fuente": "Megautos",
-      "fecha": "2026-10-27T19:43:12Z",
-      "resumen": "El alquiler de deportivos permite acceder a modelos de Ferrari, Lamborghini y Porsche sin afrontar los costos de compra y mantenimiento. En España, la propuesta abarca desde escapadas de varios días hasta rutas con acompañamiento de un instructor. La entrada Alquiler de autos deportivos y de lujo: otra forma de disfrutar al volante aparece primero en Mega Autos .",
-      "imagen": "https://www.megautos.com/wp-content/uploads/2026/10/gtrentals-alquiler-lamborghini.jpg",
-      "menciones": 1,
-      "fuentes": [
-        "Megautos"
-      ]
-    },
-    {
-      "titulo": "Hummer EV SUV: 1.000 CV y 0 a 100 en 3 segundos, pero pesa casi 4 toneladas",
-      "link": "https://autotest.com.ar/noticias/hummer-ev-suv-1-000-cv-y-0-a-100-en-3-segundos-pero-pesa-casi-4-toneladas/",
-      "fuente": "Autotest",
-      "fecha": "2026-10-27T19:31:01Z",
-      "resumen": "Hay un detalle técnico que conviene aclarar: las cifras de torque que General Motors declara suelen medirse en el eje, no en el motor.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/hummer-ev-suv-1-000-cv-y-0-a-100-en-3-se-1200x740-1.jpg",
-      "menciones": 1,
-      "fuentes": [
-        "Autotest"
-      ]
-    },
-    {
-      "titulo": "Algunos coches eléctricos pesan tanto que pronto no se podrán conducir con el carnet B de conducir",
-      "link": "https://www.motorpasion.com/coches-electricos/algunos-coches-electricos-pesan-que-pronto-no-se-podran-conducir-carnet-conducir-b",
-      "fuente": "Motorpasión (ES)",
-      "fecha": "2026-10-27T18:01:28Z",
-      "resumen": "No es ningún secreto que el peso de los coches eléctricos e híbridos supone un reto no solo para la infraestructura , sino para el consumo y hasta la propia conducción del vehículo. Para que te hagas una idea, el Mercedes-Benz Clase G con tecnología EQ supera con creces las tres toneladas , mientras que el Volvo EX90 , el BMW i7 o el Audi SQ8 e-tron coquetean con los 2.900 kg de peso en vacío. En…",
-      "imagen": "https://i.blogs.es/865f2d/portada-mop-1793111106596/1024_2000.jpeg",
-      "menciones": 1,
-      "fuentes": [
-        "Motorpasión (ES)"
-      ]
-    },
-    {
-      "titulo": "Nació para atravesar pantanos, tiene ruedas de 1,3 m y solo 80 CV: el Lada Niva más insólito se vende por 19.999 euros",
-      "link": "https://www.diariomotor.com/noticia/lada-niva-marsh/",
+      "titulo": "A. J. Foyt completó su formación para la IndyCar con la firma de Josh Pierson por varios años",
+      "link": "https://www.diariomotor.com/competicion/noticia/a-j-foyt-josh-pierson-indycar-varios-anos/",
       "fuente": "Diariomotor (ES)",
-      "fecha": "2026-10-27T18:00:17Z",
-      "resumen": "Parece un monster truck en miniatura, pero en realidad es uno de los Lada Niva más extraños y fascinantes que se han fabricado. Se llama VAZ-1922 Marsh y fue concebido para atravesar lugares donde incluso los mejores todoterrenos acabarían atrapados. Tiene ruedas de 1,3 metros de diámetro, una altura libre al suelo espectacular y un modesto motor de apenas 80 CV. Lo mejor es que uno de estos…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/10/Lada-Niva-Marsh_port2-6ae095913dbc9.jpg?class=XL",
+      "fecha": "2026-10-28T15:16:14Z",
+      "resumen": "Tal como se presagiaba, desde que la IndyCar promulgó la regla de evaluar a los pilotos directamente para obtener la licencia, sin necesidad de brillar en la Indy NXT, Josh Pierson ha sido el primer beneficiado con tal excepción, el joven de 20 años, tras recibir el permiso, de inmediato firmó con el equipo A,J. Foyt Racing para encargarse del monoplaza número 4 durante varios años. De esta forma,…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/10/AJ-Foyt-Josh-Pierson_IndyCar_Temp_2026_2_26-6ae1f857ca33a.jpg?class=XL",
       "menciones": 1,
       "fuentes": [
         "Diariomotor (ES)"
       ]
     },
     {
-      "titulo": "Menos de 15.000 dólares: el sedán barato que se actualiza con caja automática y 475 litros de baúl",
-      "link": "https://autotest.com.ar/noticias/menos-de-15-000-dolares-el-sedan-barato-que-se-actualiza-con-caja-automatica-y-475-litros-de-baul/",
-      "fuente": "Autotest",
-      "fecha": "2026-10-27T18:00:10Z",
-      "resumen": "El nuevo Kia Soluto en Chile ahora ofrece versiones automáticas manteniendo su competitividad en precio y espacio, aunque sigue con falencias en seguridad.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/07/Kia-Soluto-Sedan-4.jpg",
-      "menciones": 8,
-      "fuentes": [
-        "Autotest"
-      ]
-    },
-    {
-      "titulo": "Hace casi 50 años un piloto se coló en una carrera de F1. Cuando quisieron darse cuenta ya se había retirado por una avería",
-      "link": "https://www.motorpasion.com/formula1/hace-casi-50-anos-piloto-se-colo-carrera-f1-cuando-quisieron-darse-cuenta-se-habia-retirado-averia-1",
-      "fuente": "Motorpasión (ES)",
-      "fecha": "2026-10-27T17:31:27Z",
-      "resumen": "Hay muchas formas de participar en una carrera de Fórmula 1, pero la que eligió Hans Heyer es única y, probablemente, irrepetible. Porque en aquel Gran Premio de Alemania de 1977, Heyer fue el único piloto que se ha colado en una carrera de Fórmula 1 . Sin estar clasificado, el alemán se coló en la pista de Hockenheim y dio nueve vueltas. Heyer aprovechó un caos en la salida para saltar a la pista…",
-      "imagen": "https://i.blogs.es/1f15ab/heyer-alemania-f1-1977/1024_2000.jpeg",
-      "menciones": 1,
-      "fuentes": [
-        "Motorpasión (ES)"
-      ]
-    },
-    {
-      "titulo": "¿Estafados al comprar su camper?: \"785.000 euros pagados, ni autocaravana ni papeles y 13 familias esperando\"",
-      "link": "https://www.motorpasion.com/furgonetas-y-caravanas/estafados-al-comprar-su-camper-785-000-euros-pagados-autocaravana-papeles-13-familias-esperando",
-      "fuente": "Motorpasión (ES)",
-      "fecha": "2026-10-27T17:01:30Z",
-      "resumen": "Se c ompraron una autocaravana en el Salón Internacional del Caravaning 2025 , celebrado hace más de un año. Hoy siguen sin recibir su vehículo camper tras haber ya pagado parte del importe o comenzar la financiación: le ha ocurrido a cerca de una decena de clientes. Algunos lo han denunciado ante la Guardia Civil por posible estafa. Hablamos de inversiones notables: más de 60.000 euros, siendo el…",
-      "imagen": "https://i.blogs.es/6c9862/salon-caravaning-01/1024_2000.jpeg",
-      "menciones": 1,
-      "fuentes": [
-        "Motorpasión (ES)"
-      ]
-    },
-    {
-      "titulo": "Así sería la nueva generación del Toyota Corolla: diseño deportivo y hasta 395 HP",
-      "link": "https://autotest.com.ar/noticias/asi-seria-la-nueva-generacion-del-toyota-corolla-diseno-deportivo-y-hasta-395-hp/",
-      "fuente": "Autotest",
-      "fecha": "2026-10-27T17:00:09Z",
-      "resumen": "Toyota planea un gran salto para el Corolla 2028, con versiones híbridas, eléctricas e incluso un modelo GR con 395 HP.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/Nuevo-Toyota-Corolla-2028-cola.jpg",
-      "menciones": 2,
-      "fuentes": [
-        "Autotest"
-      ]
-    },
-    {
-      "titulo": "BMW decidió recortar 8.000 empleos y ha cerrado las bajas voluntarias en tiempo récord: hasta 650.000 euros de indemnización",
-      "link": "https://www.motorpasion.com/industria/bmw-decidio-recortar-8-000-empleos-ha-cerrado-bajas-voluntarias-tiempo-record-650-000-euros-indemnizacion",
-      "fuente": "Motorpasión (ES)",
-      "fecha": "2026-10-27T16:18:00Z",
-      "resumen": "BMW va a recortar 8.000 puestos de trabajo de aquí a 2027. Este plan de reducción de costes, con empleados en el centro, responde a lo mismo que la estrategia de recortes de Volkswagen: asegurar su rentabilidad ante una tesitura complicada. Volkswagen planea recortar unos 50.000 puestos hasta 2030 . En el caso de la marca premium bávara lo anunció a finales de julio y, como parte de este plan,…",
-      "imagen": "https://i.blogs.es/1ccf8e/portada-mop-1793117383053/1024_2000.jpeg",
-      "menciones": 1,
-      "fuentes": [
-        "Motorpasión (ES)"
-      ]
-    },
-    {
-      "titulo": "Jeep Avenger, nos subimos al SUV más chico y accesible de la marca",
-      "link": "https://www.iprofesional.com/autos/467294-jeep-avenger-como-anda-el-motor-hibrido-que-ofrece-precios-y-rivales",
-      "fuente": "iProfesional",
-      "fecha": "2026-10-27T16:05:00Z",
-      "resumen": "Es la puerta de entrada al universo Jeep. Tiene motor turbo con tecnología híbrida. Lo manejamos hasta Salinas Grandes para conocer cómo anda (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
-      "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/10/628326.jpg",
-      "menciones": 1,
-      "fuentes": [
-        "iProfesional"
-      ]
-    },
-    {
-      "titulo": "Hecha con una furgoneta Kia, esta camper tiene, en solo 4,69 m, dos asientos y dos camas dobles que cambian por completo las vacaciones",
-      "link": "https://www.diariomotor.com/noticia/kia-pv5-i-camper/",
+      "titulo": "Así es en persona el Lepas AURA, un GT que anticipa el diseño de los futuros modelos de la marca, que ya hemos visto",
+      "link": "https://www.diariomotor.com/noticia/lepas-aura-gt-radical-diseno/",
       "fuente": "Diariomotor (ES)",
-      "fecha": "2026-10-27T16:00:02Z",
-      "resumen": "Las camper eléctricas todavía son una rareza, pero poco a poco empiezan a aparecer propuestas interesantes. Una de las más curiosas está basada en la Kia PV5, una furgoneta eléctrica que en este caso se convierte en una casa rodante para cuatro personas muy compacta. Tiene dos camas dobles, cocina completa, techo elevable y una batería que promete una autonomía cercana a los 400 kilómetros. Una…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/10/Kia-iCamper-Wellhouse-Leisure-12-6ae081b73a0ee.jpg?class=XL",
+      "fecha": "2026-10-28T15:12:02Z",
+      "resumen": "El mayor reto para una marca de nueva cuña es diferenciarse del resto en un mercado en el que los compradores reciben demasiada información y tienen una enorme variedad de tecnologías y marcas entre las que elegir: todavía no han acabado de conocer una cuando se dan cuenta de la existencia de muchas otras. La tarea se complica aún más cuando buena parte de sus rivales también son firmas recién…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/10/Lepas-Aura-diseno-14-6ae1bb0da9b91.jpg?class=XL",
       "menciones": 1,
       "fuentes": [
         "Diariomotor (ES)"
       ]
     },
     {
-      "titulo": "Stellantis adelanta vacaciones y frena la producción en El Palomar hasta enero de 2027",
-      "link": "https://www.iprofesional.com/autos/467589-stellantis-frena-produccion-en-el-palomar-hasta-enero-de-2027-y-adelanta-vacaciones",
-      "fuente": "iProfesional",
-      "fecha": "2026-10-27T15:55:00Z",
-      "resumen": "La firma ajusta la producción en Buenos Aires y Córdoba por la caída de las ventas y las exportaciones, con vacaciones anticipadas y sin despidos (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
-      "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/04/614491.jpg",
+      "titulo": "Enseña una captura de pantalla del carnet de conducir en un control y le multan",
+      "link": "https://www.motorpasion.com/seguridad/ensena-captura-pantalla-carnet-conducir-control-le-multan",
+      "fuente": "Motorpasión (ES)",
+      "fecha": "2026-10-28T15:01:30Z",
+      "resumen": "Un conductor francés circulaba por una autopista el 27 de octubre cuando se encontró con un control policial. El agente le pidió la documentación, y al no llevar físicamente el carnet de conducir encima mostró una foto de su carnet de conducir. El gesto le costó una multa y una visita a la comisaría, pero esto no ocurre solo en Francia. En España tampoco se puede hacer. Estos son los documentos…",
+      "imagen": "https://i.blogs.es/ced1bb/guardia-civil/1024_2000.jpeg",
       "menciones": 1,
       "fuentes": [
-        "iProfesional"
+        "Motorpasión (ES)"
+      ]
+    },
+    {
+      "titulo": "Como un BMW Serie 5 pero 26.000 € más barato, este anti-marquitis con 204 CV, bien equipado y ADN Volkswagen hace 140 km sin encender su motor de gasolina y es una alternativa a los alemanes igual de aparente",
+      "link": "https://www.diariomotor.com/noticia/oferta-skoda-superb-octubre-2026/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-10-28T15:00:19Z",
+      "resumen": "Nos guste o no el emblema sobre el capó puede hacer que nos decantemos por la compra de un coche o no. Y eso hace que nos olvidemos de vehículo como este anti-marquitis, una berlina con tamaño de BMW Serie 5 pero 26.000 euros más barata , con 204 CV, bien equipado y capaz de hacer 140 km antes de gastar gasolina. Skoda tiene al anti-maquitis definitivo Aunque se ha encarecido sigue ofreciendo una…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/05/Skoda-Superb5-6a142aefe541d.jpg?class=XL",
+      "menciones": 5,
+      "fuentes": [
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "La Outlander que quiere ensuciarse en serio: modo Rock, 18 pulgadas y all-terrain para pelearle el trono a la Wilderness",
+      "link": "https://autotest.com.ar/offroad/la-outlander-que-quiere-ensuciarse-en-serio-modo-rock-18-pulgadas-y-all-terrain-para-pelearle-el-trono-a-la-wilderness/",
+      "fuente": "Autotest",
+      "fecha": "2026-10-28T14:56:09Z",
+      "resumen": "La mejora de los ángulos de ataque y salida, producto de los paragolpes rediseñados, es el otro factor que habilita un uso más serio en ripio y senderos.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/la-outlander-que-quiere-ensuciarse-en-se-1200x740-1.jpg",
+      "menciones": 1,
+      "fuentes": [
+        "Autotest"
+      ]
+    },
+    {
+      "titulo": "Nissan prepara una nueva Frontier para competir contra Toyota Hilux: diseño renovado y mecánica híbrida enchufable",
+      "link": "https://autotest.com.ar/noticias/nissan-prepara-una-nueva-frontier-para-competir-contra-toyota-hilux-diseno-renovado-y-mecanica-hibrida-enchufable/",
+      "fuente": "Autotest",
+      "fecha": "2026-10-28T14:30:12Z",
+      "resumen": "La Nissan Frontier PRO PHEV 2027 se presenta como la primera pick up híbrida enchufable de la marca, con 355 CV y un diseño innovador que busca enfrentar a sus competidores directos.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/Nueva-Nissan-Frontier-asia-teaser.jpg",
+      "menciones": 3,
+      "fuentes": [
+        "Autotest"
+      ]
+    },
+    {
+      "titulo": "Ralf Schumacher, ex piloto de Fórmula 1: \"Fernando Alonso debería retirarse. Es injusto con las próximas generaciones\"",
+      "link": "https://www.motorpasion.com/formula1/ralf-schumacher-ex-piloto-formula-1-fernando-alonso-deberia-retirarse-injusto-proximas-generaciones",
+      "fuente": "Motorpasión (ES)",
+      "fecha": "2026-10-28T14:03:28Z",
+      "resumen": "La renovación de Fernando Alonso por una temporada más con Aston Martin, prorrogable a una segunda, fue recibida como una gran noticia por todos en la Fórmula 1. O más bien por casi todos. Porque hay alguien en desacuerdo. Ralf Schumacher considera que Alonso debería retirarse ya de la Fórmula 1 . El hermano de Michael Schumacher señala a Alonso porque considera que su actitud está bloqueando…",
+      "imagen": "https://i.blogs.es/283d3e/ralf-schumacher-alonso/1024_2000.jpeg",
+      "menciones": 1,
+      "fuentes": [
+        "Motorpasión (ES)"
+      ]
+    },
+    {
+      "titulo": "DAPSA presentó su plan hacia 2027: qué cambiará en sus estaciones de servicio",
+      "link": "https://autotest.com.ar/noticias/dapsa-presento-su-plan-hacia-2027-que-cambiara-en-sus-estaciones-de-servicio/",
+      "fuente": "Autotest",
+      "fecha": "2026-10-28T14:00:47Z",
+      "resumen": "DAPSA ha lanzado su Plan de Excelencia 2027 junto con una renovada identidad visual y un programa de fidelización diseñado para fortalecer su red de estaciones.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/DAPSA-presento-su-nueva-imagen-y-un-plan-integral-para-desarrollar-su-red-3.jpg",
+      "menciones": 1,
+      "fuentes": [
+        "Autotest"
       ]
     }
   ]
