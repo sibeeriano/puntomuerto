@@ -1,8 +1,21 @@
 {
-  "actualizado": "2026-10-30T20:52:46Z",
+  "actualizado": "2026-10-30T23:14:53Z",
   "desde": "2026-10-23",
   "hasta": "2026-10-30",
   "destacadas": [
+    {
+      "titulo": "Manuel Antelo explicó por qué Argentina no puede competir en la industria de los autos",
+      "link": "https://www.iprofesional.com/autos/467959-manuel-antelo-explico-por-que-argentina-no-puede-competir-en-industria-de-autos",
+      "fuente": "iProfesional",
+      "fecha": "2026-10-30T20:59:00Z",
+      "resumen": "Para el empresario, el país no tiene escala para fabricar unidades competitivas frente a China, aunque destacó la producción de pick-ups y a Toyota (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
+      "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2025/05/596335.jpg",
+      "menciones": 2,
+      "fuentes": [
+        "El Economista",
+        "iProfesional"
+      ]
+    },
     {
       "titulo": "La furgoneta diésel de tamaño mediano que pone contra las cuerdas a Ford y Volkswagen ahora cuesta menos de 21.000 euros, con 170 CV y 7,2 metros cúbicos de capacidad",
       "link": "https://www.diariomotor.com/noticia/maxus-deliver-7-oferta-oct/",
@@ -121,6 +134,42 @@
       ]
     },
     {
+      "titulo": "Charles Leclerc también se apunta el segundo libre del Gran Premio de la Ciudad de México",
+      "link": "https://www.diariomotor.com/competicion/noticia/charles-leclerc-tambien-se-apunta-el-segundo-libre-del-gran-premio-de-la-ciudad-de-mexico/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-10-31T00:03:05Z",
+      "resumen": "El atardecer alumbró con sombras y luz desigual el Autódromo Hermanos Rodríguez en el entrenamiento de tarde del Gran Premio otrora de México. Charles Leclerc mantuvo la esencial inicial para Ferrari y mandó de nuevo en el mítico circuito de la capital mexicana. Lando Norris y George Russell siguieron al piloto de la Scuderia y Andrea Kimi Antonelli finalizó cuarto en un fin de semana donde no…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/10/charles-leclerc-libres-f1-mexico-2026-6ae51eb854157.jpg?class=XL",
+      "menciones": 2,
+      "fuentes": [
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "Scania presentó un bus que reduce más del 8% el consumo de combustible",
+      "link": "https://www.iprofesional.com/autos/467968-scania-presento-un-bus-que-reduce-mas-del-8-el-consumo-de-combustible",
+      "fuente": "iProfesional",
+      "fecha": "2026-10-30T21:27:00Z",
+      "resumen": "El nuevo Bus Super completa la evolución que arrancó en 2023. Cambió caja y motor, y acompana al cliente en la búsqueda de una mejor rentabilidad (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
+      "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/10/628852.jpg",
+      "menciones": 1,
+      "fuentes": [
+        "iProfesional"
+      ]
+    },
+    {
+      "titulo": "Renault se aliaría con Chery para fabricar el primer vehículo de marca china en Argentina",
+      "link": "https://www.iprofesional.com/autos/467954-renault-podria-fabricar-el-primer-vehiculo-de-marca-china-en-argentina",
+      "fuente": "iProfesional",
+      "fecha": "2026-10-30T20:57:00Z",
+      "resumen": "Un nuevo proyecto en Argentina se convertiría en el primero de producción de un auto chino en el país. En Brasil, las 2 marcas ya trabajan en conjunto (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
+      "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2024/09/583368.jpg",
+      "menciones": 1,
+      "fuentes": [
+        "iProfesional"
+      ]
+    },
+    {
       "titulo": "Charles Leclerc y Ferrari mandan en unos primeros libres en México con amplia presencia de 'rookies'",
       "link": "https://www.diariomotor.com/competicion/noticia/charles-leclerc-y-ferrari-mandan-en-unos-primeros-libres-en-mexico-con-amplia-presencia-de-rookies/",
       "fuente": "Diariomotor (ES)",
@@ -218,18 +267,6 @@
       ]
     },
     {
-      "titulo": "Manuel Antelo: \"Tiene cero sentido que Argentina produzca autos\"",
-      "link": "https://eleconomista.com.ar/autos/manuel-antelo-tiene-cero-sentido-argentina-produzca-autos-n99360",
-      "fuente": "El Economista",
-      "fecha": "2026-10-30T16:31:00Z",
-      "resumen": "El empresario, que comanda el grupo que lleva su apellido e importa siete marcas, reflexionó sobre la industria local. Habló de la imposibilidad de competir con China y dijo que \"quizás una empresa puede mantenerse haciendo pick-ups\".",
-      "imagen": "https://statics.eleconomista.com.ar/2025/05/crop/68279d599a1aa__950x512.webp",
-      "menciones": 1,
-      "fuentes": [
-        "El Economista"
-      ]
-    },
-    {
       "titulo": "Reino Unido salió de la Unión Europea con el Brexit y ahora pide a Bruselas que sus coches eléctricos sigan siendo europeos para no perder millones en ayudas",
       "link": "https://www.motorpasion.com/industria/reino-unido-quiere-seguir-jugando-europa-volver-a-ue-sus-coches-electricos-necesitan-ayudas-bruselas",
       "fuente": "Motorpasión (ES)",
@@ -263,42 +300,6 @@
       "menciones": 1,
       "fuentes": [
         "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "Arriba de Hilux: Toyota presentará dos pick ups exclusivas",
-      "link": "https://autotest.com.ar/noticias/arriba-de-hilux-toyota-presentara-dos-pick-ups-exclusivas/",
-      "fuente": "Autotest",
-      "fecha": "2026-10-30T14:30:47Z",
-      "resumen": "Toyota dio a conocer cinco prototipos Snowhunter pensados para moverse sobre nieve profunda y salir de los caminos despejados, entre ellos las nuevas Tacoma y Tundra, una versión exclusiva de la pick up mediana y full size que está por encima de Hilux. Esta particular que será presentada en el SEMA Show 2026 incluye también […]",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/Toyota-y-su-nueva-gama.jpeg",
-      "menciones": 1,
-      "fuentes": [
-        "Autotest"
-      ]
-    },
-    {
-      "titulo": "El sedán de Ford que todavía resiste a los SUV: 284 CV y una enorme pantalla de 27 pulgadas",
-      "link": "https://autotest.com.ar/noticias/el-sedan-de-ford-que-todavia-resiste-a-los-suv-284-cv-y-una-enorme-pantalla-de-27-pulgadas/",
-      "fuente": "Autotest",
-      "fecha": "2026-10-30T14:30:29Z",
-      "resumen": "El Ford Mondeo/Taurus 2026 llega a mercados selectos con cambios en diseño y tecnología, manteniendo hasta 284 CV y una impresionante pantalla de 27 pulgadas.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2025/12/Ford-Taurus-2026-faro.jpg",
-      "menciones": 2,
-      "fuentes": [
-        "Autotest"
-      ]
-    },
-    {
-      "titulo": "Audi quiere su Clase G eléctrica: 588 CV, 1.164 Nm y la duda que frena el proyecto",
-      "link": "https://autotest.com.ar/offroad/audi-quiere-su-clase-g-electrica-588-cv-1-164-nm-y-la-duda-que-frena-el-proyecto/",
-      "fuente": "Autotest",
-      "fecha": "2026-10-30T14:06:18Z",
-      "resumen": "El Grupo Volkswagen tiene una base concreta: Scout Motors, la marca revivida para Norteamérica, desarrolla una plataforma eléctrica de chasis de largueros para el SUV Traveler y la pick-up Terra.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/audi-quiere-su-clase-g-el-ctrica-588-cv-1200x740-1.jpg",
-      "menciones": 1,
-      "fuentes": [
-        "Autotest"
       ]
     }
   ]
