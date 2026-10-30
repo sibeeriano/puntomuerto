@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-30T18:37:41Z",
+  "actualizado": "2026-10-30T20:52:46Z",
   "desde": "2026-10-23",
   "hasta": "2026-10-30",
   "destacadas": [
@@ -23,7 +23,7 @@
       "fecha": "2026-10-30T15:30:44Z",
       "resumen": "El Renault Kwid 2027 llega a México con actualizaciones en seguridad y tecnología, manteniendo su atractivo precio desde 199,900 pesos en promoción.",
       "imagen": "https://autotest.com.ar/wp-content/uploads/2026/08/Renault-Kwid-2027-teaser.jpg",
-      "menciones": 21,
+      "menciones": 20,
       "fuentes": [
         "Autotest",
         "Diariomotor (ES)"
@@ -121,6 +121,18 @@
       ]
     },
     {
+      "titulo": "Charles Leclerc y Ferrari mandan en unos primeros libres en México con amplia presencia de 'rookies'",
+      "link": "https://www.diariomotor.com/competicion/noticia/charles-leclerc-y-ferrari-mandan-en-unos-primeros-libres-en-mexico-con-amplia-presencia-de-rookies/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-10-30T20:54:32Z",
+      "resumen": "Peculiar primera sesión de entrenamientos libres del Gran Premio de México , con hasta diez pilotos debutantes en pista y con un muy buen rendimiento de Ferrari, lo que ha permitido que Charles Leclerc se haga con el mejor tiempo a las primeras de cambio . El monegasco ha terminado por delante de los dos Mercedes de Kimi Antonelli y Frederik Vesti, que protagonizó un momento de obstrucción a…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/10/CharlesLeclercGPMexico2026FP1-6ae4f0754caff.jpg?class=XL",
+      "menciones": 1,
+      "fuentes": [
+        "Diariomotor (ES)"
+      ]
+    },
+    {
       "titulo": "Mercedes-Benz Camiones y Buses realizó la segunda semifinal del Concurso Nacional de Conductores 2026",
       "link": "https://autotest.com.ar/transportes/mercedes-benz-camiones-y-buses-realizo-la-segunda-semifinal-del-concurso-nacional-de-conductores-2026/",
       "fuente": "Autotest",
@@ -131,6 +143,18 @@
       "fuentes": [
         "Autotest",
         "Megautos"
+      ]
+    },
+    {
+      "titulo": "Felipe Sacristán, mecánico con 40 años de experiencia, sobre cómo parar un coche con cambio automático: \"No os volváis locos\"",
+      "link": "https://www.motorpasion.com/revision/felipe-sacristan-mecanico-40-anos-experiencia-como-parar-coche-cambio-automatico-no-os-volvais-locos",
+      "fuente": "Motorpasión (ES)",
+      "fecha": "2026-10-30T19:01:25Z",
+      "resumen": "Parar un coche con cambio automático no debería tener ninguna complicación, sin embargo, muchos conductores no tienen claro cuál es la mejor forma de hacerlo. El miedo viene por provocar una posible avería por no hacerlo de forma correcta. El mecánico Felipe Sacristán , de Taller RED ISTA, intenta sacar de dudas a todos esos conductores dando su opinión. No hay que complicarse, pero hay piezas que…",
+      "imagen": "https://i.blogs.es/89f3b6/automatico_1/1024_2000.jpeg",
+      "menciones": 1,
+      "fuentes": [
+        "Motorpasión (ES)"
       ]
     },
     {
@@ -275,30 +299,6 @@
       "menciones": 1,
       "fuentes": [
         "Autotest"
-      ]
-    },
-    {
-      "titulo": "Audi RS5-R de ABT: 720 CV y solo 130 unidades, más potente que el RS5 híbrido de serie",
-      "link": "https://autotest.com.ar/noticias/audi-rs5-r-de-abt-720-cv-y-solo-130-unidades-mas-potente-que-el-rs5-hibrido-de-serie/",
-      "fuente": "Autotest",
-      "fecha": "2026-10-30T14:06:12Z",
-      "resumen": "La edición limitada a 130 unidades ya está agotada en preventa en varios mercados, un dato que confirma el atractivo de esta preparación entre los fanáticos de Audi y los coleccionistas de autos deportivos.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/audi-rs5-r-de-abt-720-cv-y-solo-130-unid-1200x740-1.jpg",
-      "menciones": 1,
-      "fuentes": [
-        "Autotest"
-      ]
-    },
-    {
-      "titulo": "La DGT prevé 5,34 millones de desplazamientos en el puente de Todos los Santos. Esto es lo que debes saber para ahorrarte 200 euros de multa",
-      "link": "https://www.motorpasion.com/seguridad/dgt-preve-5-34-millones-desplazamientos-puente-todos-santos-esto-que-debes-saber-para-ahorrarte-200-euros-multa",
-      "fuente": "Motorpasión (ES)",
-      "fecha": "2026-10-30T14:01:28Z",
-      "resumen": "La DGT pondrá en marcha una operación especial con motivo de la festividad de Todos los Santos que arrancará a las 15:00 horas del viernes, día 30 de octubre, y se prolongará hasta la medianoche del día 2 en algunas comunidades. Durante estos días, Tráfico prevé más de 5,3 millones de desplazamientos de largo recorrido por carretera, por lo que movilizará a la práctica totalidad de la Guardia…",
-      "imagen": "https://i.blogs.es/3473cb/portada-mop-1793365447110/1024_2000.jpeg",
-      "menciones": 1,
-      "fuentes": [
-        "Motorpasión (ES)"
       ]
     }
   ]
