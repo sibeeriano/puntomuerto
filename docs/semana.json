@@ -1,8 +1,73 @@
 {
-  "actualizado": "2026-10-31T22:51:13Z",
-  "desde": "2026-10-24",
-  "hasta": "2026-10-31",
+  "actualizado": "2026-11-01T18:25:48Z",
+  "desde": "2026-10-25",
+  "hasta": "2026-11-01",
   "destacadas": [
+    {
+      "titulo": "El rival del Toyota Yaris que combina bajo consumo, seis airbags y precio accesible",
+      "link": "https://autotest.com.ar/noticias/descubre-el-suzuki-swift-hybrid-rival-toyota-yaris/",
+      "fuente": "Autotest",
+      "fecha": "2026-11-01T16:00:43Z",
+      "resumen": "En octubre se ofrece desde USD 22.400, con mecánica mild hybrid, bajo consumo y un paquete de seguridad poco común en hatchbacks.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/03/Suzuki-Swift-Hybrid-frente.jpg",
+      "menciones": 5,
+      "fuentes": [
+        "Autotest",
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "Toyota lanzará el nuevo Corolla con otro motor que consumirá 15% menos: ¿cuándo llega?",
+      "link": "https://autotest.com.ar/noticias/toyota-lanzara-el-nuevo-corolla-con-otro-motor-que-consumira-15-menos-cuando-llega/",
+      "fuente": "Autotest",
+      "fecha": "2026-11-01T12:25:07Z",
+      "resumen": "El próximo Toyota Corolla tendrá un motor 1.5 de cuatro cilindros completamente nuevo que consumirá alrededor de 15% menos combustible, pese a que el 2.0 atmosférico de ahora es considerado uno de los más eficientes. Además, incluirá cambios de diseño, mayor protagonismo de las mecánicas electrificadas y otras novedades. Toyota confirmó también que la nueva […]",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/Toyota-Corolla-2028.jpg",
+      "menciones": 20,
+      "fuentes": [
+        "Autotest",
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "Como un Mercedes GLC pero 40.000 € más barato, es con 428 CV, turbo, tracción total y hasta siete plazas una alternativa al Omoda 9 más elegante",
+      "link": "https://www.diariomotor.com/noticia/oferta-jaecoo-8-shs-nov/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-11-01T08:00:13Z",
+      "resumen": "El segmento de los SUV medianos está más animado que nunca, con una oferta cada vez más amplia y opciones para casi cualquier presupuesto. A esta lista se ha sumado hace poco un nuevo modelo que tiene bastantes argumentos para hacerse un hueco: un habitáculo con buenos acabados, la posibilidad de elegir entre cinco o siete plazas y un precio especialmente ajustado que puede poner en apuros a más…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/01/Jaecoo-8-PHEV77-696f6038a18cb.jpg?class=XL",
+      "menciones": 4,
+      "fuentes": [
+        "Autotest",
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "Clasificación para olvidar de Carlos Sainz y Fernando Alonso en el Gran Premio de México",
+      "link": "https://www.diariomotor.com/competicion/noticia/clasificacion-para-olvidar-de-carlos-sainz-y-fernando-alonso-en-el-gran-premio-de-mexico/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-11-01T00:30:15Z",
+      "resumen": "Sábado para olvidar tanto para Carlos Sainz como para Fernando Alonso tras la disputa de la sesión clasificatoria del Gran Premio de México , en la que los resultados no han estado a la altura de las expectativas, situándoles a ambos en posiciones poco favorables de cara a la jornada del domingo. Sainz y Alonso se enfrentarán entonces a la carrera partiendo desde unas posiciones retrasadas que les…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/10/CarlosSainzGPMexico2026Q-6ae663000b6c6.jpg?class=XL",
+      "menciones": 4,
+      "fuentes": [
+        "Diariomotor (ES)",
+        "Motorpasión (ES)"
+      ]
+    },
+    {
+      "titulo": "Toyota confirmó la nueva Hilux GR-Sport",
+      "link": "https://www.megautos.com/nueva-toyota-hilux-gr-sport-2027-lanzamiento/",
+      "fuente": "Megautos",
+      "fecha": "2026-10-31T23:59:09Z",
+      "resumen": "Se trata de la versión deportiva de la pick up mediana, que también será producida en Argentina. Será presentada en 2027 para unirse al resto de las variantes. Cómo sería el diseño y la mecánica. La entrada Toyota confirmó la nueva Hilux GR-Sport aparece primero en Mega Autos .",
+      "imagen": "https://www.megautos.com/wp-content/uploads/2026/10/Toyota-Hilux-GR-Sport-2027-Theottle.jpg",
+      "menciones": 2,
+      "fuentes": [
+        "Autotest",
+        "Megautos"
+      ]
+    },
     {
       "titulo": "El Toyota Crown Signia es un crossover con tracción 4x4 y motor híbrido de 224 CV que se atreve a pisar territorio BMW y Audi",
       "link": "https://www.diariomotor.com/noticia/toyota-crown-signia-2027/",
@@ -10,20 +75,7 @@
       "fecha": "2026-10-31T11:00:55Z",
       "resumen": "Si hay una marca cuyo catálogo de productos es tan amplio que se antoja prácticamente imposible conocer en su totalidad la gama completa de modelos a nivel global, esa es Toyota . Por eso mismo noticias como esta preparación de la que hablamos hace unos días llaman tanto la atención, pero, ¿sobre qué coche se basa exactamente y qué tipo de turismo es? Se trata del Toyota Crown Signia , un…",
       "imagen": "https://www.diariomotor.com/imagenes/2026/10/Toyota-Crown-Signia-2027-4-6ae48d14c1d51.jpg?class=XL",
-      "menciones": 3,
-      "fuentes": [
-        "Autotest",
-        "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "KGM Torres HEV: el SUV que mide como una RAV4, usa mecánica BYD y gasta solo 6,0 l/100 km para pelear el trono híbrido",
-      "link": "https://autotest.com.ar/noticias/kgm-torres-hev-el-suv-que-mide-como-una-rav4-usa-mecanica-byd-y-gasta-solo-6-0-l-100-km-para-pelear-el-trono-hibrido/",
-      "fuente": "Autotest",
-      "fecha": "2026-10-31T11:00:37Z",
-      "resumen": "Durante octubre de 2026, la marca lanzó una acción comercial sobre el Torres HEV que lo posiciona como el híbrido más agresivo del segmento en relación precio-equipamiento.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/kgm-torres-hev-el-suv-que-mide-como-una-1200x740-1.jpg",
-      "menciones": 4,
+      "menciones": 2,
       "fuentes": [
         "Autotest",
         "Diariomotor (ES)"
@@ -40,45 +92,6 @@
       "fuentes": [
         "El Economista",
         "iProfesional"
-      ]
-    },
-    {
-      "titulo": "La furgoneta diésel de tamaño mediano que pone contra las cuerdas a Ford y Volkswagen ahora cuesta menos de 21.000 euros, con 170 CV y 7,2 metros cúbicos de capacidad",
-      "link": "https://www.diariomotor.com/noticia/maxus-deliver-7-oferta-oct/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-10-30T17:25:08Z",
-      "resumen": "Comprar una furgoneta para trabajar supone un buen desembolso, pero algunas ofertas permiten ajustar bastante el presupuesto . Es el caso de esta Van, que por lo que cuestan modelos más pequeños ofrece una zona de carga generosa, motor diésel y una dotación de serie que cubre bien lo necesario para el día a día. Una alternativa a tener en cuenta si eres autónomo o tienes una empresa y necesitas…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/06/Maxus-Deliver-7-Van31-6a42a69fb5f34.jpg?class=XL",
-      "menciones": 7,
-      "fuentes": [
-        "Autotest",
-        "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "El Renault más barato se renovó: seis airbags, pantalla de 10,1 pulgadas y caja manual",
-      "link": "https://autotest.com.ar/noticias/el-renault-mas-barato-se-renovo-seis-airbags-pantalla-de-101-pulgadas-y-caja-manual/",
-      "fuente": "Autotest",
-      "fecha": "2026-10-30T15:30:44Z",
-      "resumen": "El Renault Kwid 2027 llega a México con actualizaciones en seguridad y tecnología, manteniendo su atractivo precio desde 199,900 pesos en promoción.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/08/Renault-Kwid-2027-teaser.jpg",
-      "menciones": 20,
-      "fuentes": [
-        "Autotest",
-        "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "Desde 26.900 dólares: el SUV que compite con Toyota Yaris Cross y ofrece dos pantallas de 10 pulgadas",
-      "link": "https://autotest.com.ar/noticias/desde-26-900-dolares-el-suv-que-compite-con-toyota-yaris-cross-y-ofrece-dos-pantallas-de-10-pulgadas/",
-      "fuente": "Autotest",
-      "fecha": "2026-10-30T14:56:30Z",
-      "resumen": "El Suzuki Across Hybrid llega a Argentina con un diseño compacto y tecnología mild hybrid, ofreciendo seguridad y confort desde la versión base.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/suzuki-across1.jpg",
-      "menciones": 6,
-      "fuentes": [
-        "Autotest",
-        "Diariomotor (ES)"
       ]
     },
     {
@@ -147,159 +160,147 @@
       ]
     },
     {
-      "titulo": "Lewis Hamilton consigue su primera pole position con Ferrari en una apretada qualy mexicana",
-      "link": "https://www.diariomotor.com/competicion/noticia/lewis-hamilton-consigue-su-primera-pole-position-con-ferrari-en-una-apretada-qualy-mexicana/",
+      "titulo": "Volkswagen mostró una versión más barata de la Tukan",
+      "link": "https://www.megautos.com/volkswagen-tukan-version-economica-magnet/",
+      "fuente": "Megautos",
+      "fecha": "2026-11-01T15:50:52Z",
+      "resumen": "La nueva pick up de Volkswagen tendría una alternativa de acceso a la carrocería doble cabina que se llamaría Magnet, con una estética más sencilla que la variante Extreme. El lanzamiento en Brasil está previsto para los primeros meses de 2027. La entrada Volkswagen mostró una versión más barata de la Tukan aparece primero en Mega Autos .",
+      "imagen": "https://www.megautos.com/wp-content/uploads/2026/11/volkswagen-tukan-magnet-frente.jpg",
+      "menciones": 1,
+      "fuentes": [
+        "Megautos"
+      ]
+    },
+    {
+      "titulo": "Car Blanche en búsqueda de ser el principal equipo de Aston Martin Racing",
+      "link": "https://www.diariomotor.com/competicion/noticia/car-blanche-busqueda-estandarte-aston-martin-racing/",
       "fuente": "Diariomotor (ES)",
-      "fecha": "2026-10-31T23:26:38Z",
-      "resumen": "Vibrante ambiente otoñal en la Ciudad de México, cuyo Gran Premio apunta maneras después de una clasificación llena de giros argumentales. Ferrari confirmó su favoritismo con la pole position de un atinado Lewis Hamilton , su primera desde Hungría 2023, primera con la Scuderia de Maranello y 105ª de su historia. George Russell saldrá a su lado y ambos deben ganar y esperar un tropiezo de Andrea…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/10/lewis-hamilton-pole-f1-mexico-2026-6ae66ad13005a.jpg?class=XL",
+      "fecha": "2026-11-01T15:27:05Z",
+      "resumen": "Nacido de YRB Racing LLC, el equipo que actualmente compite bajo el nombre de Car Blanche confirmó que ha iniciado un proceso de expansión y tras dar sus primeros pasos en el Campeonato IMSA SportsCar, ahora el Aston Martin Vantage AMR GT3 Evo va rumbo a la Asian Le Mans Series donde se medirá en la clase GT a varios de los mejores equipos del mundo. La iniciativa del equipo estadounidense está…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/11/Car_Blanche_Aston_Martin_Racing_IMSA_VLM_2026_26-6ae7441e7542e.jpg?class=XL",
       "menciones": 1,
       "fuentes": [
         "Diariomotor (ES)"
       ]
     },
     {
-      "titulo": "Harley Davidson SP440: así será la moto económica de u$s7.000 que lanzará la marca",
-      "link": "https://www.iprofesional.com/autos/467574-cuanto-sale-la-moto-mas-barata-de-harley-davidson-y-que-modelo-nuevo-llega",
-      "fuente": "iProfesional",
-      "fecha": "2026-10-31T21:25:00Z",
-      "resumen": "Es una de las marcas más emblemáticas del sector, y hablar de precios baratos es pensar en más de u$s30.000. Repasamos su modelo de entrada de gama (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
-      "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/10/628468.jpg",
-      "menciones": 1,
-      "fuentes": [
-        "iProfesional"
-      ]
-    },
-    {
-      "titulo": "Lando Norris lidera un último entrenamiento al escondite en México",
-      "link": "https://www.diariomotor.com/competicion/noticia/lando-norris-lidera-un-ultimo-entrenamiento-al-escondite-en-mexico/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-10-31T19:46:46Z",
-      "resumen": "Igualdad quizá falseada en la tercera sesión de entrenamientos libres en el Autódromo Hermanos Rodríguez. En medio de unas coloridas gradas, cambios de pilotos y un trazado tan atractivo como polvoriento, Lando Norris se llevó el mejor tiempo en un fin de semana donde McLaren quiere despertar. Andrea Kimi Antonelli y Charles Leclerc siguieron al vigente campeón y Oscar Piastri impidió un cuarteto…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/10/lando-norris-libres-f1-mexico-2026-6ae63779e8cc7.jpg?class=XL",
-      "menciones": 1,
-      "fuentes": [
-        "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "Juan José Ebenezer, mecánico: \"Siempre hay que revisar el líquido refrigerante para detectar aceite\" antes de que se rompa el motor",
-      "link": "https://www.motorpasion.com/revision/juan-jose-ebenezer-mecanico-siempre-hay-que-revisar-liquido-refrigerante-para-detectar-aceite-se-rompa-motor",
-      "fuente": "Motorpasión (ES)",
-      "fecha": "2026-10-31T19:01:28Z",
-      "resumen": "Cuando se habla del mantenimiento del coche , solemos pensar en lo habitual, como el cambio de aceite, de los filtros y los neumáticos. Pocas veces nos acordamos del circuito de refrigeración . Y sin embargo, forma parte del mantenimiento habitual. Cumple una función crítica, mantiene el motor en su rango de temperatura óptimo y evita así un fallo motor que suele terminar en un bloque gripado.…",
-      "imagen": "https://i.blogs.es/0a178f/juan-jose-ebenezer/1024_2000.jpeg",
-      "menciones": 2,
-      "fuentes": [
-        "Motorpasión (ES)"
-      ]
-    },
-    {
-      "titulo": "Delia, la abuela de 67 años que ha hecho camper su Renault 11: \"Ya fui esposa y apoyo. Ahora es mi momento\"",
-      "link": "https://www.motorpasion.com/furgonetas-y-caravanas/delia-abuela-67-anos-que-ha-hecho-camper-su-renault-11-fui-esposa-apoyo-ahora-mi-momento",
-      "fuente": "Motorpasión (ES)",
-      "fecha": "2026-10-31T18:01:27Z",
-      "resumen": "'La abu viajera' . Así se llama Delia en Instagram , una mujer de 67 años que, tras separarse, se marcó una meta: viajar por Argentina y visitar decenas de lugares que no conoce. No pudo hacerlo durante su matrimonio. \"Ya fui ama de casa, compañera, esposa y apoyo. Ahora me toca cumplir conmigo\". Para abrazar la libertad que nunca tuvo, convirtió su viejo Renault 11 en camper , con poco…",
-      "imagen": "https://i.blogs.es/4c41ef/abu-viajera-renault-11-02/1024_2000.jpeg",
-      "menciones": 1,
-      "fuentes": [
-        "Motorpasión (ES)"
-      ]
-    },
-    {
-      "titulo": "Oficial: Ryō Hirakawa reemplaza a Esteban Ocon en el Gran Premio de México",
-      "link": "https://www.diariomotor.com/competicion/noticia/oficial-ryo-hirakawa-reemplaza-a-esteban-ocon-en-el-gran-premio-de-mexico/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-10-31T16:44:40Z",
-      "resumen": "La escudería Haas F1 informó que el piloto japonés Ryō Hirakawa reemplazará a Esteban Ocon en lo que resta de fin de semana en México, así que a sus 32 años el bicampeón de resistencia realizará su debut en la Fórmula 1, gracias en gran parte al apoyo de Toyota. No es la primera ocasión que Ocon es sustituido en plena temporada ya que en su pasantía por Alpine le ocurrió algo similar en el 2024…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/10/Ryo_Hirakawa_Haas_F1_Team_Mexico_2026_3_26-6ae6154f0a628.jpg?class=XL",
-      "menciones": 1,
-      "fuentes": [
-        "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "Hacienda ya no puede embargar el dinero que queda en la cuenta de un pensionista para cobrarle multas de tráfico",
-      "link": "https://www.motorpasion.com/industria/hacienda-no-puede-embargar-dinero-que-queda-cuenta-pensionista-para-cobrarle-multas-trafico",
-      "fuente": "Motorpasión (ES)",
-      "fecha": "2026-10-31T16:01:30Z",
-      "resumen": "Situación amarga: que cobres una pensión de poco más de 1.000 euros y que tengas que pagar una multa, pero que, al no poder, Hacienda te retire parte del dinero de la cuenta del banco para pagar esa misma multa. Eso es precisamente lo que le ocurrió a un jubilado que decidió recurrir el embargo y cuyo caso ha terminado llegando al Tribunal Supremo, y que ha ganado. El dinero que sobra de la…",
-      "imagen": "https://i.blogs.es/c88508/portada-mop-1793439115219-1-/1024_2000.jpeg",
-      "menciones": 1,
-      "fuentes": [
-        "Motorpasión (ES)"
-      ]
-    },
-    {
-      "titulo": "Más potente que Ténéré, mucho más barata que Africa Twin, así es la Rino 900 2027, la nueva todoterreno que quiere arrasar en Europa",
-      "link": "https://www.diariomotor.com/noticia/qjmotor-rino-900-2027-adelanto/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-10-31T15:47:29Z",
-      "resumen": "Los rumores han dejado de ser tal cosa, para convertirse en una probabilidad cada vez más real. Los adelantos oficiales que hemos visto en los últimos días dejan muy claras las intenciones de Yamaha, que esta semana podría presentar su nueva Ténéré de tres cilindros . Honda, por su parte, ya ha anticipado también con algunos adelantos en sus redes sociales que esta semana podría presentar su nueva…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/10/qjmotor-rino-900-adelanto-2027-exterior-01-6ae5fdba82207.jpg?class=XL",
-      "menciones": 4,
-      "fuentes": [
-        "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "A Colton Herta todavía le falta un punto para solicitar una superlicencia",
-      "link": "https://www.diariomotor.com/competicion/noticia/colton-herta-falta-un-punto-superlicencia/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-10-31T14:52:53Z",
-      "resumen": "Un mal entendido en los puntos que alcanzó Colton Herta en la IndyCar llevó a la FIA a reconsiderar la solicitud de Cadillac para conceder una superlicencia al piloto ya que oficialmente le faltaría un punto para completar tal requisito. El actual reglamento indica que se deben acumular al menos 40 puntos en categorías de monoplazas sancionadas por la FIA durante los últimos tres años o llegar a…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/10/Colton_Herta_Cadillac_F1_Practicas_Mexico_2026_26-6ae5e3c82a3eb.jpg?class=XL",
-      "menciones": 1,
-      "fuentes": [
-        "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "Así es la nueva pick up mediana que va por Ford Ranger y Chevrolet S10: motor V6, 289 CV y más",
-      "link": "https://autotest.com.ar/noticias/asi-es-la-nueva-pick-up-mediana-que-va-por-ford-ranger-y-chevrolet-s10-motor-v6-289-cv-y-mas/",
+      "titulo": "Desde 20.990 dólares: el auto chino que es rival de Volkswagen Tera con 111 CV y baúl de 450 litros",
+      "link": "https://autotest.com.ar/noticias/desde-20-990-dolares-el-auto-chino-que-es-rival-de-volkswagen-tera-con-111-cv-y-baul-de-450-litros/",
       "fuente": "Autotest",
-      "fecha": "2026-10-31T14:02:25Z",
-      "resumen": "Jeep presentó una nueva variante de la Gladiator 2027 pensada para mejorar su desempeño fuera del asfalto. Se llama 35-inch Tire Launch Edition y llega como un paquete de producción limitada para las versiones Willys, Rubicon y Rubicon X. Su potencia de 289 CV junto con otras características la proclaman como la ideal para ciertos […]",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/Jeep-Gladiator-pick-up.jpg",
+      "fecha": "2026-11-01T15:00:06Z",
+      "resumen": "El JAC JS2 ofrece un motor de 111 CV, transmisión automática opcional y una pantalla de 9 pulgadas desde 20.990 dólares, posicionándose entre los SUV más accesibles del mercado.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/01/JAC-JS2-frente.jpg",
       "menciones": 2,
       "fuentes": [
         "Autotest"
       ]
     },
     {
-      "titulo": "Rainer, comprador de un BYD Atto 3 eléctrico: “Aquello no era un taller, era un concurso de ciencias”",
-      "link": "https://www.motorpasion.com/coches-electricos/rainer-comprador-byd-atto-3-aquello-no-era-taller-era-concurso-ciencias",
-      "fuente": "Motorpasión (ES)",
-      "fecha": "2026-10-31T14:01:27Z",
-      "resumen": "Los coches eléctricos , sin cambios de aceite cada 15.000 km, sin correa de distribución y sin problemas de cambio son vistos como más fiables por sus compradores. Y es cierto. Lógicamente, si hay menos componentes mecánicos que pueden fallar, habrá menos fallos y menos mantenimiento que hacer. Eso mismo pensó un automovilista alemán, Rainer Müller (nombre cambiado). El no tener que pasar por el…",
-      "imagen": "https://i.blogs.es/50105a/byd_atto_3_evo10/1024_2000.jpeg",
+      "titulo": "Fiat prepara un nuevo eléctrico: podría llamarse Koala",
+      "link": "https://www.megautos.com/fiat-koala-nuevo-auto-electrico/",
+      "fuente": "Megautos",
+      "fecha": "2026-11-01T14:45:42Z",
+      "resumen": "La marca italiana trabaja en un auto eléctrico urbano y accesible que compartirá plataforma con el futuro Citroën 2 CV. El nombre Koala ya fue registrado. La entrada Fiat prepara un nuevo eléctrico: podría llamarse Koala aparece primero en Mega Autos .",
+      "imagen": "https://www.megautos.com/wp-content/uploads/2026/11/fiat_panda-koala_render_2026.jpg",
       "menciones": 1,
       "fuentes": [
-        "Motorpasión (ES)"
+        "Megautos"
       ]
     },
     {
-      "titulo": "Haas F1 desmiente rumores sobre la continuidad de Oliver Bearman",
-      "link": "https://www.diariomotor.com/competicion/noticia/haas-f1-rumores-sobre-oliver-bearman/",
+      "titulo": "Lo último de Fiat ya tiene precios para España, un futurista Fastback con hasta 145 CV, amplio interior y nada caro",
+      "link": "https://www.diariomotor.com/noticia/fiat-grizzly-precios-espana/",
       "fuente": "Diariomotor (ES)",
-      "fecha": "2026-10-31T13:32:42Z",
-      "resumen": "Ayao Komatsu, jefe de la escudería Haas F1, fue protagonista ayer de la rueda de prensa para directores de equipos ya que el tema de la renovación de Oliver Bearman salió a relucir, el piloto británico todavía no ha renovado su contrato y algunos rumores sugieren que el piloto exige unos seis millones de euros por año como salario. Esta especulación fue desmentida por Komatsu, quien no dudó en…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/10/Oliver_Bearman_Haas_F1_Team_Mexico_2026_26-6ae5de6c606ee.jpg?class=XL",
+      "fecha": "2026-11-01T14:45:41Z",
+      "resumen": "La oferta de Fiat para el mercado español se completará el próximo mes de enero con dos nuevas opciones que llegan directamente al segmento C-SUV. Se podrán comprar con motorizaciones para todos los gustos y varios niveles de acabado, además de contar con tarifas bastante competitivas si tenemos en cuenta algunos modelos rivales. Etiquetas \"C\", \"ECO\" y \"CERO\" Dos carrocerías disponibles Amplio…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/11/grizzly-fastback-1-6ae73dd3a41b4.jpg?class=XL",
       "menciones": 1,
       "fuentes": [
         "Diariomotor (ES)"
       ]
     },
     {
-      "titulo": "Con 8 cilindros y 820 CV, el nuevo superdeportivo de McLaren comienza a descubrirse",
-      "link": "https://www.diariomotor.com/noticia/primeros-detalles-mclaren-mcl-820/",
+      "titulo": "Chery Tiggo 2: cero estrellas en seguridad",
+      "link": "https://www.megautos.com/chery-tiggo-2-cero-estrellas-seguridad-latin-ncap/",
+      "fuente": "Megautos",
+      "fecha": "2026-11-01T14:33:42Z",
+      "resumen": "El modelo chino obtuvo la peor calificación en las pruebas de Latin NCAP, con resultados críticos en la protección de adultos y niños. El programa también detectó un riesgo de incendio durante el impacto frontal. La entrada Chery Tiggo 2: cero estrellas en seguridad aparece primero en Mega Autos .",
+      "imagen": "https://www.megautos.com/wp-content/uploads/2026/11/gd_86ad92b82a7b05.jpg",
+      "menciones": 1,
+      "fuentes": [
+        "Megautos"
+      ]
+    },
+    {
+      "titulo": "Consola refrigerada, asientos ventilados y pantalla de 15,6 pulgadas: el SUV chino que sorprende por su equipamiento",
+      "link": "https://autotest.com.ar/noticias/descubri-el-lujoso-gwm-haval-h7-suv-en-argentina-precios-versiones-y-equipamiento/",
+      "fuente": "Autotest",
+      "fecha": "2026-11-01T14:00:27Z",
+      "resumen": "GWM lanzó el Haval H7 en Argentina con opciones innovadoras, destacando en capacidad y tecnología para el mercado familiar.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/Haval-H7-SUV-5.jpg",
+      "menciones": 2,
+      "fuentes": [
+        "Autotest"
+      ]
+    },
+    {
+      "titulo": "Liam Lawson saldrá último en México tras ser penalizado por irregularidades técnicas",
+      "link": "https://www.diariomotor.com/competicion/noticia/lawson-ultimo-mexico-penalizado/",
       "fuente": "Diariomotor (ES)",
-      "fecha": "2026-10-31T13:00:05Z",
-      "resumen": "Una nueva McLaren está en camino . La firma británica se prepara para un cambio de rumbo de gran trascendencia, y no lo decimos únicamente porque haya confirmado el lanzamiento de su primer SUV próximamente, sino porque ya está trabajando en el que será su nuevo superdeportivo , prometiendo la difícil tarea de ser aún mejor y más rápido que el McLaren 750S . Con la presentación del McLaren McL 6GT…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/08/Mclaren-McL-6GT-11-6a7f145db834e.jpg?class=XL",
+      "fecha": "2026-11-01T13:35:22Z",
+      "resumen": "Hasta ahora la estadía en México no le ha prestado muy bien a Liam Lawson ya que primero recibió un castigo de una posición en la parrilla por un incidente que protagonizó junto a Max Verstappen en la segunda práctica libre, allí ambos pilotos pelearon en pista hasta romper parte de sus monoplazas y causar una bandera roja. Posteriormente, tras la sesión de calificación en la cual el piloto…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/11/Liam_Lawson_Gran_Premio_Mexico_2026_2_26-6ae72b9793e42.jpg?class=XL",
       "menciones": 1,
       "fuentes": [
         "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "Hommage 26, el regreso del Lamborghini Gallardo junto a Giugiaro, el motor V10 y un cambio manual",
+      "link": "https://www.diariomotor.com/noticia/caven-atelier-hommage-26/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-11-01T13:00:34Z",
+      "resumen": "Imagina poder reestrenar una joya de la historia de los superdeportivos como es el Lamborghini Gallardo , un coche que marcó un antes y un después en la firma italiana. Pues bien, 25 personas en todo el mundo podrán disfrutar ahora de esta oportunidad, pues el Gallardo revive en 2026 gracias a un nuevo fabricante llamado CAVËN Atelier y la firma estilística del mismísimo Fabrizio Giugiaro. 30 años…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/11/caven-atelier-hommage-26-lamborghini-gallardo-05-6ae706429d5e8.jpg?class=XL",
+      "menciones": 1,
+      "fuentes": [
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "Menos de 34 millones: el sedán más barato de Chevrolet que ofrece 116 CV y 500 litros de baúl",
+      "link": "https://autotest.com.ar/noticias/menos-de-34-millones-el-sedan-mas-barato-de-chevrolet-que-ofrece-116-cv-y-500-litros-de-baul/",
+      "fuente": "Autotest",
+      "fecha": "2026-11-01T13:00:04Z",
+      "resumen": "El Chevrolet Onix Plus LT ofrece un motor 1.0 turbo de 116 CV y 500 litros de baúl por solo $32.782.900, posicionándose como el sedán más accesible de su segmento.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/CHevrolet-Onix-Plus-Sedan.jpg",
+      "menciones": 4,
+      "fuentes": [
+        "Autotest"
+      ]
+    },
+    {
+      "titulo": "Hasta 6 horas de repostaje y 10.000 dólares, el precio de volar 5 segundos con el Tesla Roadster",
+      "link": "https://www.diariomotor.com/noticia/precio-repostar-tanque-aire-tesla-roadster/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-11-01T12:00:16Z",
+      "resumen": "No cabe la menor duda que la nueva función \"voladora\" del Tesla Roadster nos ha dejado a todos con la boca abierta. Pero la pregunta que todos nos hacemos después de esta exhibición es, cómo de viable será disfrutar de un sistema propulsores de aire comprimido en un coche, pues Tesla ha prometido poder fabricarlo en serie y ahora hemos descubierto el coste real que tendrá hacer volar el Tesla…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/10/Diseno-Tesla-Roadster-2026-35-6ad1e00a0fa39.jpg?class=XL",
+      "menciones": 1,
+      "fuentes": [
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "Menos de 17000 dólares: el SUV chino con 196 CV que compite con Renault Duster y es más barato",
+      "link": "https://autotest.com.ar/noticias/menos-de-17000-dolares-el-suv-chino-con-196-cv-que-compite-con-renault-duster-y-es-mas-barato/",
+      "fuente": "Autotest",
+      "fecha": "2026-11-01T11:35:11Z",
+      "resumen": "El ZS no es un modelo más para Morris Garages, la compañía china conocida como MG. Recientemente, se actualizó en Europa con mejoras en el sistema híbrido, cambios en el interior y más para fortalecer su gran relación precio-producto y competir en el segmento B-SUV contra Renault Duster, comercializada allí por Dacia, con hasta 196 […]",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/MG-ZS-2026.jpg",
+      "menciones": 2,
+      "fuentes": [
+        "Autotest"
       ]
     }
   ]
