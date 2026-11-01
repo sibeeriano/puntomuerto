@@ -1,8 +1,21 @@
 {
-  "actualizado": "2026-11-01T20:35:28Z",
+  "actualizado": "2026-11-01T23:05:47Z",
   "desde": "2026-10-25",
   "hasta": "2026-11-01",
   "destacadas": [
+    {
+      "titulo": "Andrea Kimi Antonelli se convierte en el Campeón del Mundo más joven de la historia de la Fórmula 1",
+      "link": "https://www.diariomotor.com/competicion/noticia/andrea-kimi-antonelli-campeon-del-mundo/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-11-01T23:34:10Z",
+      "resumen": "Evidentemente todos los ojos este fin de semana estaban puestos en un Andrea Kimi Antonelli que no necesitaba una gran carambola para certificar su primer título Mundial de Fórmula 1. El italiano, que partía desde las dos primeras líneas de parrilla, estaba deseando de alzarse con la corona peleando por la victoria en el Gran Premio de México, sin embargo, no lo iba a tener nada fácil debido a la…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/11/gran-premio-mexico-2026-f1-carrera-domingo-6ae7c285a0ac4.jpg?class=XL",
+      "menciones": 2,
+      "fuentes": [
+        "Diariomotor (ES)",
+        "Motorpasión (ES)"
+      ]
+    },
     {
       "titulo": "El rival del Toyota Yaris que combina bajo consumo, seis airbags y precio accesible",
       "link": "https://autotest.com.ar/noticias/descubre-el-suzuki-swift-hybrid-rival-toyota-yaris/",
@@ -289,18 +302,6 @@
       "menciones": 1,
       "fuentes": [
         "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "Menos de 17000 dólares: el SUV chino con 196 CV que compite con Renault Duster y es más barato",
-      "link": "https://autotest.com.ar/noticias/menos-de-17000-dolares-el-suv-chino-con-196-cv-que-compite-con-renault-duster-y-es-mas-barato/",
-      "fuente": "Autotest",
-      "fecha": "2026-11-01T11:35:11Z",
-      "resumen": "El ZS no es un modelo más para Morris Garages, la compañía china conocida como MG. Recientemente, se actualizó en Europa con mejoras en el sistema híbrido, cambios en el interior y más para fortalecer su gran relación precio-producto y competir en el segmento B-SUV contra Renault Duster, comercializada allí por Dacia, con hasta 196 […]",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/MG-ZS-2026.jpg",
-      "menciones": 2,
-      "fuentes": [
-        "Autotest"
       ]
     }
   ]
