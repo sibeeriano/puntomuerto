@@ -1,7 +1,7 @@
 {
-  "actualizado": "2026-11-02T23:36:47Z",
-  "desde": "2026-10-26",
-  "hasta": "2026-11-02",
+  "actualizado": "2026-11-03T01:47:43Z",
+  "desde": "2026-10-27",
+  "hasta": "2026-11-03",
   "destacadas": [
     {
       "titulo": "Ford Ranger Super Duty camper: V6 diésel de 250 CV y 600 Nm para dormir donde no llega Google Maps",
@@ -186,6 +186,18 @@
       ]
     },
     {
+      "titulo": "Lanzan créditos de hasta $50 millones para que comprar autos fabricados en el país",
+      "link": "https://www.iprofesional.com/autos/468142-lanzan-creditos-de-hasta-50-millones-para-que-comprar-autos-fabricados-en-el-pais",
+      "fuente": "iProfesional",
+      "fecha": "2026-11-02T23:47:00Z",
+      "resumen": "El lanzamiento de nuevos créditos facilita el acceso a unidades nuevas mediante financiación atractiva en medio de un contexto económico adverso (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
+      "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2024/08/581892.jpg",
+      "menciones": 1,
+      "fuentes": [
+        "iProfesional"
+      ]
+    },
+    {
       "titulo": "Gran Premio de Sao Paulo 2026: Horarios y cómo ver la emoción de la Fórmula 1 en Brasil",
       "link": "https://www.diariomotor.com/competicion/noticia/gran-premio-de-sao-paulo-2026-horarios/",
       "fuente": "Diariomotor (ES)",
@@ -291,18 +303,6 @@
       "menciones": 1,
       "fuentes": [
         "iProfesional"
-      ]
-    },
-    {
-      "titulo": "Más todoterreno que nunca, irrompible como siempre, con 119 CV, la Africa Twin se renueva de los pies a la cabeza con un arsenal tecnológico",
-      "link": "https://www.diariomotor.com/noticia/honda-africa-twin-2027/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-11-02T18:26:05Z",
-      "resumen": "Es la referencia de la aventura, de lo que debe ser una verdadera todoterreno , capaz de desenvolverse en los escenarios más complicados, y ser cómoda y capaz en carretera, de lo que debe ser una moto indestructible, que te acompañe al fin del mundo y puedas regresar con ella de una pieza. Honda acaba de renovar por completo uno de sus buques insignia , una aventurera legendaria que, pese a la…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/11/honda-africa-twin-2027-6ae8c6e00f9e2.jpg?class=XL",
-      "menciones": 1,
-      "fuentes": [
-        "Diariomotor (ES)"
       ]
     }
   ]
