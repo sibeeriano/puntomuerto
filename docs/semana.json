@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-03T20:06:36Z",
+  "actualizado": "2026-11-03T21:50:54Z",
   "desde": "2026-10-27",
   "hasta": "2026-11-03",
   "destacadas": [
@@ -212,6 +212,30 @@
       ]
     },
     {
+      "titulo": "HAAS prescinde de Esteban Ocon y entrega su asiento a Rafael Camara en Brasil",
+      "link": "https://www.diariomotor.com/competicion/noticia/rafael-camara-con-haas-en-brasil/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-11-03T21:50:23Z",
+      "resumen": "Parecía evidente que la relación entre HAAS F1 Team y Esteban Ocon estaba completamente rota y únicamente quedaba por confirmar la rescisión del contrato entre ambas partes. Después de haber optado por montar a Ryo Hirakawa el pasado fin de semana en el Gran Premio de México, el equipo estadounidense ha tenido que recurrir a otro piloto para poder cubrir el hueco dejado por el francés,…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/11/5-saturday-mexico-2026-6aea48f997525.jpg?class=XL",
+      "menciones": 1,
+      "fuentes": [
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "Motos viajeras: las mejores opciones de entre 300 cc y 500 cc para recorrer Argentina",
+      "link": "https://www.iprofesional.com/autos/467958-las-mejores-motos-de-300-cc-y-500-cc-para-recorrer-argentina",
+      "fuente": "iProfesional",
+      "fecha": "2026-11-03T20:51:00Z",
+      "resumen": "Las temperaturas empiezan a acompañar y la moto se postula como la mejor opción para organizar viajes. Estos son los 5 modelos ideales (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
+      "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/10/628837.jpg",
+      "menciones": 1,
+      "fuentes": [
+        "iProfesional"
+      ]
+    },
+    {
       "titulo": "Lamborghini Squadra Corse en vías de perder a uno de sus mejores clientes",
       "link": "https://www.diariomotor.com/competicion/noticia/lamborghini-perder-uno-mejores-clientes/",
       "fuente": "Diariomotor (ES)",
@@ -281,30 +305,6 @@
       "menciones": 1,
       "fuentes": [
         "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "Así es la versión más accesible de la nueva pick up de Volkswagen: llantas de chapa y foco en el trabajo",
-      "link": "https://autotest.com.ar/noticias/asi-es-la-version-mas-accesible-de-la-nueva-pick-up-de-volkswagen-llantas-de-chapa-y-foco-en-el-trabajo/",
-      "fuente": "Autotest",
-      "fecha": "2026-11-03T18:00:23Z",
-      "resumen": "Volkswagen presenta la Tukan, una pick up compacta con enfoque en trabajo y uso familiar, que arribará a Argentina en 2027 con producción en Brasil.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/Volkswagen-Tukan-Robust-teaser.jpg",
-      "menciones": 2,
-      "fuentes": [
-        "Autotest"
-      ]
-    },
-    {
-      "titulo": "La Volkswagen California y la Mercedes Marco Polo tienen nueva rival 100 % eléctrica y más barata: con dos camas dobles y cocina completa",
-      "link": "https://www.motorpasion.com/furgonetas-y-caravanas/volkswagen-california-mercedes-marco-polo-tienen-nueva-rival-100-electrica-barata-dos-camas-dobles-cocina-completa",
-      "fuente": "Motorpasión (ES)",
-      "fecha": "2026-11-03T17:01:28Z",
-      "resumen": "Kia ha estrenado la PV5 , una furgoneta media de menos de 4,7 m que es completamente eléctrica . Cuando nos subimos a ella nos sorprendió por sus posibilidades modulares . Ya entonces nos confirmaron que tendría versiones camper, lo que ha vuelto a reiterar la marca en el Kia Investor Day : se lanzarán dos variantes camperizadas, Light Camper y Camper. Pero mientras seguimos esperando la versión…",
-      "imagen": "https://i.blogs.es/82bbdc/kia-pv5-camper/1024_2000.jpeg",
-      "menciones": 1,
-      "fuentes": [
-        "Motorpasión (ES)"
       ]
     }
   ]
