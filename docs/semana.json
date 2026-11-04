@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-04T20:26:11Z",
+  "actualizado": "2026-11-04T21:57:21Z",
   "desde": "2026-10-28",
   "hasta": "2026-11-04",
   "destacadas": [
@@ -37,7 +37,7 @@
       "fecha": "2026-11-04T15:30:00Z",
       "resumen": "Comparamos la nueva camioneta compactar con su rival directa. Dimensiones, capacidad de carga, arrastre y motor. Además, versiones y precios (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
       "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/09/625624.jpg",
-      "menciones": 4,
+      "menciones": 5,
       "fuentes": [
         "Autotest",
         "iProfesional"
@@ -50,7 +50,7 @@
       "fecha": "2026-11-04T14:00:30Z",
       "resumen": "El Chery Tiggo 7 CSH se destaca en Argentina con su potente motor híbrido de 278 CV, una autonomía total de 1.200 km y un precio competitivo de 36.500 dólares.",
       "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/Chery-Tiggo-7-CSH-Consumo-3.jpg",
-      "menciones": 6,
+      "menciones": 5,
       "fuentes": [
         "Autotest",
         "Diariomotor (ES)"
@@ -252,63 +252,63 @@
       ]
     },
     {
-      "titulo": "Hanley Motorsports será el nuevo representante de BMW en la clase GTD Pro",
-      "link": "https://www.diariomotor.com/competicion/noticia/hanley-motorsports-sera-el-nuevo-representante-de-bmw-en-la-clase-gtd-pro/",
+      "titulo": "Kalle Rovanperä explica los problemas que le obligaron a abandonar su sueño de llegar a la Fórmula 1",
+      "link": "https://www.diariomotor.com/competicion/noticia/kalle-rovanpera-explica-problemas-wrc/",
       "fuente": "Diariomotor (ES)",
-      "fecha": "2026-11-04T20:03:06Z",
-      "resumen": "Era un secreto a voces que Paul Miller Racing no regresaría el año que viene a la clase GTD Pro, lo que se ha confirmado el día de hoy tras anunciarse que Hanley Motorsports, en sociedad con el equipo DXDT, ha adquirido los activos de Paul Miller Racing, incluyendo el contrato vinculado al BMW M4 GT3 Evo, cerrando un ciclo que inició en 2022 y se saldó con dos títulos, uno en la clase GTD en 2023…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/11/Paul_Miller_Racing_BMW_IMSA_GTD_Pro_2026_26-6aeb76c9e993d.jpg?class=XL",
+      "fecha": "2026-11-04T22:35:01Z",
+      "resumen": "Se venía rumoreando durante las últimas semanas , especialmente después de verlo subirse al Toyota GR Celica Rally1 de test sobre el asfalto de Cataluña, sin embargo, faltaba por saber cómo podría encajar Kalle Rovanperä en esta nueva era del Mundial de Rallyes y, quizás lo más importante, saber si el bicampeón del WRC estaba dispuesto a regresar tras lo que parecía haber sido un fallido objetivo…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/11/TGRWRT_LineUp26_DSCF3476-6aeba468a19b0.jpg?class=XL",
       "menciones": 1,
       "fuentes": [
         "Diariomotor (ES)"
       ]
     },
     {
-      "titulo": "Multa de casi 10.000 euros a una empresa porque su chófer vivió siete meses en la cabina de su camión",
-      "link": "https://www.motorpasion.com/industria/multa-casi-10-000-euros-a-empresa-porque-su-chofer-vivio-siete-meses-cabina-su-camion",
-      "fuente": "Motorpasión (ES)",
-      "fecha": "2026-11-04T20:01:26Z",
-      "resumen": "En mitad de una patrulla rutinaria , la policía de tráfico sueca detectó un camión lituano que les llamó la atención . Intentaron detenerlo, pero el conductor no hizo caso a las dos primeras señales con las sirenas. Ya en el tercer intento consiguieron que parase. Y no quería parar por un motivo que los agentes estarían a punto de descubrir, y que va más allá de una simple infracción de tráfico:…",
-      "imagen": "https://i.blogs.es/b5f7ab/portada-mop-1793811702518/1024_2000.jpeg",
-      "menciones": 1,
+      "titulo": "Dos leyendas de Toyota frente a frente: el Celica y el Yaris competirán por el WRC en 2027",
+      "link": "https://www.diariomotor.com/competicion/noticia/dos-leyendas-toyota-frente-a-frente-wrc/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-11-04T21:38:05Z",
+      "resumen": "Dos coches en una misma temporada , dos coches bajo el mismo reglamento, dos íconos de Toyota enfrentándose cara a cara. La firma nipona comenzó el año sorprendiendo con las formas de la primera mula de pruebas de su Rally1. Poco a poco fuimos acostumbrándonos a ver las líneas de un vehículo que no se parecía a nada de lo que tenía Toyota en su gama, hasta el punto de que algunos se preguntaban si…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/11/TGR_DEV2027_GRYaris_KR_4-2048x1366.jpg-6aeb9754c1c23.webp?class=XL",
+      "menciones": 2,
       "fuentes": [
-        "Motorpasión (ES)"
+        "Diariomotor (ES)"
       ]
     },
     {
-      "titulo": "Tesla llega a Argentina y abrirá su primer salón con autos en el Unicenter",
-      "link": "https://www.iprofesional.com/autos/468348-tesla-llega-a-argentina-y-abrira-su-primer-salon-en-un-shopping",
+      "titulo": "Por qué los autos híbridos son más baratos que los nafteros en Argentina",
+      "link": "https://www.iprofesional.com/autos/466044-por-que-los-autos-hibridos-son-mas-baratos-que-los-nafteros-en-argentina",
       "fuente": "iProfesional",
-      "fecha": "2026-11-04T19:52:00Z",
-      "resumen": "En principio, se mostrarán dos modelos de la marca de Elon Musk y habrá una zona para hacer un test drive. Cuánto pueden salir los autos (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
-      "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/11/629133.jpg",
+      "fecha": "2026-11-04T21:01:00Z",
+      "resumen": "Va contra la lógica, pero Argentina es así. El problema no es la explicación, sino la posición desventajosa en la que quedan los autos convencionales (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
+      "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/08/623221.jpg",
       "menciones": 1,
       "fuentes": [
         "iProfesional"
       ]
     },
     {
-      "titulo": "Peter Schutz, CEO de Porsche: no solo salvó al 911, salvó a Porsche de la peor crisis de su historia pintando una línea en una pizarra",
-      "link": "https://www.motorpasion.com/porsche/peter-schutz-ceo-porsche-no-solo-salvo-al-911-salvo-a-porsche-peor-crisis-su-historia-pintando-linea-pizarra",
-      "fuente": "Motorpasión (ES)",
-      "fecha": "2026-11-04T19:31:24Z",
-      "resumen": "Tal vez el nombre de Peter W. Schutz no te suene demasiado. Fue el Presidente y CEO de Porsche desde 1981 hasta 1987, sin duda los años más difíciles para la compañía que en 1980 había dado grandes pérdidas y navegaba sin timón hacia una situación peor si cabe en la que el Porsche 911 estaba llamado a desaparecer . Peter W. Schutz falleció en 2017 a los 87 años de edad. Él fue el encargado de dar…",
-      "imagen": "https://i.blogs.es/fc7739/portada-mop-1793804437241/1024_2000.jpeg",
-      "menciones": 1,
+      "titulo": "Fiat bajó casi 3 millones el precio de su pick up de 200 CV: cuánto cuesta en noviembre",
+      "link": "https://autotest.com.ar/noticias/fiat-bajo-casi-3-millones-el-precio-de-su-pick-up-de-200-cv-cuanto-cuesta-en-noviembre/",
+      "fuente": "Autotest",
+      "fecha": "2026-11-04T20:38:00Z",
+      "resumen": "La Fiat Titano experimentó cambios significativos en sus precios durante noviembre de 2026. Conoce qué versiones se ajustaron y las características de esta potente pick-up diésel de 200 CV.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/Fiat-Titano-Pick-up-2.jpg",
+      "menciones": 3,
       "fuentes": [
-        "Motorpasión (ES)"
+        "Autotest"
       ]
     },
     {
-      "titulo": "Chery Tiggo 7 Híbrido Enchufable Test Drive",
-      "link": "https://autotest.com.ar/pruebas/chery-tiggo-7-hibrido-enchufable-test-drive/",
-      "fuente": "Autotest",
-      "fecha": "2026-11-04T19:18:56Z",
-      "resumen": "Descubre el nuevo Chery Tiggo 7 CSH híbrido enchufable con 278 CV y un precio atractivo en comparación con otras variantes.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/Chery-Tiggo-7-CSH-Consumo-7.jpg",
+      "titulo": "Los autos electrificados ya representan el 16% de los patentamientos",
+      "link": "https://eleconomista.com.ar/autos/los-autos-electrificados-ya-representan-16-patentamientos-n99475",
+      "fuente": "El Economista",
+      "fecha": "2026-11-04T20:38:00Z",
+      "resumen": "En el acumulado de enero-septiembre se comercializaron más de 66.000 unidades, un crecimiento interanual de 267,4% en un mercado total que cae 13,5%. Hace un año Toyota mandaba con sus productos brasileños y hoy los que dominan son los chinos.",
+      "imagen": "https://statics.eleconomista.com.ar/2026/09/crop/6aa933b280c4a__950x512.webp",
       "menciones": 1,
       "fuentes": [
-        "Autotest"
+        "El Economista"
       ]
     }
   ]
