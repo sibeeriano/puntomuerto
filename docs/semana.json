@@ -1,7 +1,7 @@
 {
-  "actualizado": "2026-11-04T21:57:21Z",
-  "desde": "2026-10-28",
-  "hasta": "2026-11-04",
+  "actualizado": "2026-11-05T00:31:59Z",
+  "desde": "2026-10-29",
+  "hasta": "2026-11-05",
   "destacadas": [
     {
       "titulo": "Con tamaño de Audi Q3 pero costando 25.000 € menos para acabar con la marquitis, el SUV que, con 258 CV y capaz de no gastar gasolina durante 100 km, no tiene rival en calidad-precio",
@@ -63,7 +63,7 @@
       "fecha": "2026-11-04T11:00:58Z",
       "resumen": "La estrategia de Chery en Europa deja una lectura clara: las marcas chinas ya no pelean solo contra las generalistas.",
       "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/jaecoo-8-shs-428-cv-7-plazas-y-40-000-me-1200x740-1.jpg",
-      "menciones": 3,
+      "menciones": 2,
       "fuentes": [
         "Autotest",
         "Diariomotor (ES)"
@@ -252,6 +252,42 @@
       ]
     },
     {
+      "titulo": "Seis horas para la gloria: Toyota y sus dos tripulaciones se juegan el Mundial de Resistencia en Monza",
+      "link": "https://www.diariomotor.com/competicion/noticia/seis-horas-para-la-gloria-toyota-monza/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-11-04T23:44:52Z",
+      "resumen": "Se acaba este fin de semana. El Campeonato del Mundo de Resistencia se define en el Autódromo de Monza este mismo domingo con lo que es una batalla fratricida entre los dos tríos de Toyota Racing en lo que está siendo una temporada para el recuerdo en el caso de la estructura nipona. El TR010 se estrenará no sólo con el éxito en el WEC dentro del apartado constructores y de pilotos, sino que…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/11/86691-tjm2615oc438-6aebb547564b3.jpg?class=XL",
+      "menciones": 1,
+      "fuentes": [
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "Se cuadriplicó la venta de autos híbridos y eléctricos y ya representan el 16% de los 0km",
+      "link": "https://www.iprofesional.com/autos/468345-se-cuadriplico-la-venta-de-autos-hibridos-y-electricos-y-ya-representan-el-16-de-los-0km",
+      "fuente": "iProfesional",
+      "fecha": "2026-11-04T23:35:00Z",
+      "resumen": "Con la llegada de 69 modelos, las ventas de vehículos con motores eléctricos, híbrodos e híbridos enchufables crecieron 264% entre enero y septiembre (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
+      "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/06/618174.jpg",
+      "menciones": 1,
+      "fuentes": [
+        "iProfesional"
+      ]
+    },
+    {
+      "titulo": "Audi A4 usado: el desafío de mantener un sedán premium después de la garantía",
+      "link": "https://www.megautos.com/audi-a4-usado-mantenimiento-despues-de-la-garantia/",
+      "fuente": "Megautos",
+      "fecha": "2026-11-04T23:22:07Z",
+      "resumen": "El historial de mantenimiento, el estado mecánico y la disponibilidad de repuestos son factores clave al comprar o conservar un Audi A4 usado. Qué aspectos revisar y cómo evaluar los costos de mantener un sedán premium una vez finalizada la garantía. La entrada Audi A4 usado: el desafío de mantener un sedán premium después de la garantía aparece primero en Mega Autos .",
+      "imagen": "https://www.megautos.com/wp-content/uploads/2026/11/avtopro-catalogo-repuestos-audi-a4.jpg",
+      "menciones": 1,
+      "fuentes": [
+        "Megautos"
+      ]
+    },
+    {
       "titulo": "Kalle Rovanperä explica los problemas que le obligaron a abandonar su sueño de llegar a la Fórmula 1",
       "link": "https://www.diariomotor.com/competicion/noticia/kalle-rovanpera-explica-problemas-wrc/",
       "fuente": "Diariomotor (ES)",
@@ -273,42 +309,6 @@
       "menciones": 2,
       "fuentes": [
         "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "Por qué los autos híbridos son más baratos que los nafteros en Argentina",
-      "link": "https://www.iprofesional.com/autos/466044-por-que-los-autos-hibridos-son-mas-baratos-que-los-nafteros-en-argentina",
-      "fuente": "iProfesional",
-      "fecha": "2026-11-04T21:01:00Z",
-      "resumen": "Va contra la lógica, pero Argentina es así. El problema no es la explicación, sino la posición desventajosa en la que quedan los autos convencionales (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
-      "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/08/623221.jpg",
-      "menciones": 1,
-      "fuentes": [
-        "iProfesional"
-      ]
-    },
-    {
-      "titulo": "Fiat bajó casi 3 millones el precio de su pick up de 200 CV: cuánto cuesta en noviembre",
-      "link": "https://autotest.com.ar/noticias/fiat-bajo-casi-3-millones-el-precio-de-su-pick-up-de-200-cv-cuanto-cuesta-en-noviembre/",
-      "fuente": "Autotest",
-      "fecha": "2026-11-04T20:38:00Z",
-      "resumen": "La Fiat Titano experimentó cambios significativos en sus precios durante noviembre de 2026. Conoce qué versiones se ajustaron y las características de esta potente pick-up diésel de 200 CV.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/Fiat-Titano-Pick-up-2.jpg",
-      "menciones": 3,
-      "fuentes": [
-        "Autotest"
-      ]
-    },
-    {
-      "titulo": "Los autos electrificados ya representan el 16% de los patentamientos",
-      "link": "https://eleconomista.com.ar/autos/los-autos-electrificados-ya-representan-16-patentamientos-n99475",
-      "fuente": "El Economista",
-      "fecha": "2026-11-04T20:38:00Z",
-      "resumen": "En el acumulado de enero-septiembre se comercializaron más de 66.000 unidades, un crecimiento interanual de 267,4% en un mercado total que cae 13,5%. Hace un año Toyota mandaba con sus productos brasileños y hoy los que dominan son los chinos.",
-      "imagen": "https://statics.eleconomista.com.ar/2026/09/crop/6aa933b280c4a__950x512.webp",
-      "menciones": 1,
-      "fuentes": [
-        "El Economista"
       ]
     }
   ]
