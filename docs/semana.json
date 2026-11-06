@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-06T21:35:16Z",
+  "actualizado": "2026-11-06T23:49:47Z",
   "desde": "2026-10-30",
   "hasta": "2026-11-06",
   "destacadas": [
@@ -226,6 +226,18 @@
       ]
     },
     {
+      "titulo": "Ya está en Buenos Aires el papamóvil blindado y eléctrico que usará el papa León XIV",
+      "link": "https://www.iprofesional.com/autos/468582-ya-esta-en-buenos-aires-papamovil-blindado-y-electrico-usara-papa-leon-xiv",
+      "fuente": "iProfesional",
+      "fecha": "2026-11-06T22:05:00Z",
+      "resumen": "La unidad que trasladará al pontífice durante su visita cuenta con protección de alta gama y cero emisiones, alineada a valores ambientales (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
+      "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/11/629318.jpg",
+      "menciones": 1,
+      "fuentes": [
+        "iProfesional"
+      ]
+    },
+    {
       "titulo": "Fábrica de asientos deja sus operaciones en Córdoba en manos de Renault",
       "link": "https://www.iprofesional.com/autos/468578-multinacional-magna-deja-sus-operaciones-en-cordoba-en-manos-de-renault",
       "fuente": "iProfesional",
@@ -295,18 +307,6 @@
       "menciones": 1,
       "fuentes": [
         "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "Silverado 1500 2027: dos V8 nuevos y más de 6.033 kg de remolque para pelearle a Ford",
-      "link": "https://autotest.com.ar/noticias/silverado-1500-2027-dos-v8-nuevos-y-mas-de-6-033-kg-de-remolque-para-pelearle-a-ford/",
-      "fuente": "Autotest",
-      "fecha": "2026-11-06T20:11:25Z",
-      "resumen": "El término small-block no refiere a motores chicos, sino a una arquitectura compacta de bloque desarrollada por General Motors desde 1955 y sinónimo de V8 naftero tradicional.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/silverado-1500-2027-dos-v8-nuevos-y-m-s-1200x740-1.jpg",
-      "menciones": 1,
-      "fuentes": [
-        "Autotest"
       ]
     }
   ]
