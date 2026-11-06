@@ -1,18 +1,44 @@
 {
-  "actualizado": "2026-11-06T00:34:06Z",
+  "actualizado": "2026-11-06T19:57:30Z",
   "desde": "2026-10-30",
   "hasta": "2026-11-06",
   "destacadas": [
     {
-      "titulo": "El SUV que bajó de precio y cuesta 24.000 dólares: tiene motor turbo de 156 CV y caja automática",
-      "link": "https://autotest.com.ar/noticias/el-suv-que-bajo-de-precio-y-cuesta-24-000-dolares-tiene-motor-turbo-de-156-cv-y-caja-automatica/",
+      "titulo": "No es Tracker: el SUV de Chevrolet que bajó de precio y tiene motor turbo de 149 CV",
+      "link": "https://autotest.com.ar/noticias/no-es-tracker-el-suv-de-chevrolet-que-bajo-de-precio-y-tiene-motor-turbo-de-149-cv/",
       "fuente": "Autotest",
-      "fecha": "2026-11-05T17:00:57Z",
-      "resumen": "Con un precio promocional de USD 25.000, el Jetour X50 se destaca en el mercado de SUV compactos, ofreciendo equipamiento y potencia destacados.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2025/12/SUV-Jetour-X50-techo.jpg",
+      "fecha": "2026-11-06T19:00:04Z",
+      "resumen": "La Chevrolet Groove 2026 se presenta con motor turbo, más espacio y un precio competitivo en el mercado mexicano, atrayendo a quienes buscan una SUV subcompacta con excelente equipamiento desde la versión básica.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2025/12/Chevrolet-Groove-2026-trompa.jpg",
+      "menciones": 16,
+      "fuentes": [
+        "Autotest",
+        "Diariomotor (ES)",
+        "Motorpasión (ES)"
+      ]
+    },
+    {
+      "titulo": "Menos de 50 millones: el BYD que compite con Toyota Yaris Cross bajó 2.000 dólares",
+      "link": "https://autotest.com.ar/noticias/menos-de-50-millones-el-byd-que-compite-con-toyota-yaris-cross-bajo-2-000-dolares/",
+      "fuente": "Autotest",
+      "fecha": "2026-11-06T18:57:45Z",
+      "resumen": "BYD ha reducido 2.000 dólares el precio del Atto 2 DM-i, ahora disponible por $49.600.000 durante noviembre con cupos limitados.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/BYD-ATTO-2-DM-i-SUV-hibrido.jpg",
       "menciones": 18,
       "fuentes": [
         "Autotest",
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "Volkswagen era el pulmón de la industria en Europa, pero ahora ni siquiera puede permitirse desarrollar un coche eléctrico que se llame Volkswagen Golf",
+      "link": "https://www.diariomotor.com/noticia/volkswagen-paraliza-desarrollo-golf-electrico/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-11-06T11:30:14Z",
+      "resumen": "Empezar la casa por el tejado y además hacerlo de manera errática tiene sus consecuencias. Volkswagen va a estar pagando más tiempo del deseado la millonaria inversión por la que la anterior cúpula directiva de Volkswagen apostó para su división de software, Cariad, y toda la tecnología que debía emanar de esta empresa y repercutir de manera positiva al Grupo Volkswagen entero. Sin efecto…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/04/Volkswagen-ID-Polo-2026-fotos-oficiales-1-69f1e35d3eaa2.jpg?class=XL",
+      "menciones": 3,
+      "fuentes": [
         "Diariomotor (ES)",
         "Motorpasión (ES)"
       ]
@@ -28,19 +54,6 @@
       "fuentes": [
         "El Economista",
         "iProfesional"
-      ]
-    },
-    {
-      "titulo": "Ebro S400 Plus: 224 CV turbo con etiqueta ECO por el precio de un SUV chico, contra el MG ZS",
-      "link": "https://autotest.com.ar/noticias/ebro-s400-plus-224-cv-turbo-con-etiqueta-eco-por-el-precio-de-un-suv-chico-contra-el-mg-zs/",
-      "fuente": "Autotest",
-      "fecha": "2026-11-05T18:01:49Z",
-      "resumen": "En la Argentina, Chery ya opera con la marca Omoda y acaba de iniciar la preventa de Jaecoo.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/ebro-s400-plus-224-cv-turbo-con-etiqueta-1200x740-1.jpg",
-      "menciones": 3,
-      "fuentes": [
-        "Autotest",
-        "Diariomotor (ES)"
       ]
     },
     {
@@ -83,26 +96,13 @@
       ]
     },
     {
-      "titulo": "El SUV chino que vendió más que Toyota Corolla Cross: tiene 243 CV y amplio equipamiento",
-      "link": "https://autotest.com.ar/noticias/el-suv-chino-que-vendio-mas-que-toyota-corolla-cross-tiene-243-cv-y-amplio-equipamiento/",
-      "fuente": "Autotest",
-      "fecha": "2026-11-05T16:00:25Z",
-      "resumen": "En octubre de 2026, el SUV chino GWM Haval H6 se posicionó como uno de los más vendidos en Brasil, dejando atrás al Jeep Compass y Toyota Corolla Cross combinados. Este suceso evidencia el impacto de los modelos chinos en el mercado automotriz brasileño.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/08/SUV-Haval-H6-perfil-1.jpg",
-      "menciones": 9,
-      "fuentes": [
-        "Autotest",
-        "Diariomotor (ES)"
-      ]
-    },
-    {
       "titulo": "Este crossover tiene tamaño de Toyota C-HR, buen maletero y un motor híbrido de bajo consumo que sólo gasta 4,5 litros cada 100 km",
       "link": "https://www.diariomotor.com/noticia/kia-niro-nov-2026/",
       "fuente": "Diariomotor (ES)",
       "fecha": "2026-11-05T13:45:33Z",
       "resumen": "Cuando se trata de buscar un crossover o SUV con motor híbrido y diseño atractivo, hay un modelo que tanto en España como el resto de Europa destaca sobre manera sobre el resto de la competencia : el Toyota C-HR . Agresivo, tecnológico y eficiente, este segmento C de Toyota lleva en España este año prácticament 20.000 unidades , tratándose del quinto coche más vendido de nuestro país. Sin embargo,…",
       "imagen": "https://www.diariomotor.com/imagenes/2026/11/KIA-Niro-2027-1-6aec76aa7a730.jpg?class=XL",
-      "menciones": 6,
+      "menciones": 2,
       "fuentes": [
         "Autotest",
         "Diariomotor (ES)"
@@ -148,19 +148,6 @@
       ]
     },
     {
-      "titulo": "Renault Niagara llega para desbancar a Fiat Toro y te contamos cuál conviene",
-      "link": "https://www.iprofesional.com/autos/468171-renault-niagara-sale-12-millones-menos-que-fiat-toro",
-      "fuente": "iProfesional",
-      "fecha": "2026-11-04T15:30:00Z",
-      "resumen": "Comparamos la nueva camioneta compactar con su rival directa. Dimensiones, capacidad de carga, arrastre y motor. Además, versiones y precios (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
-      "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/09/625624.jpg",
-      "menciones": 2,
-      "fuentes": [
-        "Autotest",
-        "iProfesional"
-      ]
-    },
-    {
       "titulo": "Coche entre semana y camper el finde: la hermana de la Berlingo se convierte en casa modular con dos camas dobles, techo elevable y hasta ducha",
       "link": "https://www.motorpasion.com/furgonetas-y-caravanas/coche-semana-camper-finde-hermana-berlingo-se-convierte-casa-modular-dos-camas-dobles-techo-elevable-ducha",
       "fuente": "Motorpasión (ES)",
@@ -171,32 +158,6 @@
       "fuentes": [
         "Diariomotor (ES)",
         "Motorpasión (ES)"
-      ]
-    },
-    {
-      "titulo": "\"Sencillamente no nos lo podemos permitir\". Thomas Schaefer, director ejecutivo de Volkswagen, comunica la cancelación del Golf eléctrico",
-      "link": "https://www.motorpasion.com/industria/sencillamente-no-nos-podemos-permitir-thomas-schaefer-director-ejecutivo-volkswagen-comunica-cancelacion-golf-electrico",
-      "fuente": "Motorpasión (ES)",
-      "fecha": "2026-11-04T10:01:51Z",
-      "resumen": "El Grupo Volkswagen está sudando la gota gorda. Inmerso en un gigantesco plan de reestructuración que incluye despedir a 100.000 trabajadores , ha tenido que decir adiós a un producto que ya presentaba dificultades . Se trata del esperado regreso del Volkswagen Golf 100 % eléctrico, el ID. Golf. Según ha detallado Reuters , Volkswagen ha suspendido el trabajo de desarrollo del Golf totalmente…",
-      "imagen": "https://i.blogs.es/1c1a1c/portada-mop-1793784636842/1024_2000.jpeg",
-      "menciones": 2,
-      "fuentes": [
-        "Diariomotor (ES)",
-        "Motorpasión (ES)"
-      ]
-    },
-    {
-      "titulo": "Más barato de lo esperado, el nuevo SUV de 2 ruedas de Honda ya tiene precio, una todoasfalto para la ciudad... y el campo",
-      "link": "https://www.diariomotor.com/noticia/honda-adv-125-precio/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-11-04T08:30:54Z",
-      "resumen": "Algo más que una moda… el éxito de los SUV de dos ruedas. Ayer abría sus puertas en Milán uno de los eventos - sin duda el más importante en Europa para la industria de la moto - del año. Y las grandes protagonistas han sido, con diferencia, las aventureras, y todo aquello que parezca o sea mínimamente aventurero, también un aluvión de scooters, o motos con aspecto de scooter, que se inspiran en…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/11/honda-adv-125-2027-detalles-11-6ae8bb6f4e862.jpg?class=XL",
-      "menciones": 2,
-      "fuentes": [
-        "Autotest",
-        "Diariomotor (ES)"
       ]
     },
     {
@@ -278,41 +239,75 @@
       ]
     },
     {
-      "titulo": "Domingo vacío para Carlos Sainz y Fernando Alonso en el Gran Premio de México",
-      "link": "https://www.diariomotor.com/competicion/noticia/domingo-vacio-para-carlos-sainz-y-fernando-alonso-en-el-gran-premio-de-mexico/",
+      "titulo": "Tesla pone fin a la Cybertruck, el experimento pick-up acabará en 2027 y muy lejos de sus objetivos",
+      "link": "https://www.diariomotor.com/noticia/final-tesla-cybertruck-2027/",
       "fuente": "Diariomotor (ES)",
-      "fecha": "2026-11-02T00:15:53Z",
-      "resumen": "Carrera para olvidar, al igual que la sesión clasificatoria de ayer, para los pilotos españoles en el Gran Premio de México . Fernando Alonso quedó fuera de combate tras solo un puñado de vueltas con problemas técnicos, cerrando así el fin de semana en el que quizás había más optimismo por un buen resultado. Entre tanto, Carlos Sainz no tuvo en ningún momento ritmo para pelear por estar en la zona…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/11/CarlosSainzGPMexico2026D-6ae7b71ba050a.jpg?class=XL",
-      "menciones": 3,
-      "fuentes": [
-        "Diariomotor (ES)",
-        "Motorpasión (ES)"
-      ]
-    },
-    {
-      "titulo": "Andrea Kimi Antonelli se convierte en el Campeón del Mundo más joven de la historia de la Fórmula 1",
-      "link": "https://www.diariomotor.com/competicion/noticia/andrea-kimi-antonelli-campeon-del-mundo/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-11-01T23:34:10Z",
-      "resumen": "Evidentemente todos los ojos este fin de semana estaban puestos en un Andrea Kimi Antonelli que no necesitaba una gran carambola para certificar su primer título Mundial de Fórmula 1. El italiano, que partía desde las dos primeras líneas de parrilla, estaba deseando de alzarse con la corona peleando por la victoria en el Gran Premio de México, sin embargo, no lo iba a tener nada fácil debido a la…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/11/gran-premio-mexico-2026-f1-carrera-domingo-6ae7c285a0ac4.jpg?class=XL",
-      "menciones": 2,
-      "fuentes": [
-        "Diariomotor (ES)",
-        "Motorpasión (ES)"
-      ]
-    },
-    {
-      "titulo": "Fallece Alan Jones, el campeón que abrió la era dorada de Williams en la Fórmula 1",
-      "link": "https://www.diariomotor.com/competicion/noticia/alan-jones-williams-formula1/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-11-05T22:29:19Z",
-      "resumen": "Gran Premio de España 2026, Williams presenta su decoración para afrontar el estreno de MadRing dentro del Campeonato del Mundo de Fórmula 1 e inmediatamente nos viene a todos una imagen a la cabeza, la de los Williams FW07C, íconos sobre ruedas gracias entre otros a Alan Jones. La escudería con sede en Grove confirmaba esta misma mañana el fallecimiento del australiano a los 80 años tras lo que…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/11/alan-jones-williams-f1-1946-2026-2-6aecf4f986995.jpg?class=XL",
+      "fecha": "2026-11-06T20:20:38Z",
+      "resumen": "La Tesla Cybertruck nos dirá adiós para siempre en 2027 . Una de las creaciones más disruptivas y avanzadas de la firma norteamericana acaba de anunciar el fin de su producción , haciéndolo además sin relevo a la vista y apuntando a unas cifras de ventas que se han quedado muy lejos de los objetivos iniciales. Presentada en 2019 durante uno de los shows más recordados de la compañía por los…",
+      "imagen": "https://www.diariomotor.com/imagenes/2023/12/tesla-cybertruck-2024-05.jpg?class=XL",
       "menciones": 1,
       "fuentes": [
         "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "Cuánto cuesta el Fiat más barato en noviembre: motor 1.0, 71 CV y caja manual",
+      "link": "https://autotest.com.ar/noticias/cuanto-cuesta-el-fiat-mas-barato-en-noviembre-motor-1-0-71-cv-y-caja-manual/",
+      "fuente": "Autotest",
+      "fecha": "2026-11-06T19:22:11Z",
+      "resumen": "El Fiat Mobi Trekking se destaca como el auto 0 km más económico de Fiat, con un precio actualizado en noviembre de 2026.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2025/07/Fiat-Mobi-Trekking-2026-frente.jpg",
+      "menciones": 23,
+      "fuentes": [
+        "Autotest"
+      ]
+    },
+    {
+      "titulo": "Sara Alfonsea, formadora de conductores, habla sobre el cambio automático de los coches: “Es mucho más fácil conducirlos, pero genera una falsa sensación de control”",
+      "link": "https://www.motorpasion.com/revision/sara-alfonsea-formadora-conductores-habla-cambio-automatico-coches-mucho-facil-conducirlos-genera-falsa-sensacion-control",
+      "fuente": "Motorpasión (ES)",
+      "fecha": "2026-11-06T19:01:07Z",
+      "resumen": "Sara Alfonsea, profesora de autoescuela que desempeña labores de formadora CAP, ADR, PXP y teóricos intensivos, habla de las ventajas y desventajas que tiene aprender a conducir con un coche con cambio automático . Ahora mismo, puedes sacarte el carnet de conducir para coches automáticos en España y solo se necesita un curso de siete horas para poder conducir también coches con cambio manual.…",
+      "imagen": "https://i.blogs.es/c2a655/cambio-automatico-2_1/1024_2000.jpeg",
+      "menciones": 1,
+      "fuentes": [
+        "Motorpasión (ES)"
+      ]
+    },
+    {
+      "titulo": "El Renault más barato no aumentó en noviembre: menos de 29 millones, motor 1.0 y pantalla de 8 pulgadas",
+      "link": "https://autotest.com.ar/noticias/el-renault-mas-barato-no-aumento-en-noviembre-menos-de-29-millones-motor-1-0-y-pantalla-de-8-pulgadas/",
+      "fuente": "Autotest",
+      "fecha": "2026-11-06T18:00:02Z",
+      "resumen": "El Renault Kwid 2026 se presenta como el vehículo más accesible de la marca en Argentina, ofreciendo equipamiento esencial y seguridad a un precio competitivo.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/Renault-Kwid-Outsider-baul.jpg",
+      "menciones": 1,
+      "fuentes": [
+        "Autotest"
+      ]
+    },
+    {
+      "titulo": "Cuatro campeones del mundo lideran el primer entrenamiento en Interlagos",
+      "link": "https://www.diariomotor.com/competicion/noticia/cuatro-campeones-del-mundo-lideran-el-primer-entrenamiento-en-interlagos/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-11-06T17:55:36Z",
+      "resumen": "El Autódromo José Carlos Pace es un escenario idílico y respetado por la Fórmula 1 , que sigue regresando al ahora denominado Gran Premio de São Paulo. La primera tanda libre supone una aclimatación a los elementos, incluyendo un cielo tapado que no llegó a descargar. Lando Norris, el recién proclamado Andrea Kimi Antonelli, Max Verstappen y Lewis Hamilton establecieron un cuarteto de campeones en…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/11/lando-norris-libres-f1-brasil-2026-6aee032fbaffc.jpg?class=XL",
+      "menciones": 1,
+      "fuentes": [
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "Peugeot lanzó la Partner Rapid en Argentina",
+      "link": "https://www.megautos.com/peugeot-partner-rapid-precio-lanzamiento/",
+      "fuente": "Megautos",
+      "fecha": "2026-11-06T17:18:11Z",
+      "resumen": "La marca del león suma una nueva opción a su gama de utilitarios. Está basada en la Fiat Fiorino, tiene motor naftero de 99 CV y ofrece hasta 650 kilos de capacidad de carga. La entrada Peugeot lanzó la Partner Rapid en Argentina aparece primero en Mega Autos .",
+      "imagen": "https://www.megautos.com/wp-content/uploads/2026/11/peugeot-partner-rapid3.jpg",
+      "menciones": 1,
+      "fuentes": [
+        "Megautos"
       ]
     }
   ]
