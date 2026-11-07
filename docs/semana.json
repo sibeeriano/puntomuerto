@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-07T18:02:35Z",
+  "actualizado": "2026-11-07T20:17:41Z",
   "desde": "2026-10-31",
   "hasta": "2026-11-07",
   "destacadas": [
@@ -10,7 +10,7 @@
       "fecha": "2026-11-07T13:50:22Z",
       "resumen": "El Toyota Corolla Cross continúa siendo uno de los principales referentes de la electromovilidad en Argentina, aunque durante los primeros nueve meses de 2026 perdió el liderazgo entre los modelos híbridos y eléctricos más patentados. El SUV de la marca japonesa quedó por detrás de la Ford Territory, que se convirtió en el más elegido […]",
       "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/toyota-corolla-cross1.jpg",
-      "menciones": 28,
+      "menciones": 23,
       "fuentes": [
         "Autotest",
         "Diariomotor (ES)",
@@ -226,6 +226,66 @@
       ]
     },
     {
+      "titulo": "El 40% de los transportistas lo tienen claro: los camiones eléctricos son más rentables que los diésel",
+      "link": "https://www.motorpasion.com/observatorio-motorpasion/40-transportistas-tienen-claro-camiones-electricos-rentables-que-diesel-tienen-problema",
+      "fuente": "Motorpasión (ES)",
+      "fecha": "2026-11-07T20:01:06Z",
+      "resumen": "Parecía que iba a ser Tesla con su camión eléctrico Semi, el que iba a revolucionar el transporte de carga por carretera . Pero han sido los fabricantes europeos los que han ganado la carrera: Volvo Trucks (que acapara casi la mitad del mercado europeo), Daimler, Renault Trucks o Scania. En una reciente encuesta de Mercedes-Benz Trucks a casi 200 responsables de flotas de Alemania, Reino Unido y…",
+      "imagen": "https://i.blogs.es/d8a8f3/portada-mop-1793969315409/1024_2000.jpeg",
+      "menciones": 1,
+      "fuentes": [
+        "Motorpasión (ES)"
+      ]
+    },
+    {
+      "titulo": "Coche en invierno: por qué siempre deberías llevar una patata",
+      "link": "https://www.motorpasion.com/revision/coche-invierno-que-siempre-deberias-llevar-patata",
+      "fuente": "Motorpasión (ES)",
+      "fecha": "2026-11-07T19:01:06Z",
+      "resumen": "Lluvia, niebla, agua sucia levantada por los coches de delante y una helada nocturna que te obliga a rascar los cristales, lo ideal para fastidiarnos la visibilidad, a través del parabrisas o de los retrovisores, si estos no son calefactados. Basta un chubasco corto para cubrirlo de gotas que convierten el espejo en un mosaico borroso. Limpiarlos con un trapo dura cinco minutos, porque el agua…",
+      "imagen": "https://i.blogs.es/18d142/patata-en-coche-en-invierno/1024_2000.jpeg",
+      "menciones": 1,
+      "fuentes": [
+        "Motorpasión (ES)"
+      ]
+    },
+    {
+      "titulo": "Land Cruiser FJ: 4×4 con chasis de Hilux y reductora por 25.000 euros, pero no llega a Argentina",
+      "link": "https://autotest.com.ar/offroad/land-cruiser-fj-4x4-con-chasis-de-hilux-y-reductora-por-25-000-euros-pero-no-llega-a-argentina/",
+      "fuente": "Autotest",
+      "fecha": "2026-11-07T18:56:06Z",
+      "resumen": "Frente a ellos, el Toyota tendría una ventaja estructural: es el único 4x4 compacto con base de chasis independiente y respaldo de marca confiable en terrenos difíciles.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/land-cruiser-fj-4x4-con-chasis-de-hilux-1200x740-1.jpg",
+      "menciones": 2,
+      "fuentes": [
+        "Autotest"
+      ]
+    },
+    {
+      "titulo": "4 millones más barata que una Toyota Hilux y con 190 CV: qué ofrece esta pick up japonesa",
+      "link": "https://autotest.com.ar/noticias/isuzu-d-max-pick-up-regresa-a-argentina-para-competir-con-la-toyota-hilux/",
+      "fuente": "Autotest",
+      "fecha": "2026-11-07T18:30:42Z",
+      "resumen": "La histórica pick up japonesa vuelve al mercado local con un motor 3.0 turbodiesel, tracción 4x4 y dos versiones.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2025/09/Pick-up-Isuzu-D-Max-trasera.jpg",
+      "menciones": 13,
+      "fuentes": [
+        "Autotest"
+      ]
+    },
+    {
+      "titulo": "El Lexus GX 550 tiene 349 CV y 649 Nm, pero la suspensión lo delata: dónde falla el 4×4 premium",
+      "link": "https://autotest.com.ar/offroad/el-lexus-gx-550-tiene-349-cv-y-649-nm-pero-la-suspension-lo-delata-donde-falla-el-4x4-premium/",
+      "fuente": "Autotest",
+      "fecha": "2026-11-07T18:06:18Z",
+      "resumen": "En un 4x4 pensado para salir del asfalto, la configuración de dos filas resulta más coherente: permite cargar lingas, inflador, bidones o equipaje sin sacrificar confort.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/el-lexus-gx-550-tiene-349-cv-y-649-nm-pe-1200x740-1.jpg",
+      "menciones": 1,
+      "fuentes": [
+        "Autotest"
+      ]
+    },
+    {
       "titulo": "José Antonio vive en su camper y cuenta lo que ahorra al año: \"En 30 años me compro una casa\"",
       "link": "https://www.motorpasion.com/furgonetas-y-caravanas/jose-antonio-vive-su-camper-cuenta-que-ahorra-al-ano-30-anos-me-compro-casa",
       "fuente": "Motorpasión (ES)",
@@ -245,67 +305,6 @@
       "resumen": "Mountain Yotas opera en Wheat Ridge, Colorado, y su fundador, Dwight Houser, define la filosofía del taller con una frase directa: “si un cliente puede soñarlo, el taller lo diseña y lo fabrica en casa”.",
       "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/las-dos-toyota-extremas-que-mountain-yot-1200x740-1.jpg",
       "menciones": 1,
-      "fuentes": [
-        "Autotest"
-      ]
-    },
-    {
-      "titulo": "La fiabilidad pone patas arriba el GP de Sao Paulo: Max Verstappen marca el ritmo en una FP3 plagada de problemas",
-      "link": "https://www.diariomotor.com/competicion/noticia/max-verstappen-fp3-interlagos/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-11-07T16:42:41Z",
-      "resumen": "Se suele decir que cuando el cielo se nubla y hay amenaza de lluvia no solemos estar en un buen día para hacer una barbacoa, pero por lo visto en este inicio de sábado con la fiabilidad de los monoplazas, parece que estábamos en el día elegido para ello. Un sinfín de problemas técnicos ha marcado la tercera sesión de entrenamientos libres , un mal que se ha extendido a prácticamente todas las…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/11/SI202611060450_hires_jpeg_24bit_rgb-6aef4569c7da0.jpg?class=XL",
-      "menciones": 1,
-      "fuentes": [
-        "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "La vida secreta de dos Citroën AX y ZX fabricados en Vigo",
-      "link": "https://www.motorpasion.com/citroen/vida-secreta-dos-citroen-ax-zx-fabricados-vigo",
-      "fuente": "Motorpasión (ES)",
-      "fecha": "2026-11-07T16:31:11Z",
-      "resumen": "El Citroën AX y el Citroén ZX fueron dos modelos revolucionarios que disfrutaron de las mieles del éxito dentro de nuestras fronteras. Y, a pesar de llevar fuera de producción casi 30 años, aún vemos algunos ejemplares circulando por nuestras carreteras, sobre todo en el caso del compacto. ¿Por qué tuvo tanto éxito esta pareja? Algo más que solo coches Tanto el Citroën AX como el Citroën ZX…",
-      "imagen": "https://i.blogs.es/7aaa74/portada-mop-1793806084308/1024_2000.jpeg",
-      "menciones": 1,
-      "fuentes": [
-        "Motorpasión (ES)"
-      ]
-    },
-    {
-      "titulo": "Media España buscando gasolineras low cost, y es normal, y Renault regalando 500 € en combustible con una edición especial del Captur que celebra los 75 años de la marca fabricando coches en España",
-      "link": "https://www.diariomotor.com/noticia/renault-captur-75-aniversario/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-11-03T11:35:22Z",
-      "resumen": "Renault es a todas luces una marca extranjera, pero con una profunda y larguísima relación con España. La marca francesa cumple 75 años fabricando en España y lo quiere celebrar con una edición especial del Renault Captur , un modelo que lleva fabricándose en Valladolid desde 2013. Será una edición limitada a 750 unidades, con etiqueta ECO, hasta 1.400 kilómetros de autonomía y 500 euros para…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/11/Renault-Captur-Edicion-Especial-75-aniversario_port-6ae9b14bc079b.jpg?class=XL",
-      "menciones": 2,
-      "fuentes": [
-        "Diariomotor (ES)",
-        "Motorpasión (ES)"
-      ]
-    },
-    {
-      "titulo": "Más de 1.000 km de autonomía y cuatro motores: así es el nuevo sedán de lujo de BYD",
-      "link": "https://autotest.com.ar/noticias/descubre-el-lujo-del-byd-yangwang-altior-innovacion-y-autonomia-superior-desde-china/",
-      "fuente": "Autotest",
-      "fecha": "2026-11-07T15:19:08Z",
-      "resumen": "Yangwang lanza el ALTIOR, un vehículo eléctrico de lujo con diseño innovador, cuatro motores y más de 1.000 km de autonomía.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/YANGWANG-ALTIOR-BYD-2.jpg",
-      "menciones": 1,
-      "fuentes": [
-        "Autotest"
-      ]
-    },
-    {
-      "titulo": "Toyota Corolla Cross o Yaris Cross: cuánto cuesta subir de segmento y qué cambia",
-      "link": "https://autotest.com.ar/noticias/toyota-corolla-cross-o-yaris-cross-cuanto-cuesta-subir-de-segmento-y-que-cambia/",
-      "fuente": "Autotest",
-      "fecha": "2026-11-07T15:07:23Z",
-      "resumen": "Descubre las diferencias clave entre el Toyota Yaris Cross y el Corolla Cross, desde precios, motor y equipamiento hasta capacidad de baúl y seguridad. Analizamos si el cambio de segmento realmente justifica la inversión adicional.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/05/Toyota-Yaris-Cross-full-o-Corolla-Cross-base.jpg",
-      "menciones": 13,
       "fuentes": [
         "Autotest"
       ]
