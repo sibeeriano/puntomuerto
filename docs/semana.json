@@ -1,16 +1,16 @@
 {
-  "actualizado": "2026-11-06T23:49:47Z",
-  "desde": "2026-10-30",
-  "hasta": "2026-11-06",
+  "actualizado": "2026-11-07T18:02:35Z",
+  "desde": "2026-10-31",
+  "hasta": "2026-11-07",
   "destacadas": [
     {
-      "titulo": "No es Tracker: el SUV de Chevrolet que bajó de precio y tiene motor turbo de 149 CV",
-      "link": "https://autotest.com.ar/noticias/no-es-tracker-el-suv-de-chevrolet-que-bajo-de-precio-y-tiene-motor-turbo-de-149-cv/",
+      "titulo": "El Toyota Corolla Cross dejó de ser el SUV más vendido: ¿cuál es el nuevo líder?",
+      "link": "https://autotest.com.ar/noticias/el-toyota-corolla-cross-dejo-de-ser-el-suv-mas-vendido-cual-es-el-nuevo-lider/",
       "fuente": "Autotest",
-      "fecha": "2026-11-06T19:00:04Z",
-      "resumen": "La Chevrolet Groove 2026 se presenta con motor turbo, más espacio y un precio competitivo en el mercado mexicano, atrayendo a quienes buscan una SUV subcompacta con excelente equipamiento desde la versión básica.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2025/12/Chevrolet-Groove-2026-trompa.jpg",
-      "menciones": 16,
+      "fecha": "2026-11-07T13:50:22Z",
+      "resumen": "El Toyota Corolla Cross continúa siendo uno de los principales referentes de la electromovilidad en Argentina, aunque durante los primeros nueve meses de 2026 perdió el liderazgo entre los modelos híbridos y eléctricos más patentados. El SUV de la marca japonesa quedó por detrás de la Ford Territory, que se convirtió en el más elegido […]",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/toyota-corolla-cross1.jpg",
+      "menciones": 28,
       "fuentes": [
         "Autotest",
         "Diariomotor (ES)",
@@ -18,13 +18,78 @@
       ]
     },
     {
-      "titulo": "Menos de 50 millones: el BYD que compite con Toyota Yaris Cross bajó 2.000 dólares",
-      "link": "https://autotest.com.ar/noticias/menos-de-50-millones-el-byd-que-compite-con-toyota-yaris-cross-bajo-2-000-dolares/",
+      "titulo": "400.000 dólares de sobreprecio: lo que hay que pagar para acceder al mejor Corvette de la historia, el ZR1X",
+      "link": "https://autotest.com.ar/noticias/400-000-dolares-de-sobreprecio-lo-que-hay-que-pagar-para-acceder-al-mejor-corvette-de-la-historia-el-zr1x/",
       "fuente": "Autotest",
-      "fecha": "2026-11-06T18:57:45Z",
-      "resumen": "BYD ha reducido 2.000 dólares el precio del Atto 2 DM-i, ahora disponible por $49.600.000 durante noviembre con cupos limitados.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/BYD-ATTO-2-DM-i-SUV-hibrido.jpg",
-      "menciones": 18,
+      "fecha": "2026-11-07T16:01:47Z",
+      "resumen": "La historia del C8 muestra cómo Chevrolet quemó etapas: del Stingray aspirado al Z06, del híbrido E-Ray al ZR1 biturbo, cada salto revalorizó la gama y alimentó sobreprecios en los concesionarios.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/400-000-d-lares-de-sobreprecio-lo-que-ha-1200x740-1.jpg",
+      "menciones": 2,
+      "fuentes": [
+        "Autotest",
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "Toyota Corolla Cross híbrido: cuántos kilómetros hay que recorrer para recuperar la diferencia con el naftero",
+      "link": "https://autotest.com.ar/noticias/toyota-corolla-cross-hibrido-cuantos-kilometros-hay-que-recorrer-para-recuperar-la-diferencia-con-el-naftero/",
+      "fuente": "Autotest",
+      "fecha": "2026-11-07T14:42:32Z",
+      "resumen": "El Toyota Corolla Cross híbrido necesita recorrer 8.400 kilómetros urbanos para compensar su costo frente al modelo naftero. Sigue leyendo para saber más sobre su ahorro y beneficios.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/08/Toyota-Corolla-Cross-trasera.jpg",
+      "menciones": 16,
+      "fuentes": [
+        "Autotest",
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "Tesla llega a la Argentina: tendrá un espacio en Unicenter",
+      "link": "https://www.megautos.com/tesla-argentina/",
+      "fuente": "Megautos",
+      "fecha": "2026-11-07T14:36:08Z",
+      "resumen": "La marca de autos eléctricos de Elon Musk desembarcará a fines de noviembre en el shopping de Martínez. Exhibirá dos vehículos y ofrecerá pruebas de manejo, aunque todavía no se confirmó qué modelos estarán disponibles. La entrada Tesla llega a la Argentina: tendrá un espacio en Unicenter aparece primero en Mega Autos .",
+      "imagen": "https://www.megautos.com/wp-content/uploads/2026/11/Model-3.jpg",
+      "menciones": 2,
+      "fuentes": [
+        "iProfesional",
+        "Megautos"
+      ]
+    },
+    {
+      "titulo": "BMW ya vende un eléctrico con 912 km de autonomía: casi 1.000 km en ciudad y 30% menos de consumo",
+      "link": "https://autotest.com.ar/noticias/bmw-ya-vende-un-electrico-con-912-km-de-autonomia-casi-1-000-km-en-ciudad-y-30-menos-de-consumo/",
+      "fuente": "Autotest",
+      "fecha": "2026-11-07T11:01:22Z",
+      "resumen": "La promesa de Neue Klasse es concreta: hasta 30% más de autonomía, 30% más de velocidad de carga y 30% menos de consumo que los eléctricos anteriores de la marca.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/bmw-ya-vende-un-el-ctrico-con-912-km-de-1200x740-1.jpg",
+      "menciones": 2,
+      "fuentes": [
+        "Autotest",
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "Renault Forefront: el militar sin conductor que sube pendientes del 60% con 1.000 kilos y 400 km de autonomía",
+      "link": "https://autotest.com.ar/offroad/renault-forefront-el-militar-sin-conductor-que-sube-pendientes-del-60-con-1-000-kilos-y-400-km-de-autonomia/",
+      "fuente": "Autotest",
+      "fecha": "2026-11-07T11:01:17Z",
+      "resumen": "La falta de esos datos deja los números de autonomía y pendiente como promesas de ficha técnica, no como capacidades validadas en operación real.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/renault-forefront-el-militar-sin-conduct-1200x740-1.jpg",
+      "menciones": 2,
+      "fuentes": [
+        "Autotest",
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "Geely E2: el eléctrico más barato de España ya superó el millón de unidades y amenaza al Renault 5",
+      "link": "https://autotest.com.ar/noticias/geely-e2-el-electrico-mas-barato-de-espana-ya-supero-el-millon-de-unidades-y-amenaza-al-renault-5/",
+      "fuente": "Autotest",
+      "fecha": "2026-11-07T11:01:04Z",
+      "resumen": "Puede parecer un hatch convencional, pero a Geely le alcanzó con silueta redondeada, ópticas verticales y proporciones compactas para que en Europa lo apoden el \"Renault 5 chino\".",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/geely-e2-el-el-ctrico-m-s-barato-de-espa-1200x740-1.jpg",
+      "menciones": 2,
       "fuentes": [
         "Autotest",
         "Diariomotor (ES)"
@@ -37,7 +102,7 @@
       "fecha": "2026-11-06T11:30:14Z",
       "resumen": "Empezar la casa por el tejado y además hacerlo de manera errática tiene sus consecuencias. Volkswagen va a estar pagando más tiempo del deseado la millonaria inversión por la que la anterior cúpula directiva de Volkswagen apostó para su división de software, Cariad, y toda la tecnología que debía emanar de esta empresa y repercutir de manera positiva al Grupo Volkswagen entero. Sin efecto…",
       "imagen": "https://www.diariomotor.com/imagenes/2026/04/Volkswagen-ID-Polo-2026-fotos-oficiales-1-69f1e35d3eaa2.jpg?class=XL",
-      "menciones": 3,
+      "menciones": 2,
       "fuentes": [
         "Diariomotor (ES)",
         "Motorpasión (ES)"
@@ -161,6 +226,54 @@
       ]
     },
     {
+      "titulo": "José Antonio vive en su camper y cuenta lo que ahorra al año: \"En 30 años me compro una casa\"",
+      "link": "https://www.motorpasion.com/furgonetas-y-caravanas/jose-antonio-vive-su-camper-cuenta-que-ahorra-al-ano-30-anos-me-compro-casa",
+      "fuente": "Motorpasión (ES)",
+      "fecha": "2026-11-07T17:01:08Z",
+      "resumen": "José Antonio es un joven gaditano que lleva casi dos años viviendo en su furgoneta camper : tomó la decisión por necesidad, para poder emanciparse antes de los 30. En su canal de TikTok suele reflexionar sobre el problema (más bien drama) de la vivienda para los jóvenes. \" No estoy normalizando nada , es la realidad. Somos pobres\". En uno de sus últimos vídeos calcula cuánto tardará en comprarse…",
+      "imagen": "https://i.blogs.es/031744/illojoce-ahorro-piso-02/1024_2000.jpeg",
+      "menciones": 1,
+      "fuentes": [
+        "Motorpasión (ES)"
+      ]
+    },
+    {
+      "titulo": "Las dos Toyota extremas que Mountain Yotas fabricó para el SEMA Show 2026: Lexus GX550 con ejes portal y Tacoma de 4ª gen",
+      "link": "https://autotest.com.ar/offroad/las-dos-toyota-extremas-que-mountain-yotas-fabrico-para-el-sema-show-2026-lexus-gx550-con-ejes-portal-y-tacoma-de-4a-gen/",
+      "fuente": "Autotest",
+      "fecha": "2026-11-07T16:51:07Z",
+      "resumen": "Mountain Yotas opera en Wheat Ridge, Colorado, y su fundador, Dwight Houser, define la filosofía del taller con una frase directa: “si un cliente puede soñarlo, el taller lo diseña y lo fabrica en casa”.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/las-dos-toyota-extremas-que-mountain-yot-1200x740-1.jpg",
+      "menciones": 1,
+      "fuentes": [
+        "Autotest"
+      ]
+    },
+    {
+      "titulo": "La fiabilidad pone patas arriba el GP de Sao Paulo: Max Verstappen marca el ritmo en una FP3 plagada de problemas",
+      "link": "https://www.diariomotor.com/competicion/noticia/max-verstappen-fp3-interlagos/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-11-07T16:42:41Z",
+      "resumen": "Se suele decir que cuando el cielo se nubla y hay amenaza de lluvia no solemos estar en un buen día para hacer una barbacoa, pero por lo visto en este inicio de sábado con la fiabilidad de los monoplazas, parece que estábamos en el día elegido para ello. Un sinfín de problemas técnicos ha marcado la tercera sesión de entrenamientos libres , un mal que se ha extendido a prácticamente todas las…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/11/SI202611060450_hires_jpeg_24bit_rgb-6aef4569c7da0.jpg?class=XL",
+      "menciones": 1,
+      "fuentes": [
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "La vida secreta de dos Citroën AX y ZX fabricados en Vigo",
+      "link": "https://www.motorpasion.com/citroen/vida-secreta-dos-citroen-ax-zx-fabricados-vigo",
+      "fuente": "Motorpasión (ES)",
+      "fecha": "2026-11-07T16:31:11Z",
+      "resumen": "El Citroën AX y el Citroén ZX fueron dos modelos revolucionarios que disfrutaron de las mieles del éxito dentro de nuestras fronteras. Y, a pesar de llevar fuera de producción casi 30 años, aún vemos algunos ejemplares circulando por nuestras carreteras, sobre todo en el caso del compacto. ¿Por qué tuvo tanto éxito esta pareja? Algo más que solo coches Tanto el Citroën AX como el Citroën ZX…",
+      "imagen": "https://i.blogs.es/7aaa74/portada-mop-1793806084308/1024_2000.jpeg",
+      "menciones": 1,
+      "fuentes": [
+        "Motorpasión (ES)"
+      ]
+    },
+    {
       "titulo": "Media España buscando gasolineras low cost, y es normal, y Renault regalando 500 € en combustible con una edición especial del Captur que celebra los 75 años de la marca fabricando coches en España",
       "link": "https://www.diariomotor.com/noticia/renault-captur-75-aniversario/",
       "fuente": "Diariomotor (ES)",
@@ -174,139 +287,27 @@
       ]
     },
     {
-      "titulo": "Renault Twingo eléctrico a 13.413 euros: el urbano que ya eligieron 26.000 personas en 2026",
-      "link": "https://autotest.com.ar/noticias/renault-twingo-electrico-a-13-413-euros-el-urbano-que-ya-eligieron-26-000-personas-en-2026/",
+      "titulo": "Más de 1.000 km de autonomía y cuatro motores: así es el nuevo sedán de lujo de BYD",
+      "link": "https://autotest.com.ar/noticias/descubre-el-lujo-del-byd-yangwang-altior-innovacion-y-autonomia-superior-desde-china/",
       "fuente": "Autotest",
-      "fecha": "2026-11-03T11:00:34Z",
-      "resumen": "El diseño recupera códigos del Twingo de 1993: trompa corta, faros redondos y un tamaño pensado para estacionar en calles densas, con un radio de giro reducido y cuatro plazas reales para adultos chicos.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/renault-twingo-el-ctrico-a-13-413-euros-1200x740-1.jpg",
-      "menciones": 2,
-      "fuentes": [
-        "Autotest",
-        "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "Lexus TX 2027: 404 CV, 5,16 metros y 21 cm más largo que un Volvo XC90",
-      "link": "https://autotest.com.ar/noticias/lexus-tx-2027-404-cv-5-16-metros-y-21-cm-mas-largo-que-un-volvo-xc90/",
-      "fuente": "Autotest",
-      "fecha": "2026-11-03T11:00:29Z",
-      "resumen": "La comparación con el Volvo XC90, un referente europeo en SUVs de lujo de tres filas, deja en evidencia la brecha de tamaño: el sueco ronda los 4,95 metros, unos 21 centímetros menos.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/lexus-tx-2027-404-cv-5-16-metros-y-21-cm-1200x740-1.jpg",
-      "menciones": 2,
-      "fuentes": [
-        "Autotest",
-        "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "Ford Ranger Super Duty camper: V6 diésel de 250 CV y 600 Nm para dormir donde no llega Google Maps",
-      "link": "https://autotest.com.ar/offroad/ford-ranger-super-duty-camper-v6-diesel-de-250-cv-y-600-nm-para-dormir-donde-no-llega-google-maps/",
-      "fuente": "Autotest",
-      "fecha": "2026-11-02T21:30:35Z",
-      "resumen": "Tommy Campers no detalló si la unidad emplea tracción integral o versión 4x2, pero el planteo off-road sugiere que la 4x4 con reductora es la configuración natural para este tipo de preparación.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/ford-ranger-super-duty-camper-v6-di-sel-1200x740-1.jpg",
-      "menciones": 2,
-      "fuentes": [
-        "Autotest",
-        "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "El Gallardo vuelve con V10 y caja manual, pero no lo hace Lamborghini: solo 26 unidades",
-      "link": "https://autotest.com.ar/noticias/el-gallardo-vuelve-con-v10-y-caja-manual-pero-no-lo-hace-lamborghini-solo-26-unidades/",
-      "fuente": "Autotest",
-      "fecha": "2026-11-02T20:41:36Z",
-      "resumen": "El Hommage 26 es un proyecto boutique de Caven Atelier, no un producto oficial de la casa de Sant'Agata Bolognese.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/el-gallardo-vuelve-con-v10-y-caja-manual-1200x740-1.jpg",
-      "menciones": 2,
-      "fuentes": [
-        "Autotest",
-        "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "Ya está en Buenos Aires el papamóvil blindado y eléctrico que usará el papa León XIV",
-      "link": "https://www.iprofesional.com/autos/468582-ya-esta-en-buenos-aires-papamovil-blindado-y-electrico-usara-papa-leon-xiv",
-      "fuente": "iProfesional",
-      "fecha": "2026-11-06T22:05:00Z",
-      "resumen": "La unidad que trasladará al pontífice durante su visita cuenta con protección de alta gama y cero emisiones, alineada a valores ambientales (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
-      "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/11/629318.jpg",
-      "menciones": 1,
-      "fuentes": [
-        "iProfesional"
-      ]
-    },
-    {
-      "titulo": "Fábrica de asientos deja sus operaciones en Córdoba en manos de Renault",
-      "link": "https://www.iprofesional.com/autos/468578-multinacional-magna-deja-sus-operaciones-en-cordoba-en-manos-de-renault",
-      "fuente": "iProfesional",
-      "fecha": "2026-11-06T21:29:00Z",
-      "resumen": "La multinacional Magna no logró sostener la rentabilidad de su planta tras la caída de producción. Renault absorberá parte de la actividad (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
-      "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/11/629317.jpg",
-      "menciones": 1,
-      "fuentes": [
-        "iProfesional"
-      ]
-    },
-    {
-      "titulo": "Andrea Kimi Antonelli marca la pauta en una FP2 marcada por las difíciles condiciones en Interlagos",
-      "link": "https://www.diariomotor.com/competicion/noticia/andrea-kimi-antonelli-fp2-sao-paulo/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-11-06T21:24:25Z",
-      "resumen": "Se abrió el cielo sobre el Circuito de Interlagos y una densa niebla comenzó a cubrir el trazado paulista durante la celebración de la segunda sesión de entrenamientos libres de este viernes. Los pilotos de Fórmula 1 salían nada más ponerse en verde el semáforo del pit-lane para poder probar en unas condiciones complicadas que se espera que permanezcan durante el resto del fin de semana, llegando…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/11/entrenamientos-libres-gran-premio-sao-paulo-viernes-2026-final-5-6aee36c3ba344.jpg?class=XL",
-      "menciones": 1,
-      "fuentes": [
-        "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "El Mitsubishi que vuelve con 7 plazas y chasis de largueros: USD 39.000 para pelearle a la Land Cruiser",
-      "link": "https://autotest.com.ar/noticias/el-mitsubishi-que-vuelve-con-7-plazas-y-chasis-de-largueros-usd-39-000-para-pelearle-a-la-land-cruiser/",
-      "fuente": "Autotest",
-      "fecha": "2026-11-06T21:01:22Z",
-      "resumen": "La Pajero original apareció en 1982 y se convirtió en una de las primeras SUV modernas en combinar confort de auto con prestaciones todoterreno serias.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/el-mitsubishi-que-vuelve-con-7-plazas-y-1200x740-1.jpg",
+      "fecha": "2026-11-07T15:19:08Z",
+      "resumen": "Yangwang lanza el ALTIOR, un vehículo eléctrico de lujo con diseño innovador, cuatro motores y más de 1.000 km de autonomía.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/YANGWANG-ALTIOR-BYD-2.jpg",
       "menciones": 1,
       "fuentes": [
         "Autotest"
       ]
     },
     {
-      "titulo": "Hyundai llama a revisión 37.901 autos: el bug que apaga los airbags sin avisar en el Veloster N y el Kona Electric",
-      "link": "https://autotest.com.ar/noticias/hyundai-llama-a-revision-37-901-autos-el-bug-que-apaga-los-airbags-sin-avisar-en-el-veloster-n-y-el-kona-electric/",
+      "titulo": "Toyota Corolla Cross o Yaris Cross: cuánto cuesta subir de segmento y qué cambia",
+      "link": "https://autotest.com.ar/noticias/toyota-corolla-cross-o-yaris-cross-cuanto-cuesta-subir-de-segmento-y-que-cambia/",
       "fuente": "Autotest",
-      "fecha": "2026-11-06T21:01:17Z",
-      "resumen": "Si tenés uno de estos modelos importado de Estados Unidos o comprado en el mercado local, podés consultar con un concesionario oficial o un taller especializado si tu número de chasis figura entre los alcanzados.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/hyundai-llama-a-revisi-n-37-901-autos-el-1200x740-1.jpg",
-      "menciones": 1,
+      "fecha": "2026-11-07T15:07:23Z",
+      "resumen": "Descubre las diferencias clave entre el Toyota Yaris Cross y el Corolla Cross, desde precios, motor y equipamiento hasta capacidad de baúl y seguridad. Analizamos si el cambio de segmento realmente justifica la inversión adicional.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/05/Toyota-Yaris-Cross-full-o-Corolla-Cross-base.jpg",
+      "menciones": 13,
       "fuentes": [
         "Autotest"
-      ]
-    },
-    {
-      "titulo": "Contra la moda SUV: Buick revive el GS con un sedán híbrido enchufable de 221 CV",
-      "link": "https://autotest.com.ar/noticias/contra-la-moda-suv-buick-revive-el-gs-con-un-sedan-hibrido-enchufable-de-221-cv/",
-      "fuente": "Autotest",
-      "fecha": "2026-11-06T21:01:10Z",
-      "resumen": "El modelo, producido por SAIC-GM para el mercado chino, aparece en las imágenes reglamentarias con una silueta que poco tiene que ver con el concept car Electra GS mostrado un año atrás.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/contra-la-moda-suv-buick-revive-el-gs-co-1200x740-1.jpg",
-      "menciones": 1,
-      "fuentes": [
-        "Autotest"
-      ]
-    },
-    {
-      "titulo": "Tesla pone fin a la Cybertruck, el experimento pick-up acabará en 2027 y muy lejos de sus objetivos",
-      "link": "https://www.diariomotor.com/noticia/final-tesla-cybertruck-2027/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-11-06T20:20:38Z",
-      "resumen": "La Tesla Cybertruck nos dirá adiós para siempre en 2027 . Una de las creaciones más disruptivas y avanzadas de la firma norteamericana acaba de anunciar el fin de su producción , haciéndolo además sin relevo a la vista y apuntando a unas cifras de ventas que se han quedado muy lejos de los objetivos iniciales. Presentada en 2019 durante uno de los shows más recordados de la compañía por los…",
-      "imagen": "https://www.diariomotor.com/imagenes/2023/12/tesla-cybertruck-2024-05.jpg?class=XL",
-      "menciones": 1,
-      "fuentes": [
-        "Diariomotor (ES)"
       ]
     }
   ]
