@@ -1,8 +1,22 @@
 {
-  "actualizado": "2026-11-07T23:02:06Z",
-  "desde": "2026-10-31",
-  "hasta": "2026-11-07",
+  "actualizado": "2026-11-08T18:21:06Z",
+  "desde": "2026-11-01",
+  "hasta": "2026-11-08",
   "destacadas": [
+    {
+      "titulo": "El 4x4 barato que te puedes permitir cuesta como un Toyota Yaris pero es diésel, tiene reductora y gran capacidad de carga",
+      "link": "https://www.diariomotor.com/noticia/evo-cross4-promo-nov-2026/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-11-08T15:00:11Z",
+      "resumen": "Encontrar un todoterreno de verdad a un precio razonable se ha convertido en una misión casi imposible . Los nuevos cuestan un dineral y, cuando echas un vistazo al mercado de segunda mano, descubres que incluso las unidades con muchos años y bastante trote a sus espaldas se venden a precio de oro. Sin embargo, todavía quedan algunas alternativas interesantes y la que te presentamos hoy es una de…",
+      "imagen": "https://www.diariomotor.com/imagenes/2025/03/evo17-67d02ac3487f6.jpeg?class=XL",
+      "menciones": 8,
+      "fuentes": [
+        "Autotest",
+        "Diariomotor (ES)",
+        "Motorpasión (ES)"
+      ]
+    },
     {
       "titulo": "El Toyota Corolla Cross dejó de ser el SUV más vendido: ¿cuál es el nuevo líder?",
       "link": "https://autotest.com.ar/noticias/el-toyota-corolla-cross-dejo-de-ser-el-suv-mas-vendido-cual-es-el-nuevo-lider/",
@@ -15,6 +29,58 @@
         "Autotest",
         "Diariomotor (ES)",
         "Motorpasión (ES)"
+      ]
+    },
+    {
+      "titulo": "BYD acaba de presentar el Yangwang Altior y la intención es clara: quitar la etiqueta del lujo a Rolls-Royce para ponérsela a un coche eléctrico",
+      "link": "https://www.motorpasion.com/superlujo/yangwang-altior-2026",
+      "fuente": "Motorpasión (ES)",
+      "fecha": "2026-11-08T15:29:00Z",
+      "resumen": "Cada vez que sacan un modelo nuevo tienen que destacar de alguna manera. Lo hicieron primero con el Yangwang U8 , ese supertodoterreno capaz de navegar por el agua. Luego lo han hecho con el Yangwang U9 que en su versión Xtreme acaba de romper la barrera de los 500 km/h. Ahora buscan atacar a Rolls-Royce , Bentley o Maybach . El Yangwang Altior es la superberlina de ultralujo de BYD, un coche…",
+      "imagen": "https://i.blogs.es/cfa7e9/yangwang-altior-2026-yangwang-altior-studio-photos-16-/1024_2000.png",
+      "menciones": 2,
+      "fuentes": [
+        "Diariomotor (ES)",
+        "Motorpasión (ES)"
+      ]
+    },
+    {
+      "titulo": "Yangwang U9X: el chino de más de 3.000 CV que destronó a Koenigsegg y Bugatti",
+      "link": "https://autotest.com.ar/noticias/yangwang-u9x-el-chino-de-mas-de-3-000-cv-que-destrono-a-koenigsegg-y-bugatti/",
+      "fuente": "Autotest",
+      "fecha": "2026-11-08T11:01:24Z",
+      "resumen": "El antecedente más sólido era el Koenigsegg Agera RS, que en 2017 promedió 447,19 km/h en dos sentidos y obtuvo el récord Guinness.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/yangwang-u9x-el-chino-de-m-s-de-3-000-cv-1200x740-1.jpg",
+      "menciones": 2,
+      "fuentes": [
+        "Autotest",
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "El monovolumen híbrido de 170 CV que cuesta 60.000 € menos que un Lexus LM: el Tiger Nine quiere romper el mercado del lujo",
+      "link": "https://autotest.com.ar/noticias/el-monovolumen-hibrido-de-170-cv-que-cuesta-60-000-menos-que-un-lexus-lm-el-tiger-nine-quiere-romper-el-mercado-del-lujo/",
+      "fuente": "Autotest",
+      "fecha": "2026-11-08T11:01:14Z",
+      "resumen": "El movimiento es claro: tamaño, equipamiento y una diferencia de precio que, de confirmarse en el mercado real, pondría contra las cuerdas a más de un fabricante establecido.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/el-monovolumen-h-brido-de-170-cv-que-cue-1200x740-1.jpg",
+      "menciones": 2,
+      "fuentes": [
+        "Autotest",
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "El Lynk & Co 900L, el «Range Rover de Geely», mostró sus primeras imágenes: un SUV gigante que ni Volvo se animó a fabricar",
+      "link": "https://autotest.com.ar/noticias/el-lynk-co-900l-el-range-rover-de-geely-mostro-sus-primeras-imagenes-un-suv-gigante-que-ni-volvo-se-animo-a-fabricar/",
+      "fuente": "Autotest",
+      "fecha": "2026-11-08T11:01:09Z",
+      "resumen": "Las versiones no confirmadas mencionan variantes con bloque 1.5 turbo o 2.0 turbo como generador, acompañadas por motores eléctricos.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/el-lynk-co-900l-el-range-rover-de-geely-1200x740-1.jpg",
+      "menciones": 2,
+      "fuentes": [
+        "Autotest",
+        "Diariomotor (ES)"
       ]
     },
     {
@@ -37,7 +103,7 @@
       "fecha": "2026-11-07T14:42:32Z",
       "resumen": "El Toyota Corolla Cross híbrido necesita recorrer 8.400 kilómetros urbanos para compensar su costo frente al modelo naftero. Sigue leyendo para saber más sobre su ahorro y beneficios.",
       "imagen": "https://autotest.com.ar/wp-content/uploads/2026/08/Toyota-Corolla-Cross-trasera.jpg",
-      "menciones": 16,
+      "menciones": 13,
       "fuentes": [
         "Autotest",
         "Diariomotor (ES)"
@@ -135,68 +201,76 @@
       ]
     },
     {
-      "titulo": "Parece un camión militar, pero es una autocaravana de lujo con tracción 8x8, 578 CV y terraza desplegable que cuesta casi 1,5 millones de euros",
-      "link": "https://www.motorpasion.com/furgonetas-y-caravanas/parece-camion-militar-autocaravana-lujo-traccion-8x8-578-cv-terraza-desplegable-que-cuesta-casi-1-5-millones-euros",
-      "fuente": "Motorpasión (ES)",
-      "fecha": "2026-11-05T17:01:08Z",
-      "resumen": "El Armadillo Conqueror T es un camión camper todoterreno hecho sobre la base de un Mercedes-Benz Arocs , con ocho ruedas motrices y un motor diésel de seis cilindros que desarrolla 578 CV . Está preparado para llevar hasta cuatro personas a sitios donde una autocaravana convencional tendría muy complicado llegar, y cuenta con un equipamiento pensado para pasar varios días sin depender de…",
-      "imagen": "https://i.blogs.es/a9417e/armadillo/1024_2000.jpeg",
-      "menciones": 2,
-      "fuentes": [
-        "Diariomotor (ES)",
-        "Motorpasión (ES)"
-      ]
-    },
-    {
-      "titulo": "BAIC BJ30: el SUV híbrido que creció más de 700% y se metió entre los más vendidos",
-      "link": "https://autotest.com.ar/noticias/baic-bj30-el-suv-hibrido-que-crecio-mas-de-700-y-se-metio-entre-los-mas-vendidos/",
-      "fuente": "Autotest",
-      "fecha": "2026-11-05T16:11:43Z",
-      "resumen": "El SUV híbrido BAIC BJ30 ha experimentado un impresionante crecimiento del 715,4% en sus patentamientos, colocándose en el tercer lugar del ranking de vehículos electrificados en Argentina.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2025/10/SUV-Baic-BJ30-trompa.jpg",
-      "menciones": 2,
-      "fuentes": [
-        "Autotest",
-        "iProfesional"
-      ]
-    },
-    {
-      "titulo": "Este crossover tiene tamaño de Toyota C-HR, buen maletero y un motor híbrido de bajo consumo que sólo gasta 4,5 litros cada 100 km",
-      "link": "https://www.diariomotor.com/noticia/kia-niro-nov-2026/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-11-05T13:45:33Z",
-      "resumen": "Cuando se trata de buscar un crossover o SUV con motor híbrido y diseño atractivo, hay un modelo que tanto en España como el resto de Europa destaca sobre manera sobre el resto de la competencia : el Toyota C-HR . Agresivo, tecnológico y eficiente, este segmento C de Toyota lleva en España este año prácticament 20.000 unidades , tratándose del quinto coche más vendido de nuestro país. Sin embargo,…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/11/KIA-Niro-2027-1-6aec76aa7a730.jpg?class=XL",
-      "menciones": 2,
-      "fuentes": [
-        "Autotest",
-        "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "Esteban Ocon ha vuelto a ser despedido por un equipo de F1. Ahora Aston Martin quiere ficharlo para juntarlo otra vez con Fernando Alonso",
-      "link": "https://www.motorpasion.com/formula1/fernando-alonso-podria-tener-nuevo-companero-equipo-aston-martin-uno-que-se-peleo-pasado",
-      "fuente": "Motorpasión (ES)",
-      "fecha": "2026-11-05T13:00:00Z",
-      "resumen": "Fernando Alonso está cerca de tener un nuevo compañero de equipo en Aston Martin, y se trata de un viejo conocido. El francés Esteban Ocon fue protagonista involuntario del Gran Premio de México: el equipo Haas lo despidió a mitad del fin de semana después de un encontronazo con su jefe. Ahora Ocon suena como tercer piloto de Aston Martin . Ocon y Alonso ya fueron compañeros de equipo durante dos…",
-      "imagen": "https://i.blogs.es/a98750/alonso-ocon/1024_2000.jpeg",
-      "menciones": 2,
-      "fuentes": [
-        "Diariomotor (ES)",
-        "Motorpasión (ES)"
-      ]
-    },
-    {
       "titulo": "Del tamaño de un Mercedes GLC, con más de 500 CV, equipado hasta arriba y costando 30.000 € menos que los alemanes, es el D-SUV perfecto para las familias",
       "link": "https://www.diariomotor.com/noticia/omoda-9-black-edition/",
       "fuente": "Diariomotor (ES)",
       "fecha": "2026-11-05T12:30:01Z",
       "resumen": "El segmento de los D-SUVs está más vivo que nunca y son muchas las marcas que están apostando por ofrecer un vehículo de este tipo para conseguir atraer a nuevos clientes. Con las berlinas tradicionales de capa caída, son precisamente estos vehículos que están logrando un mayor protagonismo en los últimos meses. La opción que hoy te traemos ya es un éxito y mejora su oferta con una nueva serie…",
       "imagen": "https://www.diariomotor.com/imagenes/2026/11/Omoda-9-BlackEdition9-6aec5f5db0478.jpg?class=XL",
-      "menciones": 3,
+      "menciones": 2,
       "fuentes": [
         "Autotest",
         "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "Cadillac conquista Monza en una carrera de despedidas y el Toyota #8 se proclama Campeón del Mundo",
+      "link": "https://www.diariomotor.com/competicion/noticia/cadillac-vence-6-horas-de-monza/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-11-08T17:34:52Z",
+      "resumen": "Se esperaba una bonita batalla entre los dos tríos de Toyota Racing por el triunfo final en el Campeonato de pilotos , sin embargo, ninguno de los dos TR010 estuvo en disposición de pelear por los puntos, incluso cuando se han producido los abandonos s tanto del Alpine #35 como el Genesis #19. La lucha por el triunfo en estas 6 Horas de Monza iba a tener especialmente la carga emocional de ver la…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/11/6-horas-monza-2026-wec-carrera-1-6af0a443f1315.jpg?class=XL",
+      "menciones": 1,
+      "fuentes": [
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "Renault Oroch: termina la producción de la pick up",
+      "link": "https://www.megautos.com/renault-oroch-final-produccion/",
+      "fuente": "Megautos",
+      "fecha": "2026-11-08T15:57:32Z",
+      "resumen": "Después de más de una década en el mercado, Renault confirmó el fin de la fabricación de la pick up en Brasil. Su lugar en el segmento compacto será ocupado por la nueva Niagara argentina. La entrada Renault Oroch: termina la producción de la pick up aparece primero en Mega Autos .",
+      "imagen": "https://www.megautos.com/wp-content/uploads/2024/03/Renault-Oroch-Iconic-delantera.jpg",
+      "menciones": 1,
+      "fuentes": [
+        "Megautos"
+      ]
+    },
+    {
+      "titulo": "Signatech conversó con Honda para ser su equipo en el WEC",
+      "link": "https://www.diariomotor.com/competicion/noticia/sinault-honda-arx-06-wec/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-11-08T15:53:48Z",
+      "resumen": "Llegó la hora de la despedida para el programa Alpine Endurance Team y Philippe Sinault, director del equipo Signatech, todavía mantiene una remota esperanza de continuar en la clase Hypercar el año que viene, aunque la fecha límite para la inscripción es el próximo día 23. En pleno paddock de Monza, Sinault manifestó que llegó a plantear varios escenarios para la próxima temporada, sin embargo,…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/11/Alpine_Endurance_Team_Signatech_WEC_26_NA2_27-6af080e7b899e.jpg?class=XL",
+      "menciones": 1,
+      "fuentes": [
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "85 años y más: así son los nuevos Jeep Compass y Commander exclusivos por el aniversario",
+      "link": "https://autotest.com.ar/noticias/85-anos-y-mas-asi-son-los-nuevos-jeep-compass-y-commander-exclusivos-por-el-aniversario/",
+      "fuente": "Autotest",
+      "fecha": "2026-11-08T15:37:17Z",
+      "resumen": "Jeep ya vende en Brasil los nuevos Compass y Commander Serie Especial 85 Años, una edición limitada que celebra la trayectoria de la marca estadounidense con cambios de diseño, terminaciones específicas y más equipamiento. La base es la Longitude y la Limited, respectivamente, pero con cambios que explican por qué no son una opción más. […]",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/Jeep-Compass-y-Commander-por-85-anos.jpg",
+      "menciones": 1,
+      "fuentes": [
+        "Autotest"
+      ]
+    },
+    {
+      "titulo": "Peugeot 408 Test Drive",
+      "link": "https://autotest.com.ar/pruebas/peugeot-408-test-drive/",
+      "fuente": "Autotest",
+      "fecha": "2026-11-08T14:39:34Z",
+      "resumen": "El Peugeot 408 llega a la Argentina importado de Francia con una propuesta que reúne una mecánica de 215 CV, abundante equipamiento y una carrocería de 4,68 metros de largo. Durante nuestra prueba, sus principales argumentos aparecieron en el comportamiento dinámico, el confort y la eficiencia en ruta. La contracara está en un consumo urbano […]",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/Peugeot-408-1.jpg",
+      "menciones": 2,
+      "fuentes": [
+        "Autotest"
       ]
     },
     {
@@ -213,98 +287,25 @@
       ]
     },
     {
-      "titulo": "Los autos más vendidos en Argentina en octubre",
-      "link": "https://www.megautos.com/venta-autos-0-km-octubre-2026/",
-      "fuente": "Megautos",
-      "fecha": "2026-11-03T18:34:09Z",
-      "resumen": "El mercado local registró 45.965 unidades patentadas, una caída interanual del 12% y un descenso mensual del 8,4%. Toyota lideró entre las marcas y la Hilux se ubicó en la cima de los modelos. La entrada Los autos más vendidos en Argentina en octubre aparece primero en Mega Autos .",
-      "imagen": "https://www.megautos.com/wp-content/uploads/2026/11/autos-0km-mas-vendidos-argentina-octubre-2026.jpg",
-      "menciones": 2,
-      "fuentes": [
-        "iProfesional",
-        "Megautos"
-      ]
-    },
-    {
-      "titulo": "Fernando Alonso exprime la oportunidad que brinda la lluvia y se cuela entre los diez mejores",
-      "link": "https://www.diariomotor.com/competicion/noticia/pilotos-espanoles-clasificacion-f1-2026-interlagos/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-11-07T22:11:36Z",
-      "resumen": "¿Cómo celebrar la renovación del contrato de Interlagos con la Fórmula 1 ? Con una de esas jornadas locas a las que nos tiene acostumbrados el que ha sido en numerosas ocasiones del escenario clave para que se disputara el final de temporada. Los pilotos españoles también eran plenamente conscientes de que la aparición de la lluvia daba esa oportunidad para ganar puestos y tal vez pelear por…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/11/pilotos-espanoles-clasificacion-interlagos-f1-2026-2-6aef9065a0283.jpg?class=XL",
-      "menciones": 1,
-      "fuentes": [
-        "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "Primeras imágenes del YangWang Altior, el Rolls-Royce de BYD que quiere y puede redifinir el coche de lujo",
-      "link": "https://www.diariomotor.com/noticia/yangwang-altior/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-11-07T21:55:38Z",
-      "resumen": "Quédate con este día, porque China ya tiene su propio Rolls-Royce . El gigante BYD acaba de presentar el mejor coche que jamás ha fabricado, una berlina de lujo al más alto nivel que quiere y puede poner en jaque el mercado del automóvil de lujo , apuntando directamente a los tres grandes referentes del mercado que son el Rolls-Royce Ghost , el Bentley Flying Spur y el Mercedes-Maybach Clase S .…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/11/yangwang-altior-03-6aef8cae5a574.jpg?class=XL",
-      "menciones": 1,
-      "fuentes": [
-        "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "Lando Norris doma los elementos y consigue la pole en São Paulo",
-      "link": "https://www.diariomotor.com/competicion/noticia/lando-norris-doma-los-elementos-y-consigue-la-pole-en-sao-paulo/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-11-07T21:46:30Z",
-      "resumen": "Gran sesión de clasificación el Autódromo José Carlos Pace, donde la combinación de un trazado histórico y clima adverso siempre da giros de guion. Lando Norris consiguió su tercera pole position consecutiva en Brasil y lo hizo siendo protagonista pero no siempre líder de un grupo apretado. Andrea Kimi Antonelli saldrá a su lado y sus escoltas serán Liam Lawson y Nico Hülkenberg , dos de los…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/11/lando-norris-pole-f1-brasil-2026-6aef8d3299030.jpg?class=XL",
-      "menciones": 1,
-      "fuentes": [
-        "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "Lando Norris marca el ritmo bajo la lluvia de Brasil y Fernando Alonso logra su mejor clasificación del año",
-      "link": "https://www.motorpasion.com/formula1/lando-norris-marca-ritmo-lluvia-brasil-fernando-alonso-logra-su-mejor-clasificacion-ano",
-      "fuente": "Motorpasión (ES)",
-      "fecha": "2026-11-07T20:42:57Z",
-      "resumen": "Con retraso, pero Interlagos ha vuelto a depararnos la mejor clasificación de la temporada. Lando Norris saldrá desde la pole position después de haber parado el crono en 1:27.470, en unas condiciones dantescas bajo la lluvia, y con multitud de favoritos perdidos en la parrilla de salida para la carrera, que también podría ser en lluvia. El que sí ha aprovechado el agua es Fernando Alonso, que ha…",
-      "imagen": "https://i.blogs.es/dde40e/norris-brasil-f1-2026/1024_2000.jpeg",
-      "menciones": 1,
-      "fuentes": [
-        "Motorpasión (ES)"
-      ]
-    },
-    {
-      "titulo": "El 40% de los transportistas lo tienen claro: los camiones eléctricos son más rentables que los diésel",
-      "link": "https://www.motorpasion.com/observatorio-motorpasion/40-transportistas-tienen-claro-camiones-electricos-rentables-que-diesel-tienen-problema",
-      "fuente": "Motorpasión (ES)",
-      "fecha": "2026-11-07T20:01:06Z",
-      "resumen": "Parecía que iba a ser Tesla con su camión eléctrico Semi, el que iba a revolucionar el transporte de carga por carretera . Pero han sido los fabricantes europeos los que han ganado la carrera: Volvo Trucks (que acapara casi la mitad del mercado europeo), Daimler, Renault Trucks o Scania. En una reciente encuesta de Mercedes-Benz Trucks a casi 200 responsables de flotas de Alemania, Reino Unido y…",
-      "imagen": "https://i.blogs.es/d8a8f3/portada-mop-1793969315409/1024_2000.jpeg",
-      "menciones": 1,
-      "fuentes": [
-        "Motorpasión (ES)"
-      ]
-    },
-    {
-      "titulo": "Coche en invierno: por qué siempre deberías llevar una patata",
-      "link": "https://www.motorpasion.com/revision/coche-invierno-que-siempre-deberias-llevar-patata",
-      "fuente": "Motorpasión (ES)",
-      "fecha": "2026-11-07T19:01:06Z",
-      "resumen": "Lluvia, niebla, agua sucia levantada por los coches de delante y una helada nocturna que te obliga a rascar los cristales, lo ideal para fastidiarnos la visibilidad, a través del parabrisas o de los retrovisores, si estos no son calefactados. Basta un chubasco corto para cubrirlo de gotas que convierten el espejo en un mosaico borroso. Limpiarlos con un trapo dura cinco minutos, porque el agua…",
-      "imagen": "https://i.blogs.es/18d142/patata-en-coche-en-invierno/1024_2000.jpeg",
-      "menciones": 1,
-      "fuentes": [
-        "Motorpasión (ES)"
-      ]
-    },
-    {
-      "titulo": "Land Cruiser FJ: 4×4 con chasis de Hilux y reductora por 25.000 euros, pero no llega a Argentina",
-      "link": "https://autotest.com.ar/offroad/land-cruiser-fj-4x4-con-chasis-de-hilux-y-reductora-por-25-000-euros-pero-no-llega-a-argentina/",
+      "titulo": "Honda HR-V 2026 Test Drive",
+      "link": "https://autotest.com.ar/pruebas/honda-hr-v-2026-test-drive/",
       "fuente": "Autotest",
-      "fecha": "2026-11-07T18:56:06Z",
-      "resumen": "Frente a ellos, el Toyota tendría una ventaja estructural: es el único 4x4 compacto con base de chasis independiente y respaldo de marca confiable en terrenos difíciles.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/land-cruiser-fj-4x4-con-chasis-de-hilux-1200x740-1.jpg",
-      "menciones": 2,
+      "fecha": "2026-11-08T14:08:26Z",
+      "resumen": "La Honda HR-V transita esta etapa de su vida comercial con una actualización que introduce retoques estéticos y mejoras de equipamiento. La fórmula conserva sus pilares: un interior amplio, soluciones prácticas y una configuración mecánica convencional, con motor aspirado y transmisión automática CVT. En un segmento con cada vez más alternativas, la HR-V busca convencer […]",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/honda_hr-v_exl99.jpg",
+      "menciones": 1,
+      "fuentes": [
+        "Autotest"
+      ]
+    },
+    {
+      "titulo": "7 asientos y otra motorización: el nuevo SUV de Honda por encima de CR-V",
+      "link": "https://autotest.com.ar/noticias/7-asientos-y-otra-motorizacion-el-nuevo-suv-de-honda-por-encima-de-cr-v/",
+      "fuente": "Autotest",
+      "fecha": "2026-11-08T13:46:58Z",
+      "resumen": "Honda Australia mostró el primer adelanto del Avancier, un SUV que se ubicará por encima del CR-V y que llegará al mercado local con tres filas de asientos y otra motorización. Estrenará una etapa nueva en su estrategia híbrida, con la denominación Honda Hybrid en lugar del conocido e:HEV. Honda no publicó datos técnicos completos, […]",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/Nuevo-Honda-Avancie-el-SUV.jpg",
+      "menciones": 1,
       "fuentes": [
         "Autotest"
       ]
