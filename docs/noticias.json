@@ -1,19 +1,27 @@
 [
   {
+    "titulo": "Lando Norris gana una carrera cambiante en Interlagos, Mercedes obtiene su octavo título de Constructores",
+    "link": "https://www.diariomotor.com/competicion/noticia/lando-norris-gana-una-carrera-cambiante-en-interlagos-mercedes-obtiene-su-octavo-titulo-de-constructores/",
+    "fuente": "Diariomotor (ES)",
+    "fecha": "2026-11-08T20:11:02Z",
+    "resumen": "La previsión meteorológica se cumplió a medias en São Paulo, escenario de otra carrera afectada por el líquido elemento. Lando Norris ganó desde la pole position a pesar de un mal arranque , Max Verstappen realizó un nuevo ascenso meteórico (de penúltimo a segundo) e Isack Hadjar también destacó para obtener un doble podio para la escudería de la bebida energética. Mercedes se vio superada por las…",
+    "imagen": "https://www.diariomotor.com/imagenes/2026/11/lando-norris-f1-victoria-brasil-2026-6af0c255c086b.jpg?class=XL"
+  },
+  {
+    "titulo": "Lando Norris domina bajo la lluvia en Brasil, Mercedes ya es campeona de marcas y Fernando Alonso pone el espectáculo",
+    "link": "https://www.motorpasion.com/formula1/lando-norris-domina-lluvia-brasil-mercedes-campeona-marcas-fernando-alonso-pone-espectaculo",
+    "fuente": "Motorpasión (ES)",
+    "fecha": "2026-11-08T19:01:26Z",
+    "resumen": "Lando Norris tiene un idilio mágico con Interlagos . El piloto inglés ha vuelto a ganar en Brasil, y pese a que salía desde la pole, ha sido cualquier cosa menos una carrera fácil. Norris ha tenido que lidiar con una mala salida, con la lluvia y también con la pista seca para acabar imponiéndose en una prueba en la que era superior. Pero el espectáculo lo ha puesto Fernando Alonso. Solo así se…",
+    "imagen": "https://i.blogs.es/31402c/norris-brasil-f1-2026/1024_2000.jpeg"
+  },
+  {
     "titulo": "Cadillac conquista Monza en una carrera de despedidas y el Toyota #8 se proclama Campeón del Mundo",
     "link": "https://www.diariomotor.com/competicion/noticia/cadillac-vence-6-horas-de-monza/",
     "fuente": "Diariomotor (ES)",
     "fecha": "2026-11-08T17:34:52Z",
     "resumen": "Se esperaba una bonita batalla entre los dos tríos de Toyota Racing por el triunfo final en el Campeonato de pilotos , sin embargo, ninguno de los dos TR010 estuvo en disposición de pelear por los puntos, incluso cuando se han producido los abandonos s tanto del Alpine #35 como el Genesis #19. La lucha por el triunfo en estas 6 Horas de Monza iba a tener especialmente la carga emocional de ver la…",
     "imagen": "https://www.diariomotor.com/imagenes/2026/11/6-horas-monza-2026-wec-carrera-1-6af0a443f1315.jpg?class=XL"
-  },
-  {
-    "titulo": "BYD acaba de presentar el Yangwang Altior y la intención es clara: quitar la etiqueta del lujo a Rolls-Royce para ponérsela a un coche eléctrico",
-    "link": "https://www.motorpasion.com/superlujo/yangwang-altior-2026",
-    "fuente": "Motorpasión (ES)",
-    "fecha": "2026-11-08T15:29:00Z",
-    "resumen": "Cada vez que sacan un modelo nuevo tienen que destacar de alguna manera. Lo hicieron primero con el Yangwang U8 , ese supertodoterreno capaz de navegar por el agua. Luego lo han hecho con el Yangwang U9 que en su versión Xtreme acaba de romper la barrera de los 500 km/h. Ahora buscan atacar a Rolls-Royce , Bentley o Maybach . El Yangwang Altior es la superberlina de ultralujo de BYD, un coche…",
-    "imagen": "https://i.blogs.es/cfa7e9/yangwang-altior-2026-yangwang-altior-studio-photos-16-/1024_2000.png"
   },
   {
     "titulo": "Renault Oroch: termina la producción de la pick up",
@@ -38,6 +46,14 @@
     "fecha": "2026-11-08T15:37:17Z",
     "resumen": "Jeep ya vende en Brasil los nuevos Compass y Commander Serie Especial 85 Años, una edición limitada que celebra la trayectoria de la marca estadounidense con cambios de diseño, terminaciones específicas y más equipamiento. La base es la Longitude y la Limited, respectivamente, pero con cambios que explican por qué no son una opción más. […]",
     "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/Jeep-Compass-y-Commander-por-85-anos.jpg"
+  },
+  {
+    "titulo": "BYD acaba de presentar el Yangwang Altior y la intención es clara: quitar la etiqueta del lujo a Rolls-Royce para ponérsela a un coche eléctrico",
+    "link": "https://www.motorpasion.com/superlujo/yangwang-altior-2026",
+    "fuente": "Motorpasión (ES)",
+    "fecha": "2026-11-08T15:29:00Z",
+    "resumen": "Cada vez que sacan un modelo nuevo tienen que destacar de alguna manera. Lo hicieron primero con el Yangwang U8 , ese supertodoterreno capaz de navegar por el agua. Luego lo han hecho con el Yangwang U9 que en su versión Xtreme acaba de romper la barrera de los 500 km/h. Ahora buscan atacar a Rolls-Royce , Bentley o Maybach . El Yangwang Altior es la superberlina de ultralujo de BYD, un coche…",
+    "imagen": "https://i.blogs.es/cfa7e9/yangwang-altior-2026-yangwang-altior-studio-photos-16-/1024_2000.png"
   },
   {
     "titulo": "El 4x4 barato que te puedes permitir cuesta como un Toyota Yaris pero es diésel, tiene reductora y gran capacidad de carga",
@@ -72,20 +88,20 @@
     "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/Nuevo-Honda-Avancie-el-SUV.jpg"
   },
   {
-    "titulo": "Eduardo Barreiros, el \"Henry Ford gallego\" que motorizó España: \"¿Cómo no voy a ser capaz de montar un coche, si los he fabricado yo solo?\"",
-    "link": "https://www.motorpasion.com/industria/eduardo-barreiros-henry-ford-gallego-que-motorizo-espana-como-no-voy-a-ser-capaz-montar-coche-he-fabricado-yo-solo",
-    "fuente": "Motorpasión (ES)",
-    "fecha": "2026-11-08T12:01:08Z",
-    "resumen": "Eduardo Barreiros (1919-1992) fue un gigante del motor en la España de posguerra. Le apodaban \"el Henry Ford gallego\" no por casualidad: al igual que el creador del Ford Model T , Barreiros evolucionó con su propio esfuerzo, era autodidacta y muy carismático. Empezó como revisor del autobús familiar y acabó levantando un imperio industrial en Villaverde , Madrid a base de tenacidad: \"Me atrae más…",
-    "imagen": "https://i.blogs.es/5b85ed/portada-mop-1793975945490/1024_2000.jpeg"
-  },
-  {
     "titulo": "Mezclando lo mejor de Japón y América, este es el 4x4 que todo amante del todoterreno querría conducir alguna vez en su vida",
     "link": "https://www.diariomotor.com/noticia/nissan-frontier-ronin-sema-2026/",
     "fuente": "Diariomotor (ES)",
     "fecha": "2026-11-08T13:00:04Z",
     "resumen": "Nada como una pick-up cuando quieres poner en las calles el mejor todoterreno posible . Nissan lo sabe y por eso se ha presentado en el SEMA Show 2026 con una bestia del 4x4 capaz de atemorizar a cualquier rival , pues hablamos de la Nissan Frontier más salvaje jamás fabricada por la marca, un todoterreno de altas prestaciones que apunta directamente a la Ford F-150 Raptor y a la RAM TRX . Bajo el…",
     "imagen": "https://www.diariomotor.com/imagenes/2026/11/nissan-frontier-ronin-02-6aeee8cd8d428.jpg?class=XL"
+  },
+  {
+    "titulo": "Eduardo Barreiros, el \"Henry Ford gallego\" que motorizó España: \"¿Cómo no voy a ser capaz de montar un coche, si los he fabricado yo solo?\"",
+    "link": "https://www.motorpasion.com/industria/eduardo-barreiros-henry-ford-gallego-que-motorizo-espana-como-no-voy-a-ser-capaz-montar-coche-he-fabricado-yo-solo",
+    "fuente": "Motorpasión (ES)",
+    "fecha": "2026-11-08T12:01:08Z",
+    "resumen": "Eduardo Barreiros (1919-1992) fue un gigante del motor en la España de posguerra. Le apodaban \"el Henry Ford gallego\" no por casualidad: al igual que el creador del Ford Model T , Barreiros evolucionó con su propio esfuerzo, era autodidacta y muy carismático. Empezó como revisor del autobús familiar y acabó levantando un imperio industrial en Villaverde , Madrid a base de tenacidad: \"Me atrae más…",
+    "imagen": "https://i.blogs.es/5b85ed/portada-mop-1793975945490/1024_2000.jpeg"
   },
   {
     "titulo": "Es uno de los utilitarios italianos más queridos de la historia, y con una plataforma multienergía, es el coche que tanto FIAT como Europa necesitan en 2027",
@@ -168,20 +184,20 @@
     "imagen": "https://www.diariomotor.com/imagenes/2026/11/motor-porsche-930-kit-1-6aed99972c960.jpg?class=XL"
   },
   {
-    "titulo": "El submarino español que fabrica su propio hidrógeno ha necesitado un solo torpedo para hundir a un veterano buque de nuestra Armada",
-    "link": "https://www.motorpasion.com/furgonetas-y-caravanas/submarino-espanol-que-fabrica-su-propio-hidrogeno-ha-necesitado-solo-torpedo-para-hundir-a-veterano-buque-nuestra-armada",
-    "fuente": "Motorpasión (ES)",
-    "fecha": "2026-11-08T08:01:07Z",
-    "resumen": "Un solo torpedo le ha bastado al submarino español más moderno y avanzado para hundir una mole de casi 89 m de eslora y 1.500 toneladas. Hablamos del S-81 Isaac Peral , el primero de la nueva generación de submarinos españoles con propulsión eléctrica y capaces de producir su propio hidrógeno . Lo ha hecho un ejercicio naval en pleno Atlántico, en coordinación con otros buques militares, aviones y…",
-    "imagen": "https://i.blogs.es/b6785c/portada-mop-1793898712216/1024_2000.jpeg"
-  },
-  {
     "titulo": "Con 70 CV, aspecto de moto cara y precio de scooter 300, esta trail viene con ganas de liarla gorda en el segmento de moda",
     "link": "https://www.diariomotor.com/noticia/moto-morini-xpace-700-noviembre/",
     "fuente": "Diariomotor (ES)",
     "fecha": "2026-11-08T09:00:54Z",
     "resumen": "No hace falta gastarse diez o doce mil euros para disfrutar de una trail con la que hacer kilómetros, viajar acompañado o simplemente salir a divertirse por carreteras de montaña. Hay opciones bastante más económicas que cumplen perfectamente con esas tareas y además tienen una presencia estupenda. Una de las últimas en llegar presume de 70 CV, un equipamiento que no está nada mal y una tarifa que…",
     "imagen": "https://www.diariomotor.com/imagenes/2026/08/Moto-Morini-X-Cape-700i4-6a8f2d4ba7e17.jpg?class=XL"
+  },
+  {
+    "titulo": "El submarino español que fabrica su propio hidrógeno ha necesitado un solo torpedo para hundir a un veterano buque de nuestra Armada",
+    "link": "https://www.motorpasion.com/furgonetas-y-caravanas/submarino-espanol-que-fabrica-su-propio-hidrogeno-ha-necesitado-solo-torpedo-para-hundir-a-veterano-buque-nuestra-armada",
+    "fuente": "Motorpasión (ES)",
+    "fecha": "2026-11-08T08:01:07Z",
+    "resumen": "Un solo torpedo le ha bastado al submarino español más moderno y avanzado para hundir una mole de casi 89 m de eslora y 1.500 toneladas. Hablamos del S-81 Isaac Peral , el primero de la nueva generación de submarinos españoles con propulsión eléctrica y capaces de producir su propio hidrógeno . Lo ha hecho un ejercicio naval en pleno Atlántico, en coordinación con otros buques militares, aviones y…",
+    "imagen": "https://i.blogs.es/b6785c/portada-mop-1793898712216/1024_2000.jpeg"
   },
   {
     "titulo": "Indestructible y más todoterreno que nunca, así es la nueva Africa Twin 2027, la moto que nos llevaríamos al fin del mundo",

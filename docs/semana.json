@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-08T18:21:06Z",
+  "actualizado": "2026-11-08T20:33:36Z",
   "desde": "2026-11-01",
   "hasta": "2026-11-08",
   "destacadas": [
@@ -214,6 +214,30 @@
       ]
     },
     {
+      "titulo": "Lando Norris gana una carrera cambiante en Interlagos, Mercedes obtiene su octavo título de Constructores",
+      "link": "https://www.diariomotor.com/competicion/noticia/lando-norris-gana-una-carrera-cambiante-en-interlagos-mercedes-obtiene-su-octavo-titulo-de-constructores/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-11-08T20:11:02Z",
+      "resumen": "La previsión meteorológica se cumplió a medias en São Paulo, escenario de otra carrera afectada por el líquido elemento. Lando Norris ganó desde la pole position a pesar de un mal arranque , Max Verstappen realizó un nuevo ascenso meteórico (de penúltimo a segundo) e Isack Hadjar también destacó para obtener un doble podio para la escudería de la bebida energética. Mercedes se vio superada por las…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/11/lando-norris-f1-victoria-brasil-2026-6af0c255c086b.jpg?class=XL",
+      "menciones": 1,
+      "fuentes": [
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "Lando Norris domina bajo la lluvia en Brasil, Mercedes ya es campeona de marcas y Fernando Alonso pone el espectáculo",
+      "link": "https://www.motorpasion.com/formula1/lando-norris-domina-lluvia-brasil-mercedes-campeona-marcas-fernando-alonso-pone-espectaculo",
+      "fuente": "Motorpasión (ES)",
+      "fecha": "2026-11-08T19:01:26Z",
+      "resumen": "Lando Norris tiene un idilio mágico con Interlagos . El piloto inglés ha vuelto a ganar en Brasil, y pese a que salía desde la pole, ha sido cualquier cosa menos una carrera fácil. Norris ha tenido que lidiar con una mala salida, con la lluvia y también con la pista seca para acabar imponiéndose en una prueba en la que era superior. Pero el espectáculo lo ha puesto Fernando Alonso. Solo así se…",
+      "imagen": "https://i.blogs.es/31402c/norris-brasil-f1-2026/1024_2000.jpeg",
+      "menciones": 2,
+      "fuentes": [
+        "Motorpasión (ES)"
+      ]
+    },
+    {
       "titulo": "Cadillac conquista Monza en una carrera de despedidas y el Toyota #8 se proclama Campeón del Mundo",
       "link": "https://www.diariomotor.com/competicion/noticia/cadillac-vence-6-horas-de-monza/",
       "fuente": "Diariomotor (ES)",
@@ -284,30 +308,6 @@
       "fuentes": [
         "Diariomotor (ES)",
         "Motorpasión (ES)"
-      ]
-    },
-    {
-      "titulo": "Honda HR-V 2026 Test Drive",
-      "link": "https://autotest.com.ar/pruebas/honda-hr-v-2026-test-drive/",
-      "fuente": "Autotest",
-      "fecha": "2026-11-08T14:08:26Z",
-      "resumen": "La Honda HR-V transita esta etapa de su vida comercial con una actualización que introduce retoques estéticos y mejoras de equipamiento. La fórmula conserva sus pilares: un interior amplio, soluciones prácticas y una configuración mecánica convencional, con motor aspirado y transmisión automática CVT. En un segmento con cada vez más alternativas, la HR-V busca convencer […]",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/honda_hr-v_exl99.jpg",
-      "menciones": 1,
-      "fuentes": [
-        "Autotest"
-      ]
-    },
-    {
-      "titulo": "7 asientos y otra motorización: el nuevo SUV de Honda por encima de CR-V",
-      "link": "https://autotest.com.ar/noticias/7-asientos-y-otra-motorizacion-el-nuevo-suv-de-honda-por-encima-de-cr-v/",
-      "fuente": "Autotest",
-      "fecha": "2026-11-08T13:46:58Z",
-      "resumen": "Honda Australia mostró el primer adelanto del Avancier, un SUV que se ubicará por encima del CR-V y que llegará al mercado local con tres filas de asientos y otra motorización. Estrenará una etapa nueva en su estrategia híbrida, con la denominación Honda Hybrid en lugar del conocido e:HEV. Honda no publicó datos técnicos completos, […]",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/Nuevo-Honda-Avancie-el-SUV.jpg",
-      "menciones": 1,
-      "fuentes": [
-        "Autotest"
       ]
     }
   ]
