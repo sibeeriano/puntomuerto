@@ -1,30 +1,16 @@
 {
-  "actualizado": "2026-11-08T23:09:53Z",
-  "desde": "2026-11-01",
-  "hasta": "2026-11-08",
+  "actualizado": "2026-11-09T23:00:06Z",
+  "desde": "2026-11-02",
+  "hasta": "2026-11-09",
   "destacadas": [
     {
-      "titulo": "El 4x4 barato que te puedes permitir cuesta como un Toyota Yaris pero es diésel, tiene reductora y gran capacidad de carga",
-      "link": "https://www.diariomotor.com/noticia/evo-cross4-promo-nov-2026/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-11-08T15:00:11Z",
-      "resumen": "Encontrar un todoterreno de verdad a un precio razonable se ha convertido en una misión casi imposible . Los nuevos cuestan un dineral y, cuando echas un vistazo al mercado de segunda mano, descubres que incluso las unidades con muchos años y bastante trote a sus espaldas se venden a precio de oro. Sin embargo, todavía quedan algunas alternativas interesantes y la que te presentamos hoy es una de…",
-      "imagen": "https://www.diariomotor.com/imagenes/2025/03/evo17-67d02ac3487f6.jpeg?class=XL",
-      "menciones": 8,
-      "fuentes": [
-        "Autotest",
-        "Diariomotor (ES)",
-        "Motorpasión (ES)"
-      ]
-    },
-    {
-      "titulo": "El Toyota Corolla Cross dejó de ser el SUV más vendido: ¿cuál es el nuevo líder?",
-      "link": "https://autotest.com.ar/noticias/el-toyota-corolla-cross-dejo-de-ser-el-suv-mas-vendido-cual-es-el-nuevo-lider/",
+      "titulo": "Por menos que un Yaris: pickup diésel 4×4 con reductora y 750 kg de carga",
+      "link": "https://autotest.com.ar/offroad/por-menos-que-un-yaris-pickup-diesel-4x4-con-reductora-y-750-kg-de-carga/",
       "fuente": "Autotest",
-      "fecha": "2026-11-07T13:50:22Z",
-      "resumen": "El Toyota Corolla Cross continúa siendo uno de los principales referentes de la electromovilidad en Argentina, aunque durante los primeros nueve meses de 2026 perdió el liderazgo entre los modelos híbridos y eléctricos más patentados. El SUV de la marca japonesa quedó por detrás de la Ford Territory, que se convirtió en el más elegido […]",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/toyota-corolla-cross1.jpg",
-      "menciones": 23,
+      "fecha": "2026-11-09T17:26:40Z",
+      "resumen": "La promoción de noviembre de 2026 deja al Evo Cross4 en 16.000 a 18.000 euros, la mitad de lo que arranca una pick-up 4x4 diésel con reductora de marca tradicional en el mismo mercado.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/por-menos-que-un-yaris-pickup-di-sel-4x4-1200x740-1.jpg",
+      "menciones": 5,
       "fuentes": [
         "Autotest",
         "Diariomotor (ES)",
@@ -32,16 +18,83 @@
       ]
     },
     {
-      "titulo": "BYD acaba de presentar el Yangwang Altior y la intención es clara: quitar la etiqueta del lujo a Rolls-Royce para ponérsela a un coche eléctrico",
-      "link": "https://www.motorpasion.com/superlujo/yangwang-altior-2026",
-      "fuente": "Motorpasión (ES)",
-      "fecha": "2026-11-08T15:29:00Z",
-      "resumen": "Cada vez que sacan un modelo nuevo tienen que destacar de alguna manera. Lo hicieron primero con el Yangwang U8 , ese supertodoterreno capaz de navegar por el agua. Luego lo han hecho con el Yangwang U9 que en su versión Xtreme acaba de romper la barrera de los 500 km/h. Ahora buscan atacar a Rolls-Royce , Bentley o Maybach . El Yangwang Altior es la superberlina de ultralujo de BYD, un coche…",
-      "imagen": "https://i.blogs.es/cfa7e9/yangwang-altior-2026-yangwang-altior-studio-photos-16-/1024_2000.png",
+      "titulo": "Yangwang Altior: la berlina china de u$s 312.000 que quiere destronar al Rolls-Royce Ghost",
+      "link": "https://autotest.com.ar/noticias/yangwang-altior-la-berlina-china-de-u-s-312-000-que-quiere-destronar-al-rolls-royce-ghost/",
+      "fuente": "Autotest",
+      "fecha": "2026-11-09T11:01:21Z",
+      "resumen": "El Altior se apoya en la plataforma e4 de BYD, una arquitectura eléctrica con un motor por rueda que permite controlar el torque de cada eje de forma independiente.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/yangwang-altior-la-berlina-china-de-u-s-1200x740-1.jpg",
+      "menciones": 3,
+      "fuentes": [
+        "Autotest",
+        "Diariomotor (ES)",
+        "Motorpasión (ES)"
+      ]
+    },
+    {
+      "titulo": "El Yangwang U9 Xtreme de BYD superó los 500 km/h y rompió un récord mundial",
+      "link": "https://www.megautos.com/byd-yangwang-u9-xtreme-record-velocidad/",
+      "fuente": "Megautos",
+      "fecha": "2026-11-08T23:36:48Z",
+      "resumen": "El hiperdeportivo eléctrico alcanzó los 503,17 km/h en Abu Dabi y estableció dos nuevas marcas Guinness. Con cuatro motores y más de 3.000 CV, también ostenta el récord de velocidad para un auto eléctrico de producción. La entrada El Yangwang U9 Xtreme de BYD superó los 500 km/h y rompió un récord mundial aparece primero en Mega Autos .",
+      "imagen": "https://www.megautos.com/wp-content/uploads/2026/11/2Y4A4427.jpg",
+      "menciones": 3,
+      "fuentes": [
+        "Autotest",
+        "Megautos",
+        "Motorpasión (ES)"
+      ]
+    },
+    {
+      "titulo": "El SUV híbrido barato que estás buscando tiene tamaño de Toyota RAV4, pero cuesta 30.840 € en su versión más \"lujosa\" con techo panorámico, asientos ventilados y cámaras 360 HD",
+      "link": "https://www.diariomotor.com/noticia/precio-mg-hs-hybrid-luxury-plus/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-11-09T15:30:10Z",
+      "resumen": "Si buscas un SUV mediano y con motor híbrido, lo más normal es que pienses primero en el Toyota RAV4 , pero hay muchas más opciones y la más barata, aunque no necesariamente la mejor, es el MG HS Hybrid. Uno de sus argumentos era ofrecer bastante equipamiento por no mucho dinero y ahora estrena el acabado Luxury+ , una nueva versión que incorpora elementos como el techo panorámico, los asientos…",
+      "imagen": "https://www.diariomotor.com/imagenes/2025/09/MG-HS-hibrido-HEV-68cabc653b674.jpg?class=XL",
+      "menciones": 17,
+      "fuentes": [
+        "Autotest",
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "Toyota mostró la nueva Hilux con el Papamóvil: cabina simple y detalles exclusivos",
+      "link": "https://autotest.com.ar/noticias/toyota-mostro-la-nueva-hilux-con-el-papamovil-cabina-simple-y-detalles-exclusivos/",
+      "fuente": "Autotest",
+      "fecha": "2026-11-09T13:00:13Z",
+      "resumen": "Toyota ha adaptado y donado dos camionetas Hilux para que sean utilizadas por el Papa León XIV durante su visita a Buenos Aires y Córdoba, permitiendo un contacto cercano con el público.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/Nueva-Toyota-Hilux-Papamovil-teaser.jpg",
       "menciones": 2,
       "fuentes": [
-        "Diariomotor (ES)",
-        "Motorpasión (ES)"
+        "Autotest",
+        "iProfesional"
+      ]
+    },
+    {
+      "titulo": "Buick Envista 2027: 8,5/10 y desde 28.000 dólares, la SUV fastback que incomoda a la Trax y la Corolla Cross",
+      "link": "https://autotest.com.ar/noticias/buick-envista-2027-8-5-10-y-desde-28-000-dolares-la-suv-fastback-que-incomoda-a-la-trax-y-la-corolla-cross/",
+      "fuente": "Autotest",
+      "fecha": "2026-11-09T11:01:57Z",
+      "resumen": "Dentro de la gama Buick, el Envista ocupa el escalón de entrada: es una SUV compacta que se ubica por debajo de la Envision y apunta a compradores que no quieren pagar fortunas.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/buick-envista-2027-8-5-10-y-desde-28-000-1200x740-1.jpg",
+      "menciones": 4,
+      "fuentes": [
+        "Autotest",
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "Skoda Octavia híbrido: 1.540 litros de baúl y 4,6 l/100 km, más espacio que un SUV y sin enchufe",
+      "link": "https://autotest.com.ar/noticias/skoda-octavia-hibrido-1-540-litros-de-baul-y-4-6-l-100-km-mas-espacio-que-un-suv-y-sin-enchufe/",
+      "fuente": "Autotest",
+      "fecha": "2026-11-09T11:01:36Z",
+      "resumen": "El portón trasero agrega versatilidad para cargar objetos voluminosos, algo que un baúl de sedán convencional no permite.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/skoda-octavia-h-brido-1-540-litros-de-ba-1200x740-1.jpg",
+      "menciones": 2,
+      "fuentes": [
+        "Autotest",
+        "Diariomotor (ES)"
       ]
     },
     {
@@ -91,19 +144,6 @@
       "resumen": "La historia del C8 muestra cómo Chevrolet quemó etapas: del Stingray aspirado al Z06, del híbrido E-Ray al ZR1 biturbo, cada salto revalorizó la gama y alimentó sobreprecios en los concesionarios.",
       "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/400-000-d-lares-de-sobreprecio-lo-que-ha-1200x740-1.jpg",
       "menciones": 2,
-      "fuentes": [
-        "Autotest",
-        "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "Toyota Corolla Cross híbrido: cuántos kilómetros hay que recorrer para recuperar la diferencia con el naftero",
-      "link": "https://autotest.com.ar/noticias/toyota-corolla-cross-hibrido-cuantos-kilometros-hay-que-recorrer-para-recuperar-la-diferencia-con-el-naftero/",
-      "fuente": "Autotest",
-      "fecha": "2026-11-07T14:42:32Z",
-      "resumen": "El Toyota Corolla Cross híbrido necesita recorrer 8.400 kilómetros urbanos para compensar su costo frente al modelo naftero. Sigue leyendo para saber más sobre su ahorro y beneficios.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/08/Toyota-Corolla-Cross-trasera.jpg",
-      "menciones": 13,
       "fuentes": [
         "Autotest",
         "Diariomotor (ES)"
@@ -201,6 +241,54 @@
       ]
     },
     {
+      "titulo": "Volkswagen lanzó el nuevo Golf GTI en Argentina",
+      "link": "https://www.megautos.com/nuevo-volkswagen-golf-gti-precio-argentina/",
+      "fuente": "Megautos",
+      "fecha": "2026-11-09T20:15:31Z",
+      "resumen": "En el año en que se cumplen cinco décadas de su creación, el histórico deportivo vuelve al mercado argentino. Está equipado con un motor 2.0 turbo de 265 CV combinado con una caja automática de siete velocidades. La entrada Volkswagen lanzó el nuevo Golf GTI en Argentina aparece primero en Mega Autos .",
+      "imagen": "https://www.megautos.com/wp-content/uploads/2026/11/VW_Golf_GTI-5.jpg",
+      "menciones": 1,
+      "fuentes": [
+        "Megautos"
+      ]
+    },
+    {
+      "titulo": "Honda Navi 110 versus Corven Flow 150, ¿qué moto conviene comprar?",
+      "link": "https://www.iprofesional.com/autos/468001-honda-navi-110-vs-corven-flow-150-que-moto-conviene-comprar",
+      "fuente": "iProfesional",
+      "fecha": "2026-11-09T19:16:00Z",
+      "resumen": "La marca del grupo Corven presentó su primer modelo Fun, donde la única exponente era de Honda. Las comparamos para saber cuál conviene (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
+      "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/10/628873.jpg",
+      "menciones": 1,
+      "fuentes": [
+        "iProfesional"
+      ]
+    },
+    {
+      "titulo": "Toyota transformó una camioneta Hilux en un papamóvil 4x4 para León XIV",
+      "link": "https://www.iprofesional.com/actualidad/468672-asi-es-como-toyota-transformo-dos-camionetas-hilux-en-papamovil-para-leon-xiv",
+      "fuente": "iProfesional",
+      "fecha": "2026-11-09T18:47:00Z",
+      "resumen": "El vehículo cuenta con una cúpula transparente, escalera eléctrica y una configuración especial para transportar hasta siete ocupantes (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
+      "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/11/629394.jpg",
+      "menciones": 1,
+      "fuentes": [
+        "iProfesional"
+      ]
+    },
+    {
+      "titulo": "Se queda atascado con un autobús urbano en Alicante: “Me meto aquí para no obstaculizar el tráfico y me viene un policía diciéndome que qué estoy haciendo, que se la estoy liando”",
+      "link": "https://www.motorpasion.com/industria/se-queda-atascado-autobus-urbano-alicante-me-meto-aqui-para-no-obstaculizar-trafico-me-viene-policia-diciendome-que-que-estoy-haciendo-que-se-estoy-liando",
+      "fuente": "Motorpasión (ES)",
+      "fecha": "2026-11-09T18:01:07Z",
+      "resumen": "Los cortes de tráfico están a la orden del día en cualquier ciudad, ya sea por culpa de las obras o de todo tipo de eventos, incluyendo muchos deportivos que tienen lugar prácticamente todos los fines de semana. Eso es lo que ocurrió el pasado fin de semana en Alicante. El 8 de noviembre tuvo lugar la Media Maratón Alicante-Santa Pola, lo que obligó a cerrar algunas calles de Alicante al tráfico.…",
+      "imagen": "https://i.blogs.es/aa94b3/autobus-alicante/1024_2000.jpeg",
+      "menciones": 1,
+      "fuentes": [
+        "Motorpasión (ES)"
+      ]
+    },
+    {
       "titulo": "Del tamaño de un Mercedes GLC, con más de 500 CV, equipado hasta arriba y costando 30.000 € menos que los alemanes, es el D-SUV perfecto para las familias",
       "link": "https://www.diariomotor.com/noticia/omoda-9-black-edition/",
       "fuente": "Diariomotor (ES)",
@@ -214,99 +302,15 @@
       ]
     },
     {
-      "titulo": "Robert Kubica anuncia su adiós al Ferrari 499P #83 con el que consiguió la gloria en las 24 Horas de Le Mans",
-      "link": "https://www.diariomotor.com/competicion/noticia/robert-kubica-anuncia-adios-af-corse/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-11-08T23:25:27Z",
-      "resumen": "Se ha mantenido en duda hasta el final y únicamente ha sido una vez terminada la carrera que Robert Kubica ha confirmado lo que parecía ser un secreto a voces después de no anunciarse su renovación con AF Corse después del verano. El piloto polaco ha confirmado que no continuará al volante del Ferrari 499P LMH #83 , dejando en el aire lo que sucederá con su carrera deportiva, la cual se espera que…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/11/2026-monza-wec-08853_158c7e63-1439-428f-ab29-f3d08aa68150-6af0f6782f7f4.jpg?class=XL",
-      "menciones": 1,
-      "fuentes": [
-        "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "La lluvia no basta para Fernando Alonso y Carlos Sainz vuelve a sufrir: un domingo sin premio para los españoles",
-      "link": "https://www.diariomotor.com/competicion/noticia/pilotos-espanoles-gp-sao-paulo-2026-carrera/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-11-08T21:36:05Z",
-      "resumen": "Tal y como se esperaba desde la jornada de ayer, la realidad entre los dos pilotos españoles este domingo iba a ser muy distinta. En el caso de Carlos Sainz, tal vez su Williams le permita mantener el tipo en una clasificación a una vuelta con condiciones cambiantes, pero con los problemas de chasis y aerodinámica que sigue arrastrando el FW48 parece imposible mantener el ritmo con el paso de las…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/11/carreras-espanoles-2026-f1-domingo-sao-paulo-interlagos-2-6af0dc7295e65.jpg?class=XL",
-      "menciones": 2,
-      "fuentes": [
-        "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "Lando Norris gana una carrera cambiante en Interlagos, Mercedes obtiene su octavo título de Constructores",
-      "link": "https://www.diariomotor.com/competicion/noticia/lando-norris-gana-una-carrera-cambiante-en-interlagos-mercedes-obtiene-su-octavo-titulo-de-constructores/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-11-08T20:11:02Z",
-      "resumen": "La previsión meteorológica se cumplió a medias en São Paulo, escenario de otra carrera afectada por el líquido elemento. Lando Norris ganó desde la pole position a pesar de un mal arranque , Max Verstappen realizó un nuevo ascenso meteórico (de penúltimo a segundo) e Isack Hadjar también destacó para obtener un doble podio para la escudería de la bebida energética. Mercedes se vio superada por las…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/11/lando-norris-f1-victoria-brasil-2026-6af0c255c086b.jpg?class=XL",
-      "menciones": 1,
-      "fuentes": [
-        "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "Lando Norris domina bajo la lluvia en Brasil, Mercedes ya es campeona de marcas y Fernando Alonso pone el espectáculo",
-      "link": "https://www.motorpasion.com/formula1/lando-norris-domina-lluvia-brasil-mercedes-campeona-marcas-fernando-alonso-pone-espectaculo",
+      "titulo": "EEUU empieza a ponerse seria con la contaminación más allá de los coches. Elon Musk sale perdiendo, pero tiene un plan B: centros de datos en el espacio",
+      "link": "https://www.motorpasion.com/futuro-movimiento/eeuu-empieza-a-ponerse-seria-contaminacion-alla-coches-elon-musk-sale-perdiendo-tiene-plan-b-centros-datos-espacio",
       "fuente": "Motorpasión (ES)",
-      "fecha": "2026-11-08T19:01:26Z",
-      "resumen": "Lando Norris tiene un idilio mágico con Interlagos . El piloto inglés ha vuelto a ganar en Brasil, y pese a que salía desde la pole, ha sido cualquier cosa menos una carrera fácil. Norris ha tenido que lidiar con una mala salida, con la lluvia y también con la pista seca para acabar imponiéndose en una prueba en la que era superior. Pero el espectáculo lo ha puesto Fernando Alonso. Solo así se…",
-      "imagen": "https://i.blogs.es/31402c/norris-brasil-f1-2026/1024_2000.jpeg",
-      "menciones": 2,
+      "fecha": "2026-11-09T16:01:07Z",
+      "resumen": "Los centros de datos proliferan en todo el mundo como parte del proceso de desarrollo de la inteligencia artificial, pero cada vez hay más personas en contra de estas instalaciones, entre otras cosas, porque contaminan. La nueva gobernadora de Texas, EEUU, ya ha anunciado que se paralizará la construcción de nuevos centros de datos en ese estado hasta que haya una ley que proteja a los ciudadanos.…",
+      "imagen": "https://i.blogs.es/88f174/centro-datos-3/1024_2000.jpeg",
+      "menciones": 1,
       "fuentes": [
         "Motorpasión (ES)"
-      ]
-    },
-    {
-      "titulo": "Cadillac conquista Monza en una carrera de despedidas y el Toyota #8 se proclama Campeón del Mundo",
-      "link": "https://www.diariomotor.com/competicion/noticia/cadillac-vence-6-horas-de-monza/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-11-08T17:34:52Z",
-      "resumen": "Se esperaba una bonita batalla entre los dos tríos de Toyota Racing por el triunfo final en el Campeonato de pilotos , sin embargo, ninguno de los dos TR010 estuvo en disposición de pelear por los puntos, incluso cuando se han producido los abandonos s tanto del Alpine #35 como el Genesis #19. La lucha por el triunfo en estas 6 Horas de Monza iba a tener especialmente la carga emocional de ver la…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/11/6-horas-monza-2026-wec-carrera-1-6af0a443f1315.jpg?class=XL",
-      "menciones": 1,
-      "fuentes": [
-        "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "Renault Oroch: termina la producción de la pick up",
-      "link": "https://www.megautos.com/renault-oroch-final-produccion/",
-      "fuente": "Megautos",
-      "fecha": "2026-11-08T15:57:32Z",
-      "resumen": "Después de más de una década en el mercado, Renault confirmó el fin de la fabricación de la pick up en Brasil. Su lugar en el segmento compacto será ocupado por la nueva Niagara argentina. La entrada Renault Oroch: termina la producción de la pick up aparece primero en Mega Autos .",
-      "imagen": "https://www.megautos.com/wp-content/uploads/2024/03/Renault-Oroch-Iconic-delantera.jpg",
-      "menciones": 1,
-      "fuentes": [
-        "Megautos"
-      ]
-    },
-    {
-      "titulo": "Signatech conversó con Honda para ser su equipo en el WEC",
-      "link": "https://www.diariomotor.com/competicion/noticia/sinault-honda-arx-06-wec/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-11-08T15:53:48Z",
-      "resumen": "Llegó la hora de la despedida para el programa Alpine Endurance Team y Philippe Sinault, director del equipo Signatech, todavía mantiene una remota esperanza de continuar en la clase Hypercar el año que viene, aunque la fecha límite para la inscripción es el próximo día 23. En pleno paddock de Monza, Sinault manifestó que llegó a plantear varios escenarios para la próxima temporada, sin embargo,…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/11/Alpine_Endurance_Team_Signatech_WEC_26_NA2_27-6af080e7b899e.jpg?class=XL",
-      "menciones": 1,
-      "fuentes": [
-        "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "85 años y más: así son los nuevos Jeep Compass y Commander exclusivos por el aniversario",
-      "link": "https://autotest.com.ar/noticias/85-anos-y-mas-asi-son-los-nuevos-jeep-compass-y-commander-exclusivos-por-el-aniversario/",
-      "fuente": "Autotest",
-      "fecha": "2026-11-08T15:37:17Z",
-      "resumen": "Jeep ya vende en Brasil los nuevos Compass y Commander Serie Especial 85 Años, una edición limitada que celebra la trayectoria de la marca estadounidense con cambios de diseño, terminaciones específicas y más equipamiento. La base es la Longitude y la Limited, respectivamente, pero con cambios que explican por qué no son una opción más. […]",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/Jeep-Compass-y-Commander-por-85-anos.jpg",
-      "menciones": 1,
-      "fuentes": [
-        "Autotest"
       ]
     }
   ]
