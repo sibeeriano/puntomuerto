@@ -1,7 +1,7 @@
 {
-  "actualizado": "2026-11-10T21:50:44Z",
-  "desde": "2026-11-03",
-  "hasta": "2026-11-10",
+  "actualizado": "2026-11-11T00:16:11Z",
+  "desde": "2026-11-04",
+  "hasta": "2026-11-11",
   "destacadas": [
     {
       "titulo": "Suzuki Across: el Toyota RAV4 de Suzuki ya tiene precio en España, un SUV que hace 100 km sin encender su motor de gasolina",
@@ -188,6 +188,30 @@
       ]
     },
     {
+      "titulo": "Dale Coyne Racing confirma a Nikita Johnson en tanto Nolan Siegel conversa con Brad Hollinger",
+      "link": "https://www.diariomotor.com/competicion/noticia/dale-coyne-nikita-johnson-nolan-siegel-juncos/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-11-10T23:02:26Z",
+      "resumen": "Siguen los movimientos en la IndyCar y ahora solo quedan oficialmente disponibles tres asientos ya que hoy el equipo Dale Coyne Racing anunció que Nikita Johnson, actual campeón de la Indy NXT, estará en su monoplaza número 19 durante toda la temporada. El piloto de 18 años debutará en la categoría tras su paso por las series de formación y con una reciente prueba en el circuito de Barber donde…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/11/Nikita_Johnson_Rahal_Latterman_Lanigan_2025_26_26-6af38a20bdf15.jpg?class=XL",
+      "menciones": 1,
+      "fuentes": [
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "¿Pueden espiar los autos chinos? Las cámaras, los GPS y los sensores que generan preocupación",
+      "link": "https://www.iprofesional.com/autos/468732-autos-electricos-chinos-por-que-eeuu-teme-que-puedan-espiar",
+      "fuente": "iProfesional",
+      "fecha": "2026-11-10T21:54:00Z",
+      "resumen": "Al escándalo por la confesión del CEO de Nvidia sobre su vínculo con una supuesta espía china, se suman las denuncias con respecto a los autos (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
+      "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2025/07/599848.jpg",
+      "menciones": 1,
+      "fuentes": [
+        "iProfesional"
+      ]
+    },
+    {
       "titulo": "El WRC se enfrenta a dos amenazas inesperadas: Suecia y Paraguay, ante la incertidumbre económica",
       "link": "https://www.diariomotor.com/competicion/noticia/wrc-problemas-suecia-paraguay/",
       "fuente": "Diariomotor (ES)",
@@ -281,30 +305,6 @@
       "menciones": 1,
       "fuentes": [
         "Motorpasión (ES)"
-      ]
-    },
-    {
-      "titulo": "Todos en España comprando SUV como locos y llegan los franceses y ofrecen, por 25.000 €, 5,4 l/100 km, 1.000 km de autonomía y 850 l de maletero en esta perfecta alternativa Made in Spain",
-      "link": "https://www.diariomotor.com/noticia/oferta-citroen-berlingo-noviembre-2026/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-11-10T18:00:45Z",
-      "resumen": "El SUV se ha convertido en una de las opciones más elegidas por aquellos que buscan un coche práctico, cómodo e ideal para toda la familia. Algo lógico pero que no desacredita a los primeros en ofrecer tales aspectos: los monovolúmenes. Y así lo demuestra nuestro protagonista, un coche con 1.000 km de autonomía, hasta 7 plazas, 850 litros de maletero y que está disponible desde 25.763,61 euros .…",
-      "imagen": "https://www.diariomotor.com/imagenes/2025/04/citroen-berlingo-asientos-traseros-67efbbbddd6a8.jpg?class=XL",
-      "menciones": 2,
-      "fuentes": [
-        "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "Nuevo diseño, 126 CV y caja CVT: el sedán que se actualizó para enfrentar al Nissan Versa",
-      "link": "https://autotest.com.ar/noticias/nuevo-diseno-126-cv-y-caja-cvt-el-sedan-que-se-actualizo-para-enfrentar-al-nissan-versa/",
-      "fuente": "Autotest",
-      "fecha": "2026-11-10T18:00:32Z",
-      "resumen": "Honda lanza en Brasil el renovado City Sedán 2027 con mejoras en diseño, tecnología y seguridad, manteniendo su potente motor de 126 CV.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/Sedan-Honda-City-2027-perfil.jpg",
-      "menciones": 3,
-      "fuentes": [
-        "Autotest"
       ]
     }
   ]
