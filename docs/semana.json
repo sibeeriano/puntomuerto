@@ -1,8 +1,22 @@
 {
-  "actualizado": "2026-11-11T22:47:17Z",
-  "desde": "2026-11-04",
-  "hasta": "2026-11-11",
+  "actualizado": "2026-11-12T01:41:27Z",
+  "desde": "2026-11-05",
+  "hasta": "2026-11-12",
   "destacadas": [
+    {
+      "titulo": "La nueva Toyota Hilux nacional se muestra por primera vez como papamóvil",
+      "link": "https://www.megautos.com/nueva-toyota-hilux-papamovil/",
+      "fuente": "Megautos",
+      "fecha": "2026-11-12T00:01:24Z",
+      "resumen": "Son dos unidades transformadas en papamóviles para la visita de León XIV a la Argentina. Tienen una carrocería exclusiva, modificaciones estructurales y un equipamiento específico. La evolución de la pick up nacional será lanzada en diciembre. La entrada La nueva Toyota Hilux nacional se muestra por primera vez como papamóvil aparece primero en Mega Autos .",
+      "imagen": "https://www.megautos.com/wp-content/uploads/2026/11/DSC00698.jpg",
+      "menciones": 3,
+      "fuentes": [
+        "Autotest",
+        "iProfesional",
+        "Megautos"
+      ]
+    },
     {
       "titulo": "Cuesta menos de 33.000 dólares y tiene 299 CV: el SUV híbrido que desafía a Ford Territory",
       "link": "https://autotest.com.ar/noticias/cuesta-menos-de-33-000-dolares-y-tiene-299-cv-el-suv-hibrido-que-desafia-a-ford-territory/",
@@ -149,19 +163,6 @@
       ]
     },
     {
-      "titulo": "Toyota mostró la nueva Hilux con el Papamóvil: cabina simple y detalles exclusivos",
-      "link": "https://autotest.com.ar/noticias/toyota-mostro-la-nueva-hilux-con-el-papamovil-cabina-simple-y-detalles-exclusivos/",
-      "fuente": "Autotest",
-      "fecha": "2026-11-09T13:00:13Z",
-      "resumen": "Toyota ha adaptado y donado dos camionetas Hilux para que sean utilizadas por el Papa León XIV durante su visita a Buenos Aires y Córdoba, permitiendo un contacto cercano con el público.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/Nueva-Toyota-Hilux-Papamovil-teaser.jpg",
-      "menciones": 2,
-      "fuentes": [
-        "Autotest",
-        "iProfesional"
-      ]
-    },
-    {
       "titulo": "Yangwang U9X: el chino de más de 3.000 CV que destronó a Koenigsegg y Bugatti",
       "link": "https://autotest.com.ar/noticias/yangwang-u9x-el-chino-de-mas-de-3-000-cv-que-destrono-a-koenigsegg-y-bugatti/",
       "fuente": "Autotest",
@@ -197,6 +198,18 @@
       "menciones": 1,
       "fuentes": [
         "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "Tesla llega a la Argentina, pero no venderá su modelo insignia Cybertruck",
+      "link": "https://www.iprofesional.com/autos/468855-tesla-llega-a-argentina-pero-no-vendera-su-modelo-insignia-cybertruck",
+      "fuente": "iProfesional",
+      "fecha": "2026-11-11T22:47:00Z",
+      "resumen": "La automotriz de Elon Musk desembarcará oficialmente el 20 de noviembre. Ls claves del nuevo cupo de importación y por qué la Cybertruck quedar afuera (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
+      "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/06/619154.jpg",
+      "menciones": 1,
+      "fuentes": [
+        "iProfesional"
       ]
     },
     {
@@ -291,18 +304,6 @@
       "fecha": "2026-11-11T19:29:13Z",
       "resumen": "Max Verstappen criticó la política de Ferrari de tener dos pilotos número uno, señalando que aumenta el riesgo de conflictos internos, como el ocurrido entre Hamilton y Leclerc en México.",
       "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/opinion-max-verstappen1.jpg",
-      "menciones": 1,
-      "fuentes": [
-        "Autotest"
-      ]
-    },
-    {
-      "titulo": "Wolff compara a Antonelli con Senna, pero baja la presión: “Todavía no”",
-      "link": "https://autotest.com.ar/carreras/wolff-compara-a-antonelli-con-senna-pero-baja-la-presion-todavia-no/",
-      "fuente": "Autotest",
-      "fecha": "2026-11-11T19:26:20Z",
-      "resumen": "Toto Wolff habla sobre las comparaciones entre Andrea Kimi Antonelli y Ayrton Senna, pidiendo tiempo y evitando presiones. Mercedes busca proteger al joven piloto.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/comparacion-kimi-antonelli-con-senna1.jpg",
       "menciones": 1,
       "fuentes": [
         "Autotest"

@@ -1,11 +1,27 @@
 [
   {
+    "titulo": "La nueva Toyota Hilux nacional se muestra por primera vez como papamóvil",
+    "link": "https://www.megautos.com/nueva-toyota-hilux-papamovil/",
+    "fuente": "Megautos",
+    "fecha": "2026-11-12T00:01:24Z",
+    "resumen": "Son dos unidades transformadas en papamóviles para la visita de León XIV a la Argentina. Tienen una carrocería exclusiva, modificaciones estructurales y un equipamiento específico. La evolución de la pick up nacional será lanzada en diciembre. La entrada La nueva Toyota Hilux nacional se muestra por primera vez como papamóvil aparece primero en Mega Autos .",
+    "imagen": "https://www.megautos.com/wp-content/uploads/2026/11/DSC00698.jpg"
+  },
+  {
     "titulo": "Una carrera contrarreloj para salvar los Alpine A424: Signatech busca un socio antes de noviembre",
     "link": "https://www.diariomotor.com/competicion/noticia/signatech-busca-un-socio-wec/",
     "fuente": "Diariomotor (ES)",
     "fecha": "2026-11-11T23:20:10Z",
     "resumen": "Este domingo en Monza se cerró una etapa. El WEC 2026 echaba el cierre en el Circuito de Monza y lo hacía con la despedida del Ferrari 499P LMH y el Peugeot 9X8 LMH en su forma actual, pero también con el adiós de los Alpine A424 . Las dos unidades de la firma de Dieppe se dejaron ver sobre el asfalto del templo de la velocidad, peleando por hacerse un hueco en el podio que finalmente logró el dúo…",
     "imagen": "https://www.diariomotor.com/imagenes/2026/11/00002458_0777.jpg-6af4e9e77dddc.jpg?class=XL"
+  },
+  {
+    "titulo": "Fuerte confesión: \"No vemos la hora de que se termine el cupo de importación\"",
+    "link": "https://eleconomista.com.ar/autos/fuerte-confesion-no-vemos-hora-termine-cupo-importacion-n99604",
+    "fuente": "El Economista",
+    "fecha": "2026-11-11T21:55:00Z",
+    "resumen": "El Gobierno se reunió este miércoles con los importadores en un encuentro tenso por los recientes cambios para importar autos electrificados. La vocera de Economía dijo que este régimen \"sólo trajo dolores de cabeza\".",
+    "imagen": "https://statics.eleconomista.com.ar/2026/11/crop/6af4e43eb4f9c__950x512.webp"
   },
   {
     "titulo": "Bugatti Tourbillon: V16 aspirado a 9.000 rpm, 1.800 CV y 445 km/h para reemplazar al Chiron",
@@ -56,6 +72,14 @@
     "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/el-primer-koenigsegg-gemera-de-cliente-y-1200x740-1.jpg"
   },
   {
+    "titulo": "Tesla llega a la Argentina, pero no venderá su modelo insignia Cybertruck",
+    "link": "https://www.iprofesional.com/autos/468855-tesla-llega-a-argentina-pero-no-vendera-su-modelo-insignia-cybertruck",
+    "fuente": "iProfesional",
+    "fecha": "2026-11-11T22:47:00Z",
+    "resumen": "La automotriz de Elon Musk desembarcará oficialmente el 20 de noviembre. Ls claves del nuevo cupo de importación y por qué la Cybertruck quedar afuera (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
+    "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/06/619154.jpg"
+  },
+  {
     "titulo": "Verstappen apuntó contra Ferrari: “Nunca ficharía a dos pilotos número uno”",
     "link": "https://autotest.com.ar/carreras/verstappen-apunto-contra-ferrari-nunca-ficharia-a-dos-pilotos-numero-uno/",
     "fuente": "Autotest",
@@ -94,14 +118,6 @@
     "fecha": "2026-11-11T19:00:20Z",
     "resumen": "El Nissan March 2026 ahora es uno de los autos más económicos de México gracias a un fuerte descuento, disponible hasta el 30 de septiembre. Descubre sus versiones y opciones de financiación.",
     "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/Nissan-March-teaser.jpg"
-  },
-  {
-    "titulo": "Fuerte confesión: \"No vemos la hora de que se termine el cupo de importación\"",
-    "link": "https://eleconomista.com.ar/autos/fuerte-confesion-no-vemos-hora-termine-cupo-importacion-n99604",
-    "fuente": "El Economista",
-    "fecha": "2026-11-11T21:55:00Z",
-    "resumen": "El Gobierno se reunió este miércoles con los importadores en un encuentro tenso por los recientes cambios para importar autos electrificados. La vocera de Economía dijo que este régimen \"sólo trajo dolores de cabeza\".",
-    "imagen": "https://statics.eleconomista.com.ar/2026/11/crop/6af4e43eb4f9c__950x512.webp"
   },
   {
     "titulo": "Dos coches unidos por un cable de 30 metros. Así era la telemetría prehistórica que utilizaba Mercedes-Benz en los años 60 para poner a punto sus prototipos",
@@ -150,6 +166,14 @@
     "fecha": "2026-11-11T16:00:39Z",
     "resumen": "El Tesla Model 3 todavía sigue siendo de los coches más avanzados en este sentido, pero hasta hace no demasiado era la referencia. Y es que, usando solo 75 kWh de capacidad neta , su versión de más autonomía es capaz de extraer 750 km de autonomía homologada de la misma. Todo al mismo tiempo que se emplaza como uno de los coches eléctricos de precio más competitivo del mercado. Ahora, sin embargo,…",
     "imagen": "https://www.diariomotor.com/imagenes/2026/11/BMW-i3-2026-6af480dfdb62d.jpg?class=XL"
+  },
+  {
+    "titulo": "BYD presentó un auto de súper lujo con más de 1000 km de autonomía",
+    "link": "https://www.iprofesional.com/autos/468821-byd-presento-un-auto-de-lujo-con-mas-de-1000-km-de-autonomia",
+    "fuente": "iProfesional",
+    "fecha": "2026-11-11T15:59:00Z",
+    "resumen": "Incorpora la cultura china a una visión contemporánea del ultralujo. Se destaca por su diseño, muy parecido a otro modelo de larga historia. Detalles (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
+    "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/11/629528.jpg"
   },
   {
     "titulo": "Menos de 19.000 dólares: la pick up con motor turbodiésel de 161 CV y pantalla de 12,8 pulgadas",
@@ -246,14 +270,6 @@
     "fecha": "2026-11-11T13:00:43Z",
     "resumen": "Durante décadas, sus instalaciones procesaron petróleo, pero ahora podrían convertirse en parte de la industria del coche eléctrico. Así de caprichosa es la vida. BYD está estudiando construir una fábrica de baterías en Portugal y los terrenos de la antigua refinería de Galp en Matosinhos, cerca de Oporto, figuran entre las posibles ubicaciones. Un proyecto que, de materializarse, podría tener…",
     "imagen": "https://www.diariomotor.com/imagenes/2026/11/refineria-galp-matosinhos_port-6af45189a9d0f.jpeg?class=XL"
-  },
-  {
-    "titulo": "BYD presentó un auto de súper lujo con más de 1000 km de autonomía",
-    "link": "https://www.iprofesional.com/autos/468821-byd-presento-un-auto-de-lujo-con-mas-de-1000-km-de-autonomia",
-    "fuente": "iProfesional",
-    "fecha": "2026-11-11T15:59:00Z",
-    "resumen": "Incorpora la cultura china a una visión contemporánea del ultralujo. Se destaca por su diseño, muy parecido a otro modelo de larga historia. Detalles (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
-    "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/11/629528.jpg"
   },
   {
     "titulo": "15 millones más barata que Toyota Hilux: la pick up de Nissan con motor biturbo de 190 CV",
