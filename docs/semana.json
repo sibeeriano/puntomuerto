@@ -1,7 +1,7 @@
 {
-  "actualizado": "2026-11-12T20:49:26Z",
-  "desde": "2026-11-05",
-  "hasta": "2026-11-12",
+  "actualizado": "2026-11-13T00:42:05Z",
+  "desde": "2026-11-06",
+  "hasta": "2026-11-13",
   "destacadas": [
     {
       "titulo": "No tiene etiqueta ECO, pero por menos de 19.000 euros te puedes llevar el compacto con aires de SUV más práctico, un chollazo que España necesita en 2026 y que sólo consume 5,7 l/100 km",
@@ -46,13 +46,26 @@
       ]
     },
     {
-      "titulo": "Más barato que Toyota Corolla: el sedán con 178 CV, bajo consumo y pantalla de 12,8 pulgadas",
-      "link": "https://autotest.com.ar/noticias/mas-barato-que-toyota-corolla-el-sedan-con-178-cv-bajo-consumo-y-pantalla-de-128-pulgadas/",
+      "titulo": "Mercedes-Benz eActros 600: el camión eléctrico inicia sus ventas en Brasil",
+      "link": "https://www.megautos.com/mercedes-benz-eactros-600-brasil/",
+      "fuente": "Megautos",
+      "fecha": "2026-11-12T23:39:32Z",
+      "resumen": "La marca presentó en Fenatran 2026 su camión pesado a batería, con hasta 600 kilómetros de autonomía. También anunció novedades para las gamas Accelo, Atego, Axor, Actros y Arocs, y exhibió los todoterreno Unimog y Zetros. La entrada Mercedes-Benz eActros 600: el camión eléctrico inicia sus ventas en Brasil aparece primero en Mega Autos .",
+      "imagen": "https://www.megautos.com/wp-content/uploads/2026/11/eActros-600-0.jpg",
+      "menciones": 2,
+      "fuentes": [
+        "Autotest",
+        "Megautos"
+      ]
+    },
+    {
+      "titulo": "4×4 con chasis de largueros y 3.500 kg de remolque: 27.000 euros menos que un Land Cruiser",
+      "link": "https://autotest.com.ar/offroad/4x4-con-chasis-de-largueros-y-3-500-kg-de-remolque-27-000-euros-menos-que-un-land-cruiser/",
       "fuente": "Autotest",
-      "fecha": "2026-11-12T17:00:44Z",
-      "resumen": "El BYD Seal 5 DM-i llega a Argentina para competir con modelos tradicionales, ofreciendo una combinación ideal de potencia, autonomía y tecnología.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/Sedan-BYD-Seal-5-DM-i-teaser.jpg",
-      "menciones": 19,
+      "fecha": "2026-11-12T23:00:36Z",
+      "resumen": "El Rexton de KGM demuestra que todavía existe un hueco para el todoterreno familiar sin sobreprecios.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/4x4-con-chasis-de-largueros-y-3-500-kg-d-1200x740-1.jpg",
+      "menciones": 5,
       "fuentes": [
         "Autotest",
         "Diariomotor (ES)"
@@ -78,19 +91,6 @@
       "fecha": "2026-11-12T11:01:33Z",
       "resumen": "Esa ventaja de habitabilidad se paga en otros terrenos, y es la letra chica que todo comprador de microcoches debe mirar: seguridad estructural, calidad de terminaciones, red de servicio y respaldo de repuestos.",
       "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/el-bontu-bt05-es-el-microauto-el-ctrico-1200x740-1.jpg",
-      "menciones": 2,
-      "fuentes": [
-        "Autotest",
-        "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "Ni un 4x4 chino del que no te fías ni un europeo a precio de oro: el Land Cruiser coreano cuesta 27.000 € menos y es el 4x4 barato de 7 plazas que España necesitaba",
-      "link": "https://www.diariomotor.com/noticia/oferta-kgm-rexton-noviembre-2026/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-11-12T08:30:46Z",
-      "resumen": "El que quiere hoy un 4x4 de verdad parece ser que tiene dos opciones: pasar por las opciones chinas o gastarse un pastizal en uno europeo o japonés. Lo cierto es que hay una tercera alternativa, el Toyota Land Cruiser coreano, un 4x4 con todas las de la ley, 7 plazas y un robusto motor diésel pero por 43.000 euros menos . KGM ofrece una alternativa real a los 4x4 chinos, japoneses y europeos Es un…",
-      "imagen": "https://www.diariomotor.com/imagenes/2023/07/ssangyong-rexton-2023-tres-filas-asientos-64ae57626e95e.jpg?class=OG",
       "menciones": 2,
       "fuentes": [
         "Autotest",
@@ -163,6 +163,102 @@
       ]
     },
     {
+      "titulo": "El último de los 125 Koenigsegg Jesko Absolut: 1.600 CV y dueño tenista top",
+      "link": "https://autotest.com.ar/noticias/el-ultimo-de-los-125-koenigsegg-jesko-absolut-1-600-cv-y-dueno-tenista-top/",
+      "fuente": "Autotest",
+      "fecha": "2026-11-12T23:00:36Z",
+      "resumen": "Que el último ejemplar sea un Absolut tiene lógica: es la versión que representa la obsesión de Koenigsegg por romper barreras de velocidad.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/el-ltimo-de-los-125-koenigsegg-jesko-abs-1200x740-1.jpg",
+      "menciones": 1,
+      "fuentes": [
+        "Autotest"
+      ]
+    },
+    {
+      "titulo": "Rimac Nevera: 1.914 CV y 431 km/h, pero solo 71 de las 190 unidades planeadas",
+      "link": "https://autotest.com.ar/noticias/rimac-nevera-1-914-cv-y-431-km-h-pero-solo-71-de-las-190-unidades-planeadas/",
+      "fuente": "Autotest",
+      "fecha": "2026-11-12T22:20:19Z",
+      "resumen": "El Nevera estándar entrega 1.914 CV y 2.360 Nm de torque desde cuatro motores eléctricos, alimentados por una batería de 120 kWh con arquitectura de 800 V.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/rimac-nevera-1-914-cv-y-431-km-h-pero-so-1200x740-1.jpg",
+      "menciones": 1,
+      "fuentes": [
+        "Autotest"
+      ]
+    },
+    {
+      "titulo": "Lamborghini Temerario Spyder: 920 CV híbridos para superar al Ferrari 296 GTS y al McLaren Artura Spider",
+      "link": "https://autotest.com.ar/noticias/lamborghini-temerario-spyder-920-cv-hibridos-para-superar-al-ferrari-296-gts-y-al-mclaren-artura-spider/",
+      "fuente": "Autotest",
+      "fecha": "2026-11-12T22:20:13Z",
+      "resumen": "Esa configuración le permite tracción integral sin necesidad de un cardán físico, torque vectoring entre las ruedas delanteras y respuesta inmediata desde bajas vueltas.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/lamborghini-temerario-spyder-920-cv-h-br-1200x740-1.jpg",
+      "menciones": 1,
+      "fuentes": [
+        "Autotest"
+      ]
+    },
+    {
+      "titulo": "Más de 130 marcas de motos y accesorios se exhiben en una nueva expo en Argentina",
+      "link": "https://www.iprofesional.com/autos/468980-mas-de-130-marcas-de-motos-y-accesorios-se-exhiben-en-una-nueva-expo",
+      "fuente": "iProfesional",
+      "fecha": "2026-11-12T22:00:00Z",
+      "resumen": "Se llevará a cabo en Gualeguaychú, Entre Ríos, del 13 al 15 de noviembre. Habrá lanzamiento, test rides y promociones. Los detalles (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
+      "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/04/615720.jpg",
+      "menciones": 1,
+      "fuentes": [
+        "iProfesional"
+      ]
+    },
+    {
+      "titulo": "Le hizo juicio a una concesionaria y la indemnizaron con más de $70 millones",
+      "link": "https://www.iprofesional.com/autos/468990-le-hizo-juicio-a-una-concesionaria-y-la-indemnizaron-con-mas-de-70-millones",
+      "fuente": "iProfesional",
+      "fecha": "2026-11-12T21:47:00Z",
+      "resumen": "Por una disputa legal debido a los fondos de un plan de ahorro, una ciudadana sanjuanina obtuvo una sentencia firme mediante la cual embolsó la cifra (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
+      "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2024/04/571123.jpg",
+      "menciones": 1,
+      "fuentes": [
+        "iProfesional"
+      ]
+    },
+    {
+      "titulo": "El SL que pedían los clientes de siempre: más confortable que los AMG y por debajo del Maybach SL 680",
+      "link": "https://autotest.com.ar/noticias/el-sl-que-pedian-los-clientes-de-siempre-mas-confortable-que-los-amg-y-por-debajo-del-maybach-sl-680/",
+      "fuente": "Autotest",
+      "fecha": "2026-11-12T21:30:33Z",
+      "resumen": "Las versiones SL43, SL55 y SL63 atienden a los que buscan prestaciones altas, pero dejaron un vacío entre los que históricamente elegían al SL como gran turismo.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/el-sl-que-ped-an-los-clientes-de-siempre-1200x740-1.jpg",
+      "menciones": 1,
+      "fuentes": [
+        "Autotest"
+      ]
+    },
+    {
+      "titulo": "Renault lanzó plan de cuotas sin interés para comprar la camioneta Niagara",
+      "link": "https://www.iprofesional.com/autos/468985-renault-lanzo-plan-de-cuotas-sin-interes-para-comprar-la-camioneta-niagara",
+      "fuente": "iProfesional",
+      "fecha": "2026-11-12T21:20:00Z",
+      "resumen": "La marca lanzó una agresiva acción comercial para noviembre, que hace foco en su producto estrella, la nueva pick up fabricada en Córdoba (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
+      "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/09/625434.jpg",
+      "menciones": 2,
+      "fuentes": [
+        "iProfesional"
+      ]
+    },
+    {
+      "titulo": "Fiat presentó el Argo X, que anticipa un nuevo estilo para los modelos de la marca",
+      "link": "https://www.iprofesional.com/autos/468841-fiat-presento-el-nuevo-argo-x-que-anticipa-un-nuevo-estilo-para-los-modelos-de-la-marca",
+      "fuente": "iProfesional",
+      "fecha": "2026-11-12T21:15:00Z",
+      "resumen": "Este modelo es el punto de partida de un nuevo estilo de diseño de la automotriz, que se verá reflejado en los próximos vehículos (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
+      "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/11/629549.jpg",
+      "menciones": 1,
+      "fuentes": [
+        "iProfesional"
+      ]
+    },
+    {
       "titulo": "Renault lanza financiación a tasa 0% para Niagara",
       "link": "https://eleconomista.com.ar/autos/renault-lanza-financiacion-tasa-0-niagara-n99629",
       "fuente": "El Economista",
@@ -208,102 +304,6 @@
       "menciones": 1,
       "fuentes": [
         "Motorpasión (ES)"
-      ]
-    },
-    {
-      "titulo": "El Toyota más accesible: motor 1.5, siete airbags y un consumo que sorprende",
-      "link": "https://autotest.com.ar/noticias/el-toyota-mas-accesible-motor-1-5-siete-airbags-y-un-consumo-que-sorprende/",
-      "fuente": "Autotest",
-      "fecha": "2026-11-12T19:00:27Z",
-      "resumen": "El Toyota Yaris HB 2025 es una opción accesible y práctica para quienes buscan un subcompacto con gran equipamiento de seguridad y un consumo atractivo de hasta 19.2 km/l.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/Toyota-Yaris-Hatchback-2026-teaser.jpg",
-      "menciones": 21,
-      "fuentes": [
-        "Autotest"
-      ]
-    },
-    {
-      "titulo": "Coleccionar Hot Wheels está más de moda que nunca. Así se leen las tarjetas o cartones que vienen con cada coche",
-      "link": "https://www.motorpasion.com/cine-tv-juegos/coleccionar-hot-wheels-esta-moda-que-nunca-asi-se-leen-tarjetas-cartones-que-vienen-cada-coche",
-      "fuente": "Motorpasión (ES)",
-      "fecha": "2026-11-12T18:01:23Z",
-      "resumen": "Aunque los primeros Hot Wheels se lanzaron en 1968, los denominados ‘The Original Sweet 16’, estas miniaturas de Mattel están en plena forma porque están más de moda que nunca y cada vez hay más gente que los colecciona en todo el mundo. Lo que no saben muchos coleccionistas de Hot Wheels es qué significan los datos que vienen en las tarjetas de cada coche, es decir, en los cartones impresos en…",
-      "imagen": "https://i.blogs.es/0d6b04/hot-wheels-motorpasion-8/1024_2000.jpeg",
-      "menciones": 1,
-      "fuentes": [
-        "Motorpasión (ES)"
-      ]
-    },
-    {
-      "titulo": "Por encima de Duster: el SUV de Renault con diseño coupé, motor turbo y 140 CV",
-      "link": "https://autotest.com.ar/noticias/por-encima-de-duster-el-suv-de-renault-con-diseno-coupe-motor-turbo-y-140-cv/",
-      "fuente": "Autotest",
-      "fecha": "2026-11-12T18:00:43Z",
-      "resumen": "El Renault Arkana reduce significativamente su precio en Argentina, convirtiéndose en una opción competitiva entre los SUV turbo mild hybrid. Conoce todos los detalles de su equipamiento y especificaciones.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2025/01/Renault-Arkana-accion-1.jpg",
-      "menciones": 1,
-      "fuentes": [
-        "Autotest"
-      ]
-    },
-    {
-      "titulo": "Madrid se convierte en un concesionario gigante de autocaravanas y campers en el Puente de la Constitución",
-      "link": "https://www.motorpasion.com/furgonetas-y-caravanas/madrid-se-convierte-concesionario-gigante-autocaravanas-campers-puente-constitucion",
-      "fuente": "Motorpasión (ES)",
-      "fecha": "2026-11-12T17:01:26Z",
-      "resumen": "Entre el 4 y el 8 de diciembre , coincidiendo con el Puente de la Constitución, Madrid Expo Camper & Caravan (MECC) 2026 abre sus puertas: se trata de una de las ferias de referencia en España junto a la de Barcelona o Alicante . Se celebrará en IFEMA , convirtiendo a la Feria de Madrid en un gigantesco concesionario de autocaravanas, campers, soluciones modulares de camperización y todo tipo de…",
-      "imagen": "https://i.blogs.es/0d9fef/mecc-2026-01/1024_2000.jpeg",
-      "menciones": 1,
-      "fuentes": [
-        "Motorpasión (ES)"
-      ]
-    },
-    {
-      "titulo": "Prueba de consumo: cuánto gasta la Chevrolet Captiva híbrida enchufable en ciudad y ruta",
-      "link": "https://autotest.com.ar/noticias/prueba-de-consumo-cuanto-gasta-la-chevrolet-captiva-hibrida-enchufable-en-ciudad-y-ruta/",
-      "fuente": "Autotest",
-      "fecha": "2026-11-12T16:41:22Z",
-      "resumen": "El Chevrolet Captiva PHEV destaca por su consumo eficiente, especialmente en ciudad, combinando el motor a combustión y eléctrico.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/Chevrolet-Captiva-PHEV-5.jpg",
-      "menciones": 1,
-      "fuentes": [
-        "Autotest"
-      ]
-    },
-    {
-      "titulo": "Red Bull y Racing Bulls confirman a Nikola Tsolov como su tercer piloto para la temporada 2027",
-      "link": "https://www.diariomotor.com/competicion/noticia/red-bull-racing-bulls-nikola-tsolov-tercer-piloto-para-la-temporada-2027/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-11-12T15:59:29Z",
-      "resumen": "Tras anunciar que Liam Lawson y Arvid Lindblad van a mantener la titularidad en la escudería Racing Bulls la próxima temporada, el próximo paso era determinar cuál sería el destino de Nikola Tsolov y, tal como se presagiaba, el joven búlgaro ha sido designado como reserva tanto de Red Bull como de Racing Bulls, así que estará disponible para todos los grandes premios de 2027, lo que significa que,…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/11/Nikola_Tsolov_Racing_Bulls-FP1_B_Reserva_2027-6af5dc172f753.jpg?class=OG",
-      "menciones": 1,
-      "fuentes": [
-        "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "La pick up rival de Fiat Toro que agotó 1.000 unidades en menos de 24 horas",
-      "link": "https://autotest.com.ar/noticias/la-pick-up-rival-de-fiat-toro-que-agoto-1-000-unidades-en-menos-de-24-horas/",
-      "fuente": "Autotest",
-      "fecha": "2026-11-12T15:30:56Z",
-      "resumen": "La nueva pickup de Renault agotó sus primeras 1.000 reservas en 24 horas en Brasil y modificó precios para el segundo lote, dejando descuentos solo para ciertas versiones.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/Renault-Niagara-1.jpg",
-      "menciones": 1,
-      "fuentes": [
-        "Autotest"
-      ]
-    },
-    {
-      "titulo": "Jonny Edgar asciende hasta la formación de pilotos oficiales de Corvette Racing",
-      "link": "https://www.diariomotor.com/competicion/noticia/corvette-racing-jonny-edgar-pilotos-de-fabrica/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-11-12T15:15:58Z",
-      "resumen": "El flamante campeón de pilotos de la clase LMGT3 del Campeonato Mundial de Resistencia, Jonny Edgar, ha sido contratado por Corvette Racing para sumarse a su plantilla de fábrica a partir de la próxima temporada. El joven británico de 22 años viene de una gran temporada a bordo del Corvette Z06 GT3.R número 33 de TF Sport, compartiendo responsabilidades con los experimentados Nicky Catsburg y Ben…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/11/Jonny_Edgar_Corvette_Racing_Piloto_2027_3_27-6af5ce8c1091f.jpg?class=OG",
-      "menciones": 1,
-      "fuentes": [
-        "Diariomotor (ES)"
       ]
     }
   ]
