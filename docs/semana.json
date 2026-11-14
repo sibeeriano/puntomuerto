@@ -1,7 +1,7 @@
 {
-  "actualizado": "2026-11-13T22:00:45Z",
-  "desde": "2026-11-06",
-  "hasta": "2026-11-13",
+  "actualizado": "2026-11-14T00:28:48Z",
+  "desde": "2026-11-07",
+  "hasta": "2026-11-14",
   "destacadas": [
     {
       "titulo": "El sedán de Nissan que cuesta menos de 28.000 dólares, tiene 188 HP y tracción integral",
@@ -175,6 +175,18 @@
       ]
     },
     {
+      "titulo": "Fiat muestra todo el exterior del Argo X",
+      "link": "https://www.megautos.com/fiat-argo-x-fotos/",
+      "fuente": "Megautos",
+      "fecha": "2026-11-13T23:03:45Z",
+      "resumen": "El modelo será producido en Brasil y se comercializará en Argentina a partir del próximo año. Derivado del Grande Panda europeo, incorpora una identidad visual propia e incluye una mecánica híbrida suave. La entrada Fiat muestra todo el exterior del Argo X aparece primero en Mega Autos .",
+      "imagen": "https://www.megautos.com/wp-content/uploads/2026/11/nuevo-fiat-argo-x-02.jpg",
+      "menciones": 1,
+      "fuentes": [
+        "Megautos"
+      ]
+    },
+    {
       "titulo": "987 kg y motor 1.0 TSI: el buggy que iguala la relación peso-potencia de un Polo GTS",
       "link": "https://autotest.com.ar/noticias/987-kg-y-motor-1-0-tsi-el-buggy-que-iguala-la-relacion-peso-potencia-de-un-polo-gts/",
       "fuente": "Autotest",
@@ -292,18 +304,6 @@
       "menciones": 1,
       "fuentes": [
         "Motorpasión (ES)"
-      ]
-    },
-    {
-      "titulo": "Insólita maniobra al volante: tardó casi diez minutos en sacar su auto de un estacionamiento y desató furor en las redes",
-      "link": "https://autotest.com.ar/noticias/insolita-maniobra-al-volante-tardo-casi-diez-minutos-en-sacar-su-auto-de-un-estacionamiento-y-desato-furor-en-las-redes/",
-      "fuente": "Autotest",
-      "fecha": "2026-11-13T17:45:20Z",
-      "resumen": "Maniobrar en espacios reducidos suele ser una de las pruebas más estresantes para cualquier automovilista, pero lo ocurrido en un estacionamiento residencial superó todos los límites de la paciencia y se convirtió en un fenómeno viral. A través de una grabación difundida en las redes sociales quedó documentada la odisea de un conductor que necesitó casi […]",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/Volkswagen-Bora-mal-estacionado.jpg",
-      "menciones": 1,
-      "fuentes": [
-        "Autotest"
       ]
     }
   ]
