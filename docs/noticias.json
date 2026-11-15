@@ -16,6 +16,14 @@
     "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/mercedes-amg-one-1-063-cv-de-f1-0-a-100-1200x740-1.jpg"
   },
   {
+    "titulo": "Los cambios de AGIP para la compraventa de autos y motos en CABA",
+    "link": "https://www.iprofesional.com/actualidad/469177-compras-o-vendes-un-auto-o-una-moto-en-caba-hay-nuevos-controles-que-cambia",
+    "fuente": "iProfesional",
+    "fecha": "2026-11-15T20:00:00Z",
+    "resumen": "La normativa está vigente desde el 2 de noviembre e incorpora a las concesionarias entre los sujetos obligados a comunicar los movimientos registrales (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
+    "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/04/615047.jpg"
+  },
+  {
     "titulo": "911 de 2026: 420 CV atmosférico, 1.150 kg y sin hibridar, contra el híbrido oficial",
     "link": "https://autotest.com.ar/noticias/911-de-2026-420-cv-atmosferico-1-150-kg-y-sin-hibridar-contra-el-hibrido-oficial/",
     "fuente": "Autotest",
@@ -48,6 +56,14 @@
     "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/Nuevo-Renault-Filante.jpg"
   },
   {
+    "titulo": "Con un V12 de bolsillo capaz de llegar a las 10.000 rpm, este es el Fórmula 1 de calle de 800.000 dólares que habría conquistado los noventa... si le hubieran dejado",
+    "link": "https://www.diariomotor.com/noticia/historia-yamaha-ox99-11/",
+    "fuente": "Diariomotor (ES)",
+    "fecha": "2026-11-15T15:00:17Z",
+    "resumen": "Yamaha lleva años implicada en el diseño y construcción de motores para coche. Aunque la firma japonesa es más conocida por sus motos y sus instrumentos musicales, fueron los encargados de desarrollar el motor 4.4 V8 de los Volvo XC90 de primera generación y el agudo 4.8 V10 del fantástico Lexus LFA . Con el Motiv tendrán su primer coche de calle, desarrollado con el apoyo de Gordon Murray. Pero a…",
+    "imagen": "https://www.diariomotor.com/imagenes/2015/06/yamaha-ox99-3.jpg?class=OG"
+  },
+  {
     "titulo": "Brad Hollinger en búsqueda de gestionar el monoplaza oficial de Chevrolet para 2028",
     "link": "https://www.diariomotor.com/competicion/noticia/brad-hollinger-monoplaza-chevrolet-2028/",
     "fuente": "Diariomotor (ES)",
@@ -64,14 +80,6 @@
     "imagen": "https://www.megautos.com/wp-content/uploads/2026/11/Ford-Ranger-Super-Duty-Fenatran.jpg"
   },
   {
-    "titulo": "La situación de Mercedes podría ser peor de lo que parece",
-    "link": "https://www.motorpasion.com/industria/situacion-mercedes-podria-ser-peor-que-parece",
-    "fuente": "Motorpasión (ES)",
-    "fecha": "2026-11-15T13:01:24Z",
-    "resumen": "La todopoderosa industria automotriz alemana está en horas bajas. Por decirlo suavemente. China ha conseguido en unos pocos años que fabricantes históricos como Volkswagen se vean acorralados ante un avance tecnológico que no pueden seguir ( y que ya no venden en China ), con despidos masivos programados y las cuentas tiritando. Mercedes-Benz no está mejor . Ha paralizado todas las nuevas…",
-    "imagen": "https://i.blogs.es/f292c2/mercedes-factory-1-/1024_2000.jpeg"
-  },
-  {
     "titulo": "Esta scrambler española de 61 CV tiene un diseño espectacular, motor bicilíndrico y un precio que pone en apuros a sus rivales",
     "link": "https://www.diariomotor.com/noticia/rieju-scrambler-607/",
     "fuente": "Diariomotor (ES)",
@@ -86,6 +94,14 @@
     "fecha": "2026-11-15T13:45:21Z",
     "resumen": "El MG5 es uno de los modelos con los que la compañía perteneciente al grupo chino SAIC gana terreno en el segmento de los sedanes más compactos. Compite contra Toyota Yaris y Nissan Versa, entre otros, con un precio más bajo y una gran relación potencia-consumo, además de una promoción que lo convierte en el […]",
     "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/MG5-2026.jpg"
+  },
+  {
+    "titulo": "La situación de Mercedes podría ser peor de lo que parece",
+    "link": "https://www.motorpasion.com/industria/situacion-mercedes-podria-ser-peor-que-parece",
+    "fuente": "Motorpasión (ES)",
+    "fecha": "2026-11-15T13:01:24Z",
+    "resumen": "La todopoderosa industria automotriz alemana está en horas bajas. Por decirlo suavemente. China ha conseguido en unos pocos años que fabricantes históricos como Volkswagen se vean acorralados ante un avance tecnológico que no pueden seguir ( y que ya no venden en China ), con despidos masivos programados y las cuentas tiritando. Mercedes-Benz no está mejor . Ha paralizado todas las nuevas…",
+    "imagen": "https://i.blogs.es/f292c2/mercedes-factory-1-/1024_2000.jpeg"
   },
   {
     "titulo": "BYD Seal U vs. Song Pro: ¿vale la pena pagar $19,4 millones más?",
@@ -184,20 +200,20 @@
     "imagen": "https://www.diariomotor.com/imagenes/2019/11/mazda-mx-5-nd-vs-nb-dcd-1019-035-mdm.jpg?class=OG"
   },
   {
-    "titulo": "Un Airbus A320 con morro de Eurofighter: así se está probando el nuevo radar que equiparán los cazas españoles",
-    "link": "https://www.motorpasion.com/tecnologia/airbus-a320-morro-eurofighter-asi-se-esta-probando-nuevo-radar-que-equiparan-cazas-espanoles",
-    "fuente": "Motorpasión (ES)",
-    "fecha": "2026-11-15T08:01:20Z",
-    "resumen": "España está renovando su flota de cazas bajo el programa Halcón , con más de 40 nuevos Eurofighter Typhoon . Adaptarse a la guerra electrónica y detectar nuevas amenazas es clave, así que estos \"soldados del aire\" van a equipar un nuevo radar que ya se está desarrollando y poniendo a prueba. Lo hace en un laboratorio gigante con alas: un avión comercial al que Airbus ha instalado el morro de un…",
-    "imagen": "https://i.blogs.es/3b36f1/airbus-a320-atra-01/1024_2000.jpeg"
-  },
-  {
     "titulo": "Llega el Freelander 8, un todocamino de diseño británico e interior de alta calidad que saca provecho de los coches chinos más punteros",
     "link": "https://www.diariomotor.com/noticia/llegada-espana-freelander-8/",
     "fuente": "Diariomotor (ES)",
     "fecha": "2026-11-15T09:00:02Z",
     "resumen": "Siguen saliendo poco a poco, con cuentagotas, todas las tomas de contacto con coches nuevos que nos deparó nuestro último viaje a China, el de un servidor, concretamente, con Chery , gracias al que pudimos ver y probar los nuevos Lepas L6, Omoda 4, iCaur V25 y el protagonista de las siguientes líneas, el Freelander 8 . La denominación Freelander está de vuelta y lo hace como una marca…",
     "imagen": "https://www.diariomotor.com/imagenes/2026/07/Freelander-8-2026-28-6a6c601c413cd.jpg?class=OG"
+  },
+  {
+    "titulo": "Un Airbus A320 con morro de Eurofighter: así se está probando el nuevo radar que equiparán los cazas españoles",
+    "link": "https://www.motorpasion.com/tecnologia/airbus-a320-morro-eurofighter-asi-se-esta-probando-nuevo-radar-que-equiparan-cazas-espanoles",
+    "fuente": "Motorpasión (ES)",
+    "fecha": "2026-11-15T08:01:20Z",
+    "resumen": "España está renovando su flota de cazas bajo el programa Halcón , con más de 40 nuevos Eurofighter Typhoon . Adaptarse a la guerra electrónica y detectar nuevas amenazas es clave, así que estos \"soldados del aire\" van a equipar un nuevo radar que ya se está desarrollando y poniendo a prueba. Lo hace en un laboratorio gigante con alas: un avión comercial al que Airbus ha instalado el morro de un…",
+    "imagen": "https://i.blogs.es/3b36f1/airbus-a320-atra-01/1024_2000.jpeg"
   },
   {
     "titulo": "No es un todoterreno, pero es 4x4 y tiene un motor que se presupone irrompible, etiqueta ECO y gasta 4 litros",

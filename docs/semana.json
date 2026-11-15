@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-15T19:23:09Z",
+  "actualizado": "2026-11-15T21:05:50Z",
   "desde": "2026-11-08",
   "hasta": "2026-11-15",
   "destacadas": [
@@ -227,6 +227,18 @@
       ]
     },
     {
+      "titulo": "Los cambios de AGIP para la compraventa de autos y motos en CABA",
+      "link": "https://www.iprofesional.com/actualidad/469177-compras-o-vendes-un-auto-o-una-moto-en-caba-hay-nuevos-controles-que-cambia",
+      "fuente": "iProfesional",
+      "fecha": "2026-11-15T20:00:00Z",
+      "resumen": "La normativa está vigente desde el 2 de noviembre e incorpora a las concesionarias entre los sujetos obligados a comunicar los movimientos registrales (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
+      "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/04/615047.jpg",
+      "menciones": 1,
+      "fuentes": [
+        "iProfesional"
+      ]
+    },
+    {
       "titulo": "Mercedes-AMG One: 1.063 CV de F1, 0 a 100 en 2,9 segundos y solo 275 unidades en el mundo",
       "link": "https://autotest.com.ar/noticias/mercedes-amg-one-1-063-cv-de-f1-0-a-100-en-2-9-segundos-y-solo-275-unidades-en-el-mundo/",
       "fuente": "Autotest",
@@ -288,24 +300,12 @@
       ]
     },
     {
-      "titulo": "Brad Hollinger en búsqueda de gestionar el monoplaza oficial de Chevrolet para 2028",
-      "link": "https://www.diariomotor.com/competicion/noticia/brad-hollinger-monoplaza-chevrolet-2028/",
+      "titulo": "Con un V12 de bolsillo capaz de llegar a las 10.000 rpm, este es el Fórmula 1 de calle de 800.000 dólares que habría conquistado los noventa... si le hubieran dejado",
+      "link": "https://www.diariomotor.com/noticia/historia-yamaha-ox99-11/",
       "fuente": "Diariomotor (ES)",
-      "fecha": "2026-11-15T14:20:11Z",
-      "resumen": "Mientras HRC US avanza en su proyecto de monoplaza de fábrica en la IndyCar para la temporada de 2028, ya ha sido designado Meyer Shank Racing como equipo y se espera por confirmar al piloto, decisión que estaría entre Kakunoshin Ohta y Linus Lundqvist, desde Chevrolet no se ha emitido anuncio alguno con respecto a la planificación para su coche oficial. En tal sentido, lo que se han presentado…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/11/Juncos_Hollinger_Racing_Chevrolet_2026_NC_28-6af9afd5b168a.jpg?class=OG",
-      "menciones": 1,
-      "fuentes": [
-        "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "Esta scrambler española de 61 CV tiene un diseño espectacular, motor bicilíndrico y un precio que pone en apuros a sus rivales",
-      "link": "https://www.diariomotor.com/noticia/rieju-scrambler-607/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-11-15T14:00:51Z",
-      "resumen": "Las motos de estilo clásico están más de moda que nunca pero algunas marcas se aprovechan del tirón, fijando unos precios que quitan las ganas de acercarse al concesionario. Por suerte, una conocida marca española acaba de presentar una alternativa bastante más asequible que combina una estética scrambler muy conseguida con un potente motor bicilíndrico. No es una moto para principiantes, ya que…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/11/rieju-scrambler-6af8633dca605.jpg?class=OG",
+      "fecha": "2026-11-15T15:00:17Z",
+      "resumen": "Yamaha lleva años implicada en el diseño y construcción de motores para coche. Aunque la firma japonesa es más conocida por sus motos y sus instrumentos musicales, fueron los encargados de desarrollar el motor 4.4 V8 de los Volvo XC90 de primera generación y el agudo 4.8 V10 del fantástico Lexus LFA . Con el Motiv tendrán su primer coche de calle, desarrollado con el apoyo de Gordon Murray. Pero a…",
+      "imagen": "https://www.diariomotor.com/imagenes/2015/06/yamaha-ox99-3.jpg?class=OG",
       "menciones": 1,
       "fuentes": [
         "Diariomotor (ES)"
