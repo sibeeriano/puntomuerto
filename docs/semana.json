@@ -1,33 +1,19 @@
 {
-  "actualizado": "2026-11-14T23:24:32Z",
-  "desde": "2026-11-07",
-  "hasta": "2026-11-14",
+  "actualizado": "2026-11-15T19:23:09Z",
+  "desde": "2026-11-08",
+  "hasta": "2026-11-15",
   "destacadas": [
     {
-      "titulo": "Menos de 20.000 dólares: la nueva versión más barata de la Renault Duster para competir contra Toyota Yaris Cross",
-      "link": "https://autotest.com.ar/noticias/menos-de-20-000-dolares-la-nueva-version-mas-barata-de-la-renault-duster-para-competir-contra-toyota-yaris-cross/",
+      "titulo": "Vale menos de 15000 dólares: el sedán que es rival de Toyota Yaris y consume 5 litros cada 100 km",
+      "link": "https://autotest.com.ar/noticias/vale-menos-de-15000-dolares-el-sedan-que-es-rival-de-toyota-yaris-y-consume-5-litros-cada-100-km/",
       "fuente": "Autotest",
-      "fecha": "2026-11-14T15:07:15Z",
-      "resumen": "La Renault Duster Zen Plus llega a Brasil con un motor 1.6 flex, caja manual y un precio competitivo en el segmento de los B-SUV.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/Renault-Duster-Zen-Plus-parte-trasera.jpg",
-      "menciones": 62,
+      "fecha": "2026-11-15T13:45:21Z",
+      "resumen": "El MG5 es uno de los modelos con los que la compañía perteneciente al grupo chino SAIC gana terreno en el segmento de los sedanes más compactos. Compite contra Toyota Yaris y Nissan Versa, entre otros, con un precio más bajo y una gran relación potencia-consumo, además de una promoción que lo convierte en el […]",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/MG5-2026.jpg",
+      "menciones": 66,
       "fuentes": [
         "Autotest",
         "Diariomotor (ES)",
-        "Motorpasión (ES)"
-      ]
-    },
-    {
-      "titulo": "BYD presentó el Yangwang Altior: de qué se trata",
-      "link": "https://www.megautos.com/yangwang-altior/",
-      "fuente": "Megautos",
-      "fecha": "2026-11-14T14:23:09Z",
-      "resumen": "La automotriz china lo estrenó mundialmente en Abu Dabi. Es un modelo 100% eléctrico de cuatro plazas, con más de 1.000 kilómetros de autonomía y un interior desarrollado con materiales y técnicas de la artesanía china. La entrada BYD presentó el Yangwang Altior: de qué se trata aparece primero en Mega Autos .",
-      "imagen": "https://www.megautos.com/wp-content/uploads/2026/11/YANGWANG-ALTIOR-Lifestyle-Image-7.jpg.jpg",
-      "menciones": 3,
-      "fuentes": [
-        "Diariomotor (ES)",
-        "Megautos",
         "Motorpasión (ES)"
       ]
     },
@@ -46,16 +32,68 @@
       ]
     },
     {
-      "titulo": "El renovado Toyota Corolla 2027: motor turbo de 196 CV y consumo de menos de 3 litros cada 100 km",
-      "link": "https://autotest.com.ar/noticias/el-renovado-toyota-corolla-2027-motor-turbo-de-196-cv-y-consumo-de-menos-de-3-litros-cada-100-km/",
+      "titulo": "Maxus T60 Max: 500 Nm, 4×4 con reductora y 3.000 kg de remolque por menos que una Ranger",
+      "link": "https://autotest.com.ar/offroad/maxus-t60-max-500-nm-4x4-con-reductora-y-3-000-kg-de-remolque-por-menos-que-una-ranger/",
       "fuente": "Autotest",
-      "fecha": "2026-11-14T12:00:40Z",
-      "resumen": "Toyota renovó el Corolla 2027 en México con una actualización centrada en conectividad, seguridad y equipamiento y una esencia general que no se perdió. Aparte de sus diferentes opciones de motorización, la marca prepara otra nueva generación con consumo de solo 3 litros de cada 100 km, el más bajo desde su debut. La compañía […]",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/Nuevo-Toyota-Corolla.webp",
-      "menciones": 4,
+      "fecha": "2026-11-15T17:44:31Z",
+      "resumen": "No hay un dato local confirmado para la Argentina, porque la red de Maxus en el país es pequeña y la T60 Max no se comercializa de forma masiva.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/maxus-t60-max-500-nm-4x4-con-reductora-y-1200x740-1.jpg",
+      "menciones": 3,
       "fuentes": [
         "Autotest",
         "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "911 de 2026: 420 CV atmosférico, 1.150 kg y sin hibridar, contra el híbrido oficial",
+      "link": "https://autotest.com.ar/noticias/911-de-2026-420-cv-atmosferico-1-150-kg-y-sin-hibridar-contra-el-hibrido-oficial/",
+      "fuente": "Autotest",
+      "fecha": "2026-11-15T16:59:27Z",
+      "resumen": "Hace más de una década que Singer y Gunther Werks reimaginan 911 clásicos con materiales modernos y motores aspirados.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/911-de-2026-420-cv-atmosf-rico-1-150-kg-1200x740-1.jpg",
+      "menciones": 2,
+      "fuentes": [
+        "Autotest",
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "Ford presentó la Ranger Super Duty en la región",
+      "link": "https://www.megautos.com/ford-ranger-super-duty/",
+      "fuente": "Megautos",
+      "fecha": "2026-11-15T14:17:52Z",
+      "resumen": "Fue una de las atracciones de la marca en Fenatran, Brasil. Tiene una configuración especial para tareas exigentes, mayor capacidad de carga y soluciones específicas para el uso todoterreno. La entrada Ford presentó la Ranger Super Duty en la región aparece primero en Mega Autos .",
+      "imagen": "https://www.megautos.com/wp-content/uploads/2026/11/Ford-Ranger-Super-Duty-Fenatran.jpg",
+      "menciones": 2,
+      "fuentes": [
+        "Autotest",
+        "Megautos"
+      ]
+    },
+    {
+      "titulo": "Kia Sportage híbrido: 239 CV, 587 litros y menos de 28.000 euros, por debajo del Tucson y el RAV4",
+      "link": "https://autotest.com.ar/noticias/kia-sportage-hibrido-239-cv-587-litros-y-menos-de-28-000-euros-por-debajo-del-tucson-y-el-rav4/",
+      "fuente": "Autotest",
+      "fecha": "2026-11-15T11:00:00Z",
+      "resumen": "El modelo de quinta generación, presentado en Europa entre 2021 y 2022, se convirtió en el auto más vendido de Kia a nivel global y en un protagonista del segmento C-SUV en España.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/kia-sportage-h-brido-239-cv-587-litros-y-1200x740-1.jpg",
+      "menciones": 2,
+      "fuentes": [
+        "Autotest",
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "BYD presentó el Yangwang Altior: de qué se trata",
+      "link": "https://www.megautos.com/yangwang-altior/",
+      "fuente": "Megautos",
+      "fecha": "2026-11-14T14:23:09Z",
+      "resumen": "La automotriz china lo estrenó mundialmente en Abu Dabi. Es un modelo 100% eléctrico de cuatro plazas, con más de 1.000 kilómetros de autonomía y un interior desarrollado con materiales y técnicas de la artesanía china. La entrada BYD presentó el Yangwang Altior: de qué se trata aparece primero en Mega Autos .",
+      "imagen": "https://www.megautos.com/wp-content/uploads/2026/11/YANGWANG-ALTIOR-Lifestyle-Image-7.jpg.jpg",
+      "menciones": 2,
+      "fuentes": [
+        "Diariomotor (ES)",
+        "Megautos"
       ]
     },
     {
@@ -189,16 +227,51 @@
       ]
     },
     {
-      "titulo": "Ford lanzó la Transit City eléctrica en Argentina",
-      "link": "https://www.megautos.com/ford-transit-city-electrica-precio/",
-      "fuente": "Megautos",
-      "fecha": "2026-11-11T15:07:32Z",
-      "resumen": "La nueva van comercial se ofrece en tres configuraciones, con hasta 381 kilómetros de autonomía y una capacidad de carga máxima de 1.600 kilos. Cuánto cuesta cada versión. La entrada Ford lanzó la Transit City eléctrica en Argentina aparece primero en Mega Autos .",
-      "imagen": "https://www.megautos.com/wp-content/uploads/2026/11/Ford-Transit-City-Fenatran-2026-1.jpg",
+      "titulo": "Mercedes-AMG One: 1.063 CV de F1, 0 a 100 en 2,9 segundos y solo 275 unidades en el mundo",
+      "link": "https://autotest.com.ar/noticias/mercedes-amg-one-1-063-cv-de-f1-0-a-100-en-2-9-segundos-y-solo-275-unidades-en-el-mundo/",
+      "fuente": "Autotest",
+      "fecha": "2026-11-15T17:44:31Z",
+      "resumen": "La ciudad tiene una cultura de coleccionismo fuerte, impulsada por empresarios locales, la industrialización y la cercanía con Estados Unidos.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/mercedes-amg-one-1-063-cv-de-f1-0-a-100-1200x740-1.jpg",
       "menciones": 2,
       "fuentes": [
-        "Autotest",
+        "Autotest"
+      ]
+    },
+    {
+      "titulo": "Fiat Argo X: así es el interior",
+      "link": "https://www.megautos.com/fiat-argo-x-interior/",
+      "fuente": "Megautos",
+      "fecha": "2026-11-15T16:36:56Z",
+      "resumen": "Una fotografía difundida en Brasil permite conocer cómo será el habitáculo del nuevo hatchback con estética SUV de Fiat. El modelo será producido en el país vecino y tiene previsto su desembarco en Argentina durante 2027. La entrada Fiat Argo X: así es el interior aparece primero en Mega Autos .",
+      "imagen": "https://www.megautos.com/wp-content/uploads/2026/11/Fiat-Argo-X-foto-exterior.jpg",
+      "menciones": 1,
+      "fuentes": [
         "Megautos"
+      ]
+    },
+    {
+      "titulo": "Nuevas imágenes de la pick up compacta de Toyota",
+      "link": "https://www.megautos.com/pick-up-toyota-corolla-deck-pruebas-fotos/",
+      "fuente": "Megautos",
+      "fecha": "2026-11-15T15:30:34Z",
+      "resumen": "La futura camioneta de la marca japonesa, que se llamaría Corolla Deck, volvió a quedar expuesta durante pruebas en Brasil. Las imágenes espía permiten observar detalles de su sector trasero. La entrada Nuevas imágenes de la pick up compacta de Toyota aparece primero en Mega Autos .",
+      "imagen": "https://www.megautos.com/wp-content/uploads/2026/11/toyota-corolla-deck-pruebas-carroceria-final-2.jpg",
+      "menciones": 1,
+      "fuentes": [
+        "Megautos"
+      ]
+    },
+    {
+      "titulo": "3 motores, 250 CV y pantallas de 12.3 pulgadas: así es el nuevo Renault que está arriba de Duster",
+      "link": "https://autotest.com.ar/noticias/3-motores-250-cv-y-pantallas-de-12-3-pulgadas-asi-es-el-nuevo-renault-que-esta-arriba-de-duster/",
+      "fuente": "Autotest",
+      "fecha": "2026-11-15T15:05:31Z",
+      "resumen": "Renault lanzó en la región el nuevo Filante, el SUV con diseño coupé que está arriba de Duster y se consolida como el más grande y sofisticado de toda la gama. Tiene 230 CV, tres motores y una dotación muy completa. Tras ser lanzado en Corea del Sur ya está disponible en Colombia y se […]",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/Nuevo-Renault-Filante.jpg",
+      "menciones": 1,
+      "fuentes": [
+        "Autotest"
       ]
     },
     {
@@ -215,99 +288,27 @@
       ]
     },
     {
-      "titulo": "El circuito más mítico de Japón tenía una curva tan dantesca que costó tres vidas. Ahora puedes recorrerla en un simulador de carreras",
-      "link": "https://www.motorpasion.com/cine-tv-juegos/circuito-fuji-speedway-tenia-curva-peligrosa-que-costo-tres-vidas-ahora-puedes-recorrerla-simulador-carreras",
-      "fuente": "Motorpasión (ES)",
-      "fecha": "2026-11-14T20:01:21Z",
-      "resumen": "El Fuji Speedway es uno de los circuitos más emblemáticos de Japón, y probablemente uno de los más bonitos del mundo. Situado a los pies del Monte Fuji, tiene una longitud de 4.563 metros y cuenta con 16 curvas además de una de las rectas principales más largas. Pero en los 60 su trazado era bastante distinto: el plan era construir un superóvalo al estilo de Daytona para traer la NASCAR a Japón,…",
-      "imagen": "https://i.blogs.es/4781be/portada-mop-1794570638440/1024_2000.jpeg",
+      "titulo": "Brad Hollinger en búsqueda de gestionar el monoplaza oficial de Chevrolet para 2028",
+      "link": "https://www.diariomotor.com/competicion/noticia/brad-hollinger-monoplaza-chevrolet-2028/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-11-15T14:20:11Z",
+      "resumen": "Mientras HRC US avanza en su proyecto de monoplaza de fábrica en la IndyCar para la temporada de 2028, ya ha sido designado Meyer Shank Racing como equipo y se espera por confirmar al piloto, decisión que estaría entre Kakunoshin Ohta y Linus Lundqvist, desde Chevrolet no se ha emitido anuncio alguno con respecto a la planificación para su coche oficial. En tal sentido, lo que se han presentado…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/11/Juncos_Hollinger_Racing_Chevrolet_2026_NC_28-6af9afd5b168a.jpg?class=OG",
       "menciones": 1,
       "fuentes": [
-        "Motorpasión (ES)"
+        "Diariomotor (ES)"
       ]
     },
     {
-      "titulo": "Sigues por la vía preferente y aun así te pueden multar con 200 euros: el error con el intermitente que se repite en los cruces con itinerario prioritario",
-      "link": "https://www.motorpasion.com/revision/sigues-via-preferente-asi-te-pueden-multar-200-euros-error-intermitente-que-se-repite-cruces-itinerario-prioritario",
-      "fuente": "Motorpasión (ES)",
-      "fecha": "2026-11-14T19:01:21Z",
-      "resumen": "Hay cruces en los que la vía preferente no sigue recta sino que cambia de dirección . En España lo reconocerás por la señal R-3, \"calzada con prioridad\", acompañada del panel de la serie S-850, que dibuja el trazado de la vía y corresponde al \" itinerario con prioridad \". Y en este caso, el error típico es considerar que vamos recto aunque hayamos girado en el cruce y no señalizar el cambio de…",
-      "imagen": "https://i.blogs.es/0551cb/itinerario-priroritario/1024_2000.jpeg",
+      "titulo": "Esta scrambler española de 61 CV tiene un diseño espectacular, motor bicilíndrico y un precio que pone en apuros a sus rivales",
+      "link": "https://www.diariomotor.com/noticia/rieju-scrambler-607/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-11-15T14:00:51Z",
+      "resumen": "Las motos de estilo clásico están más de moda que nunca pero algunas marcas se aprovechan del tirón, fijando unos precios que quitan las ganas de acercarse al concesionario. Por suerte, una conocida marca española acaba de presentar una alternativa bastante más asequible que combina una estética scrambler muy conseguida con un potente motor bicilíndrico. No es una moto para principiantes, ya que…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/11/rieju-scrambler-6af8633dca605.jpg?class=OG",
       "menciones": 1,
       "fuentes": [
-        "Motorpasión (ES)"
-      ]
-    },
-    {
-      "titulo": "Suzuki ha encontrado la forma de tener una camper con cama para dos por 11.000 euros sin tener que instalarle nada",
-      "link": "https://www.motorpasion.com/furgonetas-y-caravanas/suzuki-ha-encontrado-forma-tener-camper-cama-para-dos-11-000-euros-tener-que-instalarle-nada",
-      "fuente": "Motorpasión (ES)",
-      "fecha": "2026-11-14T17:01:24Z",
-      "resumen": "El concepto minicamper puede ser desde una Citroën Berlingo con un kit modular camper a un coche con cama de accesorio . Ya parece increíble que una Berlingo, o sus primas hermanas de Peugeot y Opel, sean una casa con ruedas midiendo 4,7 m de largo, pero en Japón se pasan directamente el juego. Suzuki estrena ahora la nueva generación de la Spacia Ba se , que es una furgoneta kei car . Y su gran…",
-      "imagen": "https://i.blogs.es/e5d8d7/suzuki-camper-kei-car-03/1024_2000.jpeg",
-      "menciones": 1,
-      "fuentes": [
-        "Motorpasión (ES)"
-      ]
-    },
-    {
-      "titulo": "Toyota anticipa la renovación de la Hilux en Argentina",
-      "link": "https://www.megautos.com/nueva-toyota-hilux-argentina-anticipo/",
-      "fuente": "Megautos",
-      "fecha": "2026-11-14T16:22:42Z",
-      "resumen": "La pick up fabricada en nuestro país se prepara para estrenar una actualización que modificará su imagen y renovará su habitáculo. También existe expectativa por la posible llegada de una motorización electrificada. La entrada Toyota anticipa la renovación de la Hilux en Argentina aparece primero en Mega Autos .",
-      "imagen": "https://www.megautos.com/wp-content/uploads/2026/11/Nueva-Toyota-Hilux-teaser-02.jpg",
-      "menciones": 1,
-      "fuentes": [
-        "Megautos"
-      ]
-    },
-    {
-      "titulo": "Spyker vuelve con una hypercar de 50 unidades para todo el mundo: el fracaso de Saab que desafía a Bugatti",
-      "link": "https://autotest.com.ar/noticias/spyker-vuelve-con-una-hypercar-de-50-unidades-para-todo-el-mundo-el-fracaso-de-saab-que-desafia-a-bugatti/",
-      "fuente": "Autotest",
-      "fecha": "2026-11-14T15:44:24Z",
-      "resumen": "El plan actual repite la receta de las 50 unidades, pero la diferencia es que ahora los tres rivales a los que apunta tienen programas de ingeniería consolidados, récords y líneas de producción activas.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/spyker-vuelve-con-una-hypercar-de-50-uni-1200x740-1.jpg",
-      "menciones": 1,
-      "fuentes": [
-        "Autotest"
-      ]
-    },
-    {
-      "titulo": "El Bronco que parece un hot rod de los 60 pero calza 37″ y suspensión Bilstein",
-      "link": "https://autotest.com.ar/offroad/el-bronco-que-parece-un-hot-rod-de-los-60-pero-calza-37-y-suspension-bilstein/",
-      "fuente": "Autotest",
-      "fecha": "2026-11-14T15:44:24Z",
-      "resumen": "La pintura es el otro gran protagonista. A diferencia de un wrap, el bronce del Clasico está aplicado a mano, con capas, lijado y pulido que le dan una profundidad difícil de lograr con vinilo.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/el-bronco-que-parece-un-hot-rod-de-los-6-1200x740-1.jpg",
-      "menciones": 1,
-      "fuentes": [
-        "Autotest"
-      ]
-    },
-    {
-      "titulo": "El Clase G de Sbarro que calza ruedas de Boeing: 1,4 metros de diámetro y garaje para una moto",
-      "link": "https://autotest.com.ar/offroad/el-clase-g-de-sbarro-que-calza-ruedas-de-boeing-1-4-metros-de-diametro-y-garaje-para-una-moto/",
-      "fuente": "Autotest",
-      "fecha": "2026-11-14T15:44:24Z",
-      "resumen": "Este tipo de solución tiene más que ver con la conveniencia de exhibición que con la practicidad real.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/el-clase-g-de-sbarro-que-calza-ruedas-de-1200x740-1.jpg",
-      "menciones": 1,
-      "fuentes": [
-        "Autotest"
-      ]
-    },
-    {
-      "titulo": "Sanrivatti One: V10 de 800 CV y manejo acostado como una moto, solo para circuito",
-      "link": "https://autotest.com.ar/noticias/sanrivatti-one-v10-de-800-cv-y-manejo-acostado-como-una-moto-solo-para-circuito/",
-      "fuente": "Autotest",
-      "fecha": "2026-11-14T14:59:20Z",
-      "resumen": "No hay cifras oficiales de peso, aceleración, velocidad máxima ni carga aerodinámica.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/sanrivatti-one-v10-de-800-cv-y-manejo-ac-1200x740-1.jpg",
-      "menciones": 1,
-      "fuentes": [
-        "Autotest"
+        "Diariomotor (ES)"
       ]
     }
   ]
