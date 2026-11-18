@@ -1,16 +1,16 @@
 {
-  "actualizado": "2026-11-18T01:52:37Z",
+  "actualizado": "2026-11-18T21:26:17Z",
   "desde": "2026-11-11",
   "hasta": "2026-11-18",
   "destacadas": [
     {
-      "titulo": "Más barato que Toyota Corolla Cross: el SUV híbrido con 232 HP y hasta 1.250 km de autonomía",
-      "link": "https://autotest.com.ar/noticias/mas-barato-que-toyota-corolla-cross-el-suv-hibrido-con-232-hp-y-hasta-1-250-km-de-autonomia/",
+      "titulo": "El SUV de Renault rival de Toyota Yaris Cross con motor turbo de 155 CV y tracción 4×4",
+      "link": "https://autotest.com.ar/noticias/el-suv-de-renault-rival-de-toyota-yaris-cross-con-motor-turbo-de-155-cv-y-traccion-4x4/",
       "fuente": "Autotest",
-      "fecha": "2026-11-17T18:00:41Z",
-      "resumen": "El GAC GS4 Max llega a Argentina ofreciendo un sistema híbrido enchufable, 232 HP y una autonomía de hasta 1.250 km por solo USD 34.990.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/SUV-GAC-GS4-MAX-teaser.jpg",
-      "menciones": 30,
+      "fecha": "2026-11-18T19:00:28Z",
+      "resumen": "Conoce todos los detalles sobre la nueva Renault Duster 4x4 2026, desde su motor turbo hasta su equipamiento orientado al off-road.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2024/07/SUV-Renault-Duster-Iconic-accion.jpg",
+      "menciones": 21,
       "fuentes": [
         "Autotest",
         "Diariomotor (ES)",
@@ -18,16 +18,81 @@
       ]
     },
     {
-      "titulo": "El SUV de Toyota con tamaño de Yaris Cross, 163 CV y tracción 4×4",
-      "link": "https://autotest.com.ar/noticias/el-suv-de-toyota-con-tamano-de-yaris-cross-163-cv-y-traccion-4x4/",
+      "titulo": "Cómo es la nueva camioneta compacta Toyota Corolla Deck que se venderá en Argentina",
+      "link": "https://www.iprofesional.com/autos/469463-como-es-la-nueva-camioneta-compacta-toyota-corolla-deck-que-se-vendera-en-argentina",
+      "fuente": "iProfesional",
+      "fecha": "2026-11-18T18:59:00Z",
+      "resumen": "Se producirá desde el 2027 en la planta de San Pablo, en Brasil, tras una inversión de unos u$s2.000 millones. Cómo es la nueva camioneta (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
+      "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/11/630084.jpg",
+      "menciones": 2,
+      "fuentes": [
+        "iProfesional",
+        "Megautos"
+      ]
+    },
+    {
+      "titulo": "¿Mejor que Corolla Cross? El SUV híbrido de 190 CV que gasta casi lo mismo en ciudad que a 100 km/h",
+      "link": "https://autotest.com.ar/noticias/haval-jolion-hev-suv-consumo-sorprendente-en-ciudad-y-ruta/",
       "fuente": "Autotest",
-      "fecha": "2026-11-17T19:00:02Z",
-      "resumen": "Toyota introduce el Land Cruiser FJ en Venezuela, un 4x4 compacto basado en la plataforma de la Hilux, diseñado para desafiar terrenos difíciles con su motor de 163 CV y tracción 4x4. Su llegada a Argentina aún es incierta.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/07/Toyota-Land-Cruiser-FJ-perfil.jpg",
-      "menciones": 17,
+      "fecha": "2026-11-18T17:11:54Z",
+      "resumen": "El Haval Jolion HEV demuestra un consumo casi idéntico tanto en condiciones urbanas como a 100 km/h, lo que lo convierte en una opción destacada para la eficiencia.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/Haval-Jolion-SUV.jpg",
+      "menciones": 12,
       "fuentes": [
         "Autotest",
         "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "Recuerda a un Lada Niva, pero es un 4x4 de 408 CV, y recorre 95 km sin gastar gasolina, por 20.000 € menos que un Land Cruiser",
+      "link": "https://www.diariomotor.com/noticia/gwm-tank-300-precio-espana/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-11-18T16:36:18Z",
+      "resumen": "Ya están aquí. Tanto tiempo advirtiendo de ello y por fin se ha producido uno de los acontecimientos más esperados en mucho tiempo. Una nueva generación de verdaderos todoterreno asiáticos ha llegado a Europa. Son muy tecnológicos, potentes, capaces, y cuestan muchísimo menos que los productos que conocíamos hasta ahora. Es un verdadero 4x4 , con bastidor de largueros, reductora, eje rígido…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/09/Tank-300-MY37-6aa6ca5775957.jpg?class=OG",
+      "menciones": 5,
+      "fuentes": [
+        "Autotest",
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "Yamaha tuvo un F1 de calle con V12 a 10.000 rpm y lo descartó: 400 CV, chasis de carbono y 0 unidades",
+      "link": "https://autotest.com.ar/noticias/yamaha-tuvo-un-f1-de-calle-con-v12-a-10-000-rpm-y-lo-descarto-400-cv-chasis-de-carbono-y-0-unidades/",
+      "fuente": "Autotest",
+      "fecha": "2026-11-18T14:51:02Z",
+      "resumen": "El OX99-11 se desarrolló con la consultora británica IAD y alcanzó la etapa de prototipos funcionales.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/yamaha-tuvo-un-f1-de-calle-con-v12-a-10-1200x740-1.jpg",
+      "menciones": 2,
+      "fuentes": [
+        "Autotest",
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "Toyota ya piensa en nuevos modelos para fabricar en la Argentina tras el anuncio de la Tacoma",
+      "link": "https://www.iprofesional.com/autos/469404-toyota-piensa-en-nuevos-modelos-para-fabricar-en-el-pais-tras-el-anuncio-de-tacoma",
+      "fuente": "iProfesional",
+      "fecha": "2026-11-18T09:20:00Z",
+      "resumen": "Gustavo Salinas, presidente de Toyota, explicó que la inversión para producir la pick up híbrida contempla una planta con capacidad para más modelos (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
+      "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/11/630036.jpg",
+      "menciones": 2,
+      "fuentes": [
+        "iProfesional",
+        "Megautos"
+      ]
+    },
+    {
+      "titulo": "Mayores bonus por multar, que por vigilar y proteger a los conductores, la Guardia Civil denuncia unos incentivos perversos que no reconoce la presencia en carretera",
+      "link": "https://www.diariomotor.com/noticia/denuncia-guardia-civil-incentivos-borrador-productividad-atgc/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-11-18T06:30:23Z",
+      "resumen": "Se han convertido para muchos en el coco, en el que te reprende, y multa, cuando cometes una infracción. Y a menudo nos olvidamos del papel fundamental que juega la agrupación de Tráfico de la Guardia Civil en el mantenimiento de seguridad vial . Cuando se produce un siniestro, son los primeros que acuden para atender los accidentes de tráfico . Los que se pasan el día en un coche, o una moto, en…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/11/guardia-civil-trafico-6afd42edb83cf.jpg?class=OG",
+      "menciones": 2,
+      "fuentes": [
+        "Diariomotor (ES)",
+        "Motorpasión (ES)"
       ]
     },
     {
@@ -63,7 +128,7 @@
       "fecha": "2026-11-17T13:15:15Z",
       "resumen": "Si el KIA Seltos ha sido uno de los coches más esperados de la marca coreana este año por el efecto comercial que puede tener en el mercado durante los próximos años, dentro de su oferta mecánica era la motorización híbrida convencional la que más expectación había generado, y ya sabemos todo sobre ella. Y es que, en un primer momento, KIA puso a la venta el Seltos únicamente con un motor de…",
       "imagen": "https://www.diariomotor.com/imagenes/2026/11/KIA-seltos-HEV-Precio-Espana-4-6afc4faf2395d.jpg?class=OG",
-      "menciones": 8,
+      "menciones": 7,
       "fuentes": [
         "Autotest",
         "Diariomotor (ES)"
@@ -83,19 +148,6 @@
       ]
     },
     {
-      "titulo": "Europa recuperando viejas glorias, y llega Estados Unidos para lanzar un todoterreno por menos de 20.000 €, con precio de Dacia Duster y la sencillez de un Lada Niva",
-      "link": "https://www.diariomotor.com/noticia/reo-runabout-t4x-t4c-s4c/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-11-17T05:00:34Z",
-      "resumen": "Bienvenidos a Europa, donde la industria sigue trabajando duro para aliviar la presión cada vez mayor de una industria china con cada vez mayor presencia. Entre los proyectos más interesantes los que han propuesto marcas como Renault, recuperando coches emblemáticos como el Renault 4, el Renault 5 o el primer Renault Twingo. Citroën hará pronto lo propio, lanzando un nuevo Citroën 2CV. Ahora…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/11/reo-runabout-t4c-2027-exterior-08-6afbdeb81fd3c.jpg?class=OG",
-      "menciones": 4,
-      "fuentes": [
-        "Diariomotor (ES)",
-        "Motorpasión (ES)"
-      ]
-    },
-    {
       "titulo": "Nissan Qashqai 2026: 20 años sin crecer, 4,42 m y 504 litros para seguir reinando en la ciudad",
       "link": "https://autotest.com.ar/noticias/nissan-qashqai-2026-20-anos-sin-crecer-4-42-m-y-504-litros-para-seguir-reinando-en-la-ciudad/",
       "fuente": "Autotest",
@@ -109,200 +161,147 @@
       ]
     },
     {
-      "titulo": "Lamborghini Temerario: 920 CV y 10.000 rpm, pero tuvo que corregir el escape para sonar como un Lamborghini",
-      "link": "https://autotest.com.ar/noticias/lamborghini-temerario-920-cv-y-10-000-rpm-pero-tuvo-que-corregir-el-escape-para-sonar-como-un-lamborghini/",
-      "fuente": "Autotest",
-      "fecha": "2026-11-14T11:00:13Z",
-      "resumen": "La arquitectura HPEV (High Performance Electrified Vehicle) no se tocó: el sistema híbrido enchufable con batería de 3,8 kWh ubicada en el túnel central mantiene sus parámetros.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/lamborghini-temerario-920-cv-y-10-000-rp-1200x740-1.jpg",
-      "menciones": 2,
-      "fuentes": [
-        "Autotest",
-        "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "Cambio manual vs. automático: 15% más barato, 40 kg menos y hasta USD 800 menos de mantenimiento",
-      "link": "https://autotest.com.ar/noticias/cambio-manual-vs-automatico-15-mas-barato-40-kg-menos-y-hasta-usd-800-menos-de-mantenimiento/",
-      "fuente": "Autotest",
-      "fecha": "2026-11-14T11:00:00Z",
-      "resumen": "El argumento que menos se explica es el legal: en muchas jurisdicciones argentinas, rendir el examen práctico con caja automática deja la licencia con la restricción \"solo automático\".",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/cambio-manual-vs-autom-tico-15-m-s-barat-1200x740-1.jpg",
-      "menciones": 2,
-      "fuentes": [
-        "Autotest",
-        "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "1.914 CV y 0 a 100 en 1,85 segundos: por qué el Rimac Nevera fracasó y deja de fabricarse",
-      "link": "https://autotest.com.ar/noticias/1-914-cv-y-0-a-100-en-1-85-segundos-por-que-el-rimac-nevera-fracaso-y-deja-de-fabricarse/",
-      "fuente": "Autotest",
-      "fecha": "2026-11-14T11:00:00Z",
-      "resumen": "La compañía también avanza en movilidad autónoma con Verne, una marca separada de robotaxis que forma parte de su diversificación.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/1-914-cv-y-0-a-100-en-1-85-segundos-por-1200x740-1.jpg",
-      "menciones": 2,
-      "fuentes": [
-        "Autotest",
-        "Motorpasión (ES)"
-      ]
-    },
-    {
-      "titulo": "Dani Pedrosa se ha enfrentado a un F1, un coche de rally, una motonieve y una pick-up sobre un lago helado. Ha ganado a todos",
-      "link": "https://www.motorpasion.com/videos-de-coches/dani-pedrosa-se-ha-enfrentado-a-f1-coche-rally-motonieve-pick-up-lago-helado-ha-quedado-primero",
+      "titulo": "Soichiro Honda, fundador de Honda: \"El éxito representa el 1% de tu trabajo, el cual resulta únicamente del 99% que se llama fracaso\"",
+      "link": "https://www.motorpasion.com/honda/soichiro-honda-fundador-honda-exito-representa-1-tu-trabajo-cual-resulta-unicamente-99-que-se-llama-fracaso",
       "fuente": "Motorpasión (ES)",
-      "fecha": "2026-11-17T20:01:24Z",
-      "resumen": "Red Bull ha decidido montar una carrera poco ortodoxa sobre un lago helado en Wisconsin, EEUU, haciendo competir a cinco vehículos de lo más variopinto. Hablamos de un monoplaza de F1, de una moto de MotoGP, un coche de rallies, una pick-up Pro 4 que incluso acaba saltando por los aires durante la carrera y una moto de nieve. Una carrera bastante loca que ha conseguido ganar Dani Pedrosa. La moto…",
-      "imagen": "https://i.blogs.es/e80546/portada-mop-1794915461399/1024_2000.jpeg",
+      "fecha": "2026-11-18T20:01:18Z",
+      "resumen": "“Mucha gente sueña con el éxito. En mi opinión, el éxito solo se alcanza tras una sucesión de fracasos y de introspección. De hecho, el éxito representa el 1 % de tu trabajo , que a su vez contiene un 99 % de lo que podríamos llamar fracaso .” Soichiro Honda, fundador de Honda Motor Company, resumía así el éxito alcanzado. Pocas biografías ilustran tan bien esa idea como la de Soichiro Honda, la…",
+      "imagen": "https://i.blogs.es/c81bee/plantilla-diagonal/1024_2000.jpeg",
       "menciones": 1,
       "fuentes": [
         "Motorpasión (ES)"
       ]
     },
     {
-      "titulo": "Esta semana vuelve a LIDL el cargador de batería para coche más vendido y que siempre está agotado por menos de 12 euros",
-      "link": "https://www.motorpasion.com/revision/vuelve-a-lidl-cargador-bateria-para-coche-vendido-que-siempre-esta-agotado-12-eur",
-      "fuente": "Motorpasión (ES)",
-      "fecha": "2026-11-17T19:01:23Z",
-      "resumen": "Las baterías tienen una vida útil limitada , de entre 4 y 5 años, aproximadamente. Y si bien no hay un buen momento para quedarse tirado porque el coche se niega a arrancar por una batería agotada, cuando llega el frío es especialmente frustrante. Con frío intenso y tras varios días de inactividad, una batería algo floja puede descargarse rápidamente. Antes de tirar la batería a la basura, hay una…",
-      "imagen": "https://i.blogs.es/7a6893/bateria-ultimate-speed-lidl/1024_2000.jpeg",
-      "menciones": 1,
-      "fuentes": [
-        "Motorpasión (ES)"
-      ]
-    },
-    {
-      "titulo": "El Rally de Argentina volverá al WRC en 2028 con Córdoba como sede",
-      "link": "https://autotest.com.ar/carreras/el-rally-de-argentina-volvera-al-wrc-en-2028-con-cordoba-como-sede/",
-      "fuente": "Autotest",
-      "fecha": "2026-11-13T14:51:48Z",
-      "resumen": "Córdoba volverá a ser el epicentro mundial del Rally en 2028 tras confirmarse un acuerdo plurianual con el WRC. Un evento candidato en 2027 precederá el esperado retorno.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/vuelve-el-wrc-a-argentina1.jpg",
-      "menciones": 2,
-      "fuentes": [
-        "Autotest",
-        "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "Del consumo anticipado al financiamiento: cómo cambió la economía de los hogares entre 2023 y 2026",
-      "link": "https://www.iprofesional.com/autos/468902-del-consumo-anticipado-al-financiamiento-asi-cambio-la-logica-hogarena-entre-2023-y-2026",
+      "titulo": "Toyota fabricará la nueva camioneta compacta Deck en Brasil y se venderá en Argentina",
+      "link": "https://www.iprofesional.com/autos/469467-toyota-fabricara-la-nueva-camioneta-compacta-deck-en-brasil-y-se-vendera-en-argentina",
       "fuente": "iProfesional",
-      "fecha": "2026-11-17T18:19:00Z",
-      "resumen": "El contraste entre el desplome de las compras diarias y la suba en la adquisición de autos genera preguntas sobre los nuevos hábitos de gasto (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
-      "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2025/05/597049.jpg",
-      "menciones": 1,
+      "fecha": "2026-11-18T19:26:00Z",
+      "resumen": "La automotriz inauguró una planta en Sorocaba, San Pablo, y presentó uno de los modelos que será producido en las instalaciones (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
+      "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/11/630087.jpg",
+      "menciones": 2,
       "fuentes": [
         "iProfesional"
       ]
     },
     {
-      "titulo": "Los romanos ya tenían áreas de servicio hace 2.000 años: encuentran en Córdoba una con habitaciones, baños y hasta aparcamiento para caballos",
-      "link": "https://www.motorpasion.com/industria/romanos-tenian-areas-servicio-hace-2-000-anos-encuentran-cordoba-habitaciones-banos-aparcamiento-para-caballos",
+      "titulo": "Juan José Ebenezer, mecánico: “El aceite varía en función de la temperatura y eso es muy importante que lo tengas claro”",
+      "link": "https://www.motorpasion.com/revision/juan-jose-ebenezer-mecanico-haces-vas-a-marcar-antes-despues-durabilidad-tu-coche",
       "fuente": "Motorpasión (ES)",
-      "fecha": "2026-11-17T18:01:22Z",
-      "resumen": "Hoy, en pleno 2026, tenemos gasolineras, restaurantes y áreas de descanso junto a las autovías… Todo lo que uno podría necesitar para hacer un alto en el camino. Hace casi 2.000 años era inimaginable : ¿o sí? Porque hace 2.000 años los viajeros del Imperio romano también necesitaban lugares donde detenerse, dormir y atender o cambiar a los animales que tiraban de sus carruajes. Y en Córdoba acaba…",
-      "imagen": "https://i.blogs.es/3260d9/portada-mop-1794917143867/1024_2000.jpeg",
+      "fecha": "2026-11-18T19:00:00Z",
+      "resumen": "Una de las dudas más recurrentes a la hora de hacer el mantenimiento al coche, sobre todo, si se lo haces tú mismo y no llevas el coche a un taller, es qué aceite de motor utilizar . Lo suyo es optar por el aceite que indica el fabricante en el manual del coche, pero en el manual pueden venir diferentes aceites recomendados. Depende de la temperatura, como explica el mecánico Juan José Ebenezer en…",
+      "imagen": "https://i.blogs.es/15a7de/aceite_1/1024_2000.jpeg",
       "menciones": 1,
       "fuentes": [
         "Motorpasión (ES)"
       ]
     },
     {
-      "titulo": "Marta y Marià, youtubers camper: \"Ganamos más que con un trabajo normal y somos libres\"",
-      "link": "https://www.motorpasion.com/furgonetas-y-caravanas/marta-maria-youtubers-camper-ganamos-que-trabajo-normal-somos-libres",
+      "titulo": "China construyó una presa del tamaño de un rascacielos: un año después no parece que nadie pueda superarlo",
+      "link": "https://www.motorpasion.com/futuro-movimiento/china-construyo-presa-tamano-rascacielos-ano-despues-no-parece-que-nadie-pueda-superarlo",
       "fuente": "Motorpasión (ES)",
-      "fecha": "2026-11-17T17:01:23Z",
-      "resumen": "Iban a estar solo un año y medio viajando en su camper, pero llevan más de 14 años de vida nómada y han hecho más de 200.000 km por varios continentes. Son Marta y Marià, una pareja de catalanes . No solo han conseguido hacer el viaje de sus sueños, que está lejos de terminar: han encontrado la manera de vivir la vida que querían. Marta y Marià ya son, de pleno derecho, una de las parejas viajeras…",
-      "imagen": "https://i.blogs.es/4e66fd/marta-maria-furgo-en-ruta/1024_2000.jpeg",
+      "fecha": "2026-11-18T18:31:14Z",
+      "resumen": "En el este de China se concentran sus mastodónticas ciudades, como Shanghái, Nankín o Hangzhou. Es el corazón industrial y económico del país, y alberga más de una quinta parte de la población de la República Popular. Esto la convierte en la zona que más energía consume de todo China. Pero los principales centros de generación renovable se encuentran a miles de kilómetros, en el norte y el oeste.…",
+      "imagen": "https://i.blogs.es/5a0f93/central-bombeo-presa-mas-grande-china-01/1024_2000.jpeg",
       "menciones": 1,
       "fuentes": [
         "Motorpasión (ES)"
       ]
     },
     {
-      "titulo": "Casi 6 millones más barato que Duster: el SUV de Renault con 115 CV, seis airbags y pantalla de 10,1 pulgadas",
-      "link": "https://autotest.com.ar/noticias/casi-6-millones-mas-barato-que-duster-el-suv-de-renault-con-115-cv-seis-airbags-y-pantalla-de-101-pulgadas/",
+      "titulo": "Alemania encuentra una solución barata para proteger sus tanques Leopard de los drones: ponerles jaulas",
+      "link": "https://www.motorpasion.com/furgonetas-y-caravanas/alemania-encuentra-solucion-barata-para-proteger-sus-tanques-leopard-drones-ponerles-jaulas",
+      "fuente": "Motorpasión (ES)",
+      "fecha": "2026-11-18T18:01:13Z",
+      "resumen": "Las guerras cambian y una de las mayores amenazas hoy en día son los drones : aeronaves no tripuladas mucho más baratas, capaces de reventar carísimos tanques . Este vídeo con tres drones ucranianos de apenas 500 euros destrozando un tanque ruso de 4,5 millones de euros es buen ejemplo. Tanto Rusia como Ucrania han encontrado formas baratas de proteger a sus tanques de los drones, con blindajes…",
+      "imagen": "https://i.blogs.es/c35afe/tanque-leopard-jaula-soldados/1024_2000.jpeg",
+      "menciones": 1,
+      "fuentes": [
+        "Motorpasión (ES)"
+      ]
+    },
+    {
+      "titulo": "Más barato que Toyota Yaris y mejor equipado: el hatchback que sorprende por precio y seguridad",
+      "link": "https://autotest.com.ar/noticias/mas-barato-que-toyota-yaris-y-mejor-equipado-el-hatchback-que-sorprende-por-precio-y-seguridad/",
       "fuente": "Autotest",
-      "fecha": "2026-11-17T17:00:16Z",
-      "resumen": "El nuevo Renault Kardian Evolution 156 MT llega al mercado con un precio competitivo, destacándose por su motor eficiente, seguridad completa y equipamiento moderno.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/Renault-Kardian-Evolution-perfil.jpg",
-      "menciones": 7,
+      "fecha": "2026-11-18T18:00:07Z",
+      "resumen": "El Kia K3 Cross llega con un motor 1.6, caja automática, seis airbags y cinco estrellas de seguridad, posicionándose como una opción atractiva en el segmento compacto.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/08/Kia-K3-Cross-perfil.jpg",
+      "menciones": 1,
       "fuentes": [
         "Autotest"
       ]
     },
     {
-      "titulo": "Es oficial: el Gobierno ha cambiado las normas y ningún conductor puede quitarse el cinturón mientras conduce. Sin excepciones",
-      "link": "https://www.motorpasion.com/seguridad/oficial-gobierno-ha-cambiado-normas-ningun-conductor-puede-quitarse-cinturon-conduce-excepciones",
-      "fuente": "Motorpasión (ES)",
-      "fecha": "2026-11-17T16:01:07Z",
-      "resumen": "El pasado 1 de octubre entró en vigor la modificación del Reglamento General de Circulación con muchas novedades para conductores de turismos , motos, ciclistas, VMP o peatones. Una de estas novedades es la modificación del Artículo 119 relativo al uso de elementos de protección: incluía entre las excepciones el uso del cinturón para determinados profesionales . Eso se ha acabado. Solo se libran…",
-      "imagen": "https://i.blogs.es/0d9922/cinturon/1024_2000.jpeg",
-      "menciones": 1,
-      "fuentes": [
-        "Motorpasión (ES)"
-      ]
-    },
-    {
-      "titulo": "Cómo crear un coche indestructible, un todoterreno por menos de 20.000 €, que dure más de 800.000 kilómetros, en pleno 2026",
-      "link": "https://www.diariomotor.com/noticia/reo-runabout-800000-kilometros/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-11-17T16:00:27Z",
-      "resumen": "Cuando parecía que todo estaba inventado, llega una compañía de Estados Unidos y nos desvela un nuevo todoterreno que promete un precio por debajo de los 20.000 € y una construcción casi indestructible, con el objetivo de durar más de 800.000 kilómetros. REO recupera una marca histórica para fabricar todoterrenos baratos , diseñados para trabajar y durar décadas. Motor atmosférico sin turbo,…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/11/reo-runabout-s4c-2027-exterior-07-6afbde981d4e3.jpg?class=OG",
-      "menciones": 1,
-      "fuentes": [
-        "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "Por encima de Hilux: así es la pick up de Toyota que se fabricará en Zárate y ofrece hasta 330 CV",
-      "link": "https://autotest.com.ar/noticias/por-encima-de-hilux-asi-es-la-pick-up-de-toyota-que-se-fabricara-en-zarate-y-ofrece-hasta-330-cv/",
+      "titulo": "4×4 real por menos de 20.000 euros y 800.000 km: el REO Runabout contra el Jimny",
+      "link": "https://autotest.com.ar/offroad/4x4-real-por-menos-de-20-000-euros-y-800-000-km-el-reo-runabout-contra-el-jimny/",
       "fuente": "Autotest",
-      "fecha": "2026-11-17T15:30:36Z",
-      "resumen": "La Toyota Tacoma ha comenzado 2026 con impresionantes ventas, consolidando su liderazgo en el mercado estadounidense y despertando interés en la producción argentina.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/04/Toyota-Tacoma-2026-teaser.jpg",
-      "menciones": 4,
+      "fecha": "2026-11-18T17:55:05Z",
+      "resumen": "Mientras tanto, el Runabout funciona como recordatorio de que la simplicidad mecánica sigue teniendo compradores dispuestos a pagar menos por un vehículo que, en teoría, dura más.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/4x4-real-por-menos-de-20-000-euros-y-800-1200x740-1.jpg",
+      "menciones": 1,
       "fuentes": [
         "Autotest"
       ]
     },
     {
-      "titulo": "La industria europea no vive su mejor momento, pero Renault lo está capeando: contratará 2.000 personas para fabricar más eléctricos",
-      "link": "https://www.diariomotor.com/noticia/renault-contratara-2000-personas-para-fabricar-mas-electricos/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-11-17T15:00:00Z",
-      "resumen": "Renault está viviendo una situación bastante peculiar dentro del vendaval que vive la industria europea. Sus coches eléctricos se están vendiendo tan bien que necesita contratar a 2.000 trabajadores para aumentar la producción . Sin embargo, para mantener la competitividad frente a los chinos, al mismo tiempo prepara un plan para eliminar hasta 1.000 puestos de trabajo en tareas administrativas,…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/08/renault-twingo-reino-unido-10-6a70595fa5adb.jpg?class=OG",
+      "titulo": "Duster 4×4: 217 mm de despeje, 130 CV y modos off-road para frenar a los SUV chinos",
+      "link": "https://autotest.com.ar/offroad/duster-4x4-217-mm-de-despeje-130-cv-y-modos-off-road-para-frenar-a-los-suv-chinos/",
+      "fuente": "Autotest",
+      "fecha": "2026-11-18T17:55:05Z",
+      "resumen": "La tracción integral no es permanente: el sistema decide cuándo enviar torque al eje trasero en función de la adherencia.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/duster-4x4-217-mm-de-despeje-130-cv-y-mo-1200x740-1.jpg",
       "menciones": 1,
       "fuentes": [
-        "Diariomotor (ES)"
+        "Autotest"
       ]
     },
     {
-      "titulo": "245 CV, siete asientos y tracción total: el SUV ‘italiano’ con ADN Chery que pelea contra el MG S9",
-      "link": "https://autotest.com.ar/noticias/245-cv-siete-asientos-y-traccion-total-el-suv-italiano-con-adn-chery-que-pelea-contra-el-mg-s9/",
+      "titulo": "Haval Jolion HEV Test Drive",
+      "link": "https://autotest.com.ar/pruebas/haval-jolion-hev-test-drive/",
       "fuente": "Autotest",
-      "fecha": "2026-11-13T11:00:00Z",
-      "resumen": "La automática, el turbo TGDI y la tracción total 4WD completan una propuesta pensada para familias que necesitan espacio y no quieren resignar potencia.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/245-cv-siete-asientos-y-tracci-n-total-e-1200x740-1.jpg",
+      "fecha": "2026-11-18T17:46:18Z",
+      "resumen": "Probamos el Haval Jolion HEV Supreme, un SUV que destaca por su confort y autonomía en ruta, con un consumo eficiente de combustible.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/Haval-Jolion-SUV-1.jpg",
       "menciones": 2,
       "fuentes": [
-        "Autotest",
-        "Diariomotor (ES)"
+        "Autotest"
       ]
     },
     {
-      "titulo": "Dongfeng amplía su presencia con un nuevo concesionario en Bahía Blanca",
-      "link": "https://autotest.com.ar/transportes/dongfeng-amplia-su-presencia-con-un-nuevo-concesionario-en-bahia-blanca/",
-      "fuente": "Autotest",
-      "fecha": "2026-11-17T14:36:55Z",
-      "resumen": "Dongfeng, marca representada en Argentina por Magma Automotive en el segmento de vehículos comerciales, incorporó a Estilo Motor como concesionario oficial en Bahía Blanca, Buenos Aires. La apertura amplía la cobertura comercial de la marca en el sur bonaerense y acerca su gama de vehículos comerciales a empresas, transportistas y profesionales de la ciudad y […]",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/dongfeng-nuevo-concesionario1.jpg",
+      "titulo": "Nuevo Peugeot 208 AM27: qué cambió",
+      "link": "https://www.megautos.com/peugeot-208-2027/",
+      "fuente": "Megautos",
+      "fecha": "2026-11-18T17:36:15Z",
+      "resumen": "El hatchback nacional recibió una nueva gama con cambios en el equipamiento y la mecánica, que reemplazó el motor 1.6 por el 1.3 también presente en el Fiat Cronos. La entrada Nuevo Peugeot 208 AM27: qué cambió aparece primero en Mega Autos .",
+      "imagen": "https://www.megautos.com/wp-content/uploads/2026/11/t200dk2.jpg",
       "menciones": 1,
       "fuentes": [
-        "Autotest"
+        "Megautos"
+      ]
+    },
+    {
+      "titulo": "Tesla también tendrá una espacio en Alcorta Shopping",
+      "link": "https://eleconomista.com.ar/autos/tesla-tambien-tendra-una-espacio-alcorta-shopping-n99756",
+      "fuente": "El Economista",
+      "fecha": "2026-11-18T17:22:00Z",
+      "resumen": "La marca de autos eléctricos que se lanza en Argentina este viernes confirmó esta segunda apertura. ¿Dónde y a partir de cuándo los visitantes podrán conocer sus productos?",
+      "imagen": "https://statics.eleconomista.com.ar/2026/11/crop/6afde167be3e3__950x512.webp",
+      "menciones": 1,
+      "fuentes": [
+        "El Economista"
+      ]
+    },
+    {
+      "titulo": "Nueva Fiat Strada: ya comenzaron las pruebas",
+      "link": "https://www.megautos.com/nueva-fiat-strada-pruebas/",
+      "fuente": "Megautos",
+      "fecha": "2026-11-18T17:18:37Z",
+      "resumen": "La próxima generación de la pick up fue fotografiada por primera vez en Brasil. Abandonará su actual parentesco con el Mobi para compartir su desarrollo con el Argo X. La entrada Nueva Fiat Strada: ya comenzaron las pruebas aparece primero en Mega Autos .",
+      "imagen": "https://www.megautos.com/wp-content/uploads/2026/11/nueva-fiat-strada-foto.jpg",
+      "menciones": 1,
+      "fuentes": [
+        "Megautos"
       ]
     }
   ]
