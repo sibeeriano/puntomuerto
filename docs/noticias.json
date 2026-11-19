@@ -1,19 +1,515 @@
 [
   {
-    "titulo": "Toyota actualiza el Corolla 2027: nuevo diseño, diez airbags y pantalla de hasta 10,5 pulgadas",
-    "link": "https://autotest.com.ar/noticias/toyota-actualiza-el-corolla-2027-nuevo-diseno-diez-airbags-y-pantalla-de-hasta-105-pulgadas/",
+    "titulo": "¿El juego más esperado de la década esconde el mejor homenaje al transporte pesado? GTA VI y sus camiones rotulados",
+    "link": "https://autotest.com.ar/noticias/el-juego-mas-esperado-de-la-decada-esconde-el-mejor-homenaje-al-transporte-pesado-gta-vi-y-sus-camiones-rotulados/",
     "fuente": "Autotest",
-    "fecha": "2026-11-18T23:00:58Z",
-    "resumen": "Toyota ha revelado las primeras imágenes del esperado Corolla 2027. Descubre sus impresionantes vistas 360° y la edición especial por el 60 aniversario.",
-    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/Toyota-Corolla-2027-llanta.jpg"
+    "fecha": "2026-11-19T21:31:31Z",
+    "resumen": "Ese camión puede ser parte de una misión o simplemente tráfico realista generado por los NPC, los personajes no jugadores que le dan vida al mapa.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/el-juego-m-s-esperado-de-la-d-cada-esco-1200x740-1.jpg"
   },
   {
-    "titulo": "Toyota develó su nueva pick-up chica que llegará a la Argentina",
-    "link": "https://eleconomista.com.ar/autos/toyota-develo-su-nueva-pick-up-chica-llegara-argentina-n99764",
+    "titulo": "La Silverado ZR2 de más de 700 CV que quiere destronar a la Raptor R de 720 CV",
+    "link": "https://autotest.com.ar/offroad/la-silverado-zr2-de-mas-de-700-cv-que-quiere-destronar-a-la-raptor-r-de-720-cv/",
+    "fuente": "Autotest",
+    "fecha": "2026-11-19T21:30:31Z",
+    "resumen": "La Silverado ZR2 actual es una pick-up off-road de fábrica con suspensión de largo recorrido, amortiguadores Multimatic DSSV y protecciones específicas para uso rudo.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/la-silverado-zr2-de-m-s-de-700-cv-que-qu-1200x740-1.jpg"
+  },
+  {
+    "titulo": "La FIA blindó el WRC: un Rally2 de 280 CV ya no puede ser campeón ni ganando todas las fechas",
+    "link": "https://autotest.com.ar/carreras/la-fia-blindo-el-wrc-un-rally2-de-280-cv-ya-no-puede-ser-campeon-ni-ganando-todas-las-fechas/",
+    "fuente": "Autotest",
+    "fecha": "2026-11-19T21:29:04Z",
+    "resumen": "En 2024, el sistema de puntuación por sábado, domingo y power stage había abierto una ventana: varios Rally2 puntuaron en el absoluto gracias a los puntos parciales y al tramo final con bonus.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/la-fia-blind-el-wrc-un-rally2-de-280-cv-1200x740-1.jpg"
+  },
+  {
+    "titulo": "408 CV, 95 km sin nafta y 20.000 € menos que un Land Cruiser: el 4×4 híbrido que no es un SUV urbano",
+    "link": "https://autotest.com.ar/offroad/408-cv-95-km-sin-nafta-y-20-000-menos-que-un-land-cruiser-el-4x4-hibrido-que-no-es-un-suv-urbano/",
+    "fuente": "Autotest",
+    "fecha": "2026-11-19T21:26:31Z",
+    "resumen": "La etiqueta CERO también lo separa del grueso de los todoterrenos diésel que dominan el segmento en Europa.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/408-cv-95-km-sin-nafta-y-20-000-menos-qu-1200x740-1.jpg"
+  },
+  {
+    "titulo": "330 CV, 85 kg y 10.000 rpm: el Escort Mk1 que no es eléctrico y grita como en los 70",
+    "link": "https://autotest.com.ar/carreras/330-cv-85-kg-y-10-000-rpm-el-escort-mk1-que-no-es-electrico-y-grita-como-en-los-70/",
+    "fuente": "Autotest",
+    "fecha": "2026-11-19T21:24:31Z",
+    "resumen": "Eso implica refuerzos en la estructura, frenos acordes y una suspensión pensada para transferir la potencia sin que la cola se vuelva inmanejable.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/330-cv-85-kg-y-10-000-rpm-el-escort-mk1-1200x740-1.jpg"
+  },
+  {
+    "titulo": "El GT-R eléctrico de más de 1.300 CV recupera los cuatro faros redondos del Skyline de 1969",
+    "link": "https://autotest.com.ar/noticias/el-gt-r-electrico-de-mas-de-1-300-cv-recupera-los-cuatro-faros-redondos-del-skyline-de-1969/",
+    "fuente": "Autotest",
+    "fecha": "2026-11-19T21:24:31Z",
+    "resumen": "El Nissan Hyper Force, mostrado en el Salón de Tokio 2023, anticipó una silueta baja, un alerón gigante y una iluminación LED afilada.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/el-gt-r-el-ctrico-de-m-s-de-1-300-cv-rec-1200x740-1.jpg"
+  },
+  {
+    "titulo": "Mustang S650 con carrocería clásica: 840 CV y 900 horas de fibra de carbono",
+    "link": "https://autotest.com.ar/noticias/mustang-s650-con-carroceria-clasica-840-cv-y-900-horas-de-fibra-de-carbono/",
+    "fuente": "Autotest",
+    "fecha": "2026-11-19T21:21:31Z",
+    "resumen": "La contracara es que pierde el número de chasis original y, para un coleccionista purista, eso suele ser una barrera difícil de cruzar.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/mustang-s650-con-carrocer-a-cl-sica-840-1200x740-1.jpg"
+  },
+  {
+    "titulo": "Los paracaidistas españoles necesitaban una moto sigilosa para operaciones especiales: la han encontrado en Europa, es eléctrica, potente y muy silenciosa",
+    "link": "https://www.motorpasion.com/industria/paracaidistas-necesitaban-moto-sigilosa-para-operaciones-especiales-reconocimiento-han-encontrado-europa-electrica-potente-muy-silenciosa",
+    "fuente": "Motorpasión (ES)",
+    "fecha": "2026-11-19T20:02:22Z",
+    "resumen": "El ejército se pasa a lo eléctrico. No los veremos con Tesla ni nada remotamente parecido, pero sí con motos eléctricas tipo enduro como vehículo operativo . El Escuadrón de Zapadores Paracaidistas (EZAPAC) del Ejército del Aire y del Espacio, con base en Alcantarilla (Murcia), ha incorporado a su flota las primeras motos eléctricas STRIX , fabricadas en Eslovenia. Una enduro eléctrica con cifras…",
+    "imagen": "https://i.blogs.es/d860e2/moto-electrica-strix-eslovenia3/1024_2000.jpeg"
+  },
+  {
+    "titulo": "Desde 28.495 dólares: qué ofrece el nuevo sedán de Honda que va contra Corolla",
+    "link": "https://autotest.com.ar/noticias/desde-28-495-dolares-que-ofrece-el-nuevo-sedan-de-honda-que-va-contra-corolla/",
+    "fuente": "Autotest",
+    "fecha": "2026-11-19T20:52:11Z",
+    "resumen": "Honda presenta el Civic Sport-L 2027, una nueva versión que incorpora mayor confort para los modelos sedán y hatchback con motor 2.0 y caja CVT.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/Honda-CIvic-1.jpg"
+  },
+  {
+    "titulo": "Volkswagen presenta una edición especial del Golf GTI con un guiño a la nostalgia",
+    "link": "https://autotest.com.ar/noticias/volkswagen-presenta-una-edicion-especial-del-golf-gti-con-un-guino-a-la-nostalgia/",
+    "fuente": "Autotest",
+    "fecha": "2026-11-19T20:40:11Z",
+    "resumen": "Volkswagen revive el nombre Rabbit con una edición especial del GTI en el Salón de Los Ángeles, combinando nostalgia y performance mejorada.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/Volkswagen-Golf-GTI-4-1.jpg"
+  },
+  {
+    "titulo": "Ford Mustang GTD: más de 800 CV y 900 Nm que no se venden por un solo detalle",
+    "link": "https://autotest.com.ar/noticias/ford-mustang-gtd-mas-de-800-cv-y-900-nm-que-no-se-venden-por-un-solo-detalle/",
+    "fuente": "Autotest",
+    "fecha": "2026-11-19T20:36:31Z",
+    "resumen": "Los importadores privados ya mueven autos de alta performance con conversiones RHD, pero un GTD convertido no tendría el respaldo de fábrica ni la homologación ADR.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/ford-mustang-gtd-m-s-de-800-cv-y-900-nm-1200x740-1.jpg"
+  },
+  {
+    "titulo": "Más barato que el Yaris Cross: el SUV de Toyota con motor turbo, seis airbags y 369 litros de baúl",
+    "link": "https://autotest.com.ar/noticias/mas-barato-que-el-yaris-cross-el-suv-de-toyota-con-motor-turbo-seis-airbags-y-369-litros-de-baul/",
+    "fuente": "Autotest",
+    "fecha": "2026-11-19T20:29:34Z",
+    "resumen": "El Toyota Raize ofrece un costo de entrada más bajo que el Yaris Cross, con motor turbo y seis airbags.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/Toyota-Raize-frente-1.jpg"
+  },
+  {
+    "titulo": "La pick up rival de Toyota Hilux que estrena un diésel biturbo y promete gastar menos en ruta",
+    "link": "https://autotest.com.ar/noticias/isuzu-d-max-2027-pick-up-potencia-y-eficiencia-con-motor-biturbo-y-caja-automatica-de-ocho-velocidades/",
+    "fuente": "Autotest",
+    "fecha": "2026-11-19T20:13:23Z",
+    "resumen": "Isuzu lanza en Tailandia la nueva D-Max 2027 con motor 2.2 biturbo diésel de 204 CV, ofreciendo más potencia y menor consumo que su predecesor.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/Pick-up-Isuzu-D-Max-2027-accion.jpg"
+  },
+  {
+    "titulo": "Cuesta menos de 16.000 dólares y compite contra Hilux: la pick up con motor 2.3 turbodiesel y hasta 1 tonelada de carga",
+    "link": "https://autotest.com.ar/noticias/descubre-la-nueva-chery-himla-pick-up-ventajas-y-precios-competitivos/",
+    "fuente": "Autotest",
+    "fecha": "2026-11-19T20:04:44Z",
+    "resumen": "La Chery Himla, una pick up mediana con motor turbodiésel, ofrece nuevas versiones y características mejoradas, destacando por su precio atractivo en el mercado chileno.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/Pick-up-Chery-Himla-Force.jpg"
+  },
+  {
+    "titulo": "Los trayectos que más hacemos son justo los que peor le sientan al coche",
+    "link": "https://www.motorpasion.com/revision/trayectos-que-hacemos-justo-que-peor-le-sientan-al-coche",
+    "fuente": "Motorpasión (ES)",
+    "fecha": "2026-11-19T19:02:22Z",
+    "resumen": "Dicen que los trayectos cortos son malos para el coche . Es uno de esos tópicos que se transmiten de una generación a otra. Pero resulta que son los trayectos más habituales de nuestra vida cotidiana. Ya sea para ir a hacer la compra, llevar a los niños al colegio o desplazarse al trabajo, son inevitables y, por supuesto, muy frecuentes, puesto que los hacemos casi todos los días. Pero muchos…",
+    "imagen": "https://i.blogs.es/619c74/trayectos-cortos-malos-para-los-coches/1024_2000.jpeg"
+  },
+  {
+    "titulo": "El Mustang GTD más extremo: 800 CV y Performance Package de serie en la edición 1901",
+    "link": "https://autotest.com.ar/noticias/el-mustang-gtd-mas-extremo-800-cv-y-performance-package-de-serie-en-la-edicion-1901/",
+    "fuente": "Autotest",
+    "fecha": "2026-11-19T19:44:27Z",
+    "resumen": "La edición se anunció como año-modelo 2028, lo que en el mercado estadounidense no implica una espera larga: los modelos 2028 pueden presentarse y comercializarse con meses de anticipación.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/el-mustang-gtd-m-s-extremo-800-cv-y-perf-1200x740-1.jpg"
+  },
+  {
+    "titulo": "Dos camiones cargados con casas móviles de 4,5 metros de ancho revientan los cepos de la policía y se fugan por la autopista",
+    "link": "https://www.motorpasion.com/furgonetas-y-caravanas/dos-camiones-cargados-casas-moviles-4-5-metros-ancho-revientan-cepos-policia-se-fugan-autopista",
+    "fuente": "Motorpasión (ES)",
+    "fecha": "2026-11-19T18:30:27Z",
+    "resumen": "Hay formas de intentar llegar a tiempo a la entrega, y luego está lo que ha pasado en Alemania con dos transportes especiales que, pequeños, no son, precisamente. Resulta que dos transportes especiales cargados con casas móviles fueron interceptados por la policía, ya que no cumplían con los permisos. Fueron inmovilizados y dejaron claro que no podían volver a circular... pero al día siguiente…",
+    "imagen": "https://i.blogs.es/591b73/casa-movil/1024_2000.jpeg"
+  },
+  {
+    "titulo": "Haval Jolion HEV vs. Toyota Corolla Cross Hybrid: ¿cuánto gastan en ciudad y en ruta?",
+    "link": "https://autotest.com.ar/comparativos/haval-jolion-hev-vs-toyota-corolla-cross-hybrid-cuanto-gastan-en-ciudad-y-en-ruta/",
+    "fuente": "Autotest",
+    "fecha": "2026-11-19T19:21:54Z",
+    "resumen": "Descubre cuál SUV híbrido ofrece el mejor rendimiento de combustible en diferentes escenarios de manejo: urbano y en carretera a distintas velocidades.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/Toyota-Corolla-Cross-vs-HAval-JOlion.jpg"
+  },
+  {
+    "titulo": "Más barato que el Yaris Cross full: el SUV con 115 CV, seis airbags y pantalla de 10,25 pulgadas",
+    "link": "https://autotest.com.ar/noticias/hyundai-creta-suv-opciones-precios-y-comparativa-con-el-toyota-yaris-cross/",
+    "fuente": "Autotest",
+    "fecha": "2026-11-19T19:12:36Z",
+    "resumen": "Hyundai presenta el Creta importado desde Brasil, con un precio inicial de USD 27.000 y características que compiten con el Toyota Yaris Cross.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/Hyundai-Creta-trasera.jpg"
+  },
+  {
+    "titulo": "La nueva Renault Duster cambia por completo: diseño renovado, hasta 160 CV y más tecnología",
+    "link": "https://autotest.com.ar/noticias/la-nueva-renault-duster-cambia-por-completo-diseno-renovado-hasta-160-cv-y-mas-tecnologia/",
+    "fuente": "Autotest",
+    "fecha": "2026-11-19T19:00:50Z",
+    "resumen": "La nueva Renault Duster apuesta por un cambio radical en diseño, tecnología y motorización, incluyendo una versión híbrida de 160 CV y pantallas de última generación.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/06/Nueva-Renault-Duster-Evolution-teaser.jpg"
+  },
+  {
+    "titulo": "Mercedes-Benz necesita hacer caja para ampliar su museo. Va a vender por 25 millones un coche que nadie ha podido comprar jamás",
+    "link": "https://www.motorpasion.com/mercedes/mercedes-benz-necesita-hacer-caja-para-ampliar-su-museo-va-a-vender-25-millones-coche-que-nadie-ha-podido-comprar-jamas",
+    "fuente": "Motorpasión (ES)",
+    "fecha": "2026-11-19T18:00:26Z",
+    "resumen": "Uno de los coches más especiales de la historia de Mercedes-Benz sale a subasta: el Mercedes-Benz C 111-II de 1970 . La marca de la estrella lo fabricó para probar nuevas tecnologías, como el motor rotativo, pero nunca llegó a producción. Ahora lo vende para poder financiar la ampliación de su museo. El sucesor del 'alas de gaviota' original Hace décadas, cuando la informática todavía estaba en…",
+    "imagen": "https://i.blogs.es/f898e6/mercedes-c-111-ii-4/1024_2000.jpeg"
+  },
+  {
+    "titulo": "Menos de 30.000 dólares: el SUV híbrido rival del Corolla Cross con seis airbags, cámara 360° y asientos calefaccionados",
+    "link": "https://autotest.com.ar/noticias/menos-de-30-000-dolares-el-suv-hibrido-rival-del-corolla-cross-con-seis-airbags-camara-360-y-asientos-calefaccionados/",
+    "fuente": "Autotest",
+    "fecha": "2026-11-19T18:43:56Z",
+    "resumen": "El Haval Jolion HEV Supreme cuesta 28.990 dólares y trae seguridad, confort y un híbrido de 188 CV. Qué mostró la prueba.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/SUV-Haval-Jolion-HEV-frente.jpg"
+  },
+  {
+    "titulo": "Los vecinos de una zona de lujo de Málaga se quejaban de las campers. El Ayuntamiento las ha llevado a un parque de barrio: \"Invisibilizan el problema\"",
+    "link": "https://www.motorpasion.com/furgonetas-y-caravanas/vecinos-zona-lujo-malaga-se-quejaban-campers-ayuntamiento-ha-resuelto-moviendolas-a-parque-barrio",
+    "fuente": "Motorpasión (ES)",
+    "fecha": "2026-11-19T17:01:16Z",
+    "resumen": "En Málaga ciudad no todos pueden permitirse pagar una vivienda y para muchos la opción ha sido vivir en una camper o una autocaravana . Así nació el asentamiento camper Sacaba Beach . Años después, el Ayuntamiento lo ha desalojado tras las quejas vecinales , por problemas de convivencia, dejándoles sin lugar. Se daba también el contraste de que estaba junto a apartamentos de lujo vendidos por…",
+    "imagen": "https://i.blogs.es/b42915/asentamiento-camper-la-virreina/1024_2000.jpeg"
+  },
+  {
+    "titulo": "Más grande que Corolla: el sedán de Toyota con hasta 232 HP y tracción integral",
+    "link": "https://autotest.com.ar/noticias/mas-grande-que-corolla-el-sedan-de-toyota-con-hasta-232-hp-y-traccion-integral/",
+    "fuente": "Autotest",
+    "fecha": "2026-11-19T18:00:39Z",
+    "resumen": "El nuevo Toyota Camry 2027 promete un consumo eficiente de hasta 51 MPG y ofrece la opción de tracción integral electrónica para un manejo seguro en diversas condiciones.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/Toyota-Camry-perfil.jpg"
+  },
+  {
+    "titulo": "La FIA anunció que los motores V8 volvían a la Fórmula 1. Ahora han dado marcha atrás porque Audi y Honda podrían vetarlo",
+    "link": "https://www.motorpasion.com/formula1/fia-anuncio-que-motores-v8-volvian-a-formula-1-ahora-han-dado-marcha-atras-porque-audi-honda-podrian-vetarlo",
+    "fuente": "Motorpasión (ES)",
+    "fecha": "2026-11-19T16:01:19Z",
+    "resumen": "Que la Fórmula 1 es un mundo extraño no pillará por sorpresa a nadie a estas alturas de la película, pero lo que ha ocurrido esta semana es bizarro hasta para el gran circo. La FIA avanzó en sus redes sociales un acuerdo para que la Fórmula 1 volviese a usar los motores V8 a partir de 2030. Pues bien, todas esas publicaciones han desaparecido . El motivo es que el acuerdo parece que no está…",
+    "imagen": "https://i.blogs.es/c46386/alonso-brasil-f1-2026/1024_2000.jpeg"
+  },
+  {
+    "titulo": "Menos de 31.000 dólares: el SUV híbrido rival de Ford Territory con 265 CV y pantalla de 15,6 pulgadas",
+    "link": "https://autotest.com.ar/noticias/menos-de-31-000-dolares-el-suv-hibrido-rival-de-ford-territory-con-265-cv-y-pantalla-de-156-pulgadas/",
+    "fuente": "Autotest",
+    "fecha": "2026-11-19T17:00:40Z",
+    "resumen": "El Soueast S06 llega a Argentina con su potente motor híbrido enchufable de 265 CV, ofreciendo una opción atractiva en el competitivo mercado de SUV medianos.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/SUV-Soueast-06-perfil.jpg"
+  },
+  {
+    "titulo": "En Gipuzkoa no hay cita para pasar la ITV y tienen que irse a Navarra: \"Todas estaban colapsadas y me daban cita para enero\"",
+    "link": "https://www.motorpasion.com/seguridad/gipuzkoa-no-hay-cita-para-pasar-itv-todas-estaban-colapsadas-me-daban-cita-para-enero",
+    "fuente": "Motorpasión (ES)",
+    "fecha": "2026-11-19T15:01:23Z",
+    "resumen": "Listas de espera y falta de citas para pasar la ITV . Desde hace tiempo se están registrando cuellos de botella en varias regiones, sobre todo aquellas en la que la gestión de estos centros es pública. Entre las comunidades más afectadas están Valencia, Asturias, Islas Baleares y Andalucía. Pero también en el País Vasco están teniendo problemas. Según detallan en El Diario Vasco , los guipuzcoanos…",
+    "imagen": "https://i.blogs.es/b29e0d/itvv/1024_2000.jpeg"
+  },
+  {
+    "titulo": "Desde 14.300 dólares: el SUV de Toyota que se actualizó con diseño robusto y más seguridad",
+    "link": "https://autotest.com.ar/noticias/desde-14-300-dolares-el-suv-de-toyota-que-se-actualizo-con-diseno-robusto-y-mas-seguridad/",
+    "fuente": "Autotest",
+    "fecha": "2026-11-19T15:30:05Z",
+    "resumen": "El nuevo Toyota Raize Z Powerful llega a Japón con un diseño más agresivo, mejoras en el equipamiento interior y opciones mecánicas avanzadas, incluyendo una versión híbrida.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/Toyota-Raize-Z-POWERFUL-teaser.jpg"
+  },
+  {
+    "titulo": "TX: así es el primer eléctrico de Jetour",
+    "link": "https://www.megautos.com/jetour-tx/",
+    "fuente": "Megautos",
+    "fecha": "2026-11-19T15:02:32Z",
+    "resumen": "La marca china lanzó en ese mercado la preventa de su inédito SUV con cero emisiones. Posee hasta 374 CV y 550 km de autonomía y tracción trasera o en las cuatro ruedas. La entrada TX: así es el primer eléctrico de Jetour aparece primero en Mega Autos .",
+    "imagen": "https://www.megautos.com/wp-content/uploads/2026/11/Jetour-TX-05.jpg"
+  },
+  {
+    "titulo": "Aston Martin se saca de la manga un tanque para el Dakar y lo disfrazan de Call of Duty para que lo lleve Fernando Alonso",
+    "link": "https://www.motorpasion.com/otras-competiciones/aston-martin-se-saca-manga-tanque-para-dakar-disfrazan-call-of-duty-lleve-fernando-alonso",
+    "fuente": "Motorpasión (ES)",
+    "fecha": "2026-11-19T13:57:00Z",
+    "resumen": "Había muchas formas peculiares de estrenarse en el Dakar, pero Aston Martin ha ido, probablemente, a por la que más: llevando a la competición un coche que nació como un vehículo militar virtual para Call of Duty . Así que, con todos ustedes: este es el Dreadnought y, aunque su aspecto parece sacado de un videojuego de guerra, será completamente real cuando tome la salida del rally en 2027. Alonso…",
+    "imagen": "https://i.blogs.es/c3e83a/portada-mop-1795096373527/1024_2000.jpeg"
+  },
+  {
+    "titulo": "402 CV, pantalla de 14,6 pulgadas y butacas con masaje: la pick up que busca desafiar a Toyota Hilux",
+    "link": "https://autotest.com.ar/noticias/402-cv-pantalla-de-146-pulgadas-y-butacas-con-masaje-la-pick-up-que-busca-desafiar-a-toyota-hilux/",
+    "fuente": "Autotest",
+    "fecha": "2026-11-19T14:30:57Z",
+    "resumen": "La nueva GWM Poer P500 PHEV llega a Chile con un potente motor híbrido enchufable, ofreciendo hasta 115 km en modo eléctrico y destacándose por su equipamiento y seguridad.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/04/Pick-up-GWM-Poer-P500-caja.jpg"
+  },
+  {
+    "titulo": "Así es el renovado sedán que competirá con Toyota Corolla: 157 CV, pantalla de 14.6 pulgadas y más",
+    "link": "https://autotest.com.ar/noticias/asi-es-el-renovado-sedan-que-competira-con-toyota-corolla-157-cv-pantalla-de-14-6-pulgadas-y-mas/",
+    "fuente": "Autotest",
+    "fecha": "2026-11-19T14:04:01Z",
+    "resumen": "Hyundai prepara un 2027 con varios lanzamientos fuertes y el renovado Elantra, el sedán mediano que compite contra Toyota Corolla, aparece como una de las novedades menos esperadas para el mercado español. La compañía coreana ya tiene en agenda a los nuevos Ioniq 3, Bayon y Tucson, pero también decidió mantener vivo a uno de […]",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/hyundai-elantra-20272.jpg"
+  },
+  {
+    "titulo": "He probado el BMW i3: el primer Serie 3 eléctrico tiene autonomía de diésel y es tan deportivo y divertido como los BMW de siempre",
+    "link": "https://www.motorpasion.com/pruebas-de-coches/prueba-bmw-i3-2026",
+    "fuente": "Motorpasión (ES)",
+    "fecha": "2026-11-19T13:00:00Z",
+    "resumen": "El BMW Serie 3 afronta el cambio más radical en sus más de 50 años de historia: su octava generación se estrena con variante 100% eléctrica, el BMW i3. Lo hemos probado en la que, de momento, es su versión más potente, el BMW i3 50 xDrive, una berlina con 469 CV, tracción total y 912 km de autonomía gracias a una batería gigante. Adiós al diésel. Hola a la electrificación total Como dueño de un…",
+    "imagen": "https://i.blogs.es/10efba/bmw-i3-2026-mop-6/1024_2000.jpeg"
+  },
+  {
+    "titulo": "Nissan lanzó el X-Trail 2027 con motor turbo, 213 CV y pantalla de 12.3 pulgadas para competir con Tiguan",
+    "link": "https://autotest.com.ar/noticias/nissan-lanzo-el-x-trail-2027-cuanto-cuesta-el-suv-con-motor-turbo-213-cv-y-pantalla-de-12-3-pulgadas/",
+    "fuente": "Autotest",
+    "fecha": "2026-11-19T13:30:59Z",
+    "resumen": "El Nissan X-Trail 2027 ya tiene precios en España y llega a los concesionarios con una gama actualizada, versiones de cinco y siete plazas, mecánica híbrida e-Power y una Adventure de 213 CV de potencia y orientada a quienes buscan una estética más campera y tracción total. El SUV más grande de la marca japonesa […]",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/Nissan-X-Trail.jpg"
+  },
+  {
+    "titulo": "El Toyota Yaris Cross más barato: 106 CV, seis airbags y pantalla de 10 pulgadas",
+    "link": "https://autotest.com.ar/noticias/el-toyota-yaris-cross-mas-barato-106-cv-seis-airbags-y-pantalla-de-10-pulgadas/",
+    "fuente": "Autotest",
+    "fecha": "2026-11-19T13:30:30Z",
+    "resumen": "Descubre cómo el Toyota Yaris Cross XLI CVT combina precio competitivo, equipamiento y un fuerte enfoque en seguridad, posicionándose como uno de los SUV compactos más buscados en Argentina.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/08/Toyota-Yaris-Cross-XLI-llanta.jpg"
+  },
+  {
+    "titulo": "Los taxis autónomos llegan a Madrid en 40 días con una promesa y una condición: tienen un 95% menos de accidentes graves pero no pueden usar las autopistas",
+    "link": "https://www.motorpasion.com/industria/taxis-autonomos-llegan-a-madrid-40-dias-promesa-condicion-tienen-95-accidentes-graves-no-pueden-usar-autopistas",
+    "fuente": "Motorpasión (ES)",
+    "fecha": "2026-11-19T12:01:18Z",
+    "resumen": "A partir de 2027, la mayor empresa de taxis autónomos llegará a España. Waymo prestará servicio en la Comunidad de Madrid el año que viene. Y muchos se preguntan cómo se manejarán los robotaxis por Madrid y sus autopistas urbanas, como la M-30 o M-40. La capacidad de conducir de los robotaxis en vías rápidas y de varios carriles , justamente, ha vuelto a quedar en entredicho cuando el pasado lunes…",
+    "imagen": "https://i.blogs.es/afab41/captura-de-pantalla-2026-11-19-a-las-12.00.10/1024_2000.jpeg"
+  },
+  {
+    "titulo": "El SUV más vendido de EBRO en España baja de precio, el EBRO S400, que tiene un motor híbrido de 5,3 litros de consumo y 211 CV",
+    "link": "https://www.diariomotor.com/noticia/ebro-s400-oferta-18990-e-noviembre-2026/",
+    "fuente": "Diariomotor (ES)",
+    "fecha": "2026-11-19T13:00:13Z",
+    "resumen": "A pocos días de dar comienzo el mes de diciembre, nos vamos acercando a la recta final del año y, por ello, las marcas van disponiendo de las últimas oportunidades para cerrar el año anunciando hitos con los que darse importancia en un mercado cada vez más complicado. Para EBRO, en estos últimos días del año, a un servidor le parece clara su meta: meter al EBRO S400 , su SUV más compacto y…",
+    "imagen": "https://www.diariomotor.com/imagenes/2026/11/ebro-s400-2-6ae8e960797db.jpg?class=OG"
+  },
+  {
+    "titulo": "\"Hace un año que estamos trabajando en este acuerdo con Geely\"",
+    "link": "https://eleconomista.com.ar/autos/hace-ano-estamos-trabajando-acuerdo-geely-n99771",
     "fuente": "El Economista",
-    "fecha": "2026-11-18T22:03:00Z",
-    "resumen": "La automotriz japonesa inauguró una nueva planta en Brasil y anunció el inicio de producción de la Corolla Deck. ¿Cómo es y con qué modelos competirá?",
-    "imagen": "https://statics.eleconomista.com.ar/2026/11/crop/6afe233eac98d__950x512.webp"
+    "fecha": "2026-11-19T15:53:00Z",
+    "resumen": "Pablo Sibilla, Presidente de Renault Argentina, dio detalles del alcance del acuerdo de representación y distribución de los modelos electrificados de la marca china en nuestro país. \"Fuimos un poco conejitos de Indias\", aseguró.",
+    "imagen": "https://statics.eleconomista.com.ar/2026/07/crop/6a56545a5977f__950x512.webp"
+  },
+  {
+    "titulo": "Es oficial: Europa cambia las normas y antes del 24 de diciembre España deberá tener la cartera digital para llevar el carnet de conducir en el móvil",
+    "link": "https://www.motorpasion.com/seguridad/oficial-carnet-conducir-europeo-movil-tiene-fecha-espana-debera-ofrecer-cartera-digital-diciembre",
+    "fuente": "Motorpasión (ES)",
+    "fecha": "2026-11-19T11:42:00Z",
+    "resumen": "Europa va a lanzar el carnet de conducir único de la UE : un permiso digital que será válido en todos los países miembros. Y se acerca una fecha clave para la llegada de este documento al teléfono móvil: en diciembre se cumple el plazo para que los países de la UE ofrezcan la cartera europea de identidad digital . Es decir, la app EU Digital Identity Wallet , donde se podrá incluir este carnet de…",
+    "imagen": "https://i.blogs.es/dfe152/carnet-conducir-digital-europeo/1024_2000.jpeg"
+  },
+  {
+    "titulo": "Superior a Territory: el SUV de Ford con siete asientos, 271 HP y tracción integral",
+    "link": "https://autotest.com.ar/noticias/superior-a-territory-el-suv-de-ford-con-siete-asientos-271-hp-y-traccion-integral/",
+    "fuente": "Autotest",
+    "fecha": "2026-11-19T12:30:07Z",
+    "resumen": "Descubre el innovador Ford Edge, un SUV híbrido de siete plazas que combina diseño moderno, tecnología avanzada y una impresionante eficiencia energética.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/02/Ford-Edge-2026-teaser.jpg"
+  },
+  {
+    "titulo": "Es el híbrido europeo mas eficiente, un mechero con corazón español y 8 años de garantía que consume 3,9 l/100 km y es una de las mejores opciones para España en 2027",
+    "link": "https://www.diariomotor.com/noticia/oferta-renault-clio-hibrido-noviembre-2026/",
+    "fuente": "Diariomotor (ES)",
+    "fecha": "2026-11-19T12:00:54Z",
+    "resumen": "En los tiempos que corren, este es uno de los coches más sensatos que un conductor español puede comprar. Y lo digo completamente en serio. Para empezar, es un coche tradicional. Ni un todocamino, ni un crossover, ni invento alguno. Para seguir, hablamos de un coche del segmento B, pero que con 4,12 metros de largo, se acerca a lo que es un coche compacto tradicional. Pero lo mejor de todo es que…",
+    "imagen": "https://www.diariomotor.com/imagenes/2026/07/Renault-Clio-ECO-G-120-EDC-53-6a47af60851d2.jpg?class=OG"
+  },
+  {
+    "titulo": "El nuevo hatchback rival de Toyota Yaris ya se puede reservar: tiene 121 CV y pantalla de 10 pulgadas",
+    "link": "https://autotest.com.ar/noticias/el-nuevo-hatchback-rival-de-toyota-yaris-ya-se-puede-reservar-tiene-121-cv-y-pantalla-de-10-pulgadas/",
+    "fuente": "Autotest",
+    "fecha": "2026-11-19T12:00:27Z",
+    "resumen": "Honda presenta la preventa del City Hatchback en Argentina con dos versiones, motor 1.5 de 121 CV y caja CVT. Conoce los detalles y precios del modelo importado de Brasil.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/Nuevo-Honda-City-Hatchback-teaser.jpg"
+  },
+  {
+    "titulo": "El renovado SUV de Volkswagen por encima de Tiguan: motor turbo, 160 CV y pantalla de 12.9 pulgadas",
+    "link": "https://autotest.com.ar/noticias/el-renovado-suv-de-volkswagen-por-encima-de-tiguan-motor-turbo-160-cv-y-pantalla-de-12-9-pulgadas/",
+    "fuente": "Autotest",
+    "fecha": "2026-11-19T11:46:00Z",
+    "resumen": "Volkswagen mantiene el precio del Tayron 2027 con motor 1.5 eTSI, pero pasó de 150 a 160 CV para ratificar su posicionamiento por encima de Tiguan, el otro C-SUV. Es decir, la marca aplicó el cambio en España sin trasladar la mejora al valor final para ganar competitividad. El Tayron, que arribó al mercado europeo […]",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/Volkswagen-Tayron-2027-1.jpg"
+  },
+  {
+    "titulo": "Un mecánico salió a probar el Audi R8 de un cliente en Barcelona. Perdió 12 puntos del carnet en siete minutos",
+    "link": "https://www.motorpasion.com/seguridad/mecanico-salio-a-probar-audi-r8-cliente-barcelona-perdio-12-puntos-carnet-siete-minutos",
+    "fuente": "Motorpasión (ES)",
+    "fecha": "2026-11-19T10:42:01Z",
+    "resumen": "Tener un taller de confianza es fundamental, no solo para tener garantías de que tratan bien a tu coche cuando se queda en sus manos, sino para tener la certeza de que no van a hacer nada raro con él. Puede que esto que digo te parezca extraño, pero no lo es. Solo hay que ver lo que ha ocurrido en una carretera de la provincia de Barcelona : un radar de velocidad ha cazado tres veces en siete…",
+    "imagen": "https://i.blogs.es/2f110a/audi-r8-mossos-1/1024_2000.jpeg"
+  },
+  {
+    "titulo": "Española y espectacular, así es esta custom bicilíndrica con motor en V, apta para el A2, con cambio automático y un precio supercompetitivo",
+    "link": "https://www.diariomotor.com/noticia/rieju-coaster-407-nov/",
+    "fuente": "Diariomotor (ES)",
+    "fecha": "2026-11-19T11:30:36Z",
+    "resumen": "Hay marcas españolas que están viviendo un año especialmente movido, con novedades que llegan casi sin dar tiempo a conocer las anteriores. La última propuesta se mete de lleno en el mundo de las custom con una moto para el carnet A2 que tiene una pinta estupenda y poco que envidiar a modelos bastante más caros. Su motor bicilíndrico en V , el peculiar cambio robotizado y un equipamiento muy…",
+    "imagen": "https://www.diariomotor.com/imagenes/2026/08/Rieju-Coaster-407-9-6a7c571c11748.jpg?class=OG"
+  },
+  {
+    "titulo": "En 2013, EEUU aparcó una de las armas más revolucionarias de la aviación militar. Ahora China la ha construido y no necesita ni piloto",
+    "link": "https://www.motorpasion.com/tecnologia/2013-eeuu-aparco-armas-revolucionarias-aviacion-militar-ahora-china-ha-construido-no-necesita-piloto",
+    "fuente": "Motorpasión (ES)",
+    "fecha": "2026-11-19T10:25:00Z",
+    "resumen": "China acaba de mostrar con un nivel de detalle inédito uno de sus proyectos militares más ambiciosos: un avión de combate furtivo sin piloto que está diseñado para atacar objetivos en territorio enemigo. Se llama GJ-11 , tiene una silueta que recuerda a la de un bombardero estratégico y puede convertirse en una pieza importante de la futura aviación militar china. Lo curioso es que EEUU ya había…",
+    "imagen": "https://i.blogs.es/b7d4f4/avion-chino-portada/1024_2000.jpeg"
+  },
+  {
+    "titulo": "Ford presentó una Maverick inédita: motor V8, DOBLE turbo y 811 CV para superar a Ranger",
+    "link": "https://autotest.com.ar/noticias/ford-presento-una-maverick-inedita-motor-v8-doble-turbo-y-811-cv-para-superar-a-ranger/",
+    "fuente": "Autotest",
+    "fecha": "2026-11-19T11:12:48Z",
+    "resumen": "La Ford Maverick V8 apareció en el SEMA Show 2026 como una de las preparaciones más salvajes del evento de Las Vegas. Tucci Hot Rods, una compañía estadounidense surgida en esa ciudad, tomó una pick up compacta 2022 y reemplazó el motor original por un V8 Coyote 5.0 biturbo, asociado a una caja automática ZF […]",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/ford-maverick-v81.jpg"
+  },
+  {
+    "titulo": "Con un techo que desaparece en vertical y 920 CV, lo último de Lamborghini se acerca mucho al descapotable definitivo",
+    "link": "https://www.diariomotor.com/noticia/lamborghini-temerario-spyder/",
+    "fuente": "Diariomotor (ES)",
+    "fecha": "2026-11-19T11:00:39Z",
+    "resumen": "El mundo de los superdeportivos da la bienvenida a un coche muy esperado. Lamborghini por fin ha desvelado la versión descapotable del Temerario , un coche que busca mantener las prestaciones y rendimiento del modelo coupé, pero permitiendo hacer desaparecer el techo a través de un curioso sistema retráctil que cambia por completo lo que habíamos visto hasta la fecha en este tipo de coches. Dos…",
+    "imagen": "https://www.diariomotor.com/imagenes/2026/11/lamborghini-temerario-spyder-05-6afed4d489d29.jpg?class=OG"
+  },
+  {
+    "titulo": "El primer V-Series eléctrico de Cadillac: 615 hp y 0 a 100 en 3,6 segundos",
+    "link": "https://autotest.com.ar/noticias/el-primer-v-series-electrico-de-cadillac-615-hp-y-0-a-100-en-3-6-segundos/",
+    "fuente": "Autotest",
+    "fecha": "2026-11-19T11:00:00Z",
+    "resumen": "El Lyriq-V se posiciona en el segmento de SUV eléctricas deportivas, donde compiten modelos como el Tesla Model Y Performance, el Ford Mustang Mach-E GT y el Audi SQ6 e-tron.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/el-primer-v-series-el-ctrico-de-cadillac-1200x740-1.jpg"
+  },
+  {
+    "titulo": "Cadillac Lyriq y Vistiq: recall por una falla de software en los frenos de 406 SUV eléctricos que puede dejar el pedal sin respuesta",
+    "link": "https://autotest.com.ar/noticias/cadillac-lyriq-y-vistiq-recall-por-una-falla-de-software-en-los-frenos-de-406-suv-electricos-que-puede-dejar-el-pedal-sin-respuesta/",
+    "fuente": "Autotest",
+    "fecha": "2026-11-19T11:00:00Z",
+    "resumen": "El riesgo asociado es concreto: aumento de la distancia de frenado o imposibilidad de detener el vehículo con normalidad.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/cadillac-lyriq-y-vistiq-recall-por-una-f-1200x740-1.jpg"
+  },
+  {
+    "titulo": "El Yugo más barato de EE.UU. que nadie quiso: 121 millas y hoy vale una fortuna",
+    "link": "https://autotest.com.ar/noticias/el-yugo-mas-barato-de-ee-uu-que-nadie-quiso-121-millas-y-hoy-vale-una-fortuna/",
+    "fuente": "Autotest",
+    "fecha": "2026-11-19T11:00:00Z",
+    "resumen": "El portaequipaje de techo refuerza el contexto de época, cuando el Yugo se ofrecía como vehículo utilitario para quienes buscaban el menor desembolso posible.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/el-yugo-m-s-barato-de-ee-uu-que-nadie-qu-1200x740-1.jpg"
+  },
+  {
+    "titulo": "El Camino 1979 con chasis de Corvette y 345 CV que se convirtió en Hot Wheels oficial",
+    "link": "https://autotest.com.ar/noticias/el-camino-1979-con-chasis-de-corvette-y-345-cv-que-se-convirtio-en-hot-wheels-oficial/",
+    "fuente": "Autotest",
+    "fecha": "2026-11-19T11:00:00Z",
+    "resumen": "Sobre esa plataforma, McEntegart mantuvo la silueta de la El Camino pero sumó paneles ensanchados inspirados en el Monte Carlo, el cupé personal que Chevrolet vendió como muscle car de lujo.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/el-camino-1979-con-chasis-de-corvette-y-1200x740-1.jpg"
+  },
+  {
+    "titulo": "Scout contra Mercedes Clase G: 1.350 Nm, 0 a 100 en 3,5 segundos y menos de US$60.000",
+    "link": "https://autotest.com.ar/noticias/scout-contra-mercedes-clase-g-1-350-nm-0-a-100-en-3-5-segundos-y-menos-de-us-60-000/",
+    "fuente": "Autotest",
+    "fecha": "2026-11-19T11:00:00Z",
+    "resumen": "Según los datos preliminares de Scout, la autonomía objetivo alcanza 350 millas (563 kilómetros) en modo eléctrico puro y se estira hasta 500 millas (805 kilómetros) con el extensor.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/scout-contra-mercedes-clase-g-1-350-nm-0-1200x740-1.jpg"
+  },
+  {
+    "titulo": "En 1942, EEUU y Francia se enfrentaron en una batalla surrealista. La clave para reconstruirla llevaba 83 años hundida frente a Cádiz",
+    "link": "https://www.motorpasion.com/tecnologia/1942-eeuu-francia-se-enfrentaron-batalla-surrealista-clave-para-reconstruirla-llevaba-83-anos-hundida-frente-a-cadiz",
+    "fuente": "Motorpasión (ES)",
+    "fecha": "2026-11-19T09:11:57Z",
+    "resumen": "Hace casi un año, encontraron uno de los submarinos desaparecidos de la Segunda Guerra Mundial a unos 17 km frente a Base Naval de Rota (Cádiz) , hundido a 50 m de profundidad en el océano Atlántico. Llevaba allí más de 80 años: se trataba del sumergible francés Le Tonnant . Cómo acabó h undido frente a la costa gaditana es uno de esos capítulos de la Segunda Guerra Mundial tan inquietantes como…",
+    "imagen": "https://i.blogs.es/dfeced/misterio-submarino-tonnant/1024_2000.jpeg"
+  },
+  {
+    "titulo": "Honda inició la pre-venta del City y vuelve a ofrecer un auto chico tras varios años",
+    "link": "https://eleconomista.com.ar/autos/honda-inicio-pre-venta-city-vuelve-ofrecer-auto-chico-tras-varios-anos-n99769",
+    "fuente": "El Economista",
+    "fecha": "2026-11-19T12:55:00Z",
+    "resumen": "La marca japonesa incorpora a su oferta local la versión \"sin baúl\" de su modelo hecho en Brasil. Llega en dos versiones y con precios competitivos.",
+    "imagen": "https://statics.eleconomista.com.ar/2026/11/crop/6afee718deb16__950x512.webp"
+  },
+  {
+    "titulo": "Precios de la gasolina hoy, 19 de noviembre",
+    "link": "https://www.motorpasion.com/industria/precios-gasolina-hoy-19-noviembre",
+    "fuente": "Motorpasión (ES)",
+    "fecha": "2026-11-19T08:36:00Z",
+    "resumen": "El precio de la gasolina y el diésel en España sigue con su tendencia a la baja de los últimos días, aunque el litro de gasóleo sigue por encima de los 1,8 euros de media. Hoy en España, llenar el depósito de un coche diésel supone más de 81 euros y el de un coche gasolina unos 71 euros. Hay que recordar que el descuento de 20 céntimos el litro se mantiene hasta el 31 de diciembre . El mercado de…",
+    "imagen": "https://i.blogs.es/49967f/precios-gasolina-diesel-19-noviembre/1024_2000.jpeg"
+  },
+  {
+    "titulo": "Con 333 CV y etiqueta eco, es el coche familiar capaz de atemorizar a más de un deportivo",
+    "link": "https://www.diariomotor.com/noticia/volkswagen-t-roc-r-2027/",
+    "fuente": "Diariomotor (ES)",
+    "fecha": "2026-11-19T09:35:50Z",
+    "resumen": "El deportivo Todo en Uno es para muchos una fórmula imposible, sin embargo en Volkswagen se han empecinado en hacerlo realidad. Esa es la idea que se esconde detrás del Volkswagen T-Roc R, un modelo que estrena su segunda generación dando un importante salto adelante en rendimiento y comportamiento, además de estrenando un motor de 333 CV que también es capaz de lucir la etiqueta ECO . Con la…",
+    "imagen": "https://www.diariomotor.com/imagenes/2026/11/volkswagen-t-roc-r-2027-49-6afec1e4391e8.jpg?class=OG"
+  },
+  {
+    "titulo": "El Tesla Model 3 de 2027 puede ser el coche más vendido del mundo con el diseño del Tesla Roadster y el eléctrico \"perfecto\"",
+    "link": "https://www.diariomotor.com/noticia/tesla-model-3-2027-idea-diseno-roadster/",
+    "fuente": "Diariomotor (ES)",
+    "fecha": "2026-11-19T09:00:47Z",
+    "resumen": "Seguimos intentando asimilar lo del Tesla Roadster . Semanas después de su presentación, demostración de capacidad de \"vuelo\" incluída , las secuencias grabadas por los allí presentes siguen dando vueltas al mundo en redes sociales . Más allá de lo espectacular de sus capacidades, lo cierto es que el Roadster lleva una confirmación implícita en el diseño que ha mostrado , que vimos foto a foto en…",
+    "imagen": "https://www.diariomotor.com/imagenes/2026/10/Tesla-Model-3-2027-recreaciones-10-6ad208797d412.jpg?class=OG"
+  },
+  {
+    "titulo": "A 145 km/h en un tramo de 70 km/h, los Mossos cazan 3 veces en 7 minutos a un mecánico probando el coche de un cliente tras una reparación",
+    "link": "https://www.diariomotor.com/noticia/multa-mecanico-145-kmh/",
+    "fuente": "Diariomotor (ES)",
+    "fecha": "2026-11-19T08:30:12Z",
+    "resumen": "No una, sino tres veces, identificado por encima, muy por encima, de la velocidad máxima. Eso es lo que le sucedió a este mecánico, que según los Mossos d’Esquadra habría sido cazado duplicando la velocidad máxima mientras probaba el coche de un cliente tras una reparación. Un mecánico probando el coche de un cliente Los hechos ocurrieron el pasado 12 de noviembre, en el punto kilométrico 9,5 de…",
+    "imagen": "https://www.diariomotor.com/imagenes/2026/11/audi-r8-exceso-velocidad-2027-detalles-04-6afea1fdd7a90.jpg?class=OG"
+  },
+  {
+    "titulo": "Por 21.950 euros puedes estrenar un SUV híbrido chino... o comprarte una maqueta a escala 1:8 de un Bugatti Tourbillon (o su motor)",
+    "link": "https://www.diariomotor.com/noticia/maqueta-bugatti-tourbillon/",
+    "fuente": "Diariomotor (ES)",
+    "fecha": "2026-11-19T08:00:03Z",
+    "resumen": "Casi 22.000 euros. Es un dineral. Es más que el salario anual neto de gran parte de los trabajadores españoles, mal que nos pese. Con ese dinero puedes comprarte un SUV híbrido chino como el MG ZS Hybrid+, puedes estrenar un coche compacto bien equipado, e incluso un eléctrico tan interesante como el Renault 5 (ayudas mediante). Es mucho dinero. Y ese mucho dinero es el que te permitirá ser el…",
+    "imagen": "https://www.diariomotor.com/imagenes/2026/11/bugatti-tourbillon-amalgam-38-6afddeac085e4.jpg?class=OG"
+  },
+  {
+    "titulo": "Con 350CV, el icónico coche con motor rotativo de Mercedes se venderá en 2027, siendo uno de sus mayores hitos de I+D, apto para circular y con 56 años a las espaldas",
+    "link": "https://www.diariomotor.com/noticia/mercedes-c111-ii-subasta/",
+    "fuente": "Diariomotor (ES)",
+    "fecha": "2026-11-19T07:30:32Z",
+    "resumen": "Este coche es tan interesante y tiene tanto significado, que Mercedes Benz llegó a recibir cheques en blanco por él. No obstante, la marca se negó a venderlo. Se trata de uno de los 17 Mercedes C111 que la marca de la estrella fabricó entre 1969 y 1979. Ahora, por primera vez, van a subastar uno de ellos para financiar el futuro del Mercedes-Benz Museum . El Mercedes C111 II, conocido internamente…",
+    "imagen": "https://www.diariomotor.com/imagenes/2026/11/Mercedes-C111-ii-interior_8-6afd79cd99aad.jpg?class=OG"
+  },
+  {
+    "titulo": "El indestructible Toyota Corolla ahora es un pick-up, así es el Deck 2027, más barato que Hilux… y mucho más compacto",
+    "link": "https://www.diariomotor.com/noticia/toyota-corolla-deck-primeras-imagenes/",
+    "fuente": "Diariomotor (ES)",
+    "fecha": "2026-11-19T07:00:16Z",
+    "resumen": "Aguardamos, con impaciencia, la llegada de una nueva generación de Toyota Corolla, que tal y como venimos adelantando quiere dar una o varias vueltas de tuerca al concepto del emblema más importante de Toyota en todo el mundo. Indestructible, el Toyota Corolla celebra su 60 aniversario, y lo hace recibiendo una carrocería inédita hasta la fecha. Ya está aquí el nuevo Toyota Corolla Deck 2027 .…",
+    "imagen": "https://www.diariomotor.com/imagenes/2026/11/toyota-corolla-deck-2027-exterior-05-6afe95d36910f.jpg?class=OG"
+  },
+  {
+    "titulo": "El scooter \"todoterreno\" más esperado ya no es Zontes, el nuevo Honda ADV125 2027 nace con el espíritu de la X-ADV en un formato barato y urbano",
+    "link": "https://www.diariomotor.com/noticia/honda-adv125-scooter-todoterreno-mas-esperado/",
+    "fuente": "Diariomotor (ES)",
+    "fecha": "2026-11-19T06:30:42Z",
+    "resumen": "Estaba tardando, pero ya está aquí. Honda reventó el mercado creando un producto tan pasional y aspiracional como lo era la Honda X-ADV. Con una filosofía aventurera, innegablemente inspirada en Africa Twin y Transalp, Honda proponía una moto en un formato más cómodo y urbano, pero no por ello menos deportivo. Un formato que sin duda inspiraría toda una generación de productos más modestos, de…",
+    "imagen": "https://www.diariomotor.com/imagenes/2026/11/honda-adv-125-2027-detalles-05-6ae8bb7e8fda6.jpg?class=OG"
+  },
+  {
+    "titulo": "Conducir en la recta más larga del mundo es un desafío para la paciencia: 240 km sin curvas pero con atascos",
+    "link": "https://www.motorpasion.com/otros/conducir-recta-larga-mundo-desafio-para-paciencia-240-km-curvas-atascos",
+    "fuente": "Motorpasión (ES)",
+    "fecha": "2026-11-19T05:01:25Z",
+    "resumen": "Aunque en el mundo hay miles de carreteras y rutas eternas que recorrer, la recta más larga del planeta según el Libro Guinness de los récords está en pleno desierto de Arabia Saudí. Hablamos de un tramo sin apenas desniveles ni curvas, con más de 240 km de longitud: más o menos la distancia que hay entre Bilbao y Valladolid. Está situada en la ‘autopista 10’: una carretera con unos 1.480 km en…",
+    "imagen": "https://i.blogs.es/98f142/cats/1024_2000.jpeg"
   },
   {
     "titulo": "Tesla acelera su desembarco en Argentina y abre otro local en un shopping porteño",
@@ -24,12 +520,12 @@
     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/07/622673.jpg"
   },
   {
-    "titulo": "Soichiro Honda, fundador de Honda: \"El éxito representa el 1% de tu trabajo, el cual resulta únicamente del 99% que se llama fracaso\"",
-    "link": "https://www.motorpasion.com/honda/soichiro-honda-fundador-honda-exito-representa-1-tu-trabajo-cual-resulta-unicamente-99-que-se-llama-fracaso",
-    "fuente": "Motorpasión (ES)",
-    "fecha": "2026-11-18T20:01:18Z",
-    "resumen": "“Mucha gente sueña con el éxito. En mi opinión, el éxito solo se alcanza tras una sucesión de fracasos y de introspección. De hecho, el éxito representa el 1 % de tu trabajo , que a su vez contiene un 99 % de lo que podríamos llamar fracaso .” Soichiro Honda, fundador de Honda Motor Company, resumía así el éxito alcanzado. Pocas biografías ilustran tan bien esa idea como la de Soichiro Honda, la…",
-    "imagen": "https://i.blogs.es/c81bee/plantilla-diagonal/1024_2000.jpeg"
+    "titulo": "Toyota actualiza el Corolla 2027: nuevo diseño, diez airbags y pantalla de hasta 10,5 pulgadas",
+    "link": "https://autotest.com.ar/noticias/toyota-actualiza-el-corolla-2027-nuevo-diseno-diez-airbags-y-pantalla-de-hasta-105-pulgadas/",
+    "fuente": "Autotest",
+    "fecha": "2026-11-18T23:00:58Z",
+    "resumen": "Toyota ha revelado las primeras imágenes del esperado Corolla 2027. Descubre sus impresionantes vistas 360° y la edición especial por el 60 aniversario.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/Toyota-Corolla-2027-llanta.jpg"
   },
   {
     "titulo": "Problema para las automotrices: Lula devalúa y encarece exportaciones de 0Km argentinos",
@@ -40,12 +536,36 @@
     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2024/02/567704.jpg"
   },
   {
+    "titulo": "Toyota develó su nueva pick-up chica que llegará a la Argentina",
+    "link": "https://eleconomista.com.ar/autos/toyota-develo-su-nueva-pick-up-chica-llegara-argentina-n99764",
+    "fuente": "El Economista",
+    "fecha": "2026-11-18T22:03:00Z",
+    "resumen": "La automotriz japonesa inauguró una nueva planta en Brasil y anunció el inicio de producción de la Corolla Deck. ¿Cómo es y con qué modelos competirá?",
+    "imagen": "https://statics.eleconomista.com.ar/2026/11/crop/6afe233eac98d__950x512.webp"
+  },
+  {
+    "titulo": "Soichiro Honda, fundador de Honda: \"El éxito representa el 1% de tu trabajo, el cual resulta únicamente del 99% que se llama fracaso\"",
+    "link": "https://www.motorpasion.com/honda/soichiro-honda-fundador-honda-exito-representa-1-tu-trabajo-cual-resulta-unicamente-99-que-se-llama-fracaso",
+    "fuente": "Motorpasión (ES)",
+    "fecha": "2026-11-18T20:01:18Z",
+    "resumen": "“Mucha gente sueña con el éxito. En mi opinión, el éxito solo se alcanza tras una sucesión de fracasos y de introspección. De hecho, el éxito representa el 1 % de tu trabajo , que a su vez contiene un 99 % de lo que podríamos llamar fracaso .” Soichiro Honda, fundador de Honda Motor Company, resumía así el éxito alcanzado. Pocas biografías ilustran tan bien esa idea como la de Soichiro Honda, la…",
+    "imagen": "https://i.blogs.es/c81bee/plantilla-diagonal/1024_2000.jpeg"
+  },
+  {
     "titulo": "Toyota fabricará la nueva camioneta compacta Deck en Brasil y se venderá en Argentina",
     "link": "https://www.iprofesional.com/autos/469467-toyota-fabricara-la-nueva-camioneta-compacta-deck-en-brasil-y-se-vendera-en-argentina",
     "fuente": "iProfesional",
     "fecha": "2026-11-18T19:26:00Z",
     "resumen": "La automotriz inauguró una planta en Sorocaba, San Pablo, y presentó uno de los modelos que será producido en las instalaciones (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/11/630087.jpg"
+  },
+  {
+    "titulo": "Toyota develó su nueva pick-up chica que llegará a la Argentina: cómo es",
+    "link": "https://eleconomista.com.ar/autos/toyota-develo-su-nueva-pick-up-chica-llegara-argentina-como-es-n99764",
+    "fuente": "El Economista",
+    "fecha": "2026-11-18T22:03:00Z",
+    "resumen": "La automotriz japonesa inauguró una nueva planta en Brasil y anunció el inicio de producción de la Corolla Deck. ¿Con qué modelos competirá y cuándo se lanza?",
+    "imagen": "https://statics.eleconomista.com.ar/2026/11/crop/6afe233eac98d__950x512.webp"
   },
   {
     "titulo": "El SUV de Renault rival de Toyota Yaris Cross con motor turbo de 155 CV y tracción 4×4",
@@ -246,6 +766,14 @@
     "fecha": "2026-11-18T14:30:41Z",
     "resumen": "La JMC Grand Avenue llega al mercado argentino con un precio significativamente menor y un equipamiento destacado, posicionándose como una opción atractiva frente a la Toyota Hilux SRX.",
     "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/Pick-up-JMC-Grand-Avenue-GL-4x4-caja.jpg"
+  },
+  {
+    "titulo": "Tesla también tendrá un espacio en Alcorta Shopping",
+    "link": "https://eleconomista.com.ar/autos/tesla-tambien-tendra-espacio-alcorta-shopping-n99756",
+    "fuente": "El Economista",
+    "fecha": "2026-11-18T17:22:00Z",
+    "resumen": "La marca de autos eléctricos que se lanza en Argentina este viernes confirmó esta segunda apertura. ¿Dónde y a partir de cuándo los visitantes podrán conocer sus productos?",
+    "imagen": "https://statics.eleconomista.com.ar/2026/11/crop/6afde167be3e3__950x512.webp"
   },
   {
     "titulo": "He probado el Geely Monjaro EM-i: es mejor que los Premium europeos en calidad interior y es el primer coche chino que me convence por dinámica",
