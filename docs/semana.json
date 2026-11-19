@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-19T21:32:32Z",
+  "actualizado": "2026-11-19T23:06:14Z",
   "desde": "2026-11-12",
   "hasta": "2026-11-19",
   "destacadas": [
@@ -24,7 +24,7 @@
       "fecha": "2026-11-19T21:26:31Z",
       "resumen": "La etiqueta CERO también lo separa del grueso de los todoterrenos diésel que dominan el segmento en Europa.",
       "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/408-cv-95-km-sin-nafta-y-20-000-menos-qu-1200x740-1.jpg",
-      "menciones": 48,
+      "menciones": 47,
       "fuentes": [
         "Autotest",
         "Diariomotor (ES)"
@@ -161,6 +161,18 @@
       ]
     },
     {
+      "titulo": "Las automotrices que fabrican en el país eligieron nuevos directivos con mensaje al Gobierno",
+      "link": "https://www.iprofesional.com/autos/469611-automotrices-que-fabrican-en-el-pais-eligieron-nuevos-directivos-con-mensaje-al-gobierno",
+      "fuente": "iProfesional",
+      "fecha": "2026-11-19T21:59:00Z",
+      "resumen": "La Asociación de Fábrica de Automotores eligió autoridades para 2026/2027. Durante el encuentro, se repasaron los logros y lo que queda pendiente (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
+      "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2024/07/579319.jpg",
+      "menciones": 1,
+      "fuentes": [
+        "iProfesional"
+      ]
+    },
+    {
       "titulo": "¿El juego más esperado de la década esconde el mejor homenaje al transporte pesado? GTA VI y sus camiones rotulados",
       "link": "https://autotest.com.ar/noticias/el-juego-mas-esperado-de-la-decada-esconde-el-mejor-homenaje-al-transporte-pesado-gta-vi-y-sus-camiones-rotulados/",
       "fuente": "Autotest",
@@ -290,18 +302,6 @@
       "menciones": 2,
       "fuentes": [
         "Autotest"
-      ]
-    },
-    {
-      "titulo": "Los paracaidistas españoles necesitaban una moto sigilosa para operaciones especiales: la han encontrado en Europa, es eléctrica, potente y muy silenciosa",
-      "link": "https://www.motorpasion.com/industria/paracaidistas-necesitaban-moto-sigilosa-para-operaciones-especiales-reconocimiento-han-encontrado-europa-electrica-potente-muy-silenciosa",
-      "fuente": "Motorpasión (ES)",
-      "fecha": "2026-11-19T20:02:22Z",
-      "resumen": "El ejército se pasa a lo eléctrico. No los veremos con Tesla ni nada remotamente parecido, pero sí con motos eléctricas tipo enduro como vehículo operativo . El Escuadrón de Zapadores Paracaidistas (EZAPAC) del Ejército del Aire y del Espacio, con base en Alcantarilla (Murcia), ha incorporado a su flota las primeras motos eléctricas STRIX , fabricadas en Eslovenia. Una enduro eléctrica con cifras…",
-      "imagen": "https://i.blogs.es/d860e2/moto-electrica-strix-eslovenia3/1024_2000.jpeg",
-      "menciones": 1,
-      "fuentes": [
-        "Motorpasión (ES)"
       ]
     }
   ]
