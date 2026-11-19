@@ -1,16 +1,16 @@
 {
-  "actualizado": "2026-11-18T22:58:05Z",
-  "desde": "2026-11-11",
-  "hasta": "2026-11-18",
+  "actualizado": "2026-11-19T01:30:34Z",
+  "desde": "2026-11-12",
+  "hasta": "2026-11-19",
   "destacadas": [
     {
-      "titulo": "El SUV de Renault rival de Toyota Yaris Cross con motor turbo de 155 CV y tracción 4×4",
-      "link": "https://autotest.com.ar/noticias/el-suv-de-renault-rival-de-toyota-yaris-cross-con-motor-turbo-de-155-cv-y-traccion-4x4/",
+      "titulo": "Toyota actualiza el Corolla 2027: nuevo diseño, diez airbags y pantalla de hasta 10,5 pulgadas",
+      "link": "https://autotest.com.ar/noticias/toyota-actualiza-el-corolla-2027-nuevo-diseno-diez-airbags-y-pantalla-de-hasta-105-pulgadas/",
       "fuente": "Autotest",
-      "fecha": "2026-11-18T19:00:28Z",
-      "resumen": "Conoce todos los detalles sobre la nueva Renault Duster 4x4 2026, desde su motor turbo hasta su equipamiento orientado al off-road.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2024/07/SUV-Renault-Duster-Iconic-accion.jpg",
-      "menciones": 21,
+      "fecha": "2026-11-18T23:00:58Z",
+      "resumen": "Toyota ha revelado las primeras imágenes del esperado Corolla 2027. Descubre sus impresionantes vistas 360° y la edición especial por el 60 aniversario.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/Toyota-Corolla-2027-llanta.jpg",
+      "menciones": 26,
       "fuentes": [
         "Autotest",
         "Diariomotor (ES)",
@@ -37,7 +37,7 @@
       "fecha": "2026-11-18T17:11:54Z",
       "resumen": "El Haval Jolion HEV demuestra un consumo casi idéntico tanto en condiciones urbanas como a 100 km/h, lo que lo convierte en una opción destacada para la eficiencia.",
       "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/Haval-Jolion-SUV.jpg",
-      "menciones": 12,
+      "menciones": 9,
       "fuentes": [
         "Autotest",
         "Diariomotor (ES)"
@@ -161,6 +161,30 @@
       ]
     },
     {
+      "titulo": "Tesla acelera su desembarco en Argentina y abre otro local en un shopping porteño",
+      "link": "https://www.iprofesional.com/negocios/469499-tesla-acelera-desembarco-en-argentina-y-abre-otro-local-en-shopping-porteno-alcorta",
+      "fuente": "iProfesional",
+      "fecha": "2026-11-18T23:35:00Z",
+      "resumen": "La firma inaugurará un espacio en Alcorta Shopping, días después de su llegada a Unicenter. Model 3 y el Model Y, entre los modelos disponibles (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
+      "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/07/622673.jpg",
+      "menciones": 1,
+      "fuentes": [
+        "iProfesional"
+      ]
+    },
+    {
+      "titulo": "Problema para las automotrices: Lula devalúa y encarece exportaciones de 0Km argentinos",
+      "link": "https://www.iprofesional.com/autos/469497-problema-para-las-automotrices-lula-devalua-y-encarece-exportaciones-de-0km-argentinos",
+      "fuente": "iProfesional",
+      "fecha": "2026-11-18T22:26:00Z",
+      "resumen": "Con la caída del real, los vehículos argentinos se encarecen en comparación con los brasileños y pierden atractivo en el mercado del país vecino (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
+      "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2024/02/567704.jpg",
+      "menciones": 1,
+      "fuentes": [
+        "iProfesional"
+      ]
+    },
+    {
       "titulo": "Toyota develó su nueva pick-up chica que llegará a la Argentina",
       "link": "https://eleconomista.com.ar/autos/toyota-develo-su-nueva-pick-up-chica-llegara-argentina-n99764",
       "fuente": "El Economista",
@@ -182,6 +206,18 @@
       "menciones": 1,
       "fuentes": [
         "Motorpasión (ES)"
+      ]
+    },
+    {
+      "titulo": "El SUV de Renault rival de Toyota Yaris Cross con motor turbo de 155 CV y tracción 4×4",
+      "link": "https://autotest.com.ar/noticias/el-suv-de-renault-rival-de-toyota-yaris-cross-con-motor-turbo-de-155-cv-y-traccion-4x4/",
+      "fuente": "Autotest",
+      "fecha": "2026-11-18T19:00:28Z",
+      "resumen": "Conoce todos los detalles sobre la nueva Renault Duster 4x4 2026, desde su motor turbo hasta su equipamiento orientado al off-road.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2024/07/SUV-Renault-Duster-Iconic-accion.jpg",
+      "menciones": 4,
+      "fuentes": [
+        "Autotest"
       ]
     },
     {
@@ -266,42 +302,6 @@
       "menciones": 2,
       "fuentes": [
         "Autotest"
-      ]
-    },
-    {
-      "titulo": "Nuevo Peugeot 208 AM27: qué cambió",
-      "link": "https://www.megautos.com/peugeot-208-2027/",
-      "fuente": "Megautos",
-      "fecha": "2026-11-18T17:36:15Z",
-      "resumen": "El hatchback nacional recibió una nueva gama con cambios en el equipamiento y la mecánica, que reemplazó el motor 1.6 por el 1.3 también presente en el Fiat Cronos. La entrada Nuevo Peugeot 208 AM27: qué cambió aparece primero en Mega Autos .",
-      "imagen": "https://www.megautos.com/wp-content/uploads/2026/11/t200dk2.jpg",
-      "menciones": 1,
-      "fuentes": [
-        "Megautos"
-      ]
-    },
-    {
-      "titulo": "Tesla también tendrá una espacio en Alcorta Shopping",
-      "link": "https://eleconomista.com.ar/autos/tesla-tambien-tendra-una-espacio-alcorta-shopping-n99756",
-      "fuente": "El Economista",
-      "fecha": "2026-11-18T17:22:00Z",
-      "resumen": "La marca de autos eléctricos que se lanza en Argentina este viernes confirmó esta segunda apertura. ¿Dónde y a partir de cuándo los visitantes podrán conocer sus productos?",
-      "imagen": "https://statics.eleconomista.com.ar/2026/11/crop/6afde167be3e3__950x512.webp",
-      "menciones": 1,
-      "fuentes": [
-        "El Economista"
-      ]
-    },
-    {
-      "titulo": "Nueva Fiat Strada: ya comenzaron las pruebas",
-      "link": "https://www.megautos.com/nueva-fiat-strada-pruebas/",
-      "fuente": "Megautos",
-      "fecha": "2026-11-18T17:18:37Z",
-      "resumen": "La próxima generación de la pick up fue fotografiada por primera vez en Brasil. Abandonará su actual parentesco con el Mobi para compartir su desarrollo con el Argo X. La entrada Nueva Fiat Strada: ya comenzaron las pruebas aparece primero en Mega Autos .",
-      "imagen": "https://www.megautos.com/wp-content/uploads/2026/11/nueva-fiat-strada-foto.jpg",
-      "menciones": 1,
-      "fuentes": [
-        "Megautos"
       ]
     }
   ]
