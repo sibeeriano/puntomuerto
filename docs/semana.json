@@ -1,7 +1,7 @@
 {
-  "actualizado": "2026-11-19T23:06:14Z",
-  "desde": "2026-11-12",
-  "hasta": "2026-11-19",
+  "actualizado": "2026-11-20T01:27:03Z",
+  "desde": "2026-11-13",
+  "hasta": "2026-11-20",
   "destacadas": [
     {
       "titulo": "Toyota develó su nueva pick-up chica que llegará a la Argentina: cómo es",
@@ -161,6 +161,54 @@
       ]
     },
     {
+      "titulo": "Honda lanzó la preventa del City Hatchback en Argentina",
+      "link": "https://www.megautos.com/honda-city-hatchback-precio/",
+      "fuente": "Megautos",
+      "fecha": "2026-11-19T23:46:37Z",
+      "resumen": "El modelo llega desde Brasil con una gama con las versiones EXL y Touring, que se diferencian por su equipamiento. Ambas tienen motor 1.5 de 121 CV y caja automática CVT. La entrada Honda lanzó la preventa del City Hatchback en Argentina aparece primero en Mega Autos .",
+      "imagen": "https://www.megautos.com/wp-content/uploads/2026/11/City-HB-Touring-Interior-3.jpg",
+      "menciones": 1,
+      "fuentes": [
+        "Megautos"
+      ]
+    },
+    {
+      "titulo": "Cómo cambió el mapa de las marcas de autos en diez años, tras el boom de China",
+      "link": "https://www.iprofesional.com/autos/469614-como-cambio-el-mapa-de-las-marcas-de-autos-en-diez-anos-tras-el-boom-de-china",
+      "fuente": "iProfesional",
+      "fecha": "2026-11-19T23:30:00Z",
+      "resumen": "Una comparación del ranking de ventas de 2015 con 2025 muestra el avance de los fabricantes chinos, pero también la continuidad de las marcas clásicas (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
+      "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2024/04/572513.jpg",
+      "menciones": 1,
+      "fuentes": [
+        "iProfesional"
+      ]
+    },
+    {
+      "titulo": "Cuánto cuestan y porqué crece la venta de motos polivalentes 150 cc en Argentina",
+      "link": "https://www.iprofesional.com/autos/469618-cuanto-cuestan-y-porque-crece-venta-motos-polivalentes-150-cc-en-argentina",
+      "fuente": "iProfesional",
+      "fecha": "2026-11-19T23:21:00Z",
+      "resumen": "Durante la primera quincena de noviembre se patentaron 2.200 motos por día. Por primera vez, las multi propósito se acercan a la categoría Street (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
+      "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/07/621258.jpg",
+      "menciones": 1,
+      "fuentes": [
+        "iProfesional"
+      ]
+    },
+    {
+      "titulo": "Cómo impacta la quita de aranceles en el precio y las ventas de los SUV híbridos",
+      "link": "https://www.iprofesional.com/autos/469617-como-impacta-la-quita-de-aranceles-en-el-precio-y-las-venta-de-los-suv-hibridos",
+      "fuente": "iProfesional",
+      "fecha": "2026-11-19T23:20:00Z",
+      "resumen": "La subvención de precio a los híbridos y eléctricos que no pagan arancel terminó impactando en ventas, y ya no se sabe si un auto es caro o barato (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
+      "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/08/623221.jpg",
+      "menciones": 1,
+      "fuentes": [
+        "iProfesional"
+      ]
+    },
+    {
       "titulo": "Las automotrices que fabrican en el país eligieron nuevos directivos con mensaje al Gobierno",
       "link": "https://www.iprofesional.com/autos/469611-automotrices-que-fabrican-en-el-pais-eligieron-nuevos-directivos-con-mensaje-al-gobierno",
       "fuente": "iProfesional",
@@ -252,54 +300,6 @@
       "resumen": "Volkswagen revive el nombre Rabbit con una edición especial del GTI en el Salón de Los Ángeles, combinando nostalgia y performance mejorada.",
       "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/Volkswagen-Golf-GTI-4-1.jpg",
       "menciones": 1,
-      "fuentes": [
-        "Autotest"
-      ]
-    },
-    {
-      "titulo": "Ford Mustang GTD: más de 800 CV y 900 Nm que no se venden por un solo detalle",
-      "link": "https://autotest.com.ar/noticias/ford-mustang-gtd-mas-de-800-cv-y-900-nm-que-no-se-venden-por-un-solo-detalle/",
-      "fuente": "Autotest",
-      "fecha": "2026-11-19T20:36:31Z",
-      "resumen": "Los importadores privados ya mueven autos de alta performance con conversiones RHD, pero un GTD convertido no tendría el respaldo de fábrica ni la homologación ADR.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/ford-mustang-gtd-m-s-de-800-cv-y-900-nm-1200x740-1.jpg",
-      "menciones": 1,
-      "fuentes": [
-        "Autotest"
-      ]
-    },
-    {
-      "titulo": "Más barato que el Yaris Cross: el SUV de Toyota con motor turbo, seis airbags y 369 litros de baúl",
-      "link": "https://autotest.com.ar/noticias/mas-barato-que-el-yaris-cross-el-suv-de-toyota-con-motor-turbo-seis-airbags-y-369-litros-de-baul/",
-      "fuente": "Autotest",
-      "fecha": "2026-11-19T20:29:34Z",
-      "resumen": "El Toyota Raize ofrece un costo de entrada más bajo que el Yaris Cross, con motor turbo y seis airbags.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/Toyota-Raize-frente-1.jpg",
-      "menciones": 11,
-      "fuentes": [
-        "Autotest"
-      ]
-    },
-    {
-      "titulo": "La pick up rival de Toyota Hilux que estrena un diésel biturbo y promete gastar menos en ruta",
-      "link": "https://autotest.com.ar/noticias/isuzu-d-max-2027-pick-up-potencia-y-eficiencia-con-motor-biturbo-y-caja-automatica-de-ocho-velocidades/",
-      "fuente": "Autotest",
-      "fecha": "2026-11-19T20:13:23Z",
-      "resumen": "Isuzu lanza en Tailandia la nueva D-Max 2027 con motor 2.2 biturbo diésel de 204 CV, ofreciendo más potencia y menor consumo que su predecesor.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/Pick-up-Isuzu-D-Max-2027-accion.jpg",
-      "menciones": 2,
-      "fuentes": [
-        "Autotest"
-      ]
-    },
-    {
-      "titulo": "Cuesta menos de 16.000 dólares y compite contra Hilux: la pick up con motor 2.3 turbodiesel y hasta 1 tonelada de carga",
-      "link": "https://autotest.com.ar/noticias/descubre-la-nueva-chery-himla-pick-up-ventajas-y-precios-competitivos/",
-      "fuente": "Autotest",
-      "fecha": "2026-11-19T20:04:44Z",
-      "resumen": "La Chery Himla, una pick up mediana con motor turbodiésel, ofrece nuevas versiones y características mejoradas, destacando por su precio atractivo en el mercado chileno.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/Pick-up-Chery-Himla-Force.jpg",
-      "menciones": 2,
       "fuentes": [
         "Autotest"
       ]
