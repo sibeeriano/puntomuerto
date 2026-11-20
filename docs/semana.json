@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-20T01:27:03Z",
+  "actualizado": "2026-11-20T21:04:44Z",
   "desde": "2026-11-13",
   "hasta": "2026-11-20",
   "destacadas": [
@@ -18,13 +18,91 @@
       ]
     },
     {
-      "titulo": "408 CV, 95 km sin nafta y 20.000 € menos que un Land Cruiser: el 4×4 híbrido que no es un SUV urbano",
-      "link": "https://autotest.com.ar/offroad/408-cv-95-km-sin-nafta-y-20-000-menos-que-un-land-cruiser-el-4x4-hibrido-que-no-es-un-suv-urbano/",
+      "titulo": "La pick up con 437 CV que bajó de precio y ahora cuesta casi lo mismo que Toyota Hilux",
+      "link": "https://autotest.com.ar/noticias/la-pick-up-con-437-cv-que-bajo-de-precio-y-ahora-cuesta-casi-lo-mismo-que-toyota-hilux/",
       "fuente": "Autotest",
-      "fecha": "2026-11-19T21:26:31Z",
-      "resumen": "La etiqueta CERO también lo separa del grueso de los todoterrenos diésel que dominan el segmento en Europa.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/408-cv-95-km-sin-nafta-y-20-000-menos-qu-1200x740-1.jpg",
-      "menciones": 47,
+      "fecha": "2026-11-20T17:00:13Z",
+      "resumen": "La pick-up híbrida plug-in de BYD ha reducido su precio en Brasil, posicionándose por debajo de R$ 300.000 y ofreciendo una alternativa a las pick-ups tradicionales con su tecnología avanzada.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/Pick-up-BYD-Shark-caja-1.jpg",
+      "menciones": 12,
+      "fuentes": [
+        "Autotest",
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "367 CV y estética R5 Turbo: el Polo GTI eléctrico que Volkswagen no se animó a hacer",
+      "link": "https://autotest.com.ar/noticias/367-cv-y-estetica-r5-turbo-el-polo-gti-electrico-que-volkswagen-no-se-animo-a-hacer/",
+      "fuente": "Autotest",
+      "fecha": "2026-11-20T15:24:17Z",
+      "resumen": "El antecedente del Clubsport 2016 demuestra que Volkswagen sabe jugar con la nostalgia del GTI sin necesidad de producir cada concepto.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/367-cv-y-est-tica-r5-turbo-el-polo-gti-e-1200x740-1.jpg",
+      "menciones": 2,
+      "fuentes": [
+        "Autotest",
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "La pick up japonesa con motor turbo y 204 CV que va por Toyota Hilux",
+      "link": "https://autotest.com.ar/noticias/la-pick-up-japonesa-con-motor-turbo-y-204-cv-que-va-por-toyota-hilux/",
+      "fuente": "Autotest",
+      "fecha": "2026-11-20T13:19:35Z",
+      "resumen": "Mitsubishi amplió en Brasil la gama de la Triton, la pick up mediana rival de Toyota Hilux y conocida también como L200, con una serie especial pensada para el agronegocio. Se llama Estradeiro y fue desarrollada junto con Estância Bahia, una empresa brasileña vinculada a servicios para la actividad ganadera. Esta versión de la camioneta […]",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/Nueva-Mitsubishi-Triton-Estradeiro.jpg",
+      "menciones": 5,
+      "fuentes": [
+        "Autotest",
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "Scott Booker, experto en movilidad, explica cómo el lanzamiento del GTA VI ha vaciado las ciudades de coches: “La gente ha cambiado las calles por Vice City”",
+      "link": "https://www.motorpasion.com/cine-tv-juegos/scott-booker-experto-movilidad-explica-como-lanzamiento-gta-vi-ha-vaciado-ciudades-coches-gente-ha-cambiado-calles-vice-city",
+      "fuente": "Motorpasión (ES)",
+      "fecha": "2026-11-20T12:54:31Z",
+      "resumen": "El lanzamiento de Grand Theft Auto VI ha tenido consecuencias mucho más allá de las consolas. En España han aumentado las solicitudes de días libres para jugar , se han reducido las reservas de aparcamiento y hasta una empresa estadounidense de preparación de coches ha decidido suspender su actividad durante 24 horas . Después de más de 13 años de espera, el regreso a Vice City ha terminado…",
+      "imagen": "https://i.blogs.es/361ee9/portada-mop-1795177471909/1024_2000.jpeg",
+      "menciones": 2,
+      "fuentes": [
+        "Diariomotor (ES)",
+        "Motorpasión (ES)"
+      ]
+    },
+    {
+      "titulo": "Panama Van River 10: 150 CV, automática y 40.000 € menos que una California",
+      "link": "https://autotest.com.ar/noticias/panama-van-river-10-150-cv-automatica-y-40-000-menos-que-una-california/",
+      "fuente": "Autotest",
+      "fecha": "2026-11-20T11:00:00Z",
+      "resumen": "El segmento camper en la Argentina sigue siendo chico y dominado por conversiones locales sobre furgonetas comerciales.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/panama-van-river-10-150-cv-autom-tica-y-1200x740-1.jpg",
+      "menciones": 2,
+      "fuentes": [
+        "Autotest",
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "Mazda MX-5: 1.030 kg y tracción trasera por 31.000 €, 15.000 € menos que un Golf GTI",
+      "link": "https://autotest.com.ar/noticias/mazda-mx-5-1-030-kg-y-traccion-trasera-por-31-000-15-000-menos-que-un-golf-gti/",
+      "fuente": "Autotest",
+      "fecha": "2026-11-20T11:00:00Z",
+      "resumen": "El motor atmosférico también juega su parte. A diferencia de los turbo europeos, el SkyActiv-G entrega la potencia de manera lineal y sin retardo de respuesta.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/mazda-mx-5-1-030-kg-y-tracci-n-trasera-p-1200x740-1.jpg",
+      "menciones": 2,
+      "fuentes": [
+        "Autotest",
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "Llega a España el BYD Seal U de 2027, el SUV híbrido más vendido de BYD en Europa mejora en todo y ya tiene precio",
+      "link": "https://www.diariomotor.com/noticia/byd-seal-u-2027-espana/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-11-20T10:00:44Z",
+      "resumen": "Pocos dichos hay más ciertos que aquel de \"si algo funciona, no lo cambies\" . Y eso precisamente es lo que ha hecho BYD con el coche que ha dado a la marca en España el sitio de privilegio en el mercado que actualmente ocupa. Se trata del BYD Seal U , que cambia para 2027 pero sólo para afinar aquello en lo que el D-SUV chino no acababa de brillar y que le ponía las cosas algo más difíciles frente…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/11/BYD-Seal-U-2027-Espana-7-6b00115264885.jpg?class=OG",
+      "menciones": 14,
       "fuentes": [
         "Autotest",
         "Diariomotor (ES)"
@@ -54,32 +132,6 @@
       "fuentes": [
         "Diariomotor (ES)",
         "Motorpasión (ES)"
-      ]
-    },
-    {
-      "titulo": "El SUV más vendido de EBRO en España baja de precio, el EBRO S400, que tiene un motor híbrido de 5,3 litros de consumo y 211 CV",
-      "link": "https://www.diariomotor.com/noticia/ebro-s400-oferta-18990-e-noviembre-2026/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-11-19T13:00:13Z",
-      "resumen": "A pocos días de dar comienzo el mes de diciembre, nos vamos acercando a la recta final del año y, por ello, las marcas van disponiendo de las últimas oportunidades para cerrar el año anunciando hitos con los que darse importancia en un mercado cada vez más complicado. Para EBRO, en estos últimos días del año, a un servidor le parece clara su meta: meter al EBRO S400 , su SUV más compacto y…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/11/ebro-s400-2-6ae8e960797db.jpg?class=OG",
-      "menciones": 8,
-      "fuentes": [
-        "Autotest",
-        "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "El indestructible Toyota Corolla ahora es un pick-up, así es el Deck 2027, más barato que Hilux… y mucho más compacto",
-      "link": "https://www.diariomotor.com/noticia/toyota-corolla-deck-primeras-imagenes/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-11-19T07:00:16Z",
-      "resumen": "Aguardamos, con impaciencia, la llegada de una nueva generación de Toyota Corolla, que tal y como venimos adelantando quiere dar una o varias vueltas de tuerca al concepto del emblema más importante de Toyota en todo el mundo. Indestructible, el Toyota Corolla celebra su 60 aniversario, y lo hace recibiendo una carrocería inédita hasta la fecha. Ya está aquí el nuevo Toyota Corolla Deck 2027 .…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/11/toyota-corolla-deck-2027-exterior-05-6afe95d36910f.jpg?class=OG",
-      "menciones": 5,
-      "fuentes": [
-        "Autotest",
-        "Diariomotor (ES)"
       ]
     },
     {
@@ -141,167 +193,118 @@
       "fecha": "2026-11-17T14:01:26Z",
       "resumen": "El nuevo motor diésel Duramax de General Motors es de esos motores que en Europa costaría justificar y que en Estados Unidos, en cambio, se venden solos. Remolcar cargas brutales forma parte del trabajo diario de una pick-up allí, al menos en teoría. Aun así lo que ha presentado General Motors para su nueva Chevrolet Silverado roza el absurdo : un V8 diésel de 8.3 litros de cilindrada y 563 CV…",
       "imagen": "https://i.blogs.es/912806/chevy-silverado-duramax/1024_2000.jpeg",
-      "menciones": 3,
+      "menciones": 2,
       "fuentes": [
         "Diariomotor (ES)",
         "Motorpasión (ES)"
       ]
     },
     {
-      "titulo": "SUV eléctrico de 211 CV por 13.500 euros: el Volkswagen que Europa no puede comprar",
-      "link": "https://autotest.com.ar/noticias/suv-electrico-de-211-cv-por-13-500-euros-el-volkswagen-que-europa-no-puede-comprar/",
+      "titulo": "Ayrton Senna y Williams hicieron un pacto en 1994. Se cumplió a título póstumo con este Fórmula 1 que acaba de venderse por entre 4 y 6 millones",
+      "link": "https://www.motorpasion.com/formula1/ayrton-senna-williams-hicieron-pacto-1994-se-cumplio-a-titulo-postumo-este-formula-1-que-acaba-venderse-4-6-millones",
+      "fuente": "Motorpasión (ES)",
+      "fecha": "2026-11-20T20:00:29Z",
+      "resumen": "Normalmente, las leyendas más legendarias de la Fórmula 1 van asociadas a los pilotos, pero hay coches que también se merecen entrar en los libros de historia. Es el caso del primer chasis Williams-Renault FW16 de 1994 , un coche que acaba de venderse por varios millones. Además de que Ayrton Senna lo pilotó unos días antes de fallecer al volante de otro FW16, fue clave para que Williams ganase el…",
+      "imagen": "https://i.blogs.es/dc491e/senna/1024_2000.jpeg",
+      "menciones": 1,
+      "fuentes": [
+        "Motorpasión (ES)"
+      ]
+    },
+    {
+      "titulo": "Dudaba entre poner a mi coche neumáticos de verano o neumáticos de invierno. Lo he solucionado con neumáticos All Season o ‘4 estaciones’",
+      "link": "https://www.motorpasion.com/revision/dudaba-poner-a-mi-coche-neumaticos-verano-neumaticos-invierno-he-solucionado-neumaticos-all-season-4-estaciones",
+      "fuente": "Motorpasión (ES)",
+      "fecha": "2026-11-20T19:02:19Z",
+      "resumen": "Cada vez hay más conductores que montan neumáticos All Season , también llamados '4 estaciones' a su coche. Es una opción muy interesante en lugares donde el clima varía mucho a lo largo del año. Es una cuestión de versatilidad y comodidad En España, tenemos una variedad climátic a importante, no solo porque el tiempo puede variar mucho de un sitio a otro de nuestro país, sino porque el mismo…",
+      "imagen": "https://i.blogs.es/24e625/neumaticos-all-season-/1024_2000.jpeg",
+      "menciones": 1,
+      "fuentes": [
+        "Motorpasión (ES)"
+      ]
+    },
+    {
+      "titulo": "No es Corolla: Toyota actualizó el sedán híbrido que se destaca por su consumo y tecnología",
+      "link": "https://autotest.com.ar/noticias/no-es-corolla-toyota-actualizo-el-sedan-hibrido-que-se-destaca-por-consumo-y-tecnologia/",
       "fuente": "Autotest",
-      "fecha": "2026-11-17T11:00:00Z",
-      "resumen": "Para dar contexto, en el mismo segmento chino conviven rivales como el BYD Atto 3, el Aion Y y el MG ZS EV, todos con precios que en Europa resultarían imposibles.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/suv-el-ctrico-de-211-cv-por-13-500-euros-1200x740-1.jpg",
+      "fecha": "2026-11-20T19:00:49Z",
+      "resumen": "El Toyota Prius 2027 llega a México con innovadores servicios conectados y un sistema híbrido eficiente, ofreciendo dos versiones a precios competitivos.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/Toyota-Prius-2027-perfil-1.jpg",
       "menciones": 2,
       "fuentes": [
-        "Autotest",
+        "Autotest"
+      ]
+    },
+    {
+      "titulo": "Cuánto salen los autos que Tesla ya comenzó a vender en Argentina",
+      "link": "https://www.iprofesional.com/autos/469687-cuanto-salen-los-autos-que-tesla-ya-comenzo-a-vender-en-argentina",
+      "fuente": "iProfesional",
+      "fecha": "2026-11-20T18:57:00Z",
+      "resumen": "Es posible configurar los dos modelos, que tienen distintas versiones: se puede elegir color exterior e interior, pero tiene un costo extra (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
+      "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/11/630265.jpg",
+      "menciones": 1,
+      "fuentes": [
+        "iProfesional"
+      ]
+    },
+    {
+      "titulo": "Tesla llega a Argentina para competir en el negocio que lideran Ford y Toyota",
+      "link": "https://www.iprofesional.com/negocios/469683-tesla-llega-a-argentina-para-competir-en-negocio-que-lideran-ford-y-toyota",
+      "fuente": "iProfesional",
+      "fecha": "2026-11-20T18:40:00Z",
+      "resumen": "Con el Model Y, la automotriz de Elon Musk busca captar al comprador de SUV que ya eligió un híbrido. Cuánto cuesta el salto y qué cambia después (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
+      "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/07/622061.jpg",
+      "menciones": 1,
+      "fuentes": [
+        "iProfesional"
+      ]
+    },
+    {
+      "titulo": "Según la psicología, quienes dan las gracias a los conductores en el paso de peatones no solo muestran educación: un simple \"gracias\" podría duplicar las ganas de volver a ayudar",
+      "link": "https://www.motorpasion.com/seguridad/psicologia-quienes-dan-gracias-a-conductores-paso-peatones-no-solo-muestran-educacion-simple-gracias-podria-duplicar-ganas-volver-a-ayudar",
+      "fuente": "Motorpasión (ES)",
+      "fecha": "2026-11-20T18:00:24Z",
+      "resumen": "Lo vemos a diario al volante, un peatón cruza, levanta la mano, asiente con la cabeza o sonríe y sigue su camino . Dura menos de un segundo. Según varios psicólogos especializados en comportamiento prosocial, ese gesto dice más de lo que parece. Según la psicología, ese gesto puede ser más elocuente que la simple cortesía . También refleja un cierto reconocimiento hacia los demás y la capacidad de…",
+      "imagen": "https://i.blogs.es/7bc458/austin-hervias-gmcw6nbapb4-unsplash/1024_2000.jpeg",
+      "menciones": 1,
+      "fuentes": [
+        "Motorpasión (ES)"
+      ]
+    },
+    {
+      "titulo": "362 CV y 0 a 100 en 4,7 segundos: así es el nuevo Volkswagen Polo más extremo",
+      "link": "https://autotest.com.ar/noticias/362-cv-y-0-a-100-en-47-segundos-asi-es-el-nuevo-volkswagen-polo-mas-extremo/",
+      "fuente": "Autotest",
+      "fecha": "2026-11-20T18:00:13Z",
+      "resumen": "El Volkswagen ID. Polo GTI Clubsport se presenta como un prototipo eléctrico de alto rendimiento, con una impresionante potencia de 362 CV. Descubre cómo Volkswagen reimagina su modelo para el circuito.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/Volkswagen-ID.-Polo-GTI-Clubsport-Concept-teaser.jpg",
+      "menciones": 1,
+      "fuentes": [
+        "Autotest"
+      ]
+    },
+    {
+      "titulo": "Tan grande y aparente como un BMW X3 pero 28.000 € más barato, el SUV 4x4 que, con ADN sueco y 334 CV que no gastan gasolina durante 116 km, va a reventar el mercado español",
+      "link": "https://www.diariomotor.com/noticia/oferta-geely-monjaro-em-i-noviembre-2026/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-11-20T17:51:48Z",
+      "resumen": "El factor premium hace mucho, sin duda. Y es que hablamos de un aspecto que no solo promete representación, estatus e imagen de marca, sino también calidades, finura y tecnología. Pero ahora puedes tener todo eso en un coche con tamaño de BMW X3 pero 28.000 euros más barato , con 334 CV y capaz de hacer 116 km sin encender su motor de gasolina. Geely quiere poner punto y final a la marquitis…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/10/Geely-Monjaro-Espana-4-6ac75f6c88153.jpg?class=OG",
+      "menciones": 5,
+      "fuentes": [
         "Diariomotor (ES)"
       ]
     },
     {
-      "titulo": "Honda lanzó la preventa del City Hatchback en Argentina",
-      "link": "https://www.megautos.com/honda-city-hatchback-precio/",
-      "fuente": "Megautos",
-      "fecha": "2026-11-19T23:46:37Z",
-      "resumen": "El modelo llega desde Brasil con una gama con las versiones EXL y Touring, que se diferencian por su equipamiento. Ambas tienen motor 1.5 de 121 CV y caja automática CVT. La entrada Honda lanzó la preventa del City Hatchback en Argentina aparece primero en Mega Autos .",
-      "imagen": "https://www.megautos.com/wp-content/uploads/2026/11/City-HB-Touring-Interior-3.jpg",
+      "titulo": "Alexandre y Camille se fueron de Bélgica para comprar una granja de cabras abandonada y la convirtieron un oasis para campers: “Merecía una segunda vida”",
+      "link": "https://www.motorpasion.com/furgonetas-y-caravanas/alexandre-camille-se-fueron-belgica-para-comprar-granja-cabras-abandonada-convirtieron-oasis-para-campers-merecia-segunda-vida",
+      "fuente": "Motorpasión (ES)",
+      "fecha": "2026-11-20T17:00:26Z",
+      "resumen": "El camping Le Cabri, situado en Duras, en el suroeste de Francia, llevaba seis años abandonado cuando Alexandre Vandendaul y su pareja, Camille, decidieron comprarlo en junio de 2025. Lo que encontraron entonces fue una propiedad con edificios en ruinas, instalaciones fuera de servicio y la vegetación comiéndoselo todo. Pero donde otros veían problemas, ellos encontraron una oportunidad para…",
+      "imagen": "https://i.blogs.es/8d386a/portada-mop-1795192872438/1024_2000.jpeg",
       "menciones": 1,
       "fuentes": [
-        "Megautos"
-      ]
-    },
-    {
-      "titulo": "Cómo cambió el mapa de las marcas de autos en diez años, tras el boom de China",
-      "link": "https://www.iprofesional.com/autos/469614-como-cambio-el-mapa-de-las-marcas-de-autos-en-diez-anos-tras-el-boom-de-china",
-      "fuente": "iProfesional",
-      "fecha": "2026-11-19T23:30:00Z",
-      "resumen": "Una comparación del ranking de ventas de 2015 con 2025 muestra el avance de los fabricantes chinos, pero también la continuidad de las marcas clásicas (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
-      "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2024/04/572513.jpg",
-      "menciones": 1,
-      "fuentes": [
-        "iProfesional"
-      ]
-    },
-    {
-      "titulo": "Cuánto cuestan y porqué crece la venta de motos polivalentes 150 cc en Argentina",
-      "link": "https://www.iprofesional.com/autos/469618-cuanto-cuestan-y-porque-crece-venta-motos-polivalentes-150-cc-en-argentina",
-      "fuente": "iProfesional",
-      "fecha": "2026-11-19T23:21:00Z",
-      "resumen": "Durante la primera quincena de noviembre se patentaron 2.200 motos por día. Por primera vez, las multi propósito se acercan a la categoría Street (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
-      "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/07/621258.jpg",
-      "menciones": 1,
-      "fuentes": [
-        "iProfesional"
-      ]
-    },
-    {
-      "titulo": "Cómo impacta la quita de aranceles en el precio y las ventas de los SUV híbridos",
-      "link": "https://www.iprofesional.com/autos/469617-como-impacta-la-quita-de-aranceles-en-el-precio-y-las-venta-de-los-suv-hibridos",
-      "fuente": "iProfesional",
-      "fecha": "2026-11-19T23:20:00Z",
-      "resumen": "La subvención de precio a los híbridos y eléctricos que no pagan arancel terminó impactando en ventas, y ya no se sabe si un auto es caro o barato (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
-      "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/08/623221.jpg",
-      "menciones": 1,
-      "fuentes": [
-        "iProfesional"
-      ]
-    },
-    {
-      "titulo": "Las automotrices que fabrican en el país eligieron nuevos directivos con mensaje al Gobierno",
-      "link": "https://www.iprofesional.com/autos/469611-automotrices-que-fabrican-en-el-pais-eligieron-nuevos-directivos-con-mensaje-al-gobierno",
-      "fuente": "iProfesional",
-      "fecha": "2026-11-19T21:59:00Z",
-      "resumen": "La Asociación de Fábrica de Automotores eligió autoridades para 2026/2027. Durante el encuentro, se repasaron los logros y lo que queda pendiente (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
-      "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2024/07/579319.jpg",
-      "menciones": 1,
-      "fuentes": [
-        "iProfesional"
-      ]
-    },
-    {
-      "titulo": "¿El juego más esperado de la década esconde el mejor homenaje al transporte pesado? GTA VI y sus camiones rotulados",
-      "link": "https://autotest.com.ar/noticias/el-juego-mas-esperado-de-la-decada-esconde-el-mejor-homenaje-al-transporte-pesado-gta-vi-y-sus-camiones-rotulados/",
-      "fuente": "Autotest",
-      "fecha": "2026-11-19T21:31:31Z",
-      "resumen": "Ese camión puede ser parte de una misión o simplemente tráfico realista generado por los NPC, los personajes no jugadores que le dan vida al mapa.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/el-juego-m-s-esperado-de-la-d-cada-esco-1200x740-1.jpg",
-      "menciones": 1,
-      "fuentes": [
-        "Autotest"
-      ]
-    },
-    {
-      "titulo": "La Silverado ZR2 de más de 700 CV que quiere destronar a la Raptor R de 720 CV",
-      "link": "https://autotest.com.ar/offroad/la-silverado-zr2-de-mas-de-700-cv-que-quiere-destronar-a-la-raptor-r-de-720-cv/",
-      "fuente": "Autotest",
-      "fecha": "2026-11-19T21:30:31Z",
-      "resumen": "La Silverado ZR2 actual es una pick-up off-road de fábrica con suspensión de largo recorrido, amortiguadores Multimatic DSSV y protecciones específicas para uso rudo.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/la-silverado-zr2-de-m-s-de-700-cv-que-qu-1200x740-1.jpg",
-      "menciones": 1,
-      "fuentes": [
-        "Autotest"
-      ]
-    },
-    {
-      "titulo": "La FIA blindó el WRC: un Rally2 de 280 CV ya no puede ser campeón ni ganando todas las fechas",
-      "link": "https://autotest.com.ar/carreras/la-fia-blindo-el-wrc-un-rally2-de-280-cv-ya-no-puede-ser-campeon-ni-ganando-todas-las-fechas/",
-      "fuente": "Autotest",
-      "fecha": "2026-11-19T21:29:04Z",
-      "resumen": "En 2024, el sistema de puntuación por sábado, domingo y power stage había abierto una ventana: varios Rally2 puntuaron en el absoluto gracias a los puntos parciales y al tramo final con bonus.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/la-fia-blind-el-wrc-un-rally2-de-280-cv-1200x740-1.jpg",
-      "menciones": 1,
-      "fuentes": [
-        "Autotest"
-      ]
-    },
-    {
-      "titulo": "El GT-R eléctrico de más de 1.300 CV recupera los cuatro faros redondos del Skyline de 1969",
-      "link": "https://autotest.com.ar/noticias/el-gt-r-electrico-de-mas-de-1-300-cv-recupera-los-cuatro-faros-redondos-del-skyline-de-1969/",
-      "fuente": "Autotest",
-      "fecha": "2026-11-19T21:24:31Z",
-      "resumen": "El Nissan Hyper Force, mostrado en el Salón de Tokio 2023, anticipó una silueta baja, un alerón gigante y una iluminación LED afilada.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/el-gt-r-el-ctrico-de-m-s-de-1-300-cv-rec-1200x740-1.jpg",
-      "menciones": 1,
-      "fuentes": [
-        "Autotest"
-      ]
-    },
-    {
-      "titulo": "Mustang S650 con carrocería clásica: 840 CV y 900 horas de fibra de carbono",
-      "link": "https://autotest.com.ar/noticias/mustang-s650-con-carroceria-clasica-840-cv-y-900-horas-de-fibra-de-carbono/",
-      "fuente": "Autotest",
-      "fecha": "2026-11-19T21:21:31Z",
-      "resumen": "La contracara es que pierde el número de chasis original y, para un coleccionista purista, eso suele ser una barrera difícil de cruzar.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/mustang-s650-con-carrocer-a-cl-sica-840-1200x740-1.jpg",
-      "menciones": 1,
-      "fuentes": [
-        "Autotest"
-      ]
-    },
-    {
-      "titulo": "Desde 28.495 dólares: qué ofrece el nuevo sedán de Honda que va contra Corolla",
-      "link": "https://autotest.com.ar/noticias/desde-28-495-dolares-que-ofrece-el-nuevo-sedan-de-honda-que-va-contra-corolla/",
-      "fuente": "Autotest",
-      "fecha": "2026-11-19T20:52:11Z",
-      "resumen": "Honda presenta el Civic Sport-L 2027, una nueva versión que incorpora mayor confort para los modelos sedán y hatchback con motor 2.0 y caja CVT.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/Honda-CIvic-1.jpg",
-      "menciones": 1,
-      "fuentes": [
-        "Autotest"
-      ]
-    },
-    {
-      "titulo": "Volkswagen presenta una edición especial del Golf GTI con un guiño a la nostalgia",
-      "link": "https://autotest.com.ar/noticias/volkswagen-presenta-una-edicion-especial-del-golf-gti-con-un-guino-a-la-nostalgia/",
-      "fuente": "Autotest",
-      "fecha": "2026-11-19T20:40:11Z",
-      "resumen": "Volkswagen revive el nombre Rabbit con una edición especial del GTI en el Salón de Los Ángeles, combinando nostalgia y performance mejorada.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/Volkswagen-Golf-GTI-4-1.jpg",
-      "menciones": 1,
-      "fuentes": [
-        "Autotest"
+        "Motorpasión (ES)"
       ]
     }
   ]
