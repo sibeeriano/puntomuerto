@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-20T21:04:44Z",
+  "actualizado": "2026-11-20T22:42:20Z",
   "desde": "2026-11-13",
   "hasta": "2026-11-20",
   "destacadas": [
@@ -200,6 +200,18 @@
       ]
     },
     {
+      "titulo": "CABA suma una nueva carrera para formar técnicos en el mundo del automovilismo",
+      "link": "https://www.iprofesional.com/actualidad/469692-novedosa-carrera-de-automovilismo-que-se-podra-estudiar-en-ciudad-de-buenos-aires",
+      "fuente": "iProfesional",
+      "fecha": "2026-11-20T22:10:00Z",
+      "resumen": "La especialidad comenzará en 2027 en Monte Castro y otorgará un título de validez nacional, a raíz de los preparativos por el regreso del MotoGP (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
+      "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/11/630269.jpg",
+      "menciones": 1,
+      "fuentes": [
+        "iProfesional"
+      ]
+    },
+    {
       "titulo": "Ayrton Senna y Williams hicieron un pacto en 1994. Se cumplió a título póstumo con este Fórmula 1 que acaba de venderse por entre 4 y 6 millones",
       "link": "https://www.motorpasion.com/formula1/ayrton-senna-williams-hicieron-pacto-1994-se-cumplio-a-titulo-postumo-este-formula-1-que-acaba-venderse-4-6-millones",
       "fuente": "Motorpasión (ES)",
@@ -293,18 +305,6 @@
       "menciones": 5,
       "fuentes": [
         "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "Alexandre y Camille se fueron de Bélgica para comprar una granja de cabras abandonada y la convirtieron un oasis para campers: “Merecía una segunda vida”",
-      "link": "https://www.motorpasion.com/furgonetas-y-caravanas/alexandre-camille-se-fueron-belgica-para-comprar-granja-cabras-abandonada-convirtieron-oasis-para-campers-merecia-segunda-vida",
-      "fuente": "Motorpasión (ES)",
-      "fecha": "2026-11-20T17:00:26Z",
-      "resumen": "El camping Le Cabri, situado en Duras, en el suroeste de Francia, llevaba seis años abandonado cuando Alexandre Vandendaul y su pareja, Camille, decidieron comprarlo en junio de 2025. Lo que encontraron entonces fue una propiedad con edificios en ruinas, instalaciones fuera de servicio y la vegetación comiéndoselo todo. Pero donde otros veían problemas, ellos encontraron una oportunidad para…",
-      "imagen": "https://i.blogs.es/8d386a/portada-mop-1795192872438/1024_2000.jpeg",
-      "menciones": 1,
-      "fuentes": [
-        "Motorpasión (ES)"
       ]
     }
   ]
