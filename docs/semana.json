@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-21T20:06:39Z",
+  "actualizado": "2026-11-21T21:42:28Z",
   "desde": "2026-11-14",
   "hasta": "2026-11-21",
   "destacadas": [
@@ -200,6 +200,18 @@
       ]
     },
     {
+      "titulo": "Volkswagen presentó el nuevo T-Roc R",
+      "link": "https://www.megautos.com/volkswagen-t-roc-r-2027/",
+      "fuente": "Megautos",
+      "fecha": "2026-11-21T21:13:55Z",
+      "resumen": "El SUV deportivo incorpora un motor turbo con tecnología mild-hybrid de 48 voltios, caja automática de siete marchas y una puesta a punto específica. Acelera de 0 a 100 km/h en 5 segundos. La entrada Volkswagen presentó el nuevo T-Roc R aparece primero en Mega Autos .",
+      "imagen": "https://www.megautos.com/wp-content/uploads/2026/11/DB2026AU01205_large.jpg",
+      "menciones": 1,
+      "fuentes": [
+        "Megautos"
+      ]
+    },
+    {
       "titulo": "Scotty Kilmer, mecánico: \"Una de las estafas más comunes cuando llevas el coche al mecánico es decirte que necesitas amortiguadores nuevos\"",
       "link": "https://www.motorpasion.com/revision/scotty-kilmer-mecanico-estafas-comunes-cuando-llevas-coche-al-mecanico-decirte-que-necesitas-amortiguadores-nuevos",
       "fuente": "Motorpasión (ES)",
@@ -295,18 +307,6 @@
       "menciones": 1,
       "fuentes": [
         "Motorpasión (ES)"
-      ]
-    },
-    {
-      "titulo": "El próximo BMW M3 ya no tiene secretos, pero sí 850 CV con los que quiere callar a todos los que lo critican",
-      "link": "https://www.diariomotor.com/noticia/nuevos-detalles-bmw-m3-electrico/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-11-21T13:00:04Z",
-      "resumen": "La fabricación de un BMW M3 totalmente eléctrico es un sacrilegio para los fans de la marca alemana, pero en BMW están convencidos en que pueden hacerlos entrar en razón y la clave para conseguirlo está en el coche de 850 CV que han construido. No hay nada que se haya dejado al azar, todo tiene una razón y un sentido, por eso hoy vamos a desvelar todos los secretos que esconde el primer M3…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/11/bmw-m3-electrico-31-6b0167bed932f.jpg?class=OG",
-      "menciones": 1,
-      "fuentes": [
-        "Diariomotor (ES)"
       ]
     }
   ]
