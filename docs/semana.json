@@ -1,7 +1,7 @@
 {
-  "actualizado": "2026-11-20T22:42:20Z",
-  "desde": "2026-11-13",
-  "hasta": "2026-11-20",
+  "actualizado": "2026-11-21T00:57:31Z",
+  "desde": "2026-11-14",
+  "hasta": "2026-11-21",
   "destacadas": [
     {
       "titulo": "Toyota develó su nueva pick-up chica que llegará a la Argentina: cómo es",
@@ -200,6 +200,30 @@
       ]
     },
     {
+      "titulo": "Milei celebró la llegada de Tesla: \"Antes vivíamos detrás de nuestra cortina de hierro\"",
+      "link": "https://www.iprofesional.com/autos/469714-milei-celebro-la-llegada-de-tesla-antes-viviamos-detras-de-nuestra-cortina-de-hierro",
+      "fuente": "iProfesional",
+      "fecha": "2026-11-20T23:45:00Z",
+      "resumen": "La llegada de una empresa líder en autos eléctricos marca el fin de restricciones para el sector y abre la puerta a nuevas inversiones (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
+      "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/11/630295.jpg",
+      "menciones": 1,
+      "fuentes": [
+        "iProfesional"
+      ]
+    },
+    {
+      "titulo": "Tesla reveló dónde será su centro de entrega de autos y postventa en Argentina",
+      "link": "https://www.iprofesional.com/autos/469597-donde-instalara-tesla-su-centro-de-entrega-de-autos-y-postventa",
+      "fuente": "iProfesional",
+      "fecha": "2026-11-20T23:12:00Z",
+      "resumen": "Será en el Parque Industrial Munro Center, un complejo que pertenece a la empresa Grupo Zönna. La automotriz ocupará una nave de 3500 m2 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
+      "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/11/630204.jpg",
+      "menciones": 1,
+      "fuentes": [
+        "iProfesional"
+      ]
+    },
+    {
       "titulo": "CABA suma una nueva carrera para formar técnicos en el mundo del automovilismo",
       "link": "https://www.iprofesional.com/actualidad/469692-novedosa-carrera-de-automovilismo-que-se-podra-estudiar-en-ciudad-de-buenos-aires",
       "fuente": "iProfesional",
@@ -281,30 +305,6 @@
       "menciones": 1,
       "fuentes": [
         "Motorpasión (ES)"
-      ]
-    },
-    {
-      "titulo": "362 CV y 0 a 100 en 4,7 segundos: así es el nuevo Volkswagen Polo más extremo",
-      "link": "https://autotest.com.ar/noticias/362-cv-y-0-a-100-en-47-segundos-asi-es-el-nuevo-volkswagen-polo-mas-extremo/",
-      "fuente": "Autotest",
-      "fecha": "2026-11-20T18:00:13Z",
-      "resumen": "El Volkswagen ID. Polo GTI Clubsport se presenta como un prototipo eléctrico de alto rendimiento, con una impresionante potencia de 362 CV. Descubre cómo Volkswagen reimagina su modelo para el circuito.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/Volkswagen-ID.-Polo-GTI-Clubsport-Concept-teaser.jpg",
-      "menciones": 1,
-      "fuentes": [
-        "Autotest"
-      ]
-    },
-    {
-      "titulo": "Tan grande y aparente como un BMW X3 pero 28.000 € más barato, el SUV 4x4 que, con ADN sueco y 334 CV que no gastan gasolina durante 116 km, va a reventar el mercado español",
-      "link": "https://www.diariomotor.com/noticia/oferta-geely-monjaro-em-i-noviembre-2026/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-11-20T17:51:48Z",
-      "resumen": "El factor premium hace mucho, sin duda. Y es que hablamos de un aspecto que no solo promete representación, estatus e imagen de marca, sino también calidades, finura y tecnología. Pero ahora puedes tener todo eso en un coche con tamaño de BMW X3 pero 28.000 euros más barato , con 334 CV y capaz de hacer 116 km sin encender su motor de gasolina. Geely quiere poner punto y final a la marquitis…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/10/Geely-Monjaro-Espana-4-6ac75f6c88153.jpg?class=OG",
-      "menciones": 5,
-      "fuentes": [
-        "Diariomotor (ES)"
       ]
     }
   ]
