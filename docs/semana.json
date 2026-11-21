@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-21T00:57:31Z",
+  "actualizado": "2026-11-21T20:06:39Z",
   "desde": "2026-11-14",
   "hasta": "2026-11-21",
   "destacadas": [
@@ -18,13 +18,39 @@
       ]
     },
     {
+      "titulo": "Rival del Peugeot 3008 pero por 12.000 € menos, llega este SUV compacto con diseño atractivo, 188 CV y a tope de equipo",
+      "link": "https://www.diariomotor.com/noticia/dr-6-oferta-noviembre/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-11-21T14:00:49Z",
+      "resumen": "Comprar un SUV compacto se está convirtiendo en un capricho bastante caro . Basta con echar un vistazo a los precios de los modelos más conocidos para comprobar que superar los 30.000 euros es casi lo normal si buscas un motor decente y un equipamiento completo. Por suerte, todavía hay marcas dispuestas a dar la campanada con tarifas más razonables como la de este desconocido italiano que cuenta…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/02/dr6d-69945b345c798.jpg?class=OG",
+      "menciones": 26,
+      "fuentes": [
+        "Autotest",
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "160 CV y 4,3 litros cada 100 km: así es el SUV de Renault que se ubica por encima de Duster",
+      "link": "https://autotest.com.ar/noticias/160-cv-y-43-litros-cada-100-km-asi-es-el-suv-de-renault-que-se-ubica-por-encima-de-duster/",
+      "fuente": "Autotest",
+      "fecha": "2026-11-21T10:30:31Z",
+      "resumen": "Renault presenta el Symbioz, un SUV europeo superior al Duster, con una versión híbrida que ofrece 160 CV y un consumo notablemente bajo.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/Renault-Symbioz-3.jpg",
+      "menciones": 10,
+      "fuentes": [
+        "Autotest",
+        "Diariomotor (ES)"
+      ]
+    },
+    {
       "titulo": "La pick up con 437 CV que bajó de precio y ahora cuesta casi lo mismo que Toyota Hilux",
       "link": "https://autotest.com.ar/noticias/la-pick-up-con-437-cv-que-bajo-de-precio-y-ahora-cuesta-casi-lo-mismo-que-toyota-hilux/",
       "fuente": "Autotest",
       "fecha": "2026-11-20T17:00:13Z",
       "resumen": "La pick-up híbrida plug-in de BYD ha reducido su precio en Brasil, posicionándose por debajo de R$ 300.000 y ofreciendo una alternativa a las pick-ups tradicionales con su tecnología avanzada.",
       "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/Pick-up-BYD-Shark-caja-1.jpg",
-      "menciones": 12,
+      "menciones": 7,
       "fuentes": [
         "Autotest",
         "Diariomotor (ES)"
@@ -50,7 +76,7 @@
       "fecha": "2026-11-20T13:19:35Z",
       "resumen": "Mitsubishi amplió en Brasil la gama de la Triton, la pick up mediana rival de Toyota Hilux y conocida también como L200, con una serie especial pensada para el agronegocio. Se llama Estradeiro y fue desarrollada junto con Estância Bahia, una empresa brasileña vinculada a servicios para la actividad ganadera. Esta versión de la camioneta […]",
       "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/Nueva-Mitsubishi-Triton-Estradeiro.jpg",
-      "menciones": 5,
+      "menciones": 4,
       "fuentes": [
         "Autotest",
         "Diariomotor (ES)"
@@ -102,7 +128,7 @@
       "fecha": "2026-11-20T10:00:44Z",
       "resumen": "Pocos dichos hay más ciertos que aquel de \"si algo funciona, no lo cambies\" . Y eso precisamente es lo que ha hecho BYD con el coche que ha dado a la marca en España el sitio de privilegio en el mercado que actualmente ocupa. Se trata del BYD Seal U , que cambia para 2027 pero sólo para afinar aquello en lo que el D-SUV chino no acababa de brillar y que le ponía las cosas algo más difíciles frente…",
       "imagen": "https://www.diariomotor.com/imagenes/2026/11/BYD-Seal-U-2027-Espana-7-6b00115264885.jpg?class=OG",
-      "menciones": 14,
+      "menciones": 12,
       "fuentes": [
         "Autotest",
         "Diariomotor (ES)"
@@ -174,6 +200,18 @@
       ]
     },
     {
+      "titulo": "Scotty Kilmer, mecánico: \"Una de las estafas más comunes cuando llevas el coche al mecánico es decirte que necesitas amortiguadores nuevos\"",
+      "link": "https://www.motorpasion.com/revision/scotty-kilmer-mecanico-estafas-comunes-cuando-llevas-coche-al-mecanico-decirte-que-necesitas-amortiguadores-nuevos",
+      "fuente": "Motorpasión (ES)",
+      "fecha": "2026-11-21T19:00:32Z",
+      "resumen": "Llevar el coche al taller puede generar desconfianza . Entre los precios altos y el sentimiento de que cada vez hay “algo” que no estaba previsto y que hay que cambiar, siempre genera dudas de si son trucos para facturar más, o no. Scotty Kilmer, mecánico con medio siglo de experiencia , ha dedicado uno de sus vídeos a las reparaciones que, según él, más se venden sin necesidad, en especial el…",
+      "imagen": "https://i.blogs.es/0e1b2e/taller-mecanico/1024_2000.jpeg",
+      "menciones": 1,
+      "fuentes": [
+        "Motorpasión (ES)"
+      ]
+    },
+    {
       "titulo": "Renault distribuirá los autos de Geely en Argentina y sumará nuevos modelos electrificados",
       "link": "https://autotest.com.ar/noticias/renault-distribuira-los-autos-de-geely-en-argentina-y-sumara-nuevos-modelos-electrificados/",
       "fuente": "Autotest",
@@ -200,95 +238,23 @@
       ]
     },
     {
-      "titulo": "Milei celebró la llegada de Tesla: \"Antes vivíamos detrás de nuestra cortina de hierro\"",
-      "link": "https://www.iprofesional.com/autos/469714-milei-celebro-la-llegada-de-tesla-antes-viviamos-detras-de-nuestra-cortina-de-hierro",
-      "fuente": "iProfesional",
-      "fecha": "2026-11-20T23:45:00Z",
-      "resumen": "La llegada de una empresa líder en autos eléctricos marca el fin de restricciones para el sector y abre la puerta a nuevas inversiones (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
-      "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/11/630295.jpg",
-      "menciones": 1,
-      "fuentes": [
-        "iProfesional"
-      ]
-    },
-    {
-      "titulo": "Tesla reveló dónde será su centro de entrega de autos y postventa en Argentina",
-      "link": "https://www.iprofesional.com/autos/469597-donde-instalara-tesla-su-centro-de-entrega-de-autos-y-postventa",
-      "fuente": "iProfesional",
-      "fecha": "2026-11-20T23:12:00Z",
-      "resumen": "Será en el Parque Industrial Munro Center, un complejo que pertenece a la empresa Grupo Zönna. La automotriz ocupará una nave de 3500 m2 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
-      "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/11/630204.jpg",
-      "menciones": 1,
-      "fuentes": [
-        "iProfesional"
-      ]
-    },
-    {
-      "titulo": "CABA suma una nueva carrera para formar técnicos en el mundo del automovilismo",
-      "link": "https://www.iprofesional.com/actualidad/469692-novedosa-carrera-de-automovilismo-que-se-podra-estudiar-en-ciudad-de-buenos-aires",
-      "fuente": "iProfesional",
-      "fecha": "2026-11-20T22:10:00Z",
-      "resumen": "La especialidad comenzará en 2027 en Monte Castro y otorgará un título de validez nacional, a raíz de los preparativos por el regreso del MotoGP (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
-      "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/11/630269.jpg",
-      "menciones": 1,
-      "fuentes": [
-        "iProfesional"
-      ]
-    },
-    {
-      "titulo": "Ayrton Senna y Williams hicieron un pacto en 1994. Se cumplió a título póstumo con este Fórmula 1 que acaba de venderse por entre 4 y 6 millones",
-      "link": "https://www.motorpasion.com/formula1/ayrton-senna-williams-hicieron-pacto-1994-se-cumplio-a-titulo-postumo-este-formula-1-que-acaba-venderse-4-6-millones",
+      "titulo": "Mientras muchos municipios en España ponen trabas a las campers, Zaragoza las invita a recorrer sus pueblos con este mapa de 63 áreas",
+      "link": "https://www.motorpasion.com/furgonetas-y-caravanas/muchos-municipios-espana-ponen-trabas-a-campers-zaragoza-invita-a-recorrer-sus-pueblos-este-mapa-63-areas",
       "fuente": "Motorpasión (ES)",
-      "fecha": "2026-11-20T20:00:29Z",
-      "resumen": "Normalmente, las leyendas más legendarias de la Fórmula 1 van asociadas a los pilotos, pero hay coches que también se merecen entrar en los libros de historia. Es el caso del primer chasis Williams-Renault FW16 de 1994 , un coche que acaba de venderse por varios millones. Además de que Ayrton Senna lo pilotó unos días antes de fallecer al volante de otro FW16, fue clave para que Williams ganase el…",
-      "imagen": "https://i.blogs.es/dc491e/senna/1024_2000.jpeg",
+      "fecha": "2026-11-21T17:00:26Z",
+      "resumen": "Muchas localidades, provincias y comunidades españolas no han visto con buenos ojos el boom camper . Al aluvión de autocaravanas y furgonetas que ocupan espacios, han respondido con restricciones de aparcamiento, prohibiciones o relegándolas a zonas exclusivas. Cantabria , varios municipios de Galicia , Ibiza ... la lista es larga. Zaragoza ha hecho justo lo contrario: la Diputación de esta…",
+      "imagen": "https://i.blogs.es/13099e/guia-zaragoza-provincia-territorio-camper/1024_2000.jpeg",
       "menciones": 1,
       "fuentes": [
         "Motorpasión (ES)"
       ]
     },
     {
-      "titulo": "Dudaba entre poner a mi coche neumáticos de verano o neumáticos de invierno. Lo he solucionado con neumáticos All Season o ‘4 estaciones’",
-      "link": "https://www.motorpasion.com/revision/dudaba-poner-a-mi-coche-neumaticos-verano-neumaticos-invierno-he-solucionado-neumaticos-all-season-4-estaciones",
-      "fuente": "Motorpasión (ES)",
-      "fecha": "2026-11-20T19:02:19Z",
-      "resumen": "Cada vez hay más conductores que montan neumáticos All Season , también llamados '4 estaciones' a su coche. Es una opción muy interesante en lugares donde el clima varía mucho a lo largo del año. Es una cuestión de versatilidad y comodidad En España, tenemos una variedad climátic a importante, no solo porque el tiempo puede variar mucho de un sitio a otro de nuestro país, sino porque el mismo…",
-      "imagen": "https://i.blogs.es/24e625/neumaticos-all-season-/1024_2000.jpeg",
-      "menciones": 1,
-      "fuentes": [
-        "Motorpasión (ES)"
-      ]
-    },
-    {
-      "titulo": "No es Corolla: Toyota actualizó el sedán híbrido que se destaca por su consumo y tecnología",
-      "link": "https://autotest.com.ar/noticias/no-es-corolla-toyota-actualizo-el-sedan-hibrido-que-se-destaca-por-consumo-y-tecnologia/",
-      "fuente": "Autotest",
-      "fecha": "2026-11-20T19:00:49Z",
-      "resumen": "El Toyota Prius 2027 llega a México con innovadores servicios conectados y un sistema híbrido eficiente, ofreciendo dos versiones a precios competitivos.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/Toyota-Prius-2027-perfil-1.jpg",
-      "menciones": 2,
-      "fuentes": [
-        "Autotest"
-      ]
-    },
-    {
-      "titulo": "Cuánto salen los autos que Tesla ya comenzó a vender en Argentina",
-      "link": "https://www.iprofesional.com/autos/469687-cuanto-salen-los-autos-que-tesla-ya-comenzo-a-vender-en-argentina",
+      "titulo": "Tesla eligió el nuevo polo premium de autos para abrir su primer local a la calle",
+      "link": "https://www.iprofesional.com/autos/469734-tesla-eligio-el-nuevo-polo-premium-de-autos-para-abrir-su-primer-local-a-la-calle",
       "fuente": "iProfesional",
-      "fecha": "2026-11-20T18:57:00Z",
-      "resumen": "Es posible configurar los dos modelos, que tienen distintas versiones: se puede elegir color exterior e interior, pero tiene un costo extra (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
-      "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/11/630265.jpg",
-      "menciones": 1,
-      "fuentes": [
-        "iProfesional"
-      ]
-    },
-    {
-      "titulo": "Tesla llega a Argentina para competir en el negocio que lideran Ford y Toyota",
-      "link": "https://www.iprofesional.com/negocios/469683-tesla-llega-a-argentina-para-competir-en-negocio-que-lideran-ford-y-toyota",
-      "fuente": "iProfesional",
-      "fecha": "2026-11-20T18:40:00Z",
-      "resumen": "Con el Model Y, la automotriz de Elon Musk busca captar al comprador de SUV que ya eligió un híbrido. Cuánto cuesta el salto y qué cambia después (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
+      "fecha": "2026-11-21T15:57:00Z",
+      "resumen": "La compañía liderada por Musk abrirá un espacio exclusivo sobre Av. Libertador con modelos eléctricos y experiencias para los clientes argentinos (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
       "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/07/622061.jpg",
       "menciones": 1,
       "fuentes": [
@@ -296,15 +262,51 @@
       ]
     },
     {
-      "titulo": "Según la psicología, quienes dan las gracias a los conductores en el paso de peatones no solo muestran educación: un simple \"gracias\" podría duplicar las ganas de volver a ayudar",
-      "link": "https://www.motorpasion.com/seguridad/psicologia-quienes-dan-gracias-a-conductores-paso-peatones-no-solo-muestran-educacion-simple-gracias-podria-duplicar-ganas-volver-a-ayudar",
+      "titulo": "Cuesta solo 15000 dólares: así es la Ford Maverick con 304 CV que supera a Fiat Toro",
+      "link": "https://autotest.com.ar/noticias/cuesta-solo-15000-dolares-asi-es-la-ford-maverick-con-304-cv-que-supera-a-fiat-toro/",
+      "fuente": "Autotest",
+      "fecha": "2026-11-21T15:54:41Z",
+      "resumen": "Ford ya admite pedidos del paquete SV300T para la Maverick que queda con 304 CV de potencia y como la número 1 del segmento en el que compite contra Fiat Toro y RAM Rampage, entre otras. La instalación queda a cargo de Ford Custom Garage antes de la entrega y el precio sugerido arranca en […]",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/Ford-Maverick-SV300T-1.jpg",
+      "menciones": 1,
+      "fuentes": [
+        "Autotest"
+      ]
+    },
+    {
+      "titulo": "Más potente que Toyota Corolla: Mazda renovó un sedán con 223 CV y más equipamiento",
+      "link": "https://autotest.com.ar/noticias/mas-potente-que-toyota-corolla-mazda-renovo-un-sedan-con-223-cv-y-mas-equipamiento/",
+      "fuente": "Autotest",
+      "fecha": "2026-11-21T14:05:07Z",
+      "resumen": "Mazda presentó el Mazda3 2027 en México con más tecnología de seguridad desde las versiones iniciales. Mantiene la oferta con carrocerías sedán y hatchback, dos motores 2.5 litros y versiones turbocargadas Signature como tope de gama y hasta 223 CV para superar en potencia a Toyota Corolla y Nissan Sentra, sus rivales japoneses. La actualización […]",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/Mazda-3-nuevo.jpg",
+      "menciones": 1,
+      "fuentes": [
+        "Autotest"
+      ]
+    },
+    {
+      "titulo": "Mientras muchas marcas ya sólo apuestan por coches eléctricos, Renault y Geely se sacan de la manga un nuevo motor V8",
+      "link": "https://www.motorpasion.com/industria/muchas-marcas-solo-apuestan-coches-electricos-renault-geely-se-sacan-manga-nuevo-motor-v8",
       "fuente": "Motorpasión (ES)",
-      "fecha": "2026-11-20T18:00:24Z",
-      "resumen": "Lo vemos a diario al volante, un peatón cruza, levanta la mano, asiente con la cabeza o sonríe y sigue su camino . Dura menos de un segundo. Según varios psicólogos especializados en comportamiento prosocial, ese gesto dice más de lo que parece. Según la psicología, ese gesto puede ser más elocuente que la simple cortesía . También refleja un cierto reconocimiento hacia los demás y la capacidad de…",
-      "imagen": "https://i.blogs.es/7bc458/austin-hervias-gmcw6nbapb4-unsplash/1024_2000.jpeg",
+      "fecha": "2026-11-21T13:00:30Z",
+      "resumen": "En 2026, diseñar un motor V8 desde cero parece casi una temeridad industrial. Los costes de desarrollo son astronómicos, sobre todo debido a las normas anticontaminación. Además, los volúmenes necesarios para rentabilizarlo son cada vez más pequeños a medida que avanza la electrificación. Aun así, van Renault y Geely y crean un bloque de 8 cilindros totalmente nuevo. Sí, a las puertas de 2027.…",
+      "imagen": "https://i.blogs.es/f2756a/v8-w40-horese-geely-01/1024_2000.jpeg",
       "menciones": 1,
       "fuentes": [
         "Motorpasión (ES)"
+      ]
+    },
+    {
+      "titulo": "El próximo BMW M3 ya no tiene secretos, pero sí 850 CV con los que quiere callar a todos los que lo critican",
+      "link": "https://www.diariomotor.com/noticia/nuevos-detalles-bmw-m3-electrico/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-11-21T13:00:04Z",
+      "resumen": "La fabricación de un BMW M3 totalmente eléctrico es un sacrilegio para los fans de la marca alemana, pero en BMW están convencidos en que pueden hacerlos entrar en razón y la clave para conseguirlo está en el coche de 850 CV que han construido. No hay nada que se haya dejado al azar, todo tiene una razón y un sentido, por eso hoy vamos a desvelar todos los secretos que esconde el primer M3…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/11/bmw-m3-electrico-31-6b0167bed932f.jpg?class=OG",
+      "menciones": 1,
+      "fuentes": [
+        "Diariomotor (ES)"
       ]
     }
   ]
