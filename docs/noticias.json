@@ -1,19 +1,203 @@
 [
   {
-    "titulo": "Volkswagen presentó el nuevo T-Roc R",
-    "link": "https://www.megautos.com/volkswagen-t-roc-r-2027/",
-    "fuente": "Megautos",
-    "fecha": "2026-11-21T21:13:55Z",
-    "resumen": "El SUV deportivo incorpora un motor turbo con tecnología mild-hybrid de 48 voltios, caja automática de siete marchas y una puesta a punto específica. Acelera de 0 a 100 km/h en 5 segundos. La entrada Volkswagen presentó el nuevo T-Roc R aparece primero en Mega Autos .",
-    "imagen": "https://www.megautos.com/wp-content/uploads/2026/11/DB2026AU01205_large.jpg"
+    "titulo": "Europa haciendo coches caros, pequeños y anodinos y llega China, le quita dos ruedas a su nuevo 4x4 de 544 CV y lo pone a remolcar un Boeing 747 de 180 toneladas",
+    "link": "https://www.diariomotor.com/noticia/denza-bao-5-boeing-747-remolque/",
+    "fuente": "Diariomotor (ES)",
+    "fecha": "2026-11-22T18:03:11Z",
+    "resumen": "No nos vamos a engañar: Europa sigue haciendo coches interesante, pero también está sufriendo las consecuencias de una China cada vez más competitiva. Y no lo digo solo por los coches de a pie, sino también por segmentos más exclusivos como el de los todoterreno, donde China, por prácticamente lo mismo que Europa, ofrece un 4x4 con 544 CV, etiqueta CERO y capaz de remolcar un Boeing 747... con…",
+    "imagen": "https://www.diariomotor.com/imagenes/2026/11/denza-bao-5-boeing-747-remolque-2-6b032db3a4c31.jpg?class=OG"
   },
   {
-    "titulo": "Scotty Kilmer, mecánico: \"Una de las estafas más comunes cuando llevas el coche al mecánico es decirte que necesitas amortiguadores nuevos\"",
-    "link": "https://www.motorpasion.com/revision/scotty-kilmer-mecanico-estafas-comunes-cuando-llevas-coche-al-mecanico-decirte-que-necesitas-amortiguadores-nuevos",
+    "titulo": "Europa electrificándose y va Ferrari y, nadando contracorriente, presenta una bestia de 6 cilindros y 670 CV sin rastro de enchufes",
+    "link": "https://www.diariomotor.com/noticia/ferrari-296-challenge-stradale/",
+    "fuente": "Diariomotor (ES)",
+    "fecha": "2026-11-22T17:15:09Z",
+    "resumen": "El futuro de los superdeportivos será híbrido o no será, o al menos eso es lo que quería Europa. Pero en Ferrari no están de acuerdo con esta idea, motivo por el cual han decidido nadar contracorriente presentando un 296 Challenge Stradale que renuncia a cualquier electrificación para dar vida al superdeportivo más puro y radical del momento . El Ferrari 296 que se olvidó de la electrificación Si…",
+    "imagen": "https://www.diariomotor.com/imagenes/2026/11/ferrari-296-challenge-stradale-25-6b031e0f85bad.jpg?class=OG"
+  },
+  {
+    "titulo": "Hyundai presenta su renovado sedán para enfrentar a Nissan Sentra",
+    "link": "https://autotest.com.ar/noticias/hyundai-presenta-su-renovado-sedan-para-enfrentar-a-nissan-sentra/",
+    "fuente": "Autotest",
+    "fecha": "2026-11-22T15:00:26Z",
+    "resumen": "Hyundai presenta el nuevo Elantra en el Salón de Los Ángeles 2026 y pone otra vez al sedán mediano en el centro de su estrategia. Y aprovecha para mostrar también el denominado Elantra Hybrid 2028, una variante clave de cara a lo que viene y para competir contra Nissan Sentra y Toyota Corolla. El Elantra […]",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/hyundai-elantra-20271-1.jpg"
+  },
+  {
+    "titulo": "Tesla lanzó el Model 3 en Argentina",
+    "link": "https://www.megautos.com/tesla-model-3-precio/",
+    "fuente": "Megautos",
+    "fecha": "2026-11-22T14:42:15Z",
+    "resumen": "La automotriz estadounidense de Elon Musk desembarcó en el mercado local con dos autos eléctricos. El Model 3 tiene tres configuraciones mecánicas y diferentes niveles de equipamiento. La entrada Tesla lanzó el Model 3 en Argentina aparece primero en Mega Autos .",
+    "imagen": "https://www.megautos.com/wp-content/uploads/2026/11/Model-3-Premium-End-LHD.jpg"
+  },
+  {
+    "titulo": "Lepas L6",
+    "link": "https://www.diariomotor.com/coche/lepas-l6/",
+    "fuente": "Diariomotor (ES)",
+    "fecha": "2026-11-22T14:10:30Z",
+    "resumen": "El Lepas L6 es un SUV compacto del segmento C , fabricado por Lepas , una marca perteneciente al grupo chino Chery. Actualmente se comercializa su primera generación, presentada en 2026. El Lepas L6 se caracteriza por su diseño de inspiración europea, su abundante equipamiento tecnológico y una gama de motores electrificados , con versiones híbridas enchufables y eléctricas. Se fabrica en las…",
+    "imagen": "https://www.diariomotor.com/imagenes/2026/11/Lepas-L612-6af4a1e00b036.jpg?class=OG"
+  },
+  {
+    "titulo": "Volkswagen ID. Tiguan",
+    "link": "https://www.diariomotor.com/coche/volkswagen-id-tiguan/",
+    "fuente": "Diariomotor (ES)",
+    "fecha": "2026-11-22T14:09:57Z",
+    "resumen": "El Volkswagen ID. Tiguan es un SUV eléctrico de tamaño mediano, del segmento C , fabricado por Volkswagen desde 2026. Actualmente se comercializa su primera generación, presentada en octubre de 2026. El Volkswagen ID. Tiguan se caracteriza por un habitáculo amplio y tecnológico y una gama completamente eléctrica con hasta 605 kilómetros de autonomía. Se fabrica en la planta de Emden , en Alemania.…",
+    "imagen": "https://www.diariomotor.com/imagenes/2026/11/volkswagen-id-tiguan-2027_port-6b02ebcf8f3d5.jpg?class=OG"
+  },
+  {
+    "titulo": "Suzuki Vitara",
+    "link": "https://www.diariomotor.com/coche/suzuki-vitara/",
+    "fuente": "Diariomotor (ES)",
+    "fecha": "2026-11-22T14:02:31Z",
+    "resumen": "El Suzuki Vitara es un SUV pequeño del segmento B , fabricado por Suzuki desde 1988. Actualmente se comercializa la cuarta generación, presentada en 2014 y actualizada en varias ocasiones, con un importante rediseño en 2024 y novedades mecánicas para el año-modelo 2026. El Suzuki Vitara se caracteriza por su diseño robusto, su enfoque práctico y, especialmente, por ofrecer tracción total en un…",
+    "imagen": "https://www.diariomotor.com/imagenes/2025/02/Suzuki-Vitara2-679dfc8b42722.jpg?class=OG"
+  },
+  {
+    "titulo": "El nuevo anfibio del Ejército español tiene ocho ruedas, 700 CV y navega por el mar. Ahora Defensa quiere que vuele",
+    "link": "https://www.motorpasion.com/furgonetas-y-caravanas/nuevo-anfibio-ejercito-espanol-tiene-ocho-ruedas-700-cv-navega-mar-ahora-defensa-quiere-que-vuele",
     "fuente": "Motorpasión (ES)",
-    "fecha": "2026-11-21T19:00:32Z",
-    "resumen": "Llevar el coche al taller puede generar desconfianza . Entre los precios altos y el sentimiento de que cada vez hay “algo” que no estaba previsto y que hay que cambiar, siempre genera dudas de si son trucos para facturar más, o no. Scotty Kilmer, mecánico con medio siglo de experiencia , ha dedicado uno de sus vídeos a las reparaciones que, según él, más se venden sin necesidad, en especial el…",
-    "imagen": "https://i.blogs.es/0e1b2e/taller-mecanico/1024_2000.jpeg"
+    "fecha": "2026-11-22T13:00:29Z",
+    "resumen": "España está inmersa en pleno plan renove de la flota de blindados anfibios de la Infantería de Marina : los actuales AAV-7A1 tienen décadas de servicio a sus espaldas y han quedado obsoletos. Su sustituto es un brutal blindado 8x8 mucho avanzado, moderno y versátil, con ruedas en vez de orugas. Su misión: operaciones de asalto anfibio desde buques, pudiendo desembarcar desde el mar a kilómetros de…",
+    "imagen": "https://i.blogs.es/2d6c81/transporte-aereo-anfibio-triton-8x8/1024_2000.jpeg"
+  },
+  {
+    "titulo": "Koenigsegg vale 1.300 millones de euros y fabrica menos de 40 autos al año: el hypercar que quiere ser el próximo Ferrari",
+    "link": "https://autotest.com.ar/noticias/koenigsegg-vale-1-300-millones-de-euros-y-fabrica-menos-de-40-autos-al-ano-el-hypercar-que-quiere-ser-el-proximo-ferrari/",
+    "fuente": "Autotest",
+    "fecha": "2026-11-22T12:54:43Z",
+    "resumen": "Ese banco de innovaciones es el verdadero capital de Koenigsegg: patentes, desarrollo de materiales y capacidad de resolver problemas de ingeniería que ningún otro fabricante enfrenta.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/koenigsegg-vale-1-300-millones-de-euros-1200x740-1.jpg"
+  },
+  {
+    "titulo": "Híbrido y no eléctrico, la Mercedes de Hyundai cambia de rumbo y decide apostar por un futuro a gasolina",
+    "link": "https://www.diariomotor.com/noticia/genesis-gv80-g80-nuevo-motor-hibrido/",
+    "fuente": "Diariomotor (ES)",
+    "fecha": "2026-11-22T12:00:20Z",
+    "resumen": "El futuro no tiene por qué ser 100% eléctrico. Esta es una lección que que muchas marcas se habían empecinado en hacer realidad, pero que el mercado les está forzando a replantearse. Es el caso de muchos fabricantes premium, siendo Genesis, la firma de lujo de Hyundai , la última en revisar su estrategia para desarrollar su primer motor híbrido , no enchufable por cierto. Genesis G80 y GV80 Hybrid…",
+    "imagen": "https://www.diariomotor.com/imagenes/2026/11/genesis-g80-hybrid-2027-01-6b015b00b41c6.jpg?class=OG"
+  },
+  {
+    "titulo": "Milei: \"Demostramos que era falso que no se podía importar y producir a la vez\"",
+    "link": "https://eleconomista.com.ar/autos/milei-demostramos-era-falso-podia-importar-producir-vez-n99840",
+    "fuente": "El Economista",
+    "fecha": "2026-11-22T14:52:00Z",
+    "resumen": "El Presidente de la Nación resaltó la llegada de Tesla al mercado argentino y todo lo que conlleva en términos de generación de empleo, pero a la hora de mencionar cifras concretas mencionó las inversiones de Renault, Volkswagen y Toyota, y destacó la importancia del RIGI.",
+    "imagen": "https://statics.eleconomista.com.ar/2026/11/crop/6b03027088b79__950x512.webp"
+  },
+  {
+    "titulo": "El elogio de Briatore a Franco Colapinto luego de su gran tarea en el GP de Las Vegas",
+    "link": "https://www.iprofesional.com/autos/469757-el-elogio-de-briatore-a-colapinto-del-gp-de-las-vegas",
+    "fuente": "iProfesional",
+    "fecha": "2026-11-22T14:43:00Z",
+    "resumen": "El asesor de Alpine destacó la actuación del argentino y de Pierre Gasly. Ambos lograron sumar puntos por el 5° lugar del Campeonato de Constructores (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
+    "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/04/615954.jpg"
+  },
+  {
+    "titulo": "El SUV eléctrico que mantiene la seguridad pese a sumar baterías: 5 estrellas y 30,62 puntos en el choque",
+    "link": "https://autotest.com.ar/noticias/el-suv-electrico-que-mantiene-la-seguridad-pese-a-sumar-baterias-5-estrellas-y-30-62-puntos-en-el-choque/",
+    "fuente": "Autotest",
+    "fecha": "2026-11-22T11:41:30Z",
+    "resumen": "Bharat NCAP es el organismo de India que evalúa el nivel de seguridad de los autos nuevos mediante pruebas de choque y asigna estrellas según la protección de ocupantes adultos y niños.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/el-suv-el-ctrico-que-mantiene-la-segurid-1200x740-1.jpg"
+  },
+  {
+    "titulo": "El nuevo SUV de Volkswagen con 333 CV: es más potente que Tiguan y compite con Toyota Corolla Cross",
+    "link": "https://autotest.com.ar/noticias/el-nuevo-suv-de-volkswagen-con-333-cv-es-mas-potente-que-tiguan-y-compite-con-toyota-corolla-cross/",
+    "fuente": "Autotest",
+    "fecha": "2026-11-22T11:30:05Z",
+    "resumen": "Volkswagen presentó el nuevo T-Roc R, la versión más potente del B-SUV que se posiciona por encima de Tera y T-Cross y se vende en Europa con 333 CV, 420 Nm y tracción total 4MOTION. Acelera de 0 a 100 km/h en 5 segundos y es el más rápido del segmento en el que compite […]",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/Nuevo-Volkswagen-T-Roc.jpg"
+  },
+  {
+    "titulo": "Se han ganado fama de indestructibles, y ahora Honda tiene en sus manos el motor híbrido con el que plantar cara al hegemónico híbrido Toyota",
+    "link": "https://www.diariomotor.com/noticia/honda-nuevo-sistema-hibrido-adelanto/",
+    "fuente": "Diariomotor (ES)",
+    "fecha": "2026-11-22T11:00:54Z",
+    "resumen": "Es la historia de un gran caso de éxito. En Europa, se impuso una vorágine ahorradora que abogó por contener al máximo las emisiones de CO2. Los fabricantes se las ingeniaron de todas las maneras posibles para reducir las emisiones de sus motores, diésel y gasolina, desarrollaron sistemas para neutralizar emisiones - no solo de CO2 - y para optimizar el rendimiento de los motores. También hicieron…",
+    "imagen": "https://www.diariomotor.com/imagenes/2026/11/honda-hybrid-2027-exterior-06-6b002cc5da821.jpg?class=OG"
+  },
+  {
+    "titulo": "Silverado wide-body V8 6.6 supercargado y 37″: GM evalúa el arma para bajar a la Raptor R y la TRX",
+    "link": "https://autotest.com.ar/noticias/silverado-wide-body-v8-6-6-supercargado-y-37-gm-evalua-el-arma-para-bajar-a-la-raptor-r-y-la-trx/",
+    "fuente": "Autotest",
+    "fecha": "2026-11-22T11:00:00Z",
+    "resumen": "No se trata de reemplazarla, sino de sumar un halo truck: un vehículo de bajo volumen que no se justifica solo por ventas, sino por imagen, prensa y arrastre del resto de la gama.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/silverado-wide-body-v8-6-6-supercargado-1200x740-1.jpg"
+  },
+  {
+    "titulo": "Volvió la palanca: Subaru WRX STI Sport R con caja manual de 6 marchas y 271 CV por US$34.399",
+    "link": "https://autotest.com.ar/noticias/volvio-la-palanca-subaru-wrx-sti-sport-r-con-caja-manual-de-6-marchas-y-271-cv-por-us-34-399/",
+    "fuente": "Autotest",
+    "fecha": "2026-11-22T11:00:00Z",
+    "resumen": "Subaru mantiene la marca STI como paraguas de versiones deportivas, aun después de haber cancelado un WRX STI de nueva generación con motor propio.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/volvi-la-palanca-subaru-wrx-sti-sport-r-1200x740-1.jpg"
+  },
+  {
+    "titulo": "Honda Civic Si: el deportivo de 200 CV que se despide y deja solo al Type R en 2027",
+    "link": "https://autotest.com.ar/noticias/honda-civic-si-el-deportivo-de-200-cv-que-se-despide-y-deja-solo-al-type-r-en-2027/",
+    "fuente": "Autotest",
+    "fecha": "2026-11-22T11:00:00Z",
+    "resumen": "Desde 2026, toda la gama Accord trae pantalla táctil de 9,0 pulgadas en versiones de entrada, Apple CarPlay y Android Auto inalámbricos de serie y cargador inalámbrico para el teléfono.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/honda-civic-si-el-deportivo-de-200-cv-qu-1200x740-1.jpg"
+  },
+  {
+    "titulo": "Golf V 2.0 FSI con 167 km: se remató por 13.000 euros, la mitad de lo que costaba nuevo",
+    "link": "https://autotest.com.ar/noticias/golf-v-2-0-fsi-con-167-km-se-remato-por-13-000-euros-la-mitad-de-lo-que-costaba-nuevo/",
+    "fuente": "Autotest",
+    "fecha": "2026-11-22T11:00:00Z",
+    "resumen": "En Europa, los youngtimers son autos de entre 20 y 30 años que empiezan a valorizarse por nostalgia, pero solo si hay demanda social.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/golf-v-2-0-fsi-con-167-km-se-remat-por-1-1200x740-1.jpg"
+  },
+  {
+    "titulo": "Max Verstappen gana la carrera más extraña del año en Las Vegas y Carlos Sainz logra su mejor resultado de la temporada",
+    "link": "https://www.motorpasion.com/formula1/max-verstappen-gana-carrera-extrana-ano-vegas-carlos-sainz-logra-su-mejor-resultado-temporada",
+    "fuente": "Motorpasión (ES)",
+    "fecha": "2026-11-22T09:45:48Z",
+    "resumen": "Es difícil catalogar solo con una palabra la carrera que hemos vivido en Las Vegas. Probablemente la más acertada sea 'distinta'. Max Verstappen ha ganado una carrera más propia de Moto3 que de la Fórmula 1 , en la que escaparse era imposible por el despliegue de la batería y hemos visto constantes cambios de posición. El que más se ha aprovechado de esta circunstancia es Carlos Sainz, que ha…",
+    "imagen": "https://i.blogs.es/f47bd4/verstappen-las-vegas-f1-2026/1024_2000.jpeg"
+  },
+  {
+    "titulo": "Este sencillo deportivo europeo inauguró la tradición de coches de policía de alto rendimiento en los Emiratos Árabes, y ahora, ha sido completamente restaurado",
+    "link": "https://www.diariomotor.com/noticia/porsche-924-abu-dhabi/",
+    "fuente": "Diariomotor (ES)",
+    "fecha": "2026-11-22T10:00:52Z",
+    "resumen": "Cuando piensas en Dubai y en coches de policía, posiblemente te venga a la cabeza la flota de vehículos exóticos que usan para sus labores de policía. Desde un Bugatti Veyron a un Aston Martin One-77 , pasando por el nuevo Yangwang U9 o el Lykan HyperSport de producción nacional. Se usan como marca país, en campañas de concienciación y como demostración de poderío económico - ostentación ,…",
+    "imagen": "https://www.diariomotor.com/imagenes/2026/11/porsche-924-abu-dhabi-1-6b00541441eae.jpg?class=OG"
+  },
+  {
+    "titulo": "El desesperante polvo negro de tus llantas es lo que Europa quiere limitar desde el 29 de noviembre. Así lo evito yo, sin cambiar de coche",
+    "link": "https://www.motorpasion.com/revision/desesperante-polvo-negro-tus-llantas-que-europa-quiere-limitar-29-noviembre-asi-evito-yo-cambiar-coche",
+    "fuente": "Motorpasión (ES)",
+    "fecha": "2026-11-22T07:00:26Z",
+    "resumen": "El 29 de noviembre entra en vigor la Euro 7 , y por primera vez pone el foco en las emisiones producidas por las partículas de los frenos. Y no solo contaminan. Por mucho que limpiemos el coche, evitando incluso los túneles de lavado , y lo sequemos con una gamuza o trapo suave, que lo deja impoluto , las llantas terminan siempre por ensuciarse más que el coche. La culpa la tienen los frenos . El…",
+    "imagen": "https://i.blogs.es/839447/llanta-sucia-pastilas-de-frenos/1024_2000.jpeg"
+  },
+  {
+    "titulo": "No corre mucho, pero la Xenter 2027 es la Yamaha buena, bonita, aunque no tan barata, por ahora, con la que te puedes mover por medio euro a los 100 kilómetros",
+    "link": "https://www.diariomotor.com/noticia/yamaha-xenter-e-precio-alemania/",
+    "fuente": "Diariomotor (ES)",
+    "fecha": "2026-11-22T08:00:17Z",
+    "resumen": "Yamaha quiere revitalizar su gama más urbana. Y es ahí donde entra en juego la moto que hoy nos ocupa, una apuesta por la rueda alta, por la movilidad urbana, por un diseño moderno, y también por la electrificación. Se llama Yamaha Xenter y, aunque no corre mucho, nos permitirá movernos por menos de un euro, incluso por medio euro a los 100 kilómetros , al menos con la versión que hoy nos ocupa.…",
+    "imagen": "https://www.diariomotor.com/imagenes/2026/11/yamaha-xenter-e-2027-detalles-12-6aec1ec3dcf32.jpg?class=OG"
+  },
+  {
+    "titulo": "Manejable como una camper pero sin sus inconvenientes, esta AC española es ideal para primerizos en el caravaning que buscan versatilidad a un precio extraordinario",
+    "link": "https://www.diariomotor.com/noticia/benimar-tessoro-t440up-nov/",
+    "fuente": "Diariomotor (ES)",
+    "fecha": "2026-11-22T07:00:33Z",
+    "resumen": "No todo el mundo tiene claro si le conviene más una camper o una autocaravana . Las primeras resultan más fáciles de manejar y aparcar, pero las segundas suelen ganar por goleada cuando toca pasar varios días viviendo en su interior. Por suerte hay opciones que intentan quedarse con lo mejor de ambos mundos, como esta propuesta española que apenas supera los seis metros de longitud y ofrece un…",
+    "imagen": "https://www.diariomotor.com/imagenes/2025/10/Benimar-Tessoro-440UP3-68e7a46816b8f.jpg?class=OG"
+  },
+  {
+    "titulo": "Tras 8 años currando dentro de un container, padre e hijo fabrican su propio Lancia Stratos con motor Alfa Romeo V6 \"solo\" porque lo vieron en la tele",
+    "link": "https://www.diariomotor.com/noticia/replica-lancia-stratos-busso/",
+    "fuente": "Diariomotor (ES)",
+    "fecha": "2026-11-22T06:00:29Z",
+    "resumen": "Pasión compartida, sudor y lágrimas es todo lo que necesitaron un padre y su hijo para crear la réplica de un Lancia Stratos de rally desde cero dentro de un simple contenedor marítimo. Bueno, también debieron echar mano de muchísimas herramientas y materiales, además de unos cuantos miles de euros, pero lo importante es que el coche funciona, tiene un sonido brutal, es legal para circular por las…",
+    "imagen": "https://www.diariomotor.com/imagenes/2026/11/Lancia-Stratos-padre-e-hijo-8-anos_30-6b0027bc3939d.jpg?class=OG"
   },
   {
     "titulo": "El boom de las motos chicas y baratas: cuáles conviene comprar en Argentina",
@@ -30,6 +214,22 @@
     "fecha": "2026-11-21T21:55:00Z",
     "resumen": "Todo lo que un conductor debe saber sobre normativa vigente para circular con remolques livianos, motos, cuatriciclos y casas rodantes sin sorpresas (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/11/629306.jpg"
+  },
+  {
+    "titulo": "Volkswagen presentó el nuevo T-Roc R",
+    "link": "https://www.megautos.com/volkswagen-t-roc-r-2027/",
+    "fuente": "Megautos",
+    "fecha": "2026-11-21T21:13:55Z",
+    "resumen": "El SUV deportivo incorpora un motor turbo con tecnología mild-hybrid de 48 voltios, caja automática de siete marchas y una puesta a punto específica. Acelera de 0 a 100 km/h en 5 segundos. La entrada Volkswagen presentó el nuevo T-Roc R aparece primero en Mega Autos .",
+    "imagen": "https://www.megautos.com/wp-content/uploads/2026/11/DB2026AU01205_large.jpg"
+  },
+  {
+    "titulo": "Scotty Kilmer, mecánico: \"Una de las estafas más comunes cuando llevas el coche al mecánico es decirte que necesitas amortiguadores nuevos\"",
+    "link": "https://www.motorpasion.com/revision/scotty-kilmer-mecanico-estafas-comunes-cuando-llevas-coche-al-mecanico-decirte-que-necesitas-amortiguadores-nuevos",
+    "fuente": "Motorpasión (ES)",
+    "fecha": "2026-11-21T19:00:32Z",
+    "resumen": "Llevar el coche al taller puede generar desconfianza . Entre los precios altos y el sentimiento de que cada vez hay “algo” que no estaba previsto y que hay que cambiar, siempre genera dudas de si son trucos para facturar más, o no. Scotty Kilmer, mecánico con medio siglo de experiencia , ha dedicado uno de sus vídeos a las reparaciones que, según él, más se venden sin necesidad, en especial el…",
+    "imagen": "https://i.blogs.es/0e1b2e/taller-mecanico/1024_2000.jpeg"
   },
   {
     "titulo": "Mientras muchos municipios en España ponen trabas a las campers, Zaragoza las invita a recorrer sus pueblos con este mapa de 63 áreas",
@@ -238,6 +438,14 @@
     "fecha": "2026-11-21T05:01:01Z",
     "resumen": "Según el balance de 2025 de la DGT , uno de cada cuatro fallecidos en turismos y furgonetas no llevaba el cinturón de seguridad. En total 157 personas. La DGT sigue incidiendo en la importancia de abrocharse el cinturón de seguridad - más allá de las multas - mientras se viaja en un vehículo, tanto en las plazas delanteras como en las traseras. Un gesto que puede suponer la diferencia entre la…",
     "imagen": "https://i.blogs.es/4f2838/siniestro-vial/1024_2000.jpeg"
+  },
+  {
+    "titulo": "De VW Tera a Tiguan: ¿Cuánto espacio ganás pagando más?",
+    "link": "https://autotest.com.ar/?mp_video=de-vw-tera-a-tiguan-cuanto-espacio-ganas-pagando-mas",
+    "fuente": "Autotest",
+    "fecha": "2026-11-21T00:00:00Z",
+    "resumen": "",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2025/08/logo-AUTO-TEST.jpg"
   },
   {
     "titulo": "Milei celebró la llegada de Tesla: \"Antes vivíamos detrás de nuestra cortina de hierro\"",
@@ -718,6 +926,14 @@
     "fecha": "2026-11-20T09:00:11Z",
     "resumen": "Un sueño para muchos. Un coche tan grande que permita un uso familiar despreocupado , con trastos que se acumulen en el maletero durante semanas sin que ello impida ir a la compra y que aun así quepan todas las bolsas y que, además, tenga un consumo de gasolina tan contenido que no ponga en jaque la economía del hogar. Pocos coches en Europa pueden presumir de algo así, pero es precisamente lo que…",
     "imagen": "https://www.diariomotor.com/imagenes/2026/11/Nissan-X-Trail-hibrido-2026-1-6b0019845253b.jpg?class=OG"
+  },
+  {
+    "titulo": "\"El gran desafío de Argentina es desarrollar un autopartismo enfocado en nuevas tecnologías\"",
+    "link": "https://eleconomista.com.ar/autos/el-gran-desafio-argentina-desarrollar-autopartismo-enfocado-nuevas-tecnologias-n99787",
+    "fuente": "El Economista",
+    "fecha": "2026-11-20T11:45:00Z",
+    "resumen": "Gustavo Salinas, Presidente de Toyota Argentina, detalló los alcances de la inversión de US$ 1.341 millones para levantar una nueva fábrica en Zárate. ¿Por qué eligieron hacer la Tacoma y cómo hace la marca que comanda para ser sustentable cuando muchos de sus competidores no lo consiguen?",
+    "imagen": "https://statics.eleconomista.com.ar/2025/05/crop/683b29a858a95__950x512.webp"
   },
   {
     "titulo": "Precios de la gasolina hoy, 20 de noviembre",
