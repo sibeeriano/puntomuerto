@@ -1,8 +1,47 @@
 {
-  "actualizado": "2026-11-23T00:30:24Z",
-  "desde": "2026-11-16",
-  "hasta": "2026-11-23",
+  "actualizado": "2026-11-24T00:50:15Z",
+  "desde": "2026-11-17",
+  "hasta": "2026-11-24",
   "destacadas": [
+    {
+      "titulo": "Tesla quiere fabricar en Alemania un millón de coches al año sin volante ni pedales. El único inconveniente es que no puede venderlos legalmente",
+      "link": "https://www.motorpasion.com/tecnologia/tesla-quiere-fabricar-alemania-millon-coches-al-ano-volante-pedales-unico-inconveniente-que-no-puede-venderlos-legalmente",
+      "fuente": "Motorpasión (ES)",
+      "fecha": "2026-11-23T19:00:48Z",
+      "resumen": "Hace dos meses Tesla llevó a las vías públicas de EEUU (Austin y Dallas) sus taxis autónomos . Los Tesla Cybercab se han convertido en la joya de la corona de Elon Musk, que se va alejando cada vez más de su negocio de coches eléctricos de pasajeros. Y cómo no Musk ha anunciado una inversión masiva para expandir su negocio de robotaxis: invertirá 3.000 millones de euros para ampliar su gigafábrica…",
+      "imagen": "https://i.blogs.es/e708fe/portada-mop-1795447914289/1024_2000.jpeg",
+      "menciones": 2,
+      "fuentes": [
+        "Diariomotor (ES)",
+        "Motorpasión (ES)"
+      ]
+    },
+    {
+      "titulo": "En internet todos pensando que en España solo compramos coches chinos cuando el más vendido es europeo, cuesta 14.000 € y hace 1.590 km con etiqueta ECO pero sin depender de enchufes",
+      "link": "https://www.diariomotor.com/noticia/oferta-dacia-sandero-noviembre-2026/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-11-23T18:20:14Z",
+      "resumen": "El coche chino ha calado muy bien en el mercado español, y no es para menos. Y es que, en general, nos encontramos con una oferta completa y con buena relación calidad-precio. Pero claro, esta afirmación provoca que todo internet piense que vivimos por y para los coches chinos. ¿La realidad? Que el modelo más vendido en España es europeo, cuesta 14.431 euros y hace 1.590 km sin depender de…",
+      "imagen": "https://www.diariomotor.com/imagenes/2025/10/dacia-sandero-2026-13-68e3622159156.jpg?class=OG",
+      "menciones": 2,
+      "fuentes": [
+        "Autotest",
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "Se lanzó un SUV rival de Toyota Yaris Cross: dos motores, 178 CV y consumo de 4.9 litros cada 100 km",
+      "link": "https://autotest.com.ar/noticias/se-lanzo-un-suv-rival-de-toyota-yaris-cross-dos-motores-178-cv-y-consumo-de-4-9-litros-cada-100-km/",
+      "fuente": "Autotest",
+      "fecha": "2026-11-23T12:45:33Z",
+      "resumen": "Kia lanzó en España el Seltos híbrido, la versión que faltaba en la segunda generación de su SUV que se posiciona entre Niro y Sportage y compite, por ejemplo, contra Toyota Yaris Cross y Dacia Duster. La gama arranca en 29830 euros con el acabado Concept y llega a 39380 en el X-Line con tracción […]",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/Nuevo-Kia-Seltos.jpg",
+      "menciones": 17,
+      "fuentes": [
+        "Autotest",
+        "Diariomotor (ES)"
+      ]
+    },
     {
       "titulo": "Toyota develó su nueva pick-up chica que llegará a la Argentina: cómo es",
       "link": "https://eleconomista.com.ar/autos/toyota-develo-su-nueva-pick-up-chica-llegara-argentina-como-es-n99764",
@@ -15,19 +54,6 @@
         "El Economista",
         "iProfesional",
         "Megautos"
-      ]
-    },
-    {
-      "titulo": "Volvió la palanca: Subaru WRX STI Sport R con caja manual de 6 marchas y 271 CV por US$34.399",
-      "link": "https://autotest.com.ar/noticias/volvio-la-palanca-subaru-wrx-sti-sport-r-con-caja-manual-de-6-marchas-y-271-cv-por-us-34-399/",
-      "fuente": "Autotest",
-      "fecha": "2026-11-22T11:00:00Z",
-      "resumen": "Subaru mantiene la marca STI como paraguas de versiones deportivas, aun después de haber cancelado un WRX STI de nueva generación con motor propio.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/volvi-la-palanca-subaru-wrx-sti-sport-r-1200x740-1.jpg",
-      "menciones": 2,
-      "fuentes": [
-        "Autotest",
-        "Diariomotor (ES)"
       ]
     },
     {
@@ -44,39 +70,13 @@
       ]
     },
     {
-      "titulo": "Tras 8 años currando dentro de un container, padre e hijo fabrican su propio Lancia Stratos con motor Alfa Romeo V6 \"solo\" porque lo vieron en la tele",
-      "link": "https://www.diariomotor.com/noticia/replica-lancia-stratos-busso/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-11-22T06:00:29Z",
-      "resumen": "Pasión compartida, sudor y lágrimas es todo lo que necesitaron un padre y su hijo para crear la réplica de un Lancia Stratos de rally desde cero dentro de un simple contenedor marítimo. Bueno, también debieron echar mano de muchísimas herramientas y materiales, además de unos cuantos miles de euros, pero lo importante es que el coche funciona, tiene un sonido brutal, es legal para circular por las…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/11/Lancia-Stratos-padre-e-hijo-8-anos_30-6b0027bc3939d.jpg?class=OG",
-      "menciones": 2,
-      "fuentes": [
-        "Diariomotor (ES)",
-        "Motorpasión (ES)"
-      ]
-    },
-    {
-      "titulo": "160 CV y 4,3 litros cada 100 km: así es el SUV de Renault que se ubica por encima de Duster",
-      "link": "https://autotest.com.ar/noticias/160-cv-y-43-litros-cada-100-km-asi-es-el-suv-de-renault-que-se-ubica-por-encima-de-duster/",
-      "fuente": "Autotest",
-      "fecha": "2026-11-21T10:30:31Z",
-      "resumen": "Renault presenta el Symbioz, un SUV europeo superior al Duster, con una versión híbrida que ofrece 160 CV y un consumo notablemente bajo.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/Renault-Symbioz-3.jpg",
-      "menciones": 9,
-      "fuentes": [
-        "Autotest",
-        "Diariomotor (ES)"
-      ]
-    },
-    {
       "titulo": "La pick up con 437 CV que bajó de precio y ahora cuesta casi lo mismo que Toyota Hilux",
       "link": "https://autotest.com.ar/noticias/la-pick-up-con-437-cv-que-bajo-de-precio-y-ahora-cuesta-casi-lo-mismo-que-toyota-hilux/",
       "fuente": "Autotest",
       "fecha": "2026-11-20T17:00:13Z",
       "resumen": "La pick-up híbrida plug-in de BYD ha reducido su precio en Brasil, posicionándose por debajo de R$ 300.000 y ofreciendo una alternativa a las pick-ups tradicionales con su tecnología avanzada.",
       "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/Pick-up-BYD-Shark-caja-1.jpg",
-      "menciones": 7,
+      "menciones": 6,
       "fuentes": [
         "Autotest",
         "Diariomotor (ES)"
@@ -102,7 +102,7 @@
       "fecha": "2026-11-20T13:19:35Z",
       "resumen": "Mitsubishi amplió en Brasil la gama de la Triton, la pick up mediana rival de Toyota Hilux y conocida también como L200, con una serie especial pensada para el agronegocio. Se llama Estradeiro y fue desarrollada junto con Estância Bahia, una empresa brasileña vinculada a servicios para la actividad ganadera. Esta versión de la camioneta […]",
       "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/Nueva-Mitsubishi-Triton-Estradeiro.jpg",
-      "menciones": 4,
+      "menciones": 3,
       "fuentes": [
         "Autotest",
         "Diariomotor (ES)"
@@ -128,10 +128,82 @@
       "fecha": "2026-11-19T21:24:31Z",
       "resumen": "Eso implica refuerzos en la estructura, frenos acordes y una suspensión pensada para transferir la potencia sin que la cola se vuelva inmanejable.",
       "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/330-cv-85-kg-y-10-000-rpm-el-escort-mk1-1200x740-1.jpg",
-      "menciones": 3,
+      "menciones": 2,
       "fuentes": [
         "Autotest",
         "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "Jetour fabricará los SUV T1 y T2 en Brasil desde 2027",
+      "link": "https://www.megautos.com/jetour-t1-t2-t0-produccion-brasil/",
+      "fuente": "Megautos",
+      "fecha": "2026-11-23T21:31:35Z",
+      "resumen": "La marca china anunció una inversión adicional de 400 millones de reales para producir ambos modelos en el país vecino. También confirmó la llegada del nuevo T0, con versiones híbrida enchufable y eléctrica, y el desarrollo de motores flex. La entrada Jetour fabricará los SUV T1 y T2 en Brasil desde 2027 aparece primero en Mega Autos .",
+      "imagen": "https://www.megautos.com/wp-content/uploads/2026/01/Jetour-T1-i-DM-trasera-1.jpg",
+      "menciones": 1,
+      "fuentes": [
+        "Megautos"
+      ]
+    },
+    {
+      "titulo": "Mercedes-Benz lanzó el nuevo GLB eléctrico en Brasil",
+      "link": "https://www.megautos.com/mercedes-benz-glb-2027-brasil/",
+      "fuente": "Megautos",
+      "fecha": "2026-11-23T20:46:23Z",
+      "resumen": "El SUV de nueva generación llegó al mercado brasileño con siete plazas, motor de 272 CV, autonomía de 427 kilómetros y tecnología de carga rápida. Se comercializa en versión AMG Line. La entrada Mercedes-Benz lanzó el nuevo GLB eléctrico en Brasil aparece primero en Mega Autos .",
+      "imagen": "https://www.megautos.com/wp-content/uploads/2026/11/GLB-250-AMG-Line-2.jpg",
+      "menciones": 1,
+      "fuentes": [
+        "Megautos"
+      ]
+    },
+    {
+      "titulo": "Los Mossos han montado un macro control en la Jonquera y han visto de todo: desde camioneros conduciendo por la izquierda hasta un camión con más de 270 terneros",
+      "link": "https://www.motorpasion.com/seguridad/mossos-han-montado-macro-control-jonquera-han-cazado-todo-camioneros-conduciendo-izquierda-camion-270-terneros",
+      "fuente": "Motorpasión (ES)",
+      "fecha": "2026-11-23T20:00:49Z",
+      "resumen": "Los Mossos d'Esquadra han puesto en marcha un macrocontrol integral de transportes y seguridad vial en La Jonquera, en la antigua zona de peaje de la AP-7. El operativo ha sido descrito como uno de los más avanzados y ha terminado con 68 denuncias por infracciones de todo tipo. Desde camiones con exceso de carga -algunos con más de 270 terneros- hasta vehículos circulando de forma indebida por el…",
+      "imagen": "https://i.blogs.es/503766/portada-mop-1795430899390/1024_2000.jpeg",
+      "menciones": 1,
+      "fuentes": [
+        "Motorpasión (ES)"
+      ]
+    },
+    {
+      "titulo": "Pondrá Opel en el morro, Made in Spain en la ficha técnica y parte de la tecnología de este nuevo SUV vendrá de China",
+      "link": "https://www.diariomotor.com/noticia/opel-leapmotor-suv-zaragoza-2028/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-11-23T19:37:51Z",
+      "resumen": "Que Opel fabrica coches en España no es una novedad, pero que lo vaya a seguir haciendo es motivo de alegría. Y así lo ha anunciado la firma alemana de la mano de un SUV que llegará en 2028 tras un acuerdo de colaboración con Leapmotor . Opel fabricará un nuevo coche en España de la mano del apoyo de China Llegará en 2028 . Se fabricará en España . La parte mecánica será de Leapmotor . Y es que…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/11/opel-nuevo-suv-acuerdo-leapmotor-2028-6b0495e40fd0d.jpg?class=OG",
+      "menciones": 1,
+      "fuentes": [
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "\"Todo está muy lejos\": Valdebebas, el barrio rodeado de autopistas que seguirá sin Metro hasta 2031",
+      "link": "https://www.motorpasion.com/industria/todo-esta-muy-lejos-valdebebas-barrio-rodeado-autopistas-que-seguira-metro-2031",
+      "fuente": "Motorpasión (ES)",
+      "fecha": "2026-11-23T19:30:49Z",
+      "resumen": "Valdebebas es uno de los últimos barrios construidos de Madrid : tiene al lado la Feria de Madrid (IFEMA), la Ciudad Deportiva del Real Madrid, hasta un circuito urbano de Fórmula 1. Lo que no tiene es Metro, y lleva años esperándolo . Desde que llegaron sus primeros vecinos han pasado ya más de 13 años. Encajonado entre autopistas, está bien conectado por carretera para ir en coche. Pero el…",
+      "imagen": "https://i.blogs.es/bd5fdc/portada-mop-1795448454437/1024_2000.jpeg",
+      "menciones": 1,
+      "fuentes": [
+        "Motorpasión (ES)"
+      ]
+    },
+    {
+      "titulo": "Producen submarinos como coches: los astilleros chinos están creando el ejército sumergible más masivo y rápido del mundo",
+      "link": "https://www.motorpasion.com/industria/producen-submarinos-como-coches-astilleros-chinos-estan-creando-ejercito-sumergible-masivo-rapido-mundo",
+      "fuente": "Motorpasión (ES)",
+      "fecha": "2026-11-23T18:00:54Z",
+      "resumen": "Durante décadas, el dominio submarino y naval del Pacífico era cosa de Estados Unidos . No en vano, operaba la mayor flota nuclear del mundo, con unos 71 submarinos a finales de 2025. China parecía muy lejos de disputarle el dominio. Esa imagen ya no se sostiene. En marzo de 2026, el jefe de la Oficina de Inteligencia Naval estadounidense, el contraalmirante Mike Brookes, advirtió al Congreso de…",
+      "imagen": "https://i.blogs.es/a08032/type-094-pla-navy-submarine/1024_2000.jpeg",
+      "menciones": 1,
+      "fuentes": [
+        "Motorpasión (ES)"
       ]
     },
     {
@@ -148,160 +220,87 @@
       ]
     },
     {
-      "titulo": "Europa haciendo coches caros, pequeños y anodinos y llega China, le quita dos ruedas a su nuevo 4x4 de 544 CV y lo pone a remolcar un Boeing 747 de 180 toneladas",
-      "link": "https://www.diariomotor.com/noticia/denza-bao-5-boeing-747-remolque/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-11-22T18:03:11Z",
-      "resumen": "No nos vamos a engañar: Europa sigue haciendo coches interesante, pero también está sufriendo las consecuencias de una China cada vez más competitiva. Y no lo digo solo por los coches de a pie, sino también por segmentos más exclusivos como el de los todoterreno, donde China, por prácticamente lo mismo que Europa, ofrece un 4x4 con 544 CV, etiqueta CERO y capaz de remolcar un Boeing 747... con…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/11/denza-bao-5-boeing-747-remolque-2-6b032db3a4c31.jpg?class=OG",
-      "menciones": 1,
-      "fuentes": [
-        "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "Europa electrificándose y va Ferrari y, nadando contracorriente, presenta una bestia de 6 cilindros y 670 CV sin rastro de enchufes",
-      "link": "https://www.diariomotor.com/noticia/ferrari-296-challenge-stradale/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-11-22T17:15:09Z",
-      "resumen": "El futuro de los superdeportivos será híbrido o no será, o al menos eso es lo que quería Europa. Pero en Ferrari no están de acuerdo con esta idea, motivo por el cual han decidido nadar contracorriente presentando un 296 Challenge Stradale que renuncia a cualquier electrificación para dar vida al superdeportivo más puro y radical del momento . El Ferrari 296 que se olvidó de la electrificación Si…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/11/ferrari-296-challenge-stradale-25-6b031e0f85bad.jpg?class=OG",
-      "menciones": 1,
-      "fuentes": [
-        "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "Hyundai presenta su renovado sedán para enfrentar a Nissan Sentra",
-      "link": "https://autotest.com.ar/noticias/hyundai-presenta-su-renovado-sedan-para-enfrentar-a-nissan-sentra/",
-      "fuente": "Autotest",
-      "fecha": "2026-11-22T15:00:26Z",
-      "resumen": "Hyundai presenta el nuevo Elantra en el Salón de Los Ángeles 2026 y pone otra vez al sedán mediano en el centro de su estrategia. Y aprovecha para mostrar también el denominado Elantra Hybrid 2028, una variante clave de cara a lo que viene y para competir contra Nissan Sentra y Toyota Corolla. El Elantra […]",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/hyundai-elantra-20271-1.jpg",
-      "menciones": 1,
-      "fuentes": [
-        "Autotest"
-      ]
-    },
-    {
-      "titulo": "Milei: \"Demostramos que era falso que no se podía importar y producir a la vez\"",
-      "link": "https://eleconomista.com.ar/autos/milei-demostramos-era-falso-podia-importar-producir-vez-n99840",
-      "fuente": "El Economista",
-      "fecha": "2026-11-22T14:52:00Z",
-      "resumen": "El Presidente de la Nación resaltó la llegada de Tesla al mercado argentino y todo lo que conlleva en términos de generación de empleo, pero a la hora de mencionar cifras concretas mencionó las inversiones de Renault, Volkswagen y Toyota, y destacó la importancia del RIGI.",
-      "imagen": "https://statics.eleconomista.com.ar/2026/11/crop/6b03027088b79__950x512.webp",
-      "menciones": 1,
-      "fuentes": [
-        "El Economista"
-      ]
-    },
-    {
-      "titulo": "El elogio de Briatore a Franco Colapinto luego de su gran tarea en el GP de Las Vegas",
-      "link": "https://www.iprofesional.com/autos/469757-el-elogio-de-briatore-a-colapinto-del-gp-de-las-vegas",
-      "fuente": "iProfesional",
-      "fecha": "2026-11-22T14:43:00Z",
-      "resumen": "El asesor de Alpine destacó la actuación del argentino y de Pierre Gasly. Ambos lograron sumar puntos por el 5° lugar del Campeonato de Constructores (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
-      "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/04/615954.jpg",
-      "menciones": 1,
-      "fuentes": [
-        "iProfesional"
-      ]
-    },
-    {
-      "titulo": "Tesla lanzó el Model 3 en Argentina",
-      "link": "https://www.megautos.com/tesla-model-3-precio/",
-      "fuente": "Megautos",
-      "fecha": "2026-11-22T14:42:15Z",
-      "resumen": "La automotriz estadounidense de Elon Musk desembarcó en el mercado local con dos autos eléctricos. El Model 3 tiene tres configuraciones mecánicas y diferentes niveles de equipamiento. La entrada Tesla lanzó el Model 3 en Argentina aparece primero en Mega Autos .",
-      "imagen": "https://www.megautos.com/wp-content/uploads/2026/11/Model-3-Premium-End-LHD.jpg",
-      "menciones": 1,
-      "fuentes": [
-        "Megautos"
-      ]
-    },
-    {
-      "titulo": "Lepas L6",
-      "link": "https://www.diariomotor.com/coche/lepas-l6/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-11-22T14:10:30Z",
-      "resumen": "El Lepas L6 es un SUV compacto del segmento C , fabricado por Lepas , una marca perteneciente al grupo chino Chery. Actualmente se comercializa su primera generación, presentada en 2026. El Lepas L6 se caracteriza por su diseño de inspiración europea, su abundante equipamiento tecnológico y una gama de motores electrificados , con versiones híbridas enchufables y eléctricas. Se fabrica en las…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/11/Lepas-L612-6af4a1e00b036.jpg?class=OG",
-      "menciones": 1,
-      "fuentes": [
-        "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "Volkswagen ID. Tiguan",
-      "link": "https://www.diariomotor.com/coche/volkswagen-id-tiguan/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-11-22T14:09:57Z",
-      "resumen": "El Volkswagen ID. Tiguan es un SUV eléctrico de tamaño mediano, del segmento C , fabricado por Volkswagen desde 2026. Actualmente se comercializa su primera generación, presentada en octubre de 2026. El Volkswagen ID. Tiguan se caracteriza por un habitáculo amplio y tecnológico y una gama completamente eléctrica con hasta 605 kilómetros de autonomía. Se fabrica en la planta de Emden , en Alemania.…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/11/volkswagen-id-tiguan-2027_port-6b02ebcf8f3d5.jpg?class=OG",
-      "menciones": 1,
-      "fuentes": [
-        "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "Suzuki Vitara",
-      "link": "https://www.diariomotor.com/coche/suzuki-vitara/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-11-22T14:02:31Z",
-      "resumen": "El Suzuki Vitara es un SUV pequeño del segmento B , fabricado por Suzuki desde 1988. Actualmente se comercializa la cuarta generación, presentada en 2014 y actualizada en varias ocasiones, con un importante rediseño en 2024 y novedades mecánicas para el año-modelo 2026. El Suzuki Vitara se caracteriza por su diseño robusto, su enfoque práctico y, especialmente, por ofrecer tracción total en un…",
-      "imagen": "https://www.diariomotor.com/imagenes/2025/02/Suzuki-Vitara2-679dfc8b42722.jpg?class=OG",
-      "menciones": 1,
-      "fuentes": [
-        "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "Toyota ya piensa en nuevos modelos para fabricar en la Argentina tras el anuncio de la Tacoma",
-      "link": "https://www.iprofesional.com/autos/469404-toyota-piensa-en-nuevos-modelos-para-fabricar-en-el-pais-tras-el-anuncio-de-tacoma",
-      "fuente": "iProfesional",
-      "fecha": "2026-11-18T09:20:00Z",
-      "resumen": "Gustavo Salinas, presidente de Toyota, explicó que la inversión para producir la pick up híbrida contempla una planta con capacidad para más modelos (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
-      "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/11/630036.jpg",
-      "menciones": 2,
-      "fuentes": [
-        "iProfesional",
-        "Megautos"
-      ]
-    },
-    {
-      "titulo": "El nuevo anfibio del Ejército español tiene ocho ruedas, 700 CV y navega por el mar. Ahora Defensa quiere que vuele",
-      "link": "https://www.motorpasion.com/furgonetas-y-caravanas/nuevo-anfibio-ejercito-espanol-tiene-ocho-ruedas-700-cv-navega-mar-ahora-defensa-quiere-que-vuele",
+      "titulo": "Hernán Searle, experto en transporte: “El coste operacional del camión eléctrico ya equivale al del diésel e incluso lo supera”",
+      "link": "https://www.motorpasion.com/observatorio-motorpasion/hernan-searle-experto-transporte-coste-operacional-camion-electrico-equivale-al-diesel-e-incluso-supera",
       "fuente": "Motorpasión (ES)",
-      "fecha": "2026-11-22T13:00:29Z",
-      "resumen": "España está inmersa en pleno plan renove de la flota de blindados anfibios de la Infantería de Marina : los actuales AAV-7A1 tienen décadas de servicio a sus espaldas y han quedado obsoletos. Su sustituto es un brutal blindado 8x8 mucho avanzado, moderno y versátil, con ruedas en vez de orugas. Su misión: operaciones de asalto anfibio desde buques, pudiendo desembarcar desde el mar a kilómetros de…",
-      "imagen": "https://i.blogs.es/2d6c81/transporte-aereo-anfibio-triton-8x8/1024_2000.jpeg",
+      "fecha": "2026-11-23T17:30:55Z",
+      "resumen": "Comprar un camión eléctrico sigue exigiendo un desembolso superior al de uno diésel, pero las cuentas están empezando a cambiar: el gasto en combustible, electricidad y mantenimiento pesa cada vez más en las decisiones de las empresas de transporte, y ahí los modelos eléctricos empiezan a ganar terreno. La cuestión ya no es exclusivamente cuánto cuesta comprarlo, sino cuánto dinero necesita para…",
+      "imagen": "https://i.blogs.es/48498e/camion-ev-ok/1024_2000.jpeg",
       "menciones": 1,
       "fuentes": [
         "Motorpasión (ES)"
       ]
     },
     {
-      "titulo": "Koenigsegg vale 1.300 millones de euros y fabrica menos de 40 autos al año: el hypercar que quiere ser el próximo Ferrari",
-      "link": "https://autotest.com.ar/noticias/koenigsegg-vale-1-300-millones-de-euros-y-fabrica-menos-de-40-autos-al-ano-el-hypercar-que-quiere-ser-el-proximo-ferrari/",
-      "fuente": "Autotest",
-      "fecha": "2026-11-22T12:54:43Z",
-      "resumen": "Ese banco de innovaciones es el verdadero capital de Koenigsegg: patentes, desarrollo de materiales y capacidad de resolver problemas de ingeniería que ningún otro fabricante enfrenta.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/koenigsegg-vale-1-300-millones-de-euros-1200x740-1.jpg",
-      "menciones": 1,
-      "fuentes": [
-        "Autotest"
-      ]
-    },
-    {
-      "titulo": "Híbrido y no eléctrico, la Mercedes de Hyundai cambia de rumbo y decide apostar por un futuro a gasolina",
-      "link": "https://www.diariomotor.com/noticia/genesis-gv80-g80-nuevo-motor-hibrido/",
+      "titulo": "El Ti9 de BYD es un enorme 4x4, con volante plegable, que hace más de 1.600 km sin parar a repostar, y deseamos ver pronto en Europa",
+      "link": "https://www.diariomotor.com/noticia/byd-ti9-volante-plegable/",
       "fuente": "Diariomotor (ES)",
-      "fecha": "2026-11-22T12:00:20Z",
-      "resumen": "El futuro no tiene por qué ser 100% eléctrico. Esta es una lección que que muchas marcas se habían empecinado en hacer realidad, pero que el mercado les está forzando a replantearse. Es el caso de muchos fabricantes premium, siendo Genesis, la firma de lujo de Hyundai , la última en revisar su estrategia para desarrollar su primer motor híbrido , no enchufable por cierto. Genesis G80 y GV80 Hybrid…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/11/genesis-g80-hybrid-2027-01-6b015b00b41c6.jpg?class=OG",
+      "fecha": "2026-11-23T17:00:56Z",
+      "resumen": "Mientras escribo estas líneas, BYD se encuentra en pleno lanzamiento de su marca más exclusiva en Europa - de momento - que no es otra que Denza, y que entre sus lanzamientos más interesantes incluye el del Bao 5, un verdadero todoterreno enchufable, con 544 CV, 90 km de autonomía eléctrica y un precio espectacular para su tecnología y prestaciones, desde 76.290 euros. BYD estrena su nuevo Ti9,…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/11/byd-ti9-2027-interior-01-6b0426c433efe.jpg?class=OG",
       "menciones": 1,
       "fuentes": [
         "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "Tienen más de 75 años, llevan medio siglo viajando en camper y se niegan a volver a vivir en una casa: “Si te quedas sentado en el sillón, te mueres”",
+      "link": "https://www.motorpasion.com/furgonetas-y-caravanas/tienen-75-anos-llevan-medio-siglo-viajando-camper-se-niegan-a-volver-a-vivir-casa-te-quedas-sentado-sillon-te-mueres",
+      "fuente": "Motorpasión (ES)",
+      "fecha": "2026-11-23T17:00:52Z",
+      "resumen": "Parece que la norma dice que, una vez se llegue a una edad, toca automáticamente bajar el ritmo, dejar de viajar y conformarse con recordar. Pues no, y buen ejemplo de ello son María Isabel y Eduardo , que llevan más de medio siglo demostrando justo lo contrario. Y es que esta pareja argentina lleva viajando junta desde alrededor de 1970 y, aunque los años han cambiado sus vehículos y la forma de…",
+      "imagen": "https://i.blogs.es/0b56c1/apertura-camper-ok/1024_2000.jpeg",
+      "menciones": 1,
+      "fuentes": [
+        "Motorpasión (ES)"
+      ]
+    },
+    {
+      "titulo": "El jefe de Ferrari F1 amenaza a sus pilotos: \"No piensan en el equipo. Quizá sea hora de tomar medidas\"",
+      "link": "https://www.motorpasion.com/formula1/frederic-vasseur-jefe-ferrari-llego-a-saber-que-fichar-a-lewis-hamilton-provocaria-esto-habria-tomado-decisiones-diferentes",
+      "fuente": "Motorpasión (ES)",
+      "fecha": "2026-11-23T16:00:00Z",
+      "resumen": "Si la tensión entre Lewis Hamilton y Charles Leclerc dentro de Ferrari no estaba lo suficientemente alta, en Las Vegas los dos pilotos de Maranello se volvieron a chocar entre ellos. Leclerc golpeó por detrás a Hamilton , provocándole un trompo que le hizo perder varias posiciones y acabó con sanción para el propio Leclerc. Después de la carrera, Frédéric Vasseur, jefe de equipo de Ferrari, ha…",
+      "imagen": "https://i.blogs.es/23d60d/hamilton-vasseur/1024_2000.jpeg",
+      "menciones": 1,
+      "fuentes": [
+        "Motorpasión (ES)"
+      ]
+    },
+    {
+      "titulo": "Toyota y Volkswagen dejan de producir este mes los modelos actuales de Hilux y Amarok",
+      "link": "https://www.iprofesional.com/autos/469794-toyota-y-volkswagen-dejan-de-producir-las-actuales-hilux-y-amarok",
+      "fuente": "iProfesional",
+      "fecha": "2026-11-23T15:41:00Z",
+      "resumen": "La transformación en las fábricas de Toyota y Volskwagen marcará un cambio profundo en el negocio de las pick-ups producidas en Argentina (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
+      "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/10/627416.jpg",
+      "menciones": 1,
+      "fuentes": [
+        "iProfesional"
+      ]
+    },
+    {
+      "titulo": "Alemania permitirá a los patinetes saltarse los semáforos en rojo",
+      "link": "https://www.motorpasion.com/seguridad/alemania-permitira-a-patinetes-saltarse-semaforos-rojo",
+      "fuente": "Motorpasión (ES)",
+      "fecha": "2026-11-23T15:00:49Z",
+      "resumen": "En 2020, Alemania estrenó una señal que no existe en España: la denominada ‘flecha verde para ciclistas’. Esta indicación permite a los ciclistas girar a la derecha, aunque un semáforo esté en rojo, siempre que se cumplan unas condiciones. Como no ha funcionado mal, el Gobierno alemán ha decidido ampliar esta medida : a partir del próximo mes de marzo, los patinetes también podrán utilizar esta…",
+      "imagen": "https://i.blogs.es/b0719f/patinete-1/1024_2000.jpeg",
+      "menciones": 1,
+      "fuentes": [
+        "Motorpasión (ES)"
+      ]
+    },
+    {
+      "titulo": "Mercedes-Benz eligió al mejor conductor de camiones de Argentina en 2026",
+      "link": "https://www.megautos.com/mercedes-benz-eligio-al-mejor-conductor-de-camiones-de-argentina-en-2026/",
+      "fuente": "Megautos",
+      "fecha": "2026-11-23T14:49:40Z",
+      "resumen": "Marcelo Stacchiotti, de Logística Mica, ganó el Concurso Nacional de Conductores organizado por Mercedes-Benz Camiones y Buses. La final reunió a diez participantes en el Autódromo Roberto Mouras de La Plata. La entrada Mercedes-Benz eligió al mejor conductor de camiones de Argentina en 2026 aparece primero en Mega Autos .",
+      "imagen": "https://www.megautos.com/wp-content/uploads/2026/11/Conductores-2026-Final-4.jpg",
+      "menciones": 1,
+      "fuentes": [
+        "Megautos"
       ]
     }
   ]
