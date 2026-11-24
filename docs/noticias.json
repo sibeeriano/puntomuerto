@@ -1,5 +1,605 @@
 [
   {
+    "titulo": "El M3 más potente de la historia no usa nafta: 800 CV y casi el doble de torque que el M3 Competition",
+    "link": "https://autotest.com.ar/noticias/el-m3-mas-potente-de-la-historia-no-usa-nafta-800-cv-y-casi-el-doble-de-torque-que-el-m3-competition/",
+    "fuente": "Autotest",
+    "fecha": "2026-11-24T21:09:03Z",
+    "resumen": "No es un detalle menor: con cuatro motores y control por rueda, la capacidad de procesamiento de esa unidad central define cómo se comporta el auto en los cambios de dirección y en las frenadas fuertes.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/el-m3-m-s-potente-de-la-historia-no-usa-1200x740-1.jpg"
+  },
+  {
+    "titulo": "La policía detiene al conductor de un Volkswagen Passat que remolcaba una excavadora y llevaba una rueda pinchada",
+    "link": "https://www.motorpasion.com/seguridad/policia-detiene-al-conductor-volkswagen-passat-que-remolcaba-excavadora-llevaba-rueda-pinchada",
+    "fuente": "Motorpasión (ES)",
+    "fecha": "2026-11-24T20:01:05Z",
+    "resumen": "La foto habla por sí misma: Volkswagen Passat de más de 25 años de antigüedad con el eje delantero levantado y la parte trasera casi en el asfalto. A su conductor le pareció una buena idea remolcar con él una excavadora de tres toneladas . Para colmo, el remolque en el que lo llevaba tenía una rueda pinchada, no disponía de matrícula ni de cable de seguridad y la excavadora no iba asegurada.…",
+    "imagen": "https://i.blogs.es/06512f/passat-excavadora-02/1024_2000.jpeg"
+  },
+  {
+    "titulo": "Cuesta 45 millones y tiene 207 CV: la pick up base de Chevrolet que carga más de una tonelada",
+    "link": "https://autotest.com.ar/noticias/cuesta-45-millones-y-tiene-207-cv-la-pick-up-base-de-chevrolet-que-carga-mas-de-una-tonelada/",
+    "fuente": "Autotest",
+    "fecha": "2026-11-24T21:00:10Z",
+    "resumen": "La Chevrolet S10 WT 4x2 es la versión más accesible en octubre con un potente motor de 207 CV y una impresionante capacidad de carga de 1.190 kg.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/Chevrolet-S10-WT-cabina-simple-4x2-teaser.jpg"
+  },
+  {
+    "titulo": "Menos de 55 millones y superior a Tracker: el SUV de Chevrolet con 204 CV, cámara 360 y pantalla de 15,6 pulgadas",
+    "link": "https://autotest.com.ar/noticias/menos-de-55-millones-y-superior-a-tracker-el-suv-de-chevrolet-con-204-cv-camara-360-y-pantalla-de-156-pulgadas/",
+    "fuente": "Autotest",
+    "fecha": "2026-11-24T20:33:56Z",
+    "resumen": "El Chevrolet Captiva PHEV Premier se mantiene por debajo de $55 millones con una impresionante autonomía eléctrica y equipamiento avanzado.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/Chevrolet-Captiva-PHEV-9.jpg"
+  },
+  {
+    "titulo": "De 10 unidades: la Ferrari que Steve McQueen compró 0 km y hoy vale USD 27,5 millones",
+    "link": "https://autotest.com.ar/noticias/de-10-unidades-la-ferrari-que-steve-mcqueen-compro-0-km-y-hoy-vale-usd-27-5-millones/",
+    "fuente": "Autotest",
+    "fecha": "2026-11-24T20:19:34Z",
+    "resumen": "La restauración concours preparó al chasis para la venta: rojo por fuera, cuero negro por dentro y una puesta a punto de exhibición fiel al estado original.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/de-10-unidades-la-ferrari-que-steve-mcqu-1200x740-1.jpg"
+  },
+  {
+    "titulo": "Mercedes rechazó cheques en blanco por este prototipo de 350 CV: ahora sale a subasta por 25 millones de euros",
+    "link": "https://autotest.com.ar/noticias/mercedes-rechazo-cheques-en-blanco-por-este-prototipo-de-350-cv-ahora-sale-a-subasta-por-25-millones-de-euros/",
+    "fuente": "Autotest",
+    "fecha": "2026-11-24T20:18:34Z",
+    "resumen": "La saga C111 tuvo otras evoluciones: primero los Wankel, después el diésel de récord y más tarde el V8 de velocidad punta.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/mercedes-rechaz-cheques-en-blanco-por-es-1200x740-1.jpg"
+  },
+  {
+    "titulo": "Honda City: ¿vale la pena pagar 3,2 millones de diferencia por la versión más equipada?",
+    "link": "https://autotest.com.ar/noticias/honda-city-vale-la-pena-pagar-32-millones-de-diferencia-por-la-version-mas-equipada/",
+    "fuente": "Autotest",
+    "fecha": "2026-11-24T20:14:52Z",
+    "resumen": "Descubre qué ofrece el Honda City Touring en comparación con su versión EXL, incluyendo asistencias avanzadas y mayor confort por $3,21 millones adicionales.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/Honda-City-Hatchback-1.jpg"
+  },
+  {
+    "titulo": "Hyundai N Vision 74: los 680 CV de hidrógeno que estuvieron a un paso de llegar a los concesionarios",
+    "link": "https://autotest.com.ar/noticias/hyundai-n-vision-74-los-680-cv-de-hidrogeno-que-estuvieron-a-un-paso-de-llegar-a-los-concesionarios/",
+    "fuente": "Autotest",
+    "fecha": "2026-11-24T20:14:34Z",
+    "resumen": "La reinterpretación sumó una firma lumínica de píxeles paramétricos, pasos de rueda ensanchados, un splitter pronunciado y un alerón trasero de competición.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/hyundai-n-vision-74-los-680-cv-de-hidr-g-1200x740-1.jpg"
+  },
+  {
+    "titulo": "Juanjo Jiménez, mecánico, advierte por qué no debes ignorar un ruido metálico al frenar: \"Pues resulta que te va a costar más cara la fiesta\"",
+    "link": "https://www.motorpasion.com/revision/juanjo-jimenez-mecanico-advierte-que-no-debes-ignorar-ruido-metalico-al-frenar-pues-resulta-que-te-va-a-costar-cara-fiesta",
+    "fuente": "Motorpasión (ES)",
+    "fecha": "2026-11-24T19:00:59Z",
+    "resumen": "Pisas el freno y oyes un ruido agudo, como un chirrido , cuando el coche frena. A veces pasa, debe ser algún tipo de suciedad. No es nada, piensas, al fin y al cabo el coche frena. Y los vas dejando. Juanjo Jiménez, mecánico, no está de acuerdo. Nos cuenta qué pasa cuando esa espera se alarga . Un cliente apareció por el taller tras convivir un tiempo con un sonido metálico cada vez que pisaba el…",
+    "imagen": "https://i.blogs.es/d4940c/juanjo-jimenez-disco-de-frenos/1024_2000.jpeg"
+  },
+  {
+    "titulo": "Bajó 1.100 dólares y cuesta menos de 30.000: el SUV de siete plazas con motor turbo de 184 CV",
+    "link": "https://autotest.com.ar/noticias/dfsk-glory-600-suv-precio-reducido-y-nueva-financiacion-en-argentina/",
+    "fuente": "Autotest",
+    "fecha": "2026-11-24T19:56:23Z",
+    "resumen": "La DFSK Glory 600 ahora se ofrece por debajo de los USD 30.000 en Argentina, con nuevas opciones de financiación para facilitar su adquisición.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/DFSK-Glory-600.jpg"
+  },
+  {
+    "titulo": "Mercedes 560 SEC restomod: V8 atmosférico de 500 CV contra los 300 del original",
+    "link": "https://autotest.com.ar/noticias/mercedes-560-sec-restomod-v8-atmosferico-de-500-cv-contra-los-300-del-original/",
+    "fuente": "Autotest",
+    "fecha": "2026-11-24T19:19:31Z",
+    "resumen": "Mechatronik no detalló la cilindrada exacta, pero la denominación 630 es un guiño directo a la histórica familia 6.3 de AMG.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/mercedes-560-sec-restomod-v8-atmosf-rico-1200x740-1.jpg"
+  },
+  {
+    "titulo": "El Toyota C-HR de BYD está arrasando en España, cuesta 6.000 € menos, está equipado hasta arriba y hace 90 km sin gastar gasolina con sus 212 CV",
+    "link": "https://www.diariomotor.com/noticia/oferta-byd-atto-2-dm-i-noviembre-2026/",
+    "fuente": "Diariomotor (ES)",
+    "fecha": "2026-11-24T19:01:39Z",
+    "resumen": "Aunque bien es cierto que Toyota ofrece numerosas ventajas con sus modelos, el mundo no se acaba en Toyota. Y España lo tiene claro al haber hecho a este SUV con 212 CV, 90 km en modo eléctrico y equipado hasta arriba el PHEV más vendido. Un coche con tamaño de Toyota C-HR pero 6.000 euros más barato . BYD ha dado con la clave para arrasar en España No tiene rival en calidad-precio . Ofrece 212 CV…",
+    "imagen": "https://www.diariomotor.com/imagenes/2024/12/byd-atto-2-9-675adc5c40b47-1129811.jpg?class=OG"
+  },
+  {
+    "titulo": "Porsche ha entendido que un deportivo eléctrico necesita algo más que potencia. El nuevo 718 Boxster tendrá una batería central y hasta un cambio PDK virtual",
+    "link": "https://www.motorpasion.com/porsche/2027-porsche-718-boxster-electrico",
+    "fuente": "Motorpasión (ES)",
+    "fecha": "2026-11-24T18:00:59Z",
+    "resumen": "Uno de los grandes problemas de los coches eléctricos desde el punto de vista de quienes disfrutamos conduciendo es que, por norma general, son coches capaces de ofrecer unas prestaciones impresionantes, pero no necesariamente de transmitir emociones . En Motorpasión Probamos el Porsche 718 Spyder, posiblemente el mejor Porsche descapotable del momento Porsche es perfectamente consciente de ello…",
+    "imagen": "https://i.blogs.es/132d1e/porsche_718_boxster_electrico_8/1024_2000.jpeg"
+  },
+  {
+    "titulo": "La nueva pick up de Nissan que desafía a Toyota Hilux: 350 HP, tracción 4×4 y casi 1.000 km de autonomía",
+    "link": "https://autotest.com.ar/noticias/la-nueva-pick-up-de-nissan-que-desafia-a-toyota-hilux-350-hp-traccion-4x4-y-casi-1-000-km-de-autonomia/",
+    "fuente": "Autotest",
+    "fecha": "2026-11-24T19:00:21Z",
+    "resumen": "La nueva Nissan Frontier Pro PHEV llega a Colombia, destacándose por su motor híbrido enchufable de 350 hp y su diseño robusto que combina innovación y rendimiento.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/Pick-up-Nissan-Frontier-Pro-PHEV-perfil.jpg"
+  },
+  {
+    "titulo": "Prohíben aparcar en varias calles durante todo el invierno para que pasen las quitanieves y los vecinos estallan: “Es sádico y antisocial”",
+    "link": "https://www.motorpasion.com/industria/prohiben-aparcar-varias-calles-durante-todo-invierno-pasen-quitanieves-vecinos-estallan-sadico-antisocial",
+    "fuente": "Motorpasión (ES)",
+    "fecha": "2026-11-24T17:37:00Z",
+    "resumen": "Lo que comenzó como una medida para facilitar el trabajo de las quitanieves se ha convertido en un auténtico conflicto vecinal en Alemania con difícil solución. En Springe, una localidad de la región de Hannover, el Ayuntamiento ha prohibido aparcar en varias calles residenciales durante los meses de invierno . El objetivo es que los vehículos encargados de retirar la nieve puedan circular sin…",
+    "imagen": "https://i.blogs.es/66416f/quitanieves/1024_2000.jpeg"
+  },
+  {
+    "titulo": "La DGT cambia las normas para las camper cuando hay nieve: las cadenas ya no siempre sirven",
+    "link": "https://www.motorpasion.com/furgonetas-y-caravanas/dgt-cambia-normas-para-camper-cuando-hay-nieve-cadenas-no-siempre-sirven",
+    "fuente": "Motorpasión (ES)",
+    "fecha": "2026-11-24T17:01:03Z",
+    "resumen": "En invierno, una nevada puede arruinar un viaje en camper o autocaravana . Dependiendo de cómo esté la carretera, la cantidad de nieve y el equipamiento que llevemos, podremos seguir circulando o tendremos que parar. Y ojo: ahora no siempre basta con sacar las cadenas. En esto es clave la nueva señal de la DGT que nos obliga a llevar un tipo de neumático determinado en la camper. También una nueva…",
+    "imagen": "https://i.blogs.es/92beda/portada-mop-1795535505095/1024_2000.jpeg"
+  },
+  {
+    "titulo": "Cuesta 27.900 dólares: el SUV con 191 HP que bajó de precio y compite contra Toyota Corolla Cross",
+    "link": "https://autotest.com.ar/noticias/cuesta-27-900-dolares-el-suv-con-191-hp-que-bajo-de-precio-y-compite-contra-toyota-corolla-cross/",
+    "fuente": "Autotest",
+    "fecha": "2026-11-24T18:00:17Z",
+    "resumen": "El MG ZS Hybrid+ se presenta como el SUV híbrido más accesible del mercado argentino, combinando un excelente precio con características de seguridad y comodidad de alta gama.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/07/SUV-MG-ZS-perfil-1.jpg"
+  },
+  {
+    "titulo": "BYD ha dado la espalda a España para su segunda fábrica europea y elige Francia. Quiere quedarse con la planta del todoterreno Ineos",
+    "link": "https://www.motorpasion.com/industria/byd-ha-dado-espalda-a-espana-para-su-segunda-fabrica-europea-elige-francia-quiere-quedarse-planta-todoterreno-ineos",
+    "fuente": "Motorpasión (ES)",
+    "fecha": "2026-11-24T16:42:21Z",
+    "resumen": "España suele estar entre los países finalistas para la implantación de una fábrica del gigante chino BYD , pero nunca se concretiza . Después de Hungría, ahora BYD ha escogido Francia para instalar su segunda fábrica. El fabricante chino, que está logrando un avance impresionante en el Viejo Continente, ha entrado en negociaciones en exclusiva para comprar la planta de Hambach , en la Mosela,…",
+    "imagen": "https://i.blogs.es/cf9e20/byd-fully-intelligent-production-line/1024_2000.jpeg"
+  },
+  {
+    "titulo": "Porsche, nadando contracorriente, se ha inventado un deportivo de motor central sin motor de combustión",
+    "link": "https://www.diariomotor.com/noticia/porsche-718-boxster-2017-arquitectura-motor-central/",
+    "fuente": "Diariomotor (ES)",
+    "fecha": "2026-11-24T17:01:39Z",
+    "resumen": "El momento que tantos años llevábamos esperando ha llegado. Porsche está a punto de desvelar uno de los lanzamientos más importantes en mucho tiempo , un relevo generacional que supondrá un antes y un después para una de sus sagas más prolíficas, la de sus deportivos de motor central, 31 años después de su puesta de largo. El nuevo Porsche 718 Boxster será el más potente de la histori a, con…",
+    "imagen": "https://www.diariomotor.com/imagenes/2026/11/porsche-718-boxster-2027-anticipo-15-6b05c20b60f98.jpg?class=OG"
+  },
+  {
+    "titulo": "No es Yaris: Toyota actualizó su hatchback con nuevo diseño y más equipamiento",
+    "link": "https://autotest.com.ar/noticias/no-es-yaris-toyota-actualizo-su-hatchback-con-nuevo-diseno-y-mas-equipamiento/",
+    "fuente": "Autotest",
+    "fecha": "2026-11-24T17:00:13Z",
+    "resumen": "Toyota lanza el Starlet 2027 en Sudáfrica con mejoras tecnológicas y estéticas, incluyendo una nueva transmisión automática de seis marchas y un sistema mild-hybrid.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/Toyota-Starlet-2027-teaser.jpg"
+  },
+  {
+    "titulo": "Financiación, entregas, leasing, test drive y todo sobre la llegada de Tesla a la Argentina",
+    "link": "https://eleconomista.com.ar/autos/financiacion-entregas-leasing-test-drive-todo-sobre-llegada-tesla-argentina-n99876",
+    "fuente": "El Economista",
+    "fecha": "2026-11-24T19:50:00Z",
+    "resumen": "La marca de autos eléctricos se lanzó la semana pasada y ya se pueden probar y reservar sus unidades. Un repaso a las principales dudas que pueden tener los clientes.",
+    "imagen": "https://statics.eleconomista.com.ar/2026/11/crop/6b05eafab9f88__950x512.webp"
+  },
+  {
+    "titulo": "Más barato que Volkswagen Tera: el SUV con 116 CV, caja automática y cuatro airbags",
+    "link": "https://autotest.com.ar/noticias/chery-tiggo-2-pro-max-suv-una-alternativa-accesible-frente-al-volkswagen-tera/",
+    "fuente": "Autotest",
+    "fecha": "2026-11-24T16:47:41Z",
+    "resumen": "El Chery Tiggo 2 Pro Max se presenta en el mercado con un precio competitivo desde 23.000 dólares, ofreciendo un motor de 116 CV y opciones de caja manual o automática.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/02/Chery-Tiggo-2-Pro-Max-perfil.jpg"
+  },
+  {
+    "titulo": "Menos de 35.000 dólares: el sedán con 278 CV, ocho airbags y doble pantalla de 12,3 pulgadas",
+    "link": "https://autotest.com.ar/noticias/chery-arrizo-8-csh-sedan-potencia-autonomia-electrica-y-equipamiento-premium-desde-us-34-600/",
+    "fuente": "Autotest",
+    "fecha": "2026-11-24T16:31:55Z",
+    "resumen": "El Chery Arrizo 8 CSH es un sedán híbrido enchufable que se destaca por su potencia de 278 CV y una autonomía eléctrica de 101 km. Disponible en versiones Comfort y Luxury.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/06/Sedan-Chery-Arrizo-8-perfil-accion.jpg"
+  },
+  {
+    "titulo": "La próxima fábrica de BYD está en Europa y es la misma que hasta ahora producía el INEOS Grenadier y smart antes de él",
+    "link": "https://www.diariomotor.com/noticia/nueva-fabrica-byd-traslado-ineos-usa/",
+    "fuente": "Diariomotor (ES)",
+    "fecha": "2026-11-24T16:15:09Z",
+    "resumen": "El sector industrial en Europa está en plena ebullición. La industria del automóvil europea necesita reiventarse para sobrevivir , especialmente en lo que respecta a sus factorías. Y es justamente por ello por lo que INEOS ha tomado una decisión sorprendente , pero fácilmente entendible, abandonando su factoría en Francia para trasladar toda su producción a Estados Unidos . El INEOS Grenadier se…",
+    "imagen": "https://www.diariomotor.com/imagenes/2026/11/ineos-grenadier-primera-unidad-produccion-2022-fabrica-hambach-6b05b42975bc9.jpg?class=OG"
+  },
+  {
+    "titulo": "Han necesitado una retroexcavadora para desenterrar a un dinosaurio en Lleida: su cuello pesa 18 toneladas y tiene 70 millones de años",
+    "link": "https://www.motorpasion.com/tecnologia/han-necesitado-retroexcavadora-para-desenterrar-a-dinosaurio-lleida-su-cuello-pesa-18-toneladas-tiene-70-millones-anos",
+    "fuente": "Motorpasión (ES)",
+    "fecha": "2026-11-24T15:01:02Z",
+    "resumen": "En los Pirineos, bajo toneladas de tierra y roca, un auténtico gigante del Cretácico llevaba enterrado unos 70 millones de años : un titanosaurio que podría superar en tamaño al mayor ejemplar recuperado hasta ahora en Europa. Los paleontólogos del Museu de la Conca Dellà y del Institut Català de Paleontologia Miquel Crusafont lo han encontrado en el yacimiento del Molí del Piteu, cerca de Isona…",
+    "imagen": "https://i.blogs.es/676c93/cuello-dinosaurio/1024_2000.jpeg"
+  },
+  {
+    "titulo": "Ya tiene precio en España la Toyota Hilux de BYD, la BYD Shark, un 4x4 que despunta con un motor híbrido de 436 CV",
+    "link": "https://www.diariomotor.com/noticia/byd-shark-precio-espana/",
+    "fuente": "Diariomotor (ES)",
+    "fecha": "2026-11-24T15:44:09Z",
+    "resumen": "Cuando se trata de todoterrenos de tipo pick-up, en Europa tenemos dos claras referencias. Por un lado, está la Ford Ranger , que ha sido la primera en llegar con un motor de tipo PHEV al mercado, mientras que la que más fama acumula es la Toyota Hilux , labrada a nivel global. Si acaso, tras ellas, es la KGM Musso la que se puede permitir competir de tú a tú tanto por precio como por calidad del…",
+    "imagen": "https://www.diariomotor.com/imagenes/2026/07/BYD-Shark5-6a51275087d58.jpg?class=OG"
+  },
+  {
+    "titulo": "Menos de 35 millones: el sedán más accesible de Nissan con motor 1.6 y caja manual",
+    "link": "https://autotest.com.ar/noticias/menos-de-35-millones-el-sedan-mas-accesible-de-nissan-con-motor-1-6-y-caja-manual/",
+    "fuente": "Autotest",
+    "fecha": "2026-11-24T15:30:11Z",
+    "resumen": "Descubre el Nissan Versa Sense MT 2026, el sedán más accesible de Nissan en Argentina, con precio competitivo y equipamiento de seguridad destacado.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/Nissan-Versa-Sense-MT-teaser.jpg"
+  },
+  {
+    "titulo": "309 CV, dos motores y gran relación precio-producto: se lanzó un nuevo SUV rival de Ford",
+    "link": "https://autotest.com.ar/noticias/309-cv-dos-motores-y-gran-relacion-precio-producto-se-lanzo-un-nuevo-suv-rival-de-ford/",
+    "fuente": "Autotest",
+    "fecha": "2026-11-24T15:23:20Z",
+    "resumen": "La marca de lujo de Ford, Lincoln, renovó el Corsair Híbrido 2027 en México y ya confirmó un mismo precio para las dos versiones, las cuales sorprenden por su relación costo-producto. Imagen, renovada, motorización híbrida y 309 CV son las principales novedades. La comercialización comenzará el 20 de noviembre en las boutiques de Lincoln. La […]",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/Nuevo-Lincoln-Corsair-1.jpg"
+  },
+  {
+    "titulo": "Menos de 16000 dólares: el hatch que bajó de precio para competir con Toyota Yaris",
+    "link": "https://autotest.com.ar/noticias/menos-de-16000-dolares-el-hatch-que-bajo-de-precio-para-competir-con-toyota-yaris/",
+    "fuente": "Autotest",
+    "fecha": "2026-11-24T15:01:15Z",
+    "resumen": "El Hyundai i20 Comfort 2027 cuenta con una bonificación de hasta 7000 reales en Brasil para quienes entreguen un vehículo seminuevo. Así, la versión de entrada baja a un valor equivalente a menos de 16000 dólares, lo que lo posiciona entre los más económicos del mercado para competir contra Toyota Yaris, su principal rival. La […]",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/Precio-Hyundai-HB20.jpg"
+  },
+  {
+    "titulo": "Gordon Murray, creador del McLaren F1: \"No me importan las cifras de aceleración: para mí lo primordial es la perfección al volante y el arte de la ingeniería ligera\"",
+    "link": "https://www.motorpasion.com/superdeportivos/gordon-murray-creador-mclaren-f1-no-me-importan-cifras-aceleracion-para-mi-primordial-perfeccion-al-volante-arte-ingenieria-ligera",
+    "fuente": "Motorpasión (ES)",
+    "fecha": "2026-11-24T14:01:03Z",
+    "resumen": "Gordon Murray es uno de los diseñadores e ingenieros más prolíficos y en la historia del automovilismo. Nacido en Durban, Sudáfrica, en 1946, pasó de la ingeniería mecánica en la F1 a crear un icono de calle: el McLaren F1 . Su filosofía siempre se ha alejado diametralmente de la tendencia de la industria: el verdadero valor de un automóvil radica en la reducción de peso, el equilibrio mecánico y…",
+    "imagen": "https://i.blogs.es/41bf51/portada-mop-1795518040777/1024_2000.jpeg"
+  },
+  {
+    "titulo": "Europa ya compra más coches eléctricos que de gasolina, pero hay otra tecnología que sigue arrasando en los concesionarios, sobre todo en los españoles, y sigue llevando motor de combustión",
+    "link": "https://www.diariomotor.com/noticia/matriculaciones-coches-union-europea-octubre-2026/",
+    "fuente": "Diariomotor (ES)",
+    "fecha": "2026-11-24T14:30:29Z",
+    "resumen": "El mercado europeo del automóvil está cambiando a una velocidad considerable. Según los últimos datos publicados por la Asociación Europea de Fabricantes de Automóviles (ACEA), en lo que llevamos de 2026 se han matriculado más coches 100% eléctricos que de gasolina convencionales en la Unión Europea . Los primeros ya representan un 23,4% de las ventas de coches nuevos, frente al 20,8% de los…",
+    "imagen": "https://www.diariomotor.com/imagenes/2026/03/Toyota-C-HR-Advance-43-69bbfce4a8b60.jpg?class=OG"
+  },
+  {
+    "titulo": "Más barato que Toyota Corolla: el sedán de Volkswagen que bajó de precio y tiene 150 HP",
+    "link": "https://autotest.com.ar/noticias/mas-barato-que-toyota-corolla-el-sedan-de-volkswagen-que-bajo-de-precio-y-tiene-150-hp/",
+    "fuente": "Autotest",
+    "fecha": "2026-11-24T14:30:12Z",
+    "resumen": "Volkswagen lanza una atractiva bonificación para el Jetta Trendline 2026 en México, con un descuento significativo frente a su precio habitual. Esta oferta lo posiciona como una opción destacada entre los sedanes medianos.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/Volkswagen-Jetta-Trendline-perfil.jpg"
+  },
+  {
+    "titulo": "La renovada minivan de Toyota: motor híbrido, 254 CV y pantalla de 12.2 pulgadas",
+    "link": "https://autotest.com.ar/transportes/la-renovada-minivan-de-toyota-motor-hibrido-254-cv-y-pantalla-de-12-2-pulgadas/",
+    "fuente": "Autotest",
+    "fecha": "2026-11-24T14:20:54Z",
+    "resumen": "Toyota renueva la Sienna 2027, la minivan que compite contar la recientemente actualizada Chrysler Pacifica, con más potencia híbrida, cambios en la puesta a punto y un interior con mayor carga tecnológica. La compañía japonesa mantiene el enfoque familiar de la minivan, pero revisa el sistema de propulsión, la asistencia a la conducción y la […]",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/toyota-sienna3.jpg"
+  },
+  {
+    "titulo": "He probado el Porsche Cayenne GTS Coupé: 500 CV de puro V8 y la magia de hacer desaparecer más de dos toneladas en una carretera de curvas",
+    "link": "https://www.motorpasion.com/pruebas-de-coches/2026-porsche-cayenne-gts-coupe-prueba",
+    "fuente": "Motorpasión (ES)",
+    "fecha": "2026-11-24T13:01:51Z",
+    "resumen": "Hay coches que te conquistan por sus prestaciones, otros por su diseño y otros por las sensaciones que son capaces de transmitir al volante. El Porsche Cayenne GTS Coupé pertenece a ese escaso grupo de automóviles que consiguen reunir todas esas cualidades sin que ninguna de ellas condicione en exceso a las demás. En Motorpasión Probamos el Range Rover Sport SV Edition Two donde nadie se atrevería…",
+    "imagen": "https://i.blogs.es/69c2c6/porsche_cayenne_gts_coupe_prueba_2/1024_2000.jpeg"
+  },
+  {
+    "titulo": "Con 4 cilindros en uve y más de 210 CV girando a 15.000 rpm, es el motor con el que China reta a Europa y Japón, dando un golpe sobre la mesa",
+    "link": "https://www.diariomotor.com/noticia/motor-v4-china-reta-europa/",
+    "fuente": "Diariomotor (ES)",
+    "fecha": "2026-11-24T14:00:44Z",
+    "resumen": "Los motores de gasolina están muertos. Larga vida a los motores de gasolina. Mientras Europa se las ingenia para acabar con los motores de combustión, primero legislando para prohibirlos, después para flexibilizar sus objetivos y permitir que se sigan vendiendo coches con motor de combustión - pero poco - China se las sigue ingeniando para atacar al mercado europeo donde más le duele, y…",
+    "imagen": "https://www.diariomotor.com/imagenes/2026/11/cfmoto-v-04-6b055281f3a9b.jpg?class=OG"
+  },
+  {
+    "titulo": "Japón sigue fabricando el deportivo que Europa ya no se atreve a hacer: el Mazda MX-5 más especial de 2027 tiene frenos Brembo, suspensión Bilstein y cuesta 40.500 euros",
+    "link": "https://www.diariomotor.com/noticia/mazda-mx-5-yakudo-2027/",
+    "fuente": "Diariomotor (ES)",
+    "fecha": "2026-11-24T13:30:20Z",
+    "resumen": "Vivimos en una época en la que hacer algo como el Mazda MX-5 es prácticamente un acto de revolución. Que Mazda siga haciendo un deportivo descapotable que apenas supera la tonelada de peso, con motor atmosférico y cambio manual es algo que debemos celebrar. El MX-5 sigue siendo uno de los últimos deportivos de la vieja escuela que podemos comprar nuevos en España y ahora estrena una edición…",
+    "imagen": "https://www.diariomotor.com/imagenes/2026/11/mazda-mx-5-yakudo-2027_port-6b057b623adef.jpg?class=OG"
+  },
+  {
+    "titulo": "Así es el interior de la nueva Volkswagen Amarok 2027: tres pantallas y más tecnología",
+    "link": "https://autotest.com.ar/noticias/asi-es-el-interior-de-la-nueva-volkswagen-amarok-2027-tres-pantallas-y-mas-tecnologia/",
+    "fuente": "Autotest",
+    "fecha": "2026-11-24T13:30:12Z",
+    "resumen": "La Volkswagen Amarok 2027 llega con un diseño innovador de tres pantallas y producción confirmada en Argentina, apuntando a ser un referente en tecnología y versatilidad.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/Volkswagen-Amarok-2027-interior-1.jpg"
+  },
+  {
+    "titulo": "Volkswagen ID. Polo GTI Clubsport: un eléctrico de 367 CV preparado para la pista",
+    "link": "https://www.megautos.com/volkswagen-id-polo-gti-clubsport/",
+    "fuente": "Megautos",
+    "fecha": "2026-11-24T13:22:22Z",
+    "resumen": "En el marco de los festejos por los 50 años del GTI, la marca alemana presentó un prototipo basado en el ID. Polo GTI, con 141 CV adicionales, carrocería de dos puertas y una puesta a punto específica para circuito. Alcanza los 240 km/h. La entrada Volkswagen ID. Polo GTI Clubsport: un eléctrico de 367 CV preparado para la pista aparece primero en Mega Autos .",
+    "imagen": "https://www.megautos.com/wp-content/uploads/2026/11/DB2026AU01245.jpg"
+  },
+  {
+    "titulo": "150.000 y más: Fiat rompe otro récord de ventas con la Strada",
+    "link": "https://autotest.com.ar/noticias/150-000-y-mas-fiat-rompe-otro-record-de-ventas-con-la-strada/",
+    "fuente": "Autotest",
+    "fecha": "2026-11-24T13:02:40Z",
+    "resumen": "La Fiat Strada alcanzó 150.000 unidades comercializadas en Brasil durante 2026 y logró el mejor registro anual de su historia. La pick up que se posiciona por debajo de Toro también mantiene el primer puesto entre los vehículos más vendidos del país por quinto año consecutivo. El resultado supera la cifra de 2025, cuando el […]",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/fiat-strada1.jpg"
+  },
+  {
+    "titulo": "Tres cazas Rafale aterrizan en mitad de una autopista nevada y la convierten en una base militar improvisada por si empieza una guerra",
+    "link": "https://www.motorpasion.com/industria/tres-cazas-rafale-aterrizan-mitad-autopista-nevada-convierten-base-militar-improvisada-empieza-guerra",
+    "fuente": "Motorpasión (ES)",
+    "fecha": "2026-11-24T12:01:48Z",
+    "resumen": "Imagina ir por una autovía y de repente, encontrarte con una escena pintoresca a más no poder: un caza aterrizando a toda velocidad. Pues no es ciencia ficción ni la última película de 007; es un ejercicio militar francés . Francia ha querido comprobar hasta qué punto sus Rafale pueden prescindir de las pistas convencionales y utilizar carreteras como aeródromos improvisados. Más de 4.000…",
+    "imagen": "https://i.blogs.es/895a2f/portada-mop-1795511151977/1024_2000.jpeg"
+  },
+  {
+    "titulo": "Mientras los GTI se ponen carísimos y pierden la gracia, va España y planta un deportivo camuflado con precio de coche chino, 620 l de maletero, etiqueta ECO y 5,5 l/100 km",
+    "link": "https://www.diariomotor.com/noticia/oferta-cupra-leon-sportstourer-noviembre-2026/",
+    "fuente": "Diariomotor (ES)",
+    "fecha": "2026-11-24T13:00:01Z",
+    "resumen": "Comprarse un coche con cierto toque deportivo se ha convertido en tarea casi exclusiva de los bolsillos más pudientes. Ya ha llovido desde aquellos GTI que podías adquirir por no mucho dinero y que te garantizaban diversión, pero no han desaparecido. Y es precisamente España la que ofrece esto de la mano de 620 litros de maletero, etiqueta ECO y un consumo de 5,5 l/100 km por 33.797,10 euros .…",
+    "imagen": "https://www.diariomotor.com/imagenes/2025/02/oferta-cupra-leon-febrero-2025-1-67a9f075b9ae0.jpg?class=OG"
+  },
+  {
+    "titulo": "De las más chicas a las más potentes: así se divide el segmento de las pick ups compactas",
+    "link": "https://autotest.com.ar/noticias/de-las-mas-chicas-a-las-mas-potentes-asi-se-divide-el-segmento-de-las-pick-ups-compactas/",
+    "fuente": "Autotest",
+    "fecha": "2026-11-24T12:38:03Z",
+    "resumen": "La industria automotriz en Sudamérica se transforma con nuevos modelos de pick ups compactas, ahora organizadas en cuatro niveles según tamaño, potencia y enfoque.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/pick-ups-compactas.jpg"
+  },
+  {
+    "titulo": "La Renault Niagara automática más barata: 156 CV y 651 kg de capacidad de carga",
+    "link": "https://autotest.com.ar/noticias/la-renault-niagara-automatica-mas-barata-156-cv-y-651-kg-de-capacidad-de-carga/",
+    "fuente": "Autotest",
+    "fecha": "2026-11-24T12:30:59Z",
+    "resumen": "El Renault Niagara ya está en el configurador de Renault Argentina, enfocándose en especificaciones estándar y motor nafta, pero aún faltan detalles técnicos clave.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/Renault-Niagara-Evolution-AT-teaser.jpg"
+  },
+  {
+    "titulo": "Llega a España el Tank 300, un todoterreno con doble bloqueo, reductora y a tope de equipamiento que se pone a precio de SUV",
+    "link": "https://www.diariomotor.com/noticia/gwm-tank-300-posicionamiento-espana/",
+    "fuente": "Diariomotor (ES)",
+    "fecha": "2026-11-24T12:30:40Z",
+    "resumen": "No sé, sinceramente, cuántos artículos hemos publicado (o he publicado, más bien) en los que hemos señalado que por un motivo u otro ciertos coches, especialmente algunos todoterrenos y 4x4 , eran especialmente interesantes para España si llegaban a nuestro mercado a cambio de un precio coherente. Pues bien, dejemos de esperar, porque ese día ha llegado . El todoterreno de las siguientes imágenes…",
+    "imagen": "https://www.diariomotor.com/imagenes/2026/11/GWM-Tank-300-Espana-6b056e3e787bc.jpg?class=OG"
+  },
+  {
+    "titulo": "CF Moto presentó dos nuevos modelos y quiere conquitar el mercado de media cilindrada",
+    "link": "https://www.iprofesional.com/autos/469752-cf-moto-lanzara-las-nuevas-550-mt-y-550-mt-x-de-54-cv",
+    "fuente": "iProfesional",
+    "fecha": "2026-11-24T15:28:00Z",
+    "resumen": "La asiática que lidera las ventas del segmento polivalente con la 450 MT adelantó dos modelos de 550 cc, concebidas para viajar y hacer off-road (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
+    "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/11/630379.jpg"
+  },
+  {
+    "titulo": "Bentley, con lo bien que lo estabas haciendo y aún teniendo el ejemplo de Porsche delante de las narices, has caído en la moda más absurda del momento",
+    "link": "https://www.diariomotor.com/noticia/bentley-pantalla-tactil-coches-clasicos/",
+    "fuente": "Diariomotor (ES)",
+    "fecha": "2026-11-24T12:00:55Z",
+    "resumen": "Entiendo que, cuando todo el mundo pide algo, las marcas de coches se lo den. Lo que me cuesta entender es que se empeñen en seguir una moda que muchos llevamos tiempo criticando. Y lo de Bentley me duele especialmente, porque con lo bien que estabas haciendo las cosas... ¿también tú tenías que caer en esta moda? Bentley cae en una de las modas más absurdas al modernizar sus modelos antiguos Me…",
+    "imagen": "https://www.diariomotor.com/imagenes/2026/11/bentley-pantalla-tactil-coches-clasicos-2-6b0562c06ae72.jpg?class=OG"
+  },
+  {
+    "titulo": "Europa prohíbe vender el BYD Ti7. No es una cuestión de seguridad, es que es igual que el Defender",
+    "link": "https://www.motorpasion.com/industria/europa-prohibe-vender-byd-ti7-no-cuestion-seguridad-que-igual-que-defender",
+    "fuente": "Motorpasión (ES)",
+    "fecha": "2026-11-24T11:00:50Z",
+    "resumen": "Europa acaba de prohibir la venta en su territorio de un nuevo modelo del fabricante chino BYD . No es por una cuestión de seguridad, sino por una cuestión de propiedad intelectual. El coche, el Fangchengbao Ti7 -BYD Ti7, para Europa- es un todoterreno similar al actual Defender. El problema es que es demasiado similar, según los tribunales europeos. En un procedimiento sumario, los jueces del…",
+    "imagen": "https://i.blogs.es/de6d95/byd-ti7-vs-defender/1024_2000.jpeg"
+  },
+  {
+    "titulo": "¿Mejor que Nissan Kicks? El SUV chino con casi 180 CV, seis airbags y pantalla de 15 pulgadas",
+    "link": "https://autotest.com.ar/noticias/geely-cityray-2027-suv-innovacion-en-tecnologia-y-diseno-para-mexico/",
+    "fuente": "Autotest",
+    "fecha": "2026-11-24T11:58:34Z",
+    "resumen": "El Geely Cityray 2027 llega a México con un motor 1.5 turbo, más tecnología y un precio competitivo.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/geely-cityray-suv3.jpg"
+  },
+  {
+    "titulo": "El Model 3 que Tesla nunca confirmó: diseño de Roadster y más de 700 km de autonomía",
+    "link": "https://autotest.com.ar/noticias/el-model-3-que-tesla-nunca-confirmo-diseno-de-roadster-y-mas-de-700-km-de-autonomia/",
+    "fuente": "Autotest",
+    "fecha": "2026-11-24T11:50:09Z",
+    "resumen": "El razonamiento es lógico: una silueta más aerodinámica baja el coeficiente de resistencia al aire y estira la autonomía, la variable que más pesa al elegir un eléctrico.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/el-model-3-que-tesla-nunca-confirm-dise-1200x740-1.jpg"
+  },
+  {
+    "titulo": "Porsche revive la Macan naftera en 2028: la eléctrica no pudo reemplazarla y vuelve el SUV",
+    "link": "https://autotest.com.ar/noticias/porsche-revive-la-macan-naftera-en-2028-la-electrica-no-pudo-reemplazarla-y-vuelve-el-suv/",
+    "fuente": "Autotest",
+    "fecha": "2026-11-24T11:49:40Z",
+    "resumen": "En versiones con tracción integral, la capacidad de remolque llega a 5.500 libras. A pesar de todo ese equipamiento, el SUV eléctrico compacto de lujo quedó octavo en su categoría.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/porsche-revive-la-macan-naftera-en-2028-1200x740-1.jpg"
+  },
+  {
+    "titulo": "Menos de 15.000 dólares: el sedán con seis airbags, 528 litros de baúl y frenado autónomo",
+    "link": "https://autotest.com.ar/noticias/descubre-el-renovado-hyundai-accent-2027-sedan-con-seis-airbags-y-tecnologia-avanzada/",
+    "fuente": "Autotest",
+    "fecha": "2026-11-24T11:47:20Z",
+    "resumen": "El Hyundai Accent 2027 llega a Chile con un diseño actualizado y mejoras en seguridad, manteniendo un precio por debajo de los 15.000 dólares.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/hyundai-sedan2.jpg"
+  },
+  {
+    "titulo": "Una cementera ha encontrado la forma de ahorrar 11 millones de litros de diésel al año",
+    "link": "https://www.motorpasion.com/furgonetas-y-caravanas/cementera-sustituira-410-camiones-diesel-electricos-para-ahorrar-11-millones-litros-gasoleo-al-ano",
+    "fuente": "Motorpasión (ES)",
+    "fecha": "2026-11-24T10:41:00Z",
+    "resumen": "Ahorrar 11 millones de litros de diésel al año : son estimaciones de la cementera Adani Cement , que pretende conseguir con el despliegue de una flota de más de 400 camiones eléctricos . Un ambicioso plan que es solo el principio: en 2030 esperan integrar 2.000 vehículos 100 % eléctricos en su flota logística. Electrificar el transporte por carretera lleva años sobre la mesa, y con los precios del…",
+    "imagen": "https://i.blogs.es/1f5a40/adani-electric-trucks-october-26/1024_2000.jpeg"
+  },
+  {
+    "titulo": "Más equipado o más potente: Jeep Avenger full contra Renegade base",
+    "link": "https://autotest.com.ar/noticias/jeep-avenger-o-renegade-descubre-las-diferencias-clave-por-75-millones/",
+    "fuente": "Autotest",
+    "fecha": "2026-11-24T11:40:32Z",
+    "resumen": "El Jeep Avenger Limited ofrece más tecnología y asistencias a menor precio, mientras que el Renegade Altitude destaca por su motor más potente y mayor tamaño.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/Jeep-Avenger-vs-Renegade.jpg"
+  },
+  {
+    "titulo": "El Toyota que cuesta 7.500 dólares y sorprende por su equipamiento: seis airbags, cámara 360º y butacas ventiladas",
+    "link": "https://autotest.com.ar/noticias/el-toyota-que-cuesta-7-500-dolares-y-sorprende-por-su-equipamiento-seis-airbags-camara-360-y-butacas-ventiladas/",
+    "fuente": "Autotest",
+    "fecha": "2026-11-24T11:30:16Z",
+    "resumen": "Descubre el nuevo Toyota Glanza 2026, un hatchback asequible con un diseño audaz, motor eficiente y equipamiento mejorado, que redefine el segmento en India.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/Toyota-Glanza-2026-teaser.jpg"
+  },
+  {
+    "titulo": "Nadie pudo comprarlo en su época ni con un cheque en blanco, pero en 2027 sale a la venta el Mercedes que puede valer 25 millones de euros y no volverá a venderse otro en 25 años",
+    "link": "https://www.diariomotor.com/noticia/subasta-mercedes-benz-c111-ii-wagen-33/",
+    "fuente": "Diariomotor (ES)",
+    "fecha": "2026-11-24T11:30:15Z",
+    "resumen": "Durante más de medio siglo, ha dado igual cuánto dinero tuvieses en el banco. Ni siquiera los clientes más adinerados de Mercedes , algunos de los cuales llegaron a enviar cheques en blanco a la compañía, consiguieron hacerse con uno de los coches más fascinantes de su historia. Eso cambiará el próximo mes de febrero, cuando Mercedes subaste por primera vez uno de sus míticos C 111 . Se estima que…",
+    "imagen": "https://www.diariomotor.com/imagenes/2026/11/1970-Mercedes-Benz-C-111-II-RM-Sothebys-16-6b05614884ff9.jpeg?class=OG"
+  },
+  {
+    "titulo": "Menos de 42 millones: cuánto cuesta el SUV más barato de Jeep con 120 CV, caja automática y seis airbags",
+    "link": "https://autotest.com.ar/noticias/menos-de-42-millones-cuanto-cuesta-el-suv-mas-barato-de-jeep-con-120-cv-caja-automatica-y-seis-airbags/",
+    "fuente": "Autotest",
+    "fecha": "2026-11-24T11:29:19Z",
+    "resumen": "Con precios a partir de $41.990.000, el Jeep Avenger se presenta como el SUV más accesible de la marca, ofreciendo tres versiones con diferentes equipamientos.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/Jeep-Avenger-ALtitude-1.jpg"
+  },
+  {
+    "titulo": "RAM Dakota: los nuevos precios de la pick up con 200 CV, caja automática y tracción 4×4",
+    "link": "https://autotest.com.ar/noticias/ram-dakota-los-nuevos-precios-de-la-pick-up-con-200-cv-caja-automatica-y-traccion-4x4/",
+    "fuente": "Autotest",
+    "fecha": "2026-11-24T11:18:04Z",
+    "resumen": "La RAM Dakota actualizó sus precios en noviembre, ofreciendo una emocionante combinación de potencia y estilo en sus versiones Warlock, Laramie y Laramie Night Edition.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/07/RAM-Dakota-Laramie-Night-Edition-frente.jpg"
+  },
+  {
+    "titulo": "Denza B5: 536 CV para remolcar un Boeing 747 de 180 toneladas, como el Touareg pero chino",
+    "link": "https://autotest.com.ar/noticias/denza-b5-536-cv-para-remolcar-un-boeing-747-de-180-toneladas-como-el-touareg-pero-chino/",
+    "fuente": "Autotest",
+    "fecha": "2026-11-24T11:16:40Z",
+    "resumen": "El mensaje es claro: el torque, la refrigeración y la resistencia de la transmisión son los verdaderos protagonistas de una demostración de 180 toneladas.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/denza-b5-536-cv-para-remolcar-un-boeing-1200x740-1.jpg"
+  },
+  {
+    "titulo": "Menos de 17000 dólares: Chevrolet bajó el precio del Onix para competir contra Nissan Versa",
+    "link": "https://autotest.com.ar/noticias/menos-de-17000-dolares-chevrolet-bajo-el-precio-del-onix-para-competir-contra-nissan-versa/",
+    "fuente": "Autotest",
+    "fecha": "2026-11-24T11:15:16Z",
+    "resumen": "Chevrolet bajó el precio del Onix Plus 2027 en Brasil con una bonificación de 14000 reales para la versión 1.0 de entrada. El sedán compacto rival de Nissan Versa ahora queda por debajo del equivalente a 17000 dólares para competir en lo más alto del segmento. La promoción rige hasta el 1 de diciembre de […]",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/Un-Chevrolet-Onix-Plus.jpg"
+  },
+  {
+    "titulo": "Ford Fathom: pick-up eléctrica por US$29.945, menos de la mitad que una F-150 Lightning",
+    "link": "https://autotest.com.ar/noticias/ford-fathom-pick-up-electrica-por-us-29-945-menos-de-la-mitad-que-una-f-150-lightning/",
+    "fuente": "Autotest",
+    "fecha": "2026-11-24T11:06:12Z",
+    "resumen": "Durante una recorrida por la fábrica de Marshall, se identificaron las celdas y la cantidad exacta que integra el pack de la Fathom.",
+    "imagen": "https://hips.hearstapps.com/hmg-prod/images/9a63cfc9-47db-4cff-9727-f1c4042dc645.jpg?w=768&width=768&q=75&format=webp"
+  },
+  {
+    "titulo": "T-Roc R 2027: 333 CV, etiqueta eco y el motor del Golf R con más baúl",
+    "link": "https://autotest.com.ar/noticias/t-roc-r-2027-333-cv-etiqueta-eco-y-el-motor-del-golf-r-con-mas-baul/",
+    "fuente": "Autotest",
+    "fecha": "2026-11-24T11:06:02Z",
+    "resumen": "La caja es la automática DSG de siete marchas y la tracción, integral 4MOTION con vectorización de par en el eje trasero.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/t-roc-r-2027-333-cv-etiqueta-eco-y-el-mo-1200x740-1.jpg"
+  },
+  {
+    "titulo": "Ocho airbags y casi 500 litros de baúl: cuánto cuesta y qué ofrece el sedán que va contra Toyota Corolla",
+    "link": "https://autotest.com.ar/noticias/nuevo-honda-civic-hibrido-sedan-precio-caracteristicas-y-equipamiento-de-lujo/",
+    "fuente": "Autotest",
+    "fecha": "2026-11-24T11:04:50Z",
+    "resumen": "El Civic Advanced Hybrid, con un precio de USD 54.000, ofrece una mecánica híbrida con ocho airbags y un amplio baúl de 495 litros, ideal para el uso familiar.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/Honda-Civic-e-HEV.jpg"
+  },
+  {
+    "titulo": "Alguien acaba de pagar 45.000€ por uno de los coches más baratos del mundo, un trasto basado en el 127 y considerado de los peores coches de la historia",
+    "link": "https://www.diariomotor.com/noticia/yugo-gv-50000/",
+    "fuente": "Diariomotor (ES)",
+    "fecha": "2026-11-24T11:00:33Z",
+    "resumen": "Se llama Yugo GV y es un coche que un empresario llamado Malcolm Bricklin importó a Norteamérica desde la antigua Yugoslavia. Este coche rompió el mercado, costando solo 3.990 dólares y convirtiéndose en el coche extranjero más vendido del país, con más de 100.000 unidades en los tres primeros años . Era tan barato, que fue el primer coche de muchísima gente. Medía solo 3,49m y estaba basado en el…",
+    "imagen": "https://www.diariomotor.com/imagenes/2026/11/Yugo-GV-exterior_1-6b05550353a62.jpg?class=OG"
+  },
+  {
+    "titulo": "2027 pinta bien: los expertos prevén precios más bajos para la gasolina y el gas natural",
+    "link": "https://www.motorpasion.com/industria/expertos-traen-buenas-noticias-precio-gasolina-2027-ahora-hay-petroleo-mercado",
+    "fuente": "Motorpasión (ES)",
+    "fecha": "2026-11-24T10:00:00Z",
+    "resumen": "Tras meses de tormenta, nos encontramos en un momento de calma. El precio de gas natural y el petróleo se mantienen por debajo de las cifras que hemos estado viendo: la culpa la tiene una menor demanda y el hecho de que las refinerías se están recuperando. Grandes bancos como Deutsche Bank o Goldman Sachs pronostican una bajada en los precios del petróleo crudo Brent (el de referencia en Europa)…",
+    "imagen": "https://i.blogs.es/5699fa/portada-mop-1795513945104/1024_2000.jpeg"
+  },
+  {
+    "titulo": "Menos de 46 millones: así es la Honda HR-V más barata con seis airbags y caja automática",
+    "link": "https://autotest.com.ar/noticias/menos-de-46-millones-asi-es-la-honda-hr-v-mas-barata-con-seis-airbags-y-caja-automatica/",
+    "fuente": "Autotest",
+    "fecha": "2026-11-24T10:48:21Z",
+    "resumen": "Conoce todos los detalles sobre el SUV de Honda en sus versiones LX y EXL, sus precios, equipamiento y diferencias.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/honda_hr-v_exl99.jpg"
+  },
+  {
+    "titulo": "Así es la Yamaha MT-09 de ZXMOTO, con 135 CV a 12.000 rpm para 186 kg es más potente, más ligera... y seguro que también más barata",
+    "link": "https://www.diariomotor.com/motos/zxmoto-820r/",
+    "fuente": "Diariomotor (ES)",
+    "fecha": "2026-11-24T10:30:47Z",
+    "resumen": "Que el ritmo no pare. Si este año te ha parecido espectacular en lo que respecta a novedades, a grandes lanzamientos de nuevas motos, especialmente de marcas chinas, mucho ojo con lo que viene el próximo año. 2027 será el año en el que las chinas se consoliden , ya no solo como fabricantes de aventureras, que tantas alegrías ha traído a marcas como Voge, o scooter, sino también como constructores…",
+    "imagen": "https://www.diariomotor.com/imagenes/2026/11/zxmoto-820r-2027-exterior-15-6b0477da60e62.jpg?class=OG"
+  },
+  {
+    "titulo": "Menos bestia que Raptor, y Super Duty, el nuevo Wolftrak 2027 es el Ford Ranger más equilibrado como indestructible herramienta de trabajo y todoterreno tremendamente capaz",
+    "link": "https://www.diariomotor.com/noticia/ford-ranger-wolftrak-2027/",
+    "fuente": "Diariomotor (ES)",
+    "fecha": "2026-11-24T10:30:19Z",
+    "resumen": "Históricamente ha sido considerada una herramienta de trabajo casi indestructible, capaz de cargar con todo, capaz de enfrentarse a los terrenos más complicados. Ford Ranger es uno de los referentes, en España, y en el mundo, de lo que ha de ser un buen pick-up. El Ford Ranger Wolftrak nace como una edición especial que combina las capacidades de una herramienta de trabajo con las de un…",
+    "imagen": "https://www.diariomotor.com/imagenes/2026/11/ford-ranger-wolftrak-2027-exterior-15-6b056162ef80a.jpg?class=OG"
+  },
+  {
+    "titulo": "Alba, vecina de Delicias afectada por La Gran Diagonal de Madrid: \"Cuando terminen puede que yo ya no viva aquí\"",
+    "link": "https://www.motorpasion.com/industria/alba-vecina-delicias-afectada-gran-diagonal-madrid-cuando-terminen-puede-que-yo-no-viva-aqui",
+    "fuente": "Motorpasión (ES)",
+    "fecha": "2026-11-24T09:00:50Z",
+    "resumen": "La Línea 11 del Metro de Madrid o \" Gran Línea Diagonal de Madrid \" está considerado como el proyecto de transporte público más ambicioso de la Comunidad de Madrid en décadas. Anunciado en 2020, nació con el objetivo de actuar como una gran línea diagonal de más de 33 kilómetros que conecte el suroeste con el noreste de la capital sin pasar por el centro, desde hace tiempo totalmente…",
+    "imagen": "https://i.blogs.es/8075a1/mayrit/1024_2000.jpeg"
+  },
+  {
+    "titulo": "Precios de la gasolina hoy, 24 de noviembre",
+    "link": "https://www.motorpasion.com/industria/precios-gasolina-hoy-24-noviembre",
+    "fuente": "Motorpasión (ES)",
+    "fecha": "2026-11-24T08:53:00Z",
+    "resumen": "Sigue la tendencia de los últimos días: repostar en España es ligeramente más barato que semanas atrás. El precio de los combustibles sigue bajando, tras los picos alcanzados en octubre y, de media, el litro de diésel continúa alejándose de los 1,8 euros el litro. Aún así, llenar hoy el depósito de media en España en un coche de gasolina ronda los 69 euros y uno diésel los 79 euros. El precio del…",
+    "imagen": "https://i.blogs.es/4d7c21/precios-gasolina-diesel-24-noviembre/1024_2000.jpeg"
+  },
+  {
+    "titulo": "El KIA Sorento de Honda llega con un motor 2.0 híbrido para superar a Toyota en Europa a base de ingeniería",
+    "link": "https://www.diariomotor.com/noticia/honda-avancier-motor-hibrido-detalles/",
+    "fuente": "Diariomotor (ES)",
+    "fecha": "2026-11-24T09:30:28Z",
+    "resumen": "En Europa poco o nada tiene que ver su situación con la de años atrás, pues apenas busca mantenerse viva en un mercado pequeño y muy competitivo , pero Honda sigue queriendo situarse a nivel global como la alternativa japonesa a Toyota y, no sólo eso, sino superarla a base de tecnología y coches más depurados . Un gran peso en este objetivo lo tiene el coche que presentó la pasada semana, el Honda…",
+    "imagen": "https://www.diariomotor.com/imagenes/2026/11/Honda-Avancier-2027-3-6b05563989ec9.jpg?class=OG"
+  },
+  {
+    "titulo": "Mitsubishi Montero",
+    "link": "https://www.diariomotor.com/coche/mitsubishi-montero/",
+    "fuente": "Diariomotor (ES)",
+    "fecha": "2026-11-24T08:00:26Z",
+    "resumen": "El Mitsubishi Montero , también conocido como Mitsubishi Pajero en otros mercados, es un todoterreno de grandes dimensiones fabricado por Mitsubishi desde 1982 . En 2026 se presentó su quinta generación, que recupera la filosofía del verdadero todoterreno, con chasis de largueros y travesaños, reductora, motor diésel y capacidad para siete pasajeros. El Mitsubishi Montero de quinta generación se…",
+    "imagen": "https://www.diariomotor.com/imagenes/2026/09/Mitsubishi-Montero-2027-12-6a97f741049c6.jpg?class=OG"
+  },
+  {
+    "titulo": "Hyundai nos deleitó con no de los diseños más locos que hayamos visto en los últimos años, y ahora confiesa cuán lejos estuvo de llegar a los concesionarios",
+    "link": "https://www.diariomotor.com/noticia/hyundai-n-vision-74-desarrollo/",
+    "fuente": "Diariomotor (ES)",
+    "fecha": "2026-11-24T07:30:46Z",
+    "resumen": "Estos días os hablábamos de Hyundai, y de productos que nos han sorprendido tanto por su diseño, como el nuevo Hyundai Tucson, o un nuevo Hyundai Elantra que aún no sabemos si llegará a Europa. Hyundai Elantra Pero para entender este nuevo rumbo que ha tomado Hyundai, y cómo ha trasladado esa filosofía de diseño retro-futurista al nuevo Elantra, hemos de viajar hasta el año 2022 para recordar uno…",
+    "imagen": "https://www.diariomotor.com/imagenes/2022/07/hyundai-vision-n-74-2022-14-62d1458edfb97.jpg?class=OG"
+  },
+  {
+    "titulo": "Medidas de camper y espacio de autocaravana, así es la nueva propuesta española, asequible, con gran salón y baño variable",
+    "link": "https://www.diariomotor.com/noticia/benimar-yrteo-y881-2027/",
+    "fuente": "Diariomotor (ES)",
+    "fecha": "2026-11-24T07:00:58Z",
+    "resumen": "Elegir entre una camper y una autocaravana tiene su complicación . Las primeras son más manejables , pero el espacio suele quedarse corto cuando empiezas a sumar equipaje y pasajeros. Las segundas son más cómodas, aunque sus dimensiones no siempre convencen. Por suerte, hay alternativas que consiguen combinar lo mejor de ambos mundos , como esta nueva propuesta de una conocida firma española que…",
+    "imagen": "https://www.diariomotor.com/imagenes/2026/08/Benimar-Yrteo-88119-6a957f47af3a7.jpg?class=OG"
+  },
+  {
+    "titulo": "El todoterreno de Jeff Bezos ya es real, Slate renuncia a las baterías grandes, porque lo que necesitamos es que haya coches mucho más baratos, y no más autonomía",
+    "link": "https://www.diariomotor.com/noticia/slate-renuncia-baterias-grandes-prioridad-coche-barato/",
+    "fuente": "Diariomotor (ES)",
+    "fecha": "2026-11-24T06:30:03Z",
+    "resumen": "Resulta sencillamente fascinante la cantidad de nuevos proyectos que están surgiendo para reinventar el todoterreno, y el concepto de coche, en general. En los últimos días hemos visto también una nueva tendencia que será en clave en 2027, la del todoterreno chino, con proyectos tan espectaculares como el de BYD - con su Denza Bao 5 y el BYD Shark - o el de GWM - con el Haval 7 el Tank 300 - que…",
+    "imagen": "https://www.diariomotor.com/imagenes/2026/11/slate-auto-2027-exterior-14-6b0520d03206b.jpg?class=OG"
+  },
+  {
+    "titulo": "GWM ORA 5",
+    "link": "https://www.diariomotor.com/coche/gwm-ora-5/",
+    "fuente": "Diariomotor (ES)",
+    "fecha": "2026-11-24T06:22:01Z",
+    "resumen": "El GWM ORA 5 es un SUV compacto, del segmento C, fabricado por el gigante chino del automóvil Great Wall Motor y el primer modelo con el que este fabricante ha desembarcado en España. El GWM ORA 5 se caracteriza por su diseño de formas redondeadas y, sobre todo, por disponer de una gama de motores muy variada, con alternativas de gasolina, híbridas y completamente eléctricas. Entre los SUV del…",
+    "imagen": "https://www.diariomotor.com/imagenes/2026/04/gwm-ora-5-2027-exterior-35-6b052adac6dbb.jpg?class=OG"
+  },
+  {
     "titulo": "Jetour fabricará los SUV T1 y T2 en Brasil desde 2027",
     "link": "https://www.megautos.com/jetour-t1-t2-t0-produccion-brasil/",
     "fuente": "Megautos",
