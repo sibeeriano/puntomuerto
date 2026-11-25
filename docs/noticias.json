@@ -1,5 +1,557 @@
 [
   {
+    "titulo": "Conducir sin carnet es un delito, pero sigue pasando en España: hay más de 3.200 personas implicadas en accidentes con víctimas cada año",
+    "link": "https://www.motorpasion.com/seguridad/conducir-carnet-delito-sigue-pasando-espana-hay-3-200-personas-implicadas-accidentes-victimas-cada-ano",
+    "fuente": "Motorpasión (ES)",
+    "fecha": "2026-11-25T20:02:20Z",
+    "resumen": "Que haya conductores que circulen sin carnet es un problema de seguridad vial: se ven implicados o provocan accidentes con heridos y fallecidos. En España la DGT registra miles de conductores sin permiso i mplicados en siniestros con víctimas cada año. Circular sin permiso de conducir es delito, ya sea por tenerlo suspendido por puntos , retirado por orden judicial o por no haberlo obtenido nunca.…",
+    "imagen": "https://i.blogs.es/1d7d28/conductores-sin-carnet-accidentes/1024_2000.jpeg"
+  },
+  {
+    "titulo": "La F-250 1977 con chasis y 7.3 turbodiésel de Super Duty 2000 que se usa todos los días",
+    "link": "https://autotest.com.ar/offroad/la-f-250-1977-con-chasis-y-7-3-turbodiesel-de-super-duty-2000-que-se-usa-todos-los-dias/",
+    "fuente": "Autotest",
+    "fecha": "2026-11-25T20:34:23Z",
+    "resumen": "En lugar de vivir con un naftero de los 70, esta dentside arranca a la primera y sostiene velocidad de crucero sin exigir el motor.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/la-f-250-1977-con-chasis-y-7-3-turbodi-s-1200x740-1.jpg"
+  },
+  {
+    "titulo": "Más de 270 CV, suspensión específica y 0 a 100 en 7 segundos: así es la nueva versión de la Ford Ranger",
+    "link": "https://autotest.com.ar/noticias/ford-ranger-tremor-version-especial-enfoque-off-road/",
+    "fuente": "Autotest",
+    "fecha": "2026-11-25T20:20:49Z",
+    "resumen": "La Ford Ranger Tremor aterrizará en Brasil desde Argentina en 2027, con un potente motor 2.3 turbo flex, caja de diez marchas y preparados para el desafío off-road.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/Ford-Ranger-Tremor-1.jpg"
+  },
+  {
+    "titulo": "Toyota Corolla cumple 60 años: cómo se convirtió en el auto más vendido de la historia",
+    "link": "https://autotest.com.ar/noticias/toyota-corolla-cumple-60-anos-como-se-convirtio-en-el-auto-mas-vendido-de-la-historia/",
+    "fuente": "Autotest",
+    "fecha": "2026-11-25T20:05:24Z",
+    "resumen": "El Toyota Corolla, lanzado en 1966, sigue vigente con más de 57 millones de unidades vendidas. Descubre la historia del sedán que revolucionó el mercado automotor a lo largo de sus 12 generaciones.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/08_CRL1966_01.jpg"
+  },
+  {
+    "titulo": "He metido el coche en un túnel de lavado y ha salido destrozado. ¿Quién me paga la reparación?",
+    "link": "https://www.motorpasion.com/revision/he-metido-coche-tunel-lavado-ha-salido-destrozado-quien-me-paga-reparacion",
+    "fuente": "Motorpasión (ES)",
+    "fecha": "2026-11-25T19:00:26Z",
+    "resumen": "Miles de conductores confían cada día en los túneles de lavado para dejar impecable su coche. La mayoría de estos túneles funcionan bien y, efectivamente, limpian perfectamente los coches, pero también puede haber contratiempos a la hora de utilizarlos. El más común es que los rodillos rayen la pintura del coche, pero pueden pasar cosas más graves, como que los propios rodillos destrocen un…",
+    "imagen": "https://i.blogs.es/4fae35/tunel-lavado-1_1/1024_2000.jpeg"
+  },
+  {
+    "titulo": "El Gobierno trabaja en un inédito plan de créditos baratos a 5 años para comprar autos",
+    "link": "https://www.iprofesional.com/autos/470052-gobierno-prepara-inedito-plan-de-creditos-baratos-para-comprar-autos",
+    "fuente": "iProfesional",
+    "fecha": "2026-11-25T22:27:00Z",
+    "resumen": "En un mercado automotor que muestra un retroceso respecto al año pasado, el Gobierno está buscando aumentar la demanda mediante un plan oficial (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
+    "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/04/615047.jpg"
+  },
+  {
+    "titulo": "¿Mejor que Toyota Hilux? La pick up con diseño disruptivo, 207 CV y tracción 4×4",
+    "link": "https://autotest.com.ar/noticias/mejor-que-toyota-hilux-la-pick-up-con-diseno-disruptivo-207-cv-y-traccion-4x4/",
+    "fuente": "Autotest",
+    "fecha": "2026-11-25T19:00:20Z",
+    "resumen": "La Kia Tasman EX llega equipada con un potente motor diésel de 207 CV, tracción 4x4, y una destacada dotación de seguridad, redefiniendo la entrada de gama en el segmento de pick ups medianas.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/Kia-Tasman-7.jpg"
+  },
+  {
+    "titulo": "El Gobierno quiere reactivar la venta de autos a través de un plan oficial de financiación",
+    "link": "https://www.iprofesional.com/autos/470052-el-gobierno-quiere-reactivar-la-venta-de-autos-a-traves-de-la-financiacion",
+    "fuente": "iProfesional",
+    "fecha": "2026-11-25T21:02:00Z",
+    "resumen": "En un mercado automotor que muestra un retroceso respecto al año pasado, el Gobierno está buscando aumentar la demanda mediante un plan oficial (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
+    "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2024/12/589204.jpg"
+  },
+  {
+    "titulo": "De vivir en una furgoneta de 4 m² en Ibiza a comprar una casa por un euro. La alternativa camper no siempre es la mejor",
+    "link": "https://www.motorpasion.com/furgonetas-y-caravanas/vivir-caravana-4-m2-ibiza-a-comprar-casa-euro-alternativa-camper-no-siempre-mejor",
+    "fuente": "Motorpasión (ES)",
+    "fecha": "2026-11-25T17:00:27Z",
+    "resumen": "Lo de la vivienda en España es un problema que viene de lejos. Ya hemos visto el caso de Ana, a quien le sale más rentable viajar todos los días seis horas en transporte público que alquilar en Madrid. Pues el caso de Yasmina y Moisés también fue complicado , como comprobaron durante su estancia en Ibiza. Pasaron tres años viviendo en una camper porque no podían permitirse los precios del…",
+    "imagen": "https://i.blogs.es/67d7ae/portada-mop-1795624591878/1024_2000.jpeg"
+  },
+  {
+    "titulo": "El nuevo SUV rival de Toyota Yaris Cross que cuesta desde 11.000 dólares y tiene 115 HP",
+    "link": "https://autotest.com.ar/noticias/el-nuevo-suv-rival-de-toyota-yaris-cross-que-cuesta-desde-11-000-dolares-y-tiene-115-hp/",
+    "fuente": "Autotest",
+    "fecha": "2026-11-25T18:00:04Z",
+    "resumen": "Hyundai lanza en India el nuevo Bayon, un SUV compacto que se destaca por su precio competitivo, innovador equipamiento tecnológico y amplia dotación de seguridad.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/SUV-Hyundai-Bayon-teaser.jpg"
+  },
+  {
+    "titulo": "Murió Martha Firestone Ford, la mujer que unió dos imperios y revolucionó la NFL",
+    "link": "https://www.iprofesional.com/autos/470050-murio-martha-firestone-ford-la-mujer-que-unio-dos-imperios-y-revoluciono-la-nfl-en-eeuu",
+    "fuente": "iProfesional",
+    "fecha": "2026-11-25T21:00:00Z",
+    "resumen": "Referente de la industria automotriz y figura clave en la dirigencia de la NFL, dejó huella en el deporte y la gestión empresarial estadounidense (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
+    "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/11/630579.jpg"
+  },
+  {
+    "titulo": "El Volkswagen Golf de Leapmotor es el Made in Spain que reventará el mercado, un compacto de 23.000 € con 218 CV a las ruedas traseras, bien equipado y que hace 401 km antes de enchufarse",
+    "link": "https://www.diariomotor.com/noticia/oferta-leapmotor-b05-noviembre-2026/",
+    "fuente": "Diariomotor (ES)",
+    "fecha": "2026-11-25T17:51:03Z",
+    "resumen": "La industria china está generando polémica pero también no solo la oportunidad de volver a tener coches relativamente asequibles en el mercado, sino la democratización del coche eléctrico. Y así lo demuestra nuestro protagonista, un compacto fabricado en España con tamaño de Volkswagen Golf, 218 CV, 401 km de autonomía y bien equipado que cuesta 23.675 euros . Leapmotor quiere reventar el mercado…",
+    "imagen": "https://www.diariomotor.com/imagenes/2025/09/Leapmotor-B05-motor-datos-Espana-6-68bfe3d205351.jpg?class=OG"
+  },
+  {
+    "titulo": "Ucrania ha hundido un barco de guerra ruso de 190 millones y ha demostrado que lo más letal no son los misiles: son los barquitos teledirigidos explosivos",
+    "link": "https://www.motorpasion.com/tecnologia/ucrania-ha-hundido-barco-guerra-ruso-190-millones-ha-demostrado-que-letal-no-misiles-barquitos-teledirigidos-explosivos",
+    "fuente": "Motorpasión (ES)",
+    "fecha": "2026-11-25T16:00:25Z",
+    "resumen": "En la guerra de desgaste entre Ucrania y Rusia, la piedra angular de Kiev son los drones: baratos, sin exponer a soldados y capaces de destrozar efectivos militares que cuestan millones. Hemos visto a drones aéreos destrozar tanques , pero también los tiene terrestres. Y navales: Ucrania ha convertido lanchas no tripuladas de apenas siete metros en plataformas de combate capaces de atacar…",
+    "imagen": "https://i.blogs.es/baec82/drone-ucrania-buque-ruso/1024_2000.jpeg"
+  },
+  {
+    "titulo": "Toyota presentó una Hilux más barata: uso urbano, 150 CV y caja automática de seis marchas",
+    "link": "https://autotest.com.ar/noticias/toyota-presento-una-hilux-mas-barata-uso-urbano-150-cv-y-caja-automatica-de-seis-marchas/",
+    "fuente": "Autotest",
+    "fecha": "2026-11-25T17:00:18Z",
+    "resumen": "Toyota Tailandia revela la Hilux Travo Z Edition, una variante de pickup que genera expectativas sobre su llegada y detalles específicos aún pendientes.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/Toyota-Hilux-Travo-Z-Edition-perfil.jpg"
+  },
+  {
+    "titulo": "Ford presentó las nuevas camionetas y SUV que lanzará en Argentina para 2027",
+    "link": "https://www.iprofesional.com/autos/470032-ford-presento-las-nuevas-camionetas-y-suv-que-lanzara-en-argentina-en-2027",
+    "fuente": "iProfesional",
+    "fecha": "2026-11-25T19:40:00Z",
+    "resumen": "La marca reveló los productos que llegarán al país en un evento en Brasil y dieron detalles de las nuevas Ranger de producción nacional (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
+    "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/11/630563.jpg"
+  },
+  {
+    "titulo": "Nico Rosberg, campeón del mundo de Fórmula 1: “Me monto en coches autónomos todos los días. Esta tecnología es simplemente increíble. Es un cambio radical”",
+    "link": "https://www.motorpasion.com/tecnologia/ex-piloto-f1-nico-rosberg-cree-que-europa-no-esta-haciendo-bien-coche-autonomo-somos-demasiado-lentos-estamos-perdiendo-carrera",
+    "fuente": "Motorpasión (ES)",
+    "fecha": "2026-11-25T15:00:00Z",
+    "resumen": "El ex piloto Nico Rosberg ahora es un empresario de éxito y muchos de sus proyectos están relacionados con la movilidad eléctrica y sostenible. Recientemente ha compartido sus reflexiones sobre el coche autónomo y sobre cómo está implementándose esta tecnología en la Unión Europea. \"Sinceramente, me siento 100% seguro\" En el año 2016, el piloto Nico Rosberg se proclamó campeón mundial de Fórmula 1…",
+    "imagen": "https://i.blogs.es/305576/rosberg-1/1024_2000.jpeg"
+  },
+  {
+    "titulo": "“Qué hombre, qué pickup”: Kia presenta a Leandro Paredes como embajador de la Tasman",
+    "link": "https://www.megautos.com/kia-argentina-leandro-paredes-embajador-tasman/",
+    "fuente": "Megautos",
+    "fecha": "2026-11-25T15:48:35Z",
+    "resumen": "La marca transforma la repercusión del video de presentación, donde todas las miradas se las llevó el futbolista, en una campaña que invita a los hinchas a descubrir su primera pickup y a dejarle un mensaje al “mejor 5 del mundo”. La entrada “Qué hombre, qué pickup”: Kia presenta a Leandro Paredes como embajador de la Tasman aparece primero en Mega Autos .",
+    "imagen": "https://www.megautos.com/wp-content/uploads/2026/11/Kia-Paredes-9.jpg"
+  },
+  {
+    "titulo": "Toyota estrenó otro rediseño del Yaris",
+    "link": "https://www.megautos.com/toyota-yaris-2027-restyling/",
+    "fuente": "Megautos",
+    "fecha": "2026-11-25T15:20:25Z",
+    "resumen": "El hatchback recibió cambios en el diseño exterior y más tecnología. Además, mantiene el motor 1.5 de 107 CV junto a la caja automática CVT. Exclusivo para Malasia. La entrada Toyota estrenó otro rediseño del Yaris aparece primero en Mega Autos .",
+    "imagen": "https://www.megautos.com/wp-content/uploads/2026/11/toyota-my-yaris-gallery-thumbnail-exterior-01.jpg"
+  },
+  {
+    "titulo": "Hace 90 km sin encender su motor de gasolina, el 4x4 de BYD llega para ser la alternativa a la Ford Ranger en España",
+    "link": "https://www.diariomotor.com/noticia/byd-shark-llegada-espana-imagenes/",
+    "fuente": "Diariomotor (ES)",
+    "fecha": "2026-11-25T15:00:03Z",
+    "resumen": "Parece que no quieren dejarse ninguna parcela del mercado europeo por atacar. En BYD tienen claro que dominar un mercado tan complicado como el europeo puede depender de detalles , ante lo que se antoja lógico que quieran tener un reprensentante en cada categoría, incluso en una tan aparentemente poco importante en Europa como es la de las pick-up. En realidad, para un servidor, tiene mucha…",
+    "imagen": "https://www.diariomotor.com/imagenes/2026/11/BYD-Shark-llegada-Espana-71-6b06ea63c546f.jpg?class=OG"
+  },
+  {
+    "titulo": "El Renault más accesible se renovó: nuevo diseño y pantalla de 10 pulgadas",
+    "link": "https://autotest.com.ar/noticias/el-renault-mas-accesible-se-renovo-nuevo-diseno-y-pantalla-de-10-pulgadas/",
+    "fuente": "Autotest",
+    "fecha": "2026-11-25T15:00:01Z",
+    "resumen": "Renault sorprende al actualizar el Kwid 2027 con más tecnología y seguridad, manteniendo su eficiencia urbana. Descubre las novedades que trae este compacto brasileño.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/Renault-Kwid-2027-perfil.jpg"
+  },
+  {
+    "titulo": "Lamborghini Temerario de 920 CV con la librea del Essenza SCV12 de 830 CV: el garaje se copió de la pista",
+    "link": "https://autotest.com.ar/noticias/lamborghini-temerario-de-920-cv-con-la-librea-del-essenza-scv12-de-830-cv-el-garaje-se-copio-de-la-pista/",
+    "fuente": "Autotest",
+    "fecha": "2026-11-25T14:59:28Z",
+    "resumen": "Este caso muestra hasta dónde puede llegar la personalización cuando el cliente tiene un vínculo directo con la marca y con su división de competición.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/lamborghini-temerario-de-920-cv-con-la-l-1200x740-1.jpg"
+  },
+  {
+    "titulo": "Niki Lauda, tricampeón de Fórmula 1, no creía en las excusas: “Si algo sale mal, primero busca el fallo en ti mismo”",
+    "link": "https://www.motorpasion.com/formula1/niki-lauda-tricampeon-formula-1-no-creia-excusas-algo-sale-mal-primero-busca-fallo-ti",
+    "fuente": "Motorpasión (ES)",
+    "fecha": "2026-11-25T13:32:22Z",
+    "resumen": "Niki Lauda no necesitaba levantar la voz para imponer respeto: su manera de entender las carreras era tan directa como su carácter: analizar, detectar errores, corregirlos y volver a intentarlo. Fue un piloto cerebral en una época en la que sobrevivir en la Fórmula 1 podía ser tan importante como ganar. Su historia está marcada por la rebeldía frente a una familia que quería apartarlo de las…",
+    "imagen": "https://i.blogs.es/7410e4/laudaokportada/1024_2000.jpeg"
+  },
+  {
+    "titulo": "El siete plazas más barato cuesta apenas 16.500 €, un SUV de 4,6 metros en gasolina más asequible que un Dacia Jogger",
+    "link": "https://www.diariomotor.com/noticia/swm-go3f-oferta-nov/",
+    "fuente": "Diariomotor (ES)",
+    "fecha": "2026-11-25T14:30:22Z",
+    "resumen": "Los coches familiares de siete plazas se han convertido casi en un artículo de lujo, con los MPVs ya fuera de combate en los segmentos de entrada. Si además buscas una carrocería de tipo SUV, los precios pueden quitarte las ganas de cambiar de coche antes incluso de entrar en el concesionario. Por suerte todavía quedan propuestas que parecen ir a contracorriente con tarifas muy ajustadas . Eso sí,…",
+    "imagen": "https://www.diariomotor.com/imagenes/2025/06/SWM-G03F21-683d7e21ecd06.jpg?class=OG"
+  },
+  {
+    "titulo": "700 CV y 850 km de autonomía: BYD lanzó un nuevo SUV con pantalla de 30 pulgadas",
+    "link": "https://autotest.com.ar/noticias/700-cv-y-850-km-de-autonomia-byd-lanzo-un-nuevo-suv-con-pantalla-de-30-pulgadas/",
+    "fuente": "Autotest",
+    "fecha": "2026-11-25T14:30:20Z",
+    "resumen": "El nuevo BYD Tang ya se vende en China por un precio equivale a menos de 30000 dólares, lo que significa una gran relación costo-producto por su potencia (hasta 700 CV), autonomía de 850 km, dotación de equipamiento muy completa y otras novedades. La compañía china renovó su SUV eléctrico con una carrocería más grande, […]",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/Nuevo-BYD-Tang.jpg"
+  },
+  {
+    "titulo": "Toyota actualizó el SUV superior a Corolla Cross: más confort, hasta 326 CV y precios desde 43.490 dólares",
+    "link": "https://autotest.com.ar/noticias/toyota-actualizo-el-suv-superior-a-corolla-cross-mas-confort-hasta-326-cv-y-precios-desde-43-490-dolares/",
+    "fuente": "Autotest",
+    "fecha": "2026-11-25T14:25:36Z",
+    "resumen": "La Toyota 4Runner 2027 llega con asientos delanteros calefaccionados de serie y una variante híbrida con 465 lb-ft de torque. Disponible desde USD 43.490.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/Toyota-4Runner-2027-2.jpg"
+  },
+  {
+    "titulo": "Menos de 29 millones: el sedán rival de Nissan Versa con 123 CV, seis airbags y 475 litros de baúl",
+    "link": "https://autotest.com.ar/noticias/menos-de-29-millones-el-sedan-rival-de-nissan-versa-con-123-cv-seis-airbags-y-475-litros-de-baul/",
+    "fuente": "Autotest",
+    "fecha": "2026-11-25T14:15:34Z",
+    "resumen": "El Hyundai HB20S Comfort Plus MT se presenta como una opción asequible en el mercado, ofreciendo características de seguridad completas y un gran baúl.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/Sedan-Hyundai-HB20-Comfort-Plus-MT-perfil.jpg"
+  },
+  {
+    "titulo": "Cuesta 12.200 euros en Japón y ha conseguido 4.000 pedidos en solo un mes: en 2027 llegará a Europa el pequeño eléctrico de Suzuki para rivalizar con el Twingo y el Dacia Spring",
+    "link": "https://www.diariomotor.com/noticia/suzuki-ignis-electrico-arrasa-japon-llega-europa-2027/",
+    "fuente": "Diariomotor (ES)",
+    "fecha": "2026-11-25T14:00:56Z",
+    "resumen": "Suzuki acaba de presentar su nuevo coche eléctrico para Europa, recuperando un nombre que conocemos bien en España: el Ignis . Sin embargo, lo más interesante de este pequeño coche está ocurriendo a unos 10.000 kilómetros de nuestro país. Y es que el nuevo Suzuki Ignis eléctrico ya se vende en Japón por el equivalente a poco más de 12.000 euros antes de subvenciones y ha tenido una acogida que ha…",
+    "imagen": "https://www.diariomotor.com/imagenes/2026/11/suzuki-ignis-electrico_port-6b06bef0d022c.jpg?class=OG"
+  },
+  {
+    "titulo": "Hace 30 años un concesionario se gastó un pastón en subir un Dodge Viper a un poste. Lo bajaron para quitarle el moho y los nidos de pájaro... y volverlo a poner en su sitio",
+    "link": "https://www.motorpasion.com/deportivos/hace-30-anos-concesionario-se-gasto-paston-subir-dodge-viper-a-poste-bajaron-para-quitarle-moho-nidos-pajaro-volverlo-a-poner-su-sitio",
+    "fuente": "Motorpasión (ES)",
+    "fecha": "2026-11-25T12:36:20Z",
+    "resumen": "Los roadster de propulsión trasera y caja manual son coches concebidos para el puro disfrute. El de hoy lo es, pero poco se ha disfrutado a sus mandos. De hecho, prácticamente nunca. Es un \"mírame y no me toques\" de manual. Se trata de un Dodge Viper de primera generación que en sus 30 años de vida ha sido un mero un cartel publicitario . La buena noticia es que ahora mismo está de punta en…",
+    "imagen": "https://i.blogs.es/e27f65/dodge-viper-concesionario-01/1024_2000.jpeg"
+  },
+  {
+    "titulo": "Cuesta 53 millones y va contra Ford Territory: el SUV de Renault con 156 CV y 586 litros de baúl",
+    "link": "https://autotest.com.ar/noticias/cuesta-53-millones-y-va-contra-ford-territory-el-suv-de-renault-con-156-cv-y-586-litros-de-baul/",
+    "fuente": "Autotest",
+    "fecha": "2026-11-25T13:30:34Z",
+    "resumen": "El Renault Boreal Evolution llega a Argentina como la opción más económica en su gama, ofreciendo un motor turbo de 156 CV, caja automática y equipamiento avanzado desde $52.310.000.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/Renault-Boreal-Evolution-teaser-1.jpg"
+  },
+  {
+    "titulo": "Así es la Toyota Tacoma 2027: más tecnología, híbrida de 326 CV y precio desde 32.000 dólares",
+    "link": "https://autotest.com.ar/noticias/asi-es-la-toyota-tacoma-2027-mas-tecnologia-hibrida-de-326-cv-y-precio-desde-32-000-dolares/",
+    "fuente": "Autotest",
+    "fecha": "2026-11-25T13:13:42Z",
+    "resumen": "La nueva Toyota Tacoma 2027 ofrece mayor tecnología, motorización híbrida de 326 CV, y un precio competitivo desde US$32.725.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/Toyota-Tacoma-7.jpg"
+  },
+  {
+    "titulo": "Nueva York prohíbe cobrar por activar funciones que el coche ya trae instaladas",
+    "link": "https://www.motorpasion.com/tecnologia/nueva-york-prohibe-cobrar-activar-funciones-que-coche-trae-instaladas",
+    "fuente": "Motorpasión (ES)",
+    "fecha": "2026-11-25T12:00:23Z",
+    "resumen": "El estado de Nueva York ha prohibido en los coches las opciones por suscripciones . Si tu coche lleva asientos calefactados, por citar el ejemplo más famoso de BMW , en el estado de Nueva York no te pondrán cobrar cada mes para activarlos y desactivarlos si un mes no quieres pagar. ¿Has pagado la opción, la que sea, y está físicamente en el coche? Se activa y punto. Es la primera vez que se…",
+    "imagen": "https://i.blogs.es/27a37d/navegacion-por-suscripcion/1024_2000.jpeg"
+  },
+  {
+    "titulo": "El MG2, el MINI Cooper de MG, será su coche más pequeño y tendrá diseño de GTI británico, siendo en realidad low-cost",
+    "link": "https://www.diariomotor.com/noticia/mg-go-es-mg2/",
+    "fuente": "Diariomotor (ES)",
+    "fecha": "2026-11-25T13:00:19Z",
+    "resumen": "El coche de la imagen superior y de la galería inferior puede llegar a parecer un MINI pero es, realmente, el que está destinado a convertirse en el coche más pequeño que MG no sólo va a comercializar en España, sino que puede llegar, incluso, a fabricar aquí mismo. De momento se llama MG Go! y es un concepto que anticipa la idea del que será su coche más compacto, dejando entrever con él, de…",
+    "imagen": "https://www.diariomotor.com/imagenes/2026/11/MG-Go-es-MG2-3-6b06b7c8c84b4.jpg?class=OG"
+  },
+  {
+    "titulo": "205 CV, tracción 4×4 y lista para instalar Starlink: así es la nueva pick up que compite con la Toyota Hilux",
+    "link": "https://autotest.com.ar/noticias/descubre-la-mitsubishi-triton-estradeiro-la-pick-up-especial-para-el-agronegocio/",
+    "fuente": "Autotest",
+    "fecha": "2026-11-25T13:00:17Z",
+    "resumen": "Mitsubishi presenta en Brasil una versión especial de la Triton, ideal para el sector rural, con características únicas y un potente motor biturbo.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/mitsubishi-l200-pick-up2.jpg"
+  },
+  {
+    "titulo": "Menos de 36.000 dólares: el SUV con tracción trasera, 215 CV y pantalla de 14,6 pulgadas",
+    "link": "https://autotest.com.ar/noticias/menos-de-36-000-dolares-el-suv-con-traccion-trasera-215-cv-y-pantalla-de-146-pulgadas/",
+    "fuente": "Autotest",
+    "fecha": "2026-11-25T12:45:29Z",
+    "resumen": "El Leapmotor C10 REEV es un SUV que combina un motor eléctrico con un generador naftero, ofreciendo 215 CV y hasta 1.150 km de alcance por un precio atractivo.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/07/Leapmotor-C10-5.jpg"
+  },
+  {
+    "titulo": "Casi 6 millones de pesos más barato que el Toyota Corolla Cross: el SUV con 1.000 km de autonomía declarada y pantalla de 12,8 pulgadas",
+    "link": "https://autotest.com.ar/noticias/aprovecha-la-rebaja-byd-song-pro-dm-i-suv-compite-fuerte-con-el-toyota-corolla-cross/",
+    "fuente": "Autotest",
+    "fecha": "2026-11-25T12:35:06Z",
+    "resumen": "Durante noviembre, el SUV híbrido enchufable BYD Song Pro DM-i se ofrece con una rebaja de USD 2.000 y venta en pesos. Las versiones GL y GS, con cupos limitados, se destacan en el mercado argentino.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/BYD-Song-Pro-2.jpg"
+  },
+  {
+    "titulo": "El Toyota más barato: tiene 107 CV, caja automática y siete airbags",
+    "link": "https://autotest.com.ar/noticias/el-toyota-mas-barato-tiene-107-cv-caja-automatica-y-siete-airbags/",
+    "fuente": "Autotest",
+    "fecha": "2026-11-25T12:30:35Z",
+    "resumen": "El Toyota Yaris XS CVT 2026 se presenta como una opción accesible con caja automática, manteniendo su precio de octubre y ofreciendo un completo paquete de seguridad.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2023/10/Toyota-Yaris-XS-CVT-teaser.jpg"
+  },
+  {
+    "titulo": "\"No aflojamos\", Macron saca pecho, Francia pierde un todoterreno y gana una nueva fábrica de la industria del automóvil china, con la posible instalación de BYD en Hambach",
+    "link": "https://www.diariomotor.com/noticia/francia-pierde-todoterreno-gana-byd/",
+    "fuente": "Diariomotor (ES)",
+    "fecha": "2026-11-25T12:30:08Z",
+    "resumen": "Noticia importante y, aunque con bastante sentido, inesperada. Desde el día de ayer, Emmanuel Macron, Presidente de la República de Francia, está recordando que las inversiones en la industria francesa no se detienen, apuntando a la campaña institucional Choose France, y el anuncio que debería producirse el nuevo 18 de enero de “la implantación de fabricantes en suelo europeo”, y en este caso…",
+    "imagen": "https://www.diariomotor.com/imagenes/2026/11/ineos-byd-macron-6b06cad755682.jpg?class=OG"
+  },
+  {
+    "titulo": "Superior a X-Trail: Nissan lanzará un nuevo SUV con 340 CV y pantalla de 63 pulgadas",
+    "link": "https://autotest.com.ar/noticias/superior-a-x-trail-nissan-lanzara-un-nuevo-suv-con-340-cv-y-pantalla-de-63-pulgadas/",
+    "fuente": "Autotest",
+    "fecha": "2026-11-25T12:11:44Z",
+    "resumen": "Nissan confirmó el lanzamiento del NX8, el SUV mediano que se posicionará por encima de X-Trail y que llegará a Sudamérica con el nombre de Arizon. Está desarrollado junto con Dongfeng, la compañía china, y continúa con pruebas de prototipos. La firma nipona todavía no confirmó la fecha exacta de lanzamiento, pero las unidades registradas […]",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/Nuevo-SUV-de-Nissan.jpg"
+  },
+  {
+    "titulo": "El mayor concesionario Renault de Alemania ha quebrado: unos miles de clientes recibirán su coche. Otros no",
+    "link": "https://www.motorpasion.com/industria/mayor-concesionario-renault-alemania-ha-quebrado-unos-miles-clientes-recibiran-su-coche-otros-no",
+    "fuente": "Motorpasión (ES)",
+    "fecha": "2026-11-25T11:01:00Z",
+    "resumen": "Autohaus König es históricamente considerado el mayor concesionario de Renault en Alemania (y uno de los mayores distribuidores de la marca a nivel europeo). Y aunque la empresa nació en 1966 como un taller independiente en Berlín, en mayo de 1980 pasó a ser concesionario oficial Renault. Cuenta con 80 sedes distribuidas por Alemania, y su futuro no es nada halagüeño. Se ha declarado insolvente ,…",
+    "imagen": "https://i.blogs.es/8e4937/portada-mop-1795602254178/1024_2000.jpeg"
+  },
+  {
+    "titulo": "Motor turbo, seis airbags y pantalla de 10 pulgadas: cuánto cuesta el Volkswagen T-Cross más barato",
+    "link": "https://autotest.com.ar/noticias/motor-turbo-seis-airbags-y-pantalla-de-10-pulgadas-cuanto-cuesta-el-volkswagen-t-cross-mas-barato/",
+    "fuente": "Autotest",
+    "fecha": "2026-11-25T12:00:24Z",
+    "resumen": "El Volkswagen T-Cross Sense es la opción más económica del SUV compacto, destacándose por su motor turbo y un completo equipamiento de seguridad.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/Volkswagen-T-Cross-Sense-frente.jpg"
+  },
+  {
+    "titulo": "Con un motor de casi 2.000 cc y mucha gasolina en las venas, Harley-Davidson recupera una leyenda de 1971 con el espíritu de las custom americanas y una bobber de posguerra",
+    "link": "https://www.diariomotor.com/noticia/harley-davidson-super-glide-deadwood-2027/",
+    "fuente": "Diariomotor (ES)",
+    "fecha": "2026-11-25T12:00:18Z",
+    "resumen": "La mayoría de motos se compran con el corazón más que con la cabeza, pero algunas más que otras. Las dos últimas novedades de Harley-Davidson pertenecen claramente al segundo grupo. La firma de Milwaukee ha decidido recuperar dos de las épocas más importantes de la cultura motera estadounidense con dos motos de aspecto clásico, mucho carácter y un enorme motor bicilíndrico de casi dos litros de…",
+    "imagen": "https://www.diariomotor.com/imagenes/2026/11/Harley-Davidson-Super-Glide-2027_port-6b06b534898cf.jpeg?class=OG"
+  },
+  {
+    "titulo": "Volkswagen Tera: cuánto cuesta pasar del 1.6 manual al turbo automático",
+    "link": "https://autotest.com.ar/noticias/volkswagen-tera-cuanto-cuesta-pasar-del-1-6-manual-al-turbo-automatico/",
+    "fuente": "Autotest",
+    "fecha": "2026-11-25T11:54:02Z",
+    "resumen": "Descubre las diferencias y costos entre el Volkswagen Tera Trend 1.6 manual y el Comfort 170 TSI automático. ¿Vale la pena el cambio?",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/Volkswagen-Tera-Comfort-10.jpg"
+  },
+  {
+    "titulo": "Hyundai Neira: la MPV eléctrica de 7 asientos con 490 km de autonomía que toma la base del Kia Carens",
+    "link": "https://autotest.com.ar/noticias/hyundai-neira-la-mpv-electrica-de-7-asientos-con-490-km-de-autonomia-que-toma-la-base-del-kia-carens/",
+    "fuente": "Autotest",
+    "fecha": "2026-11-25T11:51:59Z",
+    "resumen": "El debut de producción será en el Gaikindo Auto Week 2026, que se celebra entre el 20 y el 29 de noviembre en Indonesia.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/hyundai-neira-la-mpv-el-ctrica-de-7-asie-1200x740-1.jpg"
+  },
+  {
+    "titulo": "M3 CS manual con 473 CV y 68 millas: la combinación que BMW nunca fabricó y ahora se subasta",
+    "link": "https://autotest.com.ar/noticias/m3-cs-manual-con-473-cv-y-68-millas-la-combinacion-que-bmw-nunca-fabrico-y-ahora-se-subasta/",
+    "fuente": "Autotest",
+    "fecha": "2026-11-25T11:50:18Z",
+    "resumen": "La caja manual ofrece menos velocidad de cambio que una automática de doble embrague o convertidor de par.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/m3-cs-manual-con-473-cv-y-68-millas-la-c-1200x740-1.jpg"
+  },
+  {
+    "titulo": "Kia Seltos: el 1.5 turbo se queda sin caja manual y solo se vende con DCT de 7 marchas",
+    "link": "https://autotest.com.ar/noticias/kia-seltos-el-1-5-turbo-se-queda-sin-caja-manual-y-solo-se-vende-con-dct-de-7-marchas/",
+    "fuente": "Autotest",
+    "fecha": "2026-11-25T11:50:14Z",
+    "resumen": "Otro recorte dentro del Seltos alcanza a las versiones X Line estándar, es decir, las que no llevaban los sufijos “A” u “O” y que se vendían sin ADAS (asistencias avanzadas a la conducción).",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/kia-seltos-el-1-5-turbo-se-queda-sin-caj-1200x740-1.jpg"
+  },
+  {
+    "titulo": "¿El SUV familiar ideal? Siete plazas, motor turbodiésel y tracción integral",
+    "link": "https://autotest.com.ar/noticias/kia-sorento-suv-sx-potencia-diesel-y-espacio-para-toda-la-familia-en-argentina/",
+    "fuente": "Autotest",
+    "fecha": "2026-11-25T11:43:08Z",
+    "resumen": "El Kia Sorento SX ofrece siete plazas, un motor diésel de 199 HP y tracción integral, ideal para familias que buscan confort y capacidad de carga.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/SUV-KIA-Sorento-frente.jpg"
+  },
+  {
+    "titulo": "Kia Seltos vs K4: ¿SUV o sedán por solo $1.000 de diferencia?",
+    "link": "https://autotest.com.ar/noticias/kia-seltos-vs-k4-suv-o-sedan-por-solo-1-000-de-diferencia/",
+    "fuente": "Autotest",
+    "fecha": "2026-11-25T11:32:26Z",
+    "resumen": "Descubre las diferencias clave entre el Kia Seltos y el Kia K4, dos opciones automáticas familiares de Kia Argentina, ambas con características únicas y una diferencia de precio mínima.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/Kia-K4-vs-Seltos.jpg"
+  },
+  {
+    "titulo": "Nueva Toyota Hilux 2027: la pick up estrena diseño, motor 2.8 y más tecnología",
+    "link": "https://autotest.com.ar/noticias/nueva-toyota-hilux-2027-la-pick-up-estrena-diseno-motor-2-8-y-mas-tecnologia/",
+    "fuente": "Autotest",
+    "fecha": "2026-11-25T11:30:31Z",
+    "resumen": "Toyota revela la Hilux 2027 con un diseño renovado, motor 2.8 turbodiésel, pantallas digitales de 12,3 pulgadas y una versión 100% eléctrica.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/Toyota-Hilux-2027-caja.jpg"
+  },
+  {
+    "titulo": "Desde 33.000 dólares: el sedán con 150 HP, dos pantallas de 12,3 pulgadas y 508 litros de baúl",
+    "link": "https://autotest.com.ar/noticias/desde-33-000-dolares-el-sedan-con-150-hp-dos-pantallas-de-123-pulgadas-y-508-litros-de-baul/",
+    "fuente": "Autotest",
+    "fecha": "2026-11-25T11:15:58Z",
+    "resumen": "Descubre las diferencias entre las versiones EX y GT-Line del Kia K4 Sedán y qué ofrece cada una por su precio.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/06/KIA-K4-accion.jpg"
+  },
+  {
+    "titulo": "Ningún Ford ni Chevrolet: el auto hecho en EE.UU. más barato es un Toyota de u$s24.620",
+    "link": "https://autotest.com.ar/noticias/ningun-ford-ni-chevrolet-el-auto-hecho-en-ee-uu-mas-barato-es-un-toyota-de-u-s24-620/",
+    "fuente": "Autotest",
+    "fecha": "2026-11-25T11:15:45Z",
+    "resumen": "Las cadenas de suministro de Estados Unidos y Canadá se consideran integradas bajo el T-MEC, y el porcentaje de contenido regional aparece en la etiqueta Monroney de cada vehículo.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/ning-n-ford-ni-chevrolet-el-auto-hecho-e-1200x740-1.jpg"
+  },
+  {
+    "titulo": "Chevrolet Silverado 1500 2027: nueva generación, V8 de 6.6 litros y ZR2 con neumáticos de 35 pulgadas",
+    "link": "https://autotest.com.ar/noticias/chevrolet-silverado-1500-2027-nueva-generacion-v8-de-6-6-litros-y-zr2-con-neumaticos-de-35-pulgadas/",
+    "fuente": "Autotest",
+    "fecha": "2026-11-25T11:10:41Z",
+    "resumen": "Con esta renovación, Chevrolet ordena su línea de pickups a combustión alrededor de una premisa simple: más torque, más capacidad off-road y una oferta diésel que pelea de lleno con Ram y Ford.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/chevrolet-silverado-1500-2027-nueva-gene-1200x740-1.jpg"
+  },
+  {
+    "titulo": "Casi 14000 dólares menos: el SUV que bajó su precio para competir con Toyota Yaris Cross",
+    "link": "https://autotest.com.ar/noticias/casi-14000-dolares-menos-el-suv-que-bajo-su-precio-para-competir-con-toyota-yaris-cross/",
+    "fuente": "Autotest",
+    "fecha": "2026-11-25T11:08:22Z",
+    "resumen": "El Hyundai KONA eléctrico presenta una rebaja de 12460 euros (13663 dólares) en Europa y queda con un precio final muy destacado. Su objetivo es competir contra SUVs del segmento B como Toyota Yaris Cross, pero también contra otros que se ofrecen 100% sostenibles. Con este descuento de exactamente 33.2%, y en línea con lo […]",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/Precio-Hyundai-Kona.jpg"
+  },
+  {
+    "titulo": "Chery Tiggo 4 o Tiggo 7: el SUV más grande cuesta1.500 dólares menos, ¿cuál conviene?",
+    "link": "https://autotest.com.ar/noticias/chery-tiggo-4-o-tiggo-7-el-suv-mas-grande-cuesta1-500-dolares-menos-cual-conviene/",
+    "fuente": "Autotest",
+    "fecha": "2026-11-25T11:04:32Z",
+    "resumen": "Descubre cuál de estos SUV de Chery se adapta mejor a tus necesidades. ¿Es el consumo y la aceleración del Tiggo 4 CSH o el espacio y confort del Tiggo 7 Pro Hybrid lo que más valoras?",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/Chery-tiggo-4-o-7.jpg"
+  },
+  {
+    "titulo": "El McLaren F1 LM de USD 25 millones y solo 5 unidades apareció en pleno tránsito de Ciudad de México",
+    "link": "https://autotest.com.ar/noticias/el-mclaren-f1-lm-de-usd-25-millones-y-solo-5-unidades-aparecio-en-pleno-transito-de-ciudad-de-mexico/",
+    "fuente": "Autotest",
+    "fecha": "2026-11-25T11:02:12Z",
+    "resumen": "La diferencia entre estimación y valor de subasta es clave: no hay documentación pública de esta unidad, ni número de chasis expuesto, ni comunicado de una casa de subastas.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/el-mclaren-f1-lm-de-usd-25-millones-y-so-1200x740-1.jpg"
+  },
+  {
+    "titulo": "Volkswagen T-Roc R 2027: 333 CV, el T-Roc más potente de la historia y precio confirmado",
+    "link": "https://autotest.com.ar/noticias/volkswagen-t-roc-r-2027-333-cv-el-t-roc-mas-potente-de-la-historia-y-precio-confirmado/",
+    "fuente": "Autotest",
+    "fecha": "2026-11-25T11:01:06Z",
+    "resumen": "La caja es la DSG de doble embrague y siete marchas, y la tracción total 4Motion se mantiene como base, con reparto de torque al eje trasero para mejorar la tracción en curva y la estabilidad en asfalto roto.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/volkswagen-t-roc-r-2027-333-cv-el-t-roc-1200x740-1.jpg"
+  },
+  {
+    "titulo": "Fabricado en España y desde 20.000 euros, es el B-SUV creado por Europa para plantar cara a las chinas",
+    "link": "https://www.diariomotor.com/noticia/prueba-volkswagen-id-cross/",
+    "fuente": "Diariomotor (ES)",
+    "fecha": "2026-11-25T11:00:47Z",
+    "resumen": "El segmento de los B-SUV es uno de los más importantes en el continente europeo, los fabricantes chinos los saben y por eso están inundando esta categoría de muchas e interesantes opciones de compra. Sin embargo Europa ya tiene listo uno de sus mejores coches para plantar cara en esta batalla, un coche que se fabrica en España y ya lo hemos probado. Probando el Volkswagen ID. Cross La factoría de…",
+    "imagen": "https://www.diariomotor.com/imagenes/2026/11/volkswagen-id-cross-david-clavero-dmwm-6b06b8a685f3d.jpg?class=OG"
+  },
+  {
+    "titulo": "Dos Mercedes de hace 40 años aparecen prácticamente nuevos: nunca se matricularon y ahora cuestan casi 75.000 euros cada uno",
+    "link": "https://www.motorpasion.com/videos-de-coches/dos-mercedes-300-e-hace-40-anos-aparecen-practicamente-nuevos-nunca-se-matricularon-ahora-cuestan-casi-75-000-euros-cada-uno",
+    "fuente": "Motorpasión (ES)",
+    "fecha": "2026-11-25T09:58:00Z",
+    "resumen": "En 1986, dos hermanos portugueses recogieron en Alemania sus flamantes Mercedes 300 E y se los llevaron a Portugal con placas de exportación. Tenían previsto matricularlos allí, pero los costes que aparecieron por el camino terminaron frustrando sus planes. Los coches se quedaron guardados en un garaje de Madeira y, con el tiempo, sus propietarios se marcharon a Venezuela. Ahora, 40 años después,…",
+    "imagen": "https://i.blogs.es/93d0c1/merecedes/1024_2000.jpeg"
+  },
+  {
+    "titulo": "Los autos chinos Omoda & Jaacoo ya tienen su primer local oficial en Argentina",
+    "link": "https://www.iprofesional.com/autos/469972-omoda-jaecoo-abre-su-primer-concesionario-oficial-en-argentina",
+    "fuente": "iProfesional",
+    "fecha": "2026-11-25T13:55:00Z",
+    "resumen": "El nuevo showroom permite descubrir los modelos híbridos, híbridos enchufables y 100% eléctricos de la marca, además de participar de test drive (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
+    "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/11/630513.jpg"
+  },
+  {
+    "titulo": "Japón quiere acabar con cualquier argumento para que te compres un coche chino, y su respuesta cabe en 3,57 metros, tiene 91 CV y pesa 1.080 kg",
+    "link": "https://www.diariomotor.com/noticia/nuevo-suzuki-ignis-electrico-2027/",
+    "fuente": "Diariomotor (ES)",
+    "fecha": "2026-11-25T10:29:26Z",
+    "resumen": "Los coches eléctricos siguen evolucionando y cada vez son más versátiles, pero también siguen teniendo una aplicación muy lógica en ciudad. Japón, país experto en hacer coches urbanos, es muy consciente de ello, y por eso ha lanzado este eléctrico de 3,57 metros, 91 CV y 1.080 kg de peso que quiere acabar con cualquier argumento para que te compres un coche chino. Suzuki podría tener a un nuevo…",
+    "imagen": "https://www.diariomotor.com/imagenes/2026/11/nuevo-suzuki-ignis-electrico-2027-7-6b06b80593074.jpg?class=OG"
+  },
+  {
+    "titulo": "La nevada que ha caído entre Madrid y Segovia pone en aviso amarillo la Sierra Norte de Madrid. La DGT pide el uso de cadenas",
+    "link": "https://www.motorpasion.com/seguridad/nevada-que-ha-caido-madrid-segovia-pone-aviso-amarillo-sierra-norte-madrid-dgt-pide-uso-cadenas",
+    "fuente": "Motorpasión (ES)",
+    "fecha": "2026-11-25T09:24:00Z",
+    "resumen": "Tras un otoño excepcionalmente cálido, llega a la Península una sucesión de frentes que dejarán una masa de aire de origen polar. Así que se esperan nevadas durante estos días, avisan desde la plataforma Meteored . De hecho, hay aviso amarillo por nieve en la Sierra Norte de Madrid. A estas horas, hay siete vías secundarias afectadas por la nieve en Madrid (Guadarrama) León y Huesca, donde es…",
+    "imagen": "https://i.blogs.es/13f92a/portada-mop-1795598535329/1024_2000.jpeg"
+  },
+  {
+    "titulo": "Tomoya Takahashi, presidente de Toyota Gazoo Racing: «Si nosotros abandonamos, creo que los coches deportivos acabarán desapareciendo»",
+    "link": "https://www.diariomotor.com/noticia/tomoya-takahashi-presidente-de-toyota-gazoo-racing-si-nosotros-abandonamos-creo-que-los-coches-deportivos-acabaran-desapareciendo/",
+    "fuente": "Diariomotor (ES)",
+    "fecha": "2026-11-25T10:00:37Z",
+    "resumen": "Toyota quiere evitar que los coches deportivos desaparezcan porque piensan firmemente que el futuro de la automoción no debería estar reñido con el placer de conducir . Tomoya Takahashi, presidente de Toyota Gazoo Racing, ha mostrado su preocupación ante la posibilidad de que las nuevas generaciones pierdan el interés por los coches y que eso se traduzca en un declive de la propia industria del…",
+    "imagen": "https://www.diariomotor.com/imagenes/2026/11/Tomoya-x-GR-y-el-futuro-6b06a1cb867f9.jpg?class=OG"
+  },
+  {
+    "titulo": "¿A partir de cuándo no se podrá pagar con efectivo en las autopistas?",
+    "link": "https://eleconomista.com.ar/autos/a-partir-cuando-podra-pagar-efectivo-autopistas-n99885",
+    "fuente": "El Economista",
+    "fecha": "2026-11-25T12:24:00Z",
+    "resumen": "Se acerca el fin de la posibilidad de circular por los peajes de Autopistas del Sol y Autopistas del Oesteabonando con dinero físico. ¿Qué hacer para evitar trastornos?",
+    "imagen": "https://statics.eleconomista.com.ar/2026/11/crop/6b06d46484f53__950x512.webp"
+  },
+  {
+    "titulo": "Precios de la gasolina hoy, 25 de noviembre",
+    "link": "https://www.motorpasion.com/industria/precios-gasolina-hoy-25-noviembre",
+    "fuente": "Motorpasión (ES)",
+    "fecha": "2026-11-25T08:00:00Z",
+    "resumen": "Entramos en el ecuador de la semana con las mismas buenas noticias que los días anteriores para quien tenga que ir a la gasolinera a repostar su coche: el precio de los combustibles sigue bajando. Es una tendencia que se alarga ya varias semanas y, aunque las bajadas son muy tímidas, poco a poco van sumando y se van notando. En parte, se debe a que el mercado mundial intenta estabilizarse, aunque…",
+    "imagen": "https://i.blogs.es/fc37fc/gasolina/1024_2000.jpeg"
+  },
+  {
+    "titulo": "Honda renueva la XR300L Tornado que estará a la venta antes de fin de año",
+    "link": "https://www.iprofesional.com/autos/469980-honda-renueva-la-xr300l-tornado-que-cambia-y-cuando-llega",
+    "fuente": "iProfesional",
+    "fecha": "2026-11-25T11:59:00Z",
+    "resumen": "La nueva versión se produce en la planta bonaerense de Campana. Suma seguridad y cambios estéticos. Detalles y cuenta regresiva para el lanzamiento (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
+    "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/11/630520.jpg"
+  },
+  {
+    "titulo": "Cuál es el auto más barato de BYD y cuánto sale",
+    "link": "https://www.iprofesional.com/autos/469793-byd-dolphin-mini-cuanto-cuesta-el-auto-electrico-mas-accesible",
+    "fuente": "iProfesional",
+    "fecha": "2026-11-25T11:20:00Z",
+    "resumen": "La marca china vende en la Argentina modelos híbridos y 100% eléctricos, siendo esta opción la más accesible, compacta y práctica para el día a día (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
+    "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/05/617445.jpg"
+  },
+  {
+    "titulo": "El Defender coreano se renueva, el todoterreno por el que merecía la pena esperar será barato, más familiar, y más tecnológico, así es el Rexton 2027",
+    "link": "https://www.diariomotor.com/noticia/kgm-rexton-2027-adelanto-imagenes/",
+    "fuente": "Diariomotor (ES)",
+    "fecha": "2026-11-25T07:30:06Z",
+    "resumen": "Sin duda es el paradigma ya no solo del todoterreno de la prolífica industria automovilística coreana, sino también de lo que debe ser un 4x4 familiar, amplio, cómodo, y de precio razonable , en un mercado en el que los mayores referentes ya se han situado por encima, o muy por encima, de los 60.000 euros. El nuevo Rexton 2027 se presentará en diciembre y comenzará a comercializarse a principios…",
+    "imagen": "https://www.diariomotor.com/imagenes/2026/11/kgm-rexton-2027-anticipo-07-6b068888a25f4.jpg?class=OG"
+  },
+  {
+    "titulo": "Como una Mercedes Marco Polo pero mucho más barata, esta camper de 5,4 metros con baño, cama y cocina fijas te romperá los esquemas",
+    "link": "https://www.diariomotor.com/noticia/ford-nugget-hochdach-my2027/",
+    "fuente": "Diariomotor (ES)",
+    "fecha": "2026-11-25T07:00:39Z",
+    "resumen": "Las campers con techo elevable están muy bien hasta que llega el frío, empieza a soplar el viento o te toca montar el invento bajo la lluvia. Para quienes están cansados de esas pequeñas incomodidades, Ford tiene una alternativa que hace poco ha recibido interesantes mejoras . No es una novedad absoluta pero con los cambios de la gama 2027 ahora resulta más práctica, gana equipamiento y permite…",
+    "imagen": "https://www.diariomotor.com/imagenes/2025/09/Ford-Nugget-Hochdach18-68b82959a05af.jpg?class=OG"
+  },
+  {
+    "titulo": "Amplio, con buen maletero, con 160 CV y cambio automático, este nuevo SUV cuesta menos de 20.000 €",
+    "link": "https://www.diariomotor.com/noticia/gwm-ora-5-gasolina-precio-espana/",
+    "fuente": "Diariomotor (ES)",
+    "fecha": "2026-11-25T06:30:13Z",
+    "resumen": "Cuando llevas años - muchos años - probando coches es fácil percibir cuando un modelo causa expectación e interés entre la gente que te rodea. Cuando se trata de un coche exótico es lo natural. Cuando se trata de un coche como el que hoy nos ocupa, que cuesta menos de 20.000 euros, sin duda es algo reseñable. El GWM ORA 5 es un SUV compacto con un diseño inspirado en los cánones estéticos más…",
+    "imagen": "https://www.diariomotor.com/imagenes/2026/04/gwm-ora-5-2027-interior-13-6b052b6ec0a75.jpg?class=OG"
+  },
+  {
+    "titulo": "Ya tiene precio en España el Volkswagen Golf GTI Rabbit, el compacto deportivo es ahora más barato y viene bien equipado",
+    "link": "https://www.diariomotor.com/noticia/volkswagen-golf-gti-rabbit-2026/",
+    "fuente": "Diariomotor (ES)",
+    "fecha": "2026-11-25T06:00:11Z",
+    "resumen": "Cuando creíamos que disfrutar de un compacto de corte deportivo era ya cosa del pasado, es cuando Volkswagen ha traído un soplo de aire fresco al mercado español. No mediante el lanzamiento de una versión más exclusiva y vitaminada de cualquiera de sus GTI, sino todo lo contrario. Hablamos de la llegada a España del Volkswagen Golf GTI Rabbit que, mediante una selección cerrada de equipamiento, se…",
+    "imagen": "https://www.diariomotor.com/imagenes/2026/11/Volkswagen-Golf-GTI-Rabbit-2026-6b05ab8e0b8a4.jpeg?class=OG"
+  },
+  {
     "titulo": "Descubrieron el interior de la nueva Volkswagen Amarok",
     "link": "https://www.megautos.com/volkswagen-amarok-2027-interior/",
     "fuente": "Megautos",
