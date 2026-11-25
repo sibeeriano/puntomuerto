@@ -1,7 +1,7 @@
 {
-  "actualizado": "2026-11-24T23:00:57Z",
-  "desde": "2026-11-17",
-  "hasta": "2026-11-24",
+  "actualizado": "2026-11-25T00:51:31Z",
+  "desde": "2026-11-18",
+  "hasta": "2026-11-25",
   "destacadas": [
     {
       "titulo": "Volkswagen ID. Polo GTI Clubsport: un eléctrico de 367 CV preparado para la pista",
@@ -15,6 +15,32 @@
         "Autotest",
         "Diariomotor (ES)",
         "Megautos"
+      ]
+    },
+    {
+      "titulo": "Descubrieron el interior de la nueva Volkswagen Amarok",
+      "link": "https://www.megautos.com/volkswagen-amarok-2027-interior/",
+      "fuente": "Megautos",
+      "fecha": "2026-11-24T23:19:56Z",
+      "resumen": "Fotografiaron el habitáculo de la pick up que será producida en Argentina. Las imágenes permiten confirmar que tendrá tres pantallas, incluyendo una para el acompañante. La entrada Descubrieron el interior de la nueva Volkswagen Amarok aparece primero en Mega Autos .",
+      "imagen": "https://www.megautos.com/wp-content/uploads/2026/11/Volkswagen-Amarok-2027-foto-interior.jpg",
+      "menciones": 2,
+      "fuentes": [
+        "Autotest",
+        "Megautos"
+      ]
+    },
+    {
+      "titulo": "Por encima de Corolla Cross: el SUV de Toyota con hasta 321 HP, tracción integral y pantalla de 12,9 pulgadas",
+      "link": "https://autotest.com.ar/noticias/por-encima-de-corolla-cross-el-suv-de-toyota-con-hasta-321-hp-traccion-integral-y-pantalla-de-129-pulgadas/",
+      "fuente": "Autotest",
+      "fecha": "2026-11-24T23:00:42Z",
+      "resumen": "La nueva Toyota RAV4 2027 promete un rendimiento electrificado sobresaliente, presentando un consumo estimado de 47 mpg en ciudad.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/Toyota-RAV4-2027-teaser.jpg",
+      "menciones": 42,
+      "fuentes": [
+        "Autotest",
+        "Diariomotor (ES)"
       ]
     },
     {
@@ -37,7 +63,7 @@
       "fecha": "2026-11-24T19:56:23Z",
       "resumen": "La DFSK Glory 600 ahora se ofrece por debajo de los USD 30.000 en Argentina, con nuevas opciones de financiación para facilitar su adquisición.",
       "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/DFSK-Glory-600.jpg",
-      "menciones": 27,
+      "menciones": 6,
       "fuentes": [
         "Autotest",
         "Diariomotor (ES)"
@@ -141,7 +167,7 @@
       "fecha": "2026-11-24T21:00:10Z",
       "resumen": "La Chevrolet S10 WT 4x2 es la versión más accesible en octubre con un potente motor de 207 CV y una impresionante capacidad de carga de 1.190 kg.",
       "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/Chevrolet-S10-WT-cabina-simple-4x2-teaser.jpg",
-      "menciones": 7,
+      "menciones": 1,
       "fuentes": [
         "Autotest"
       ]
@@ -153,7 +179,7 @@
       "fecha": "2026-11-24T20:33:56Z",
       "resumen": "El Chevrolet Captiva PHEV Premier se mantiene por debajo de $55 millones con una impresionante autonomía eléctrica y equipamiento avanzado.",
       "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/Chevrolet-Captiva-PHEV-9.jpg",
-      "menciones": 14,
+      "menciones": 2,
       "fuentes": [
         "Autotest"
       ]
@@ -276,31 +302,6 @@
       "menciones": 1,
       "fuentes": [
         "Motorpasión (ES)"
-      ]
-    },
-    {
-      "titulo": "La pick up japonesa con motor turbo y 204 CV que va por Toyota Hilux",
-      "link": "https://autotest.com.ar/noticias/la-pick-up-japonesa-con-motor-turbo-y-204-cv-que-va-por-toyota-hilux/",
-      "fuente": "Autotest",
-      "fecha": "2026-11-20T13:19:35Z",
-      "resumen": "Mitsubishi amplió en Brasil la gama de la Triton, la pick up mediana rival de Toyota Hilux y conocida también como L200, con una serie especial pensada para el agronegocio. Se llama Estradeiro y fue desarrollada junto con Estância Bahia, una empresa brasileña vinculada a servicios para la actividad ganadera. Esta versión de la camioneta […]",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/Nueva-Mitsubishi-Triton-Estradeiro.jpg",
-      "menciones": 3,
-      "fuentes": [
-        "Autotest",
-        "Diariomotor (ES)"
-      ]
-    },
-    {
-      "titulo": "Porsche, nadando contracorriente, se ha inventado un deportivo de motor central sin motor de combustión",
-      "link": "https://www.diariomotor.com/noticia/porsche-718-boxster-2017-arquitectura-motor-central/",
-      "fuente": "Diariomotor (ES)",
-      "fecha": "2026-11-24T17:01:39Z",
-      "resumen": "El momento que tantos años llevábamos esperando ha llegado. Porsche está a punto de desvelar uno de los lanzamientos más importantes en mucho tiempo , un relevo generacional que supondrá un antes y un después para una de sus sagas más prolíficas, la de sus deportivos de motor central, 31 años después de su puesta de largo. El nuevo Porsche 718 Boxster será el más potente de la histori a, con…",
-      "imagen": "https://www.diariomotor.com/imagenes/2026/11/porsche-718-boxster-2027-anticipo-15-6b05c20b60f98.jpg?class=OG",
-      "menciones": 1,
-      "fuentes": [
-        "Diariomotor (ES)"
       ]
     }
   ]

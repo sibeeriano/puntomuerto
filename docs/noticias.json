@@ -1,19 +1,27 @@
 [
   {
+    "titulo": "Descubrieron el interior de la nueva Volkswagen Amarok",
+    "link": "https://www.megautos.com/volkswagen-amarok-2027-interior/",
+    "fuente": "Megautos",
+    "fecha": "2026-11-24T23:19:56Z",
+    "resumen": "Fotografiaron el habitáculo de la pick up que será producida en Argentina. Las imágenes permiten confirmar que tendrá tres pantallas, incluyendo una para el acompañante. La entrada Descubrieron el interior de la nueva Volkswagen Amarok aparece primero en Mega Autos .",
+    "imagen": "https://www.megautos.com/wp-content/uploads/2026/11/Volkswagen-Amarok-2027-foto-interior.jpg"
+  },
+  {
+    "titulo": "Por encima de Corolla Cross: el SUV de Toyota con hasta 321 HP, tracción integral y pantalla de 12,9 pulgadas",
+    "link": "https://autotest.com.ar/noticias/por-encima-de-corolla-cross-el-suv-de-toyota-con-hasta-321-hp-traccion-integral-y-pantalla-de-129-pulgadas/",
+    "fuente": "Autotest",
+    "fecha": "2026-11-24T23:00:42Z",
+    "resumen": "La nueva Toyota RAV4 2027 promete un rendimiento electrificado sobresaliente, presentando un consumo estimado de 47 mpg en ciudad.",
+    "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/Toyota-RAV4-2027-teaser.jpg"
+  },
+  {
     "titulo": "El M3 más potente de la historia no usa nafta: 800 CV y casi el doble de torque que el M3 Competition",
     "link": "https://autotest.com.ar/noticias/el-m3-mas-potente-de-la-historia-no-usa-nafta-800-cv-y-casi-el-doble-de-torque-que-el-m3-competition/",
     "fuente": "Autotest",
     "fecha": "2026-11-24T21:09:03Z",
     "resumen": "No es un detalle menor: con cuatro motores y control por rueda, la capacidad de procesamiento de esa unidad central define cómo se comporta el auto en los cambios de dirección y en las frenadas fuertes.",
     "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/el-m3-m-s-potente-de-la-historia-no-usa-1200x740-1.jpg"
-  },
-  {
-    "titulo": "La policía detiene al conductor de un Volkswagen Passat que remolcaba una excavadora y llevaba una rueda pinchada",
-    "link": "https://www.motorpasion.com/seguridad/policia-detiene-al-conductor-volkswagen-passat-que-remolcaba-excavadora-llevaba-rueda-pinchada",
-    "fuente": "Motorpasión (ES)",
-    "fecha": "2026-11-24T20:01:05Z",
-    "resumen": "La foto habla por sí misma: Volkswagen Passat de más de 25 años de antigüedad con el eje delantero levantado y la parte trasera casi en el asfalto. A su conductor le pareció una buena idea remolcar con él una excavadora de tres toneladas . Para colmo, el remolque en el que lo llevaba tenía una rueda pinchada, no disponía de matrícula ni de cable de seguridad y la excavadora no iba asegurada.…",
-    "imagen": "https://i.blogs.es/06512f/passat-excavadora-02/1024_2000.jpeg"
   },
   {
     "titulo": "Cuesta 45 millones y tiene 207 CV: la pick up base de Chevrolet que carga más de una tonelada",
@@ -64,12 +72,12 @@
     "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/hyundai-n-vision-74-los-680-cv-de-hidr-g-1200x740-1.jpg"
   },
   {
-    "titulo": "Juanjo Jiménez, mecánico, advierte por qué no debes ignorar un ruido metálico al frenar: \"Pues resulta que te va a costar más cara la fiesta\"",
-    "link": "https://www.motorpasion.com/revision/juanjo-jimenez-mecanico-advierte-que-no-debes-ignorar-ruido-metalico-al-frenar-pues-resulta-que-te-va-a-costar-cara-fiesta",
+    "titulo": "La policía detiene al conductor de un Volkswagen Passat que remolcaba una excavadora y llevaba una rueda pinchada",
+    "link": "https://www.motorpasion.com/seguridad/policia-detiene-al-conductor-volkswagen-passat-que-remolcaba-excavadora-llevaba-rueda-pinchada",
     "fuente": "Motorpasión (ES)",
-    "fecha": "2026-11-24T19:00:59Z",
-    "resumen": "Pisas el freno y oyes un ruido agudo, como un chirrido , cuando el coche frena. A veces pasa, debe ser algún tipo de suciedad. No es nada, piensas, al fin y al cabo el coche frena. Y los vas dejando. Juanjo Jiménez, mecánico, no está de acuerdo. Nos cuenta qué pasa cuando esa espera se alarga . Un cliente apareció por el taller tras convivir un tiempo con un sonido metálico cada vez que pisaba el…",
-    "imagen": "https://i.blogs.es/d4940c/juanjo-jimenez-disco-de-frenos/1024_2000.jpeg"
+    "fecha": "2026-11-24T20:01:05Z",
+    "resumen": "La foto habla por sí misma: Volkswagen Passat de más de 25 años de antigüedad con el eje delantero levantado y la parte trasera casi en el asfalto. A su conductor le pareció una buena idea remolcar con él una excavadora de tres toneladas . Para colmo, el remolque en el que lo llevaba tenía una rueda pinchada, no disponía de matrícula ni de cable de seguridad y la excavadora no iba asegurada.…",
+    "imagen": "https://i.blogs.es/06512f/passat-excavadora-02/1024_2000.jpeg"
   },
   {
     "titulo": "Bajó 1.100 dólares y cuesta menos de 30.000: el SUV de siete plazas con motor turbo de 184 CV",
@@ -78,6 +86,14 @@
     "fecha": "2026-11-24T19:56:23Z",
     "resumen": "La DFSK Glory 600 ahora se ofrece por debajo de los USD 30.000 en Argentina, con nuevas opciones de financiación para facilitar su adquisición.",
     "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/DFSK-Glory-600.jpg"
+  },
+  {
+    "titulo": "Financiación, entregas, leasing, test drive y todo sobre la llegada de Tesla a la Argentina",
+    "link": "https://eleconomista.com.ar/autos/financiacion-entregas-leasing-test-drive-todo-sobre-llegada-tesla-argentina-n99876",
+    "fuente": "El Economista",
+    "fecha": "2026-11-24T19:50:00Z",
+    "resumen": "La marca de autos eléctricos se lanzó la semana pasada y ya se pueden probar y reservar sus unidades. Un repaso a las principales dudas que pueden tener los clientes.",
+    "imagen": "https://statics.eleconomista.com.ar/2026/11/crop/6b05eafab9f88__950x512.webp"
   },
   {
     "titulo": "Mercedes 560 SEC restomod: V8 atmosférico de 500 CV contra los 300 del original",
@@ -96,12 +112,12 @@
     "imagen": "https://www.diariomotor.com/imagenes/2024/12/byd-atto-2-9-675adc5c40b47-1129811.jpg?class=OG"
   },
   {
-    "titulo": "Porsche ha entendido que un deportivo eléctrico necesita algo más que potencia. El nuevo 718 Boxster tendrá una batería central y hasta un cambio PDK virtual",
-    "link": "https://www.motorpasion.com/porsche/2027-porsche-718-boxster-electrico",
+    "titulo": "Juanjo Jiménez, mecánico, advierte por qué no debes ignorar un ruido metálico al frenar: \"Pues resulta que te va a costar más cara la fiesta\"",
+    "link": "https://www.motorpasion.com/revision/juanjo-jimenez-mecanico-advierte-que-no-debes-ignorar-ruido-metalico-al-frenar-pues-resulta-que-te-va-a-costar-cara-fiesta",
     "fuente": "Motorpasión (ES)",
-    "fecha": "2026-11-24T18:00:59Z",
-    "resumen": "Uno de los grandes problemas de los coches eléctricos desde el punto de vista de quienes disfrutamos conduciendo es que, por norma general, son coches capaces de ofrecer unas prestaciones impresionantes, pero no necesariamente de transmitir emociones . En Motorpasión Probamos el Porsche 718 Spyder, posiblemente el mejor Porsche descapotable del momento Porsche es perfectamente consciente de ello…",
-    "imagen": "https://i.blogs.es/132d1e/porsche_718_boxster_electrico_8/1024_2000.jpeg"
+    "fecha": "2026-11-24T19:00:59Z",
+    "resumen": "Pisas el freno y oyes un ruido agudo, como un chirrido , cuando el coche frena. A veces pasa, debe ser algún tipo de suciedad. No es nada, piensas, al fin y al cabo el coche frena. Y los vas dejando. Juanjo Jiménez, mecánico, no está de acuerdo. Nos cuenta qué pasa cuando esa espera se alarga . Un cliente apareció por el taller tras convivir un tiempo con un sonido metálico cada vez que pisaba el…",
+    "imagen": "https://i.blogs.es/d4940c/juanjo-jimenez-disco-de-frenos/1024_2000.jpeg"
   },
   {
     "titulo": "La nueva pick up de Nissan que desafía a Toyota Hilux: 350 HP, tracción 4×4 y casi 1.000 km de autonomía",
@@ -112,20 +128,12 @@
     "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/Pick-up-Nissan-Frontier-Pro-PHEV-perfil.jpg"
   },
   {
-    "titulo": "Prohíben aparcar en varias calles durante todo el invierno para que pasen las quitanieves y los vecinos estallan: “Es sádico y antisocial”",
-    "link": "https://www.motorpasion.com/industria/prohiben-aparcar-varias-calles-durante-todo-invierno-pasen-quitanieves-vecinos-estallan-sadico-antisocial",
+    "titulo": "Porsche ha entendido que un deportivo eléctrico necesita algo más que potencia. El nuevo 718 Boxster tendrá una batería central y hasta un cambio PDK virtual",
+    "link": "https://www.motorpasion.com/porsche/2027-porsche-718-boxster-electrico",
     "fuente": "Motorpasión (ES)",
-    "fecha": "2026-11-24T17:37:00Z",
-    "resumen": "Lo que comenzó como una medida para facilitar el trabajo de las quitanieves se ha convertido en un auténtico conflicto vecinal en Alemania con difícil solución. En Springe, una localidad de la región de Hannover, el Ayuntamiento ha prohibido aparcar en varias calles residenciales durante los meses de invierno . El objetivo es que los vehículos encargados de retirar la nieve puedan circular sin…",
-    "imagen": "https://i.blogs.es/66416f/quitanieves/1024_2000.jpeg"
-  },
-  {
-    "titulo": "La DGT cambia las normas para las camper cuando hay nieve: las cadenas ya no siempre sirven",
-    "link": "https://www.motorpasion.com/furgonetas-y-caravanas/dgt-cambia-normas-para-camper-cuando-hay-nieve-cadenas-no-siempre-sirven",
-    "fuente": "Motorpasión (ES)",
-    "fecha": "2026-11-24T17:01:03Z",
-    "resumen": "En invierno, una nevada puede arruinar un viaje en camper o autocaravana . Dependiendo de cómo esté la carretera, la cantidad de nieve y el equipamiento que llevemos, podremos seguir circulando o tendremos que parar. Y ojo: ahora no siempre basta con sacar las cadenas. En esto es clave la nueva señal de la DGT que nos obliga a llevar un tipo de neumático determinado en la camper. También una nueva…",
-    "imagen": "https://i.blogs.es/92beda/portada-mop-1795535505095/1024_2000.jpeg"
+    "fecha": "2026-11-24T18:00:59Z",
+    "resumen": "Uno de los grandes problemas de los coches eléctricos desde el punto de vista de quienes disfrutamos conduciendo es que, por norma general, son coches capaces de ofrecer unas prestaciones impresionantes, pero no necesariamente de transmitir emociones . En Motorpasión Probamos el Porsche 718 Spyder, posiblemente el mejor Porsche descapotable del momento Porsche es perfectamente consciente de ello…",
+    "imagen": "https://i.blogs.es/132d1e/porsche_718_boxster_electrico_8/1024_2000.jpeg"
   },
   {
     "titulo": "Cuesta 27.900 dólares: el SUV con 191 HP que bajó de precio y compite contra Toyota Corolla Cross",
@@ -136,12 +144,12 @@
     "imagen": "https://autotest.com.ar/wp-content/uploads/2026/07/SUV-MG-ZS-perfil-1.jpg"
   },
   {
-    "titulo": "BYD ha dado la espalda a España para su segunda fábrica europea y elige Francia. Quiere quedarse con la planta del todoterreno Ineos",
-    "link": "https://www.motorpasion.com/industria/byd-ha-dado-espalda-a-espana-para-su-segunda-fabrica-europea-elige-francia-quiere-quedarse-planta-todoterreno-ineos",
+    "titulo": "Prohíben aparcar en varias calles durante todo el invierno para que pasen las quitanieves y los vecinos estallan: “Es sádico y antisocial”",
+    "link": "https://www.motorpasion.com/industria/prohiben-aparcar-varias-calles-durante-todo-invierno-pasen-quitanieves-vecinos-estallan-sadico-antisocial",
     "fuente": "Motorpasión (ES)",
-    "fecha": "2026-11-24T16:42:21Z",
-    "resumen": "España suele estar entre los países finalistas para la implantación de una fábrica del gigante chino BYD , pero nunca se concretiza . Después de Hungría, ahora BYD ha escogido Francia para instalar su segunda fábrica. El fabricante chino, que está logrando un avance impresionante en el Viejo Continente, ha entrado en negociaciones en exclusiva para comprar la planta de Hambach , en la Mosela,…",
-    "imagen": "https://i.blogs.es/cf9e20/byd-fully-intelligent-production-line/1024_2000.jpeg"
+    "fecha": "2026-11-24T17:37:00Z",
+    "resumen": "Lo que comenzó como una medida para facilitar el trabajo de las quitanieves se ha convertido en un auténtico conflicto vecinal en Alemania con difícil solución. En Springe, una localidad de la región de Hannover, el Ayuntamiento ha prohibido aparcar en varias calles residenciales durante los meses de invierno . El objetivo es que los vehículos encargados de retirar la nieve puedan circular sin…",
+    "imagen": "https://i.blogs.es/66416f/quitanieves/1024_2000.jpeg"
   },
   {
     "titulo": "Porsche, nadando contracorriente, se ha inventado un deportivo de motor central sin motor de combustión",
@@ -152,6 +160,14 @@
     "imagen": "https://www.diariomotor.com/imagenes/2026/11/porsche-718-boxster-2027-anticipo-15-6b05c20b60f98.jpg?class=OG"
   },
   {
+    "titulo": "La DGT cambia las normas para las camper cuando hay nieve: las cadenas ya no siempre sirven",
+    "link": "https://www.motorpasion.com/furgonetas-y-caravanas/dgt-cambia-normas-para-camper-cuando-hay-nieve-cadenas-no-siempre-sirven",
+    "fuente": "Motorpasión (ES)",
+    "fecha": "2026-11-24T17:01:03Z",
+    "resumen": "En invierno, una nevada puede arruinar un viaje en camper o autocaravana . Dependiendo de cómo esté la carretera, la cantidad de nieve y el equipamiento que llevemos, podremos seguir circulando o tendremos que parar. Y ojo: ahora no siempre basta con sacar las cadenas. En esto es clave la nueva señal de la DGT que nos obliga a llevar un tipo de neumático determinado en la camper. También una nueva…",
+    "imagen": "https://i.blogs.es/92beda/portada-mop-1795535505095/1024_2000.jpeg"
+  },
+  {
     "titulo": "No es Yaris: Toyota actualizó su hatchback con nuevo diseño y más equipamiento",
     "link": "https://autotest.com.ar/noticias/no-es-yaris-toyota-actualizo-su-hatchback-con-nuevo-diseno-y-mas-equipamiento/",
     "fuente": "Autotest",
@@ -160,20 +176,20 @@
     "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/Toyota-Starlet-2027-teaser.jpg"
   },
   {
-    "titulo": "Financiación, entregas, leasing, test drive y todo sobre la llegada de Tesla a la Argentina",
-    "link": "https://eleconomista.com.ar/autos/financiacion-entregas-leasing-test-drive-todo-sobre-llegada-tesla-argentina-n99876",
-    "fuente": "El Economista",
-    "fecha": "2026-11-24T19:50:00Z",
-    "resumen": "La marca de autos eléctricos se lanzó la semana pasada y ya se pueden probar y reservar sus unidades. Un repaso a las principales dudas que pueden tener los clientes.",
-    "imagen": "https://statics.eleconomista.com.ar/2026/11/crop/6b05eafab9f88__950x512.webp"
-  },
-  {
     "titulo": "Más barato que Volkswagen Tera: el SUV con 116 CV, caja automática y cuatro airbags",
     "link": "https://autotest.com.ar/noticias/chery-tiggo-2-pro-max-suv-una-alternativa-accesible-frente-al-volkswagen-tera/",
     "fuente": "Autotest",
     "fecha": "2026-11-24T16:47:41Z",
     "resumen": "El Chery Tiggo 2 Pro Max se presenta en el mercado con un precio competitivo desde 23.000 dólares, ofreciendo un motor de 116 CV y opciones de caja manual o automática.",
     "imagen": "https://autotest.com.ar/wp-content/uploads/2026/02/Chery-Tiggo-2-Pro-Max-perfil.jpg"
+  },
+  {
+    "titulo": "BYD ha dado la espalda a España para su segunda fábrica europea y elige Francia. Quiere quedarse con la planta del todoterreno Ineos",
+    "link": "https://www.motorpasion.com/industria/byd-ha-dado-espalda-a-espana-para-su-segunda-fabrica-europea-elige-francia-quiere-quedarse-planta-todoterreno-ineos",
+    "fuente": "Motorpasión (ES)",
+    "fecha": "2026-11-24T16:42:21Z",
+    "resumen": "España suele estar entre los países finalistas para la implantación de una fábrica del gigante chino BYD , pero nunca se concretiza . Después de Hungría, ahora BYD ha escogido Francia para instalar su segunda fábrica. El fabricante chino, que está logrando un avance impresionante en el Viejo Continente, ha entrado en negociaciones en exclusiva para comprar la planta de Hambach , en la Mosela,…",
+    "imagen": "https://i.blogs.es/cf9e20/byd-fully-intelligent-production-line/1024_2000.jpeg"
   },
   {
     "titulo": "Menos de 35.000 dólares: el sedán con 278 CV, ocho airbags y doble pantalla de 12,3 pulgadas",
@@ -192,14 +208,6 @@
     "imagen": "https://www.diariomotor.com/imagenes/2026/11/ineos-grenadier-primera-unidad-produccion-2022-fabrica-hambach-6b05b42975bc9.jpg?class=OG"
   },
   {
-    "titulo": "Han necesitado una retroexcavadora para desenterrar a un dinosaurio en Lleida: su cuello pesa 18 toneladas y tiene 70 millones de años",
-    "link": "https://www.motorpasion.com/tecnologia/han-necesitado-retroexcavadora-para-desenterrar-a-dinosaurio-lleida-su-cuello-pesa-18-toneladas-tiene-70-millones-anos",
-    "fuente": "Motorpasión (ES)",
-    "fecha": "2026-11-24T15:01:02Z",
-    "resumen": "En los Pirineos, bajo toneladas de tierra y roca, un auténtico gigante del Cretácico llevaba enterrado unos 70 millones de años : un titanosaurio que podría superar en tamaño al mayor ejemplar recuperado hasta ahora en Europa. Los paleontólogos del Museu de la Conca Dellà y del Institut Català de Paleontologia Miquel Crusafont lo han encontrado en el yacimiento del Molí del Piteu, cerca de Isona…",
-    "imagen": "https://i.blogs.es/676c93/cuello-dinosaurio/1024_2000.jpeg"
-  },
-  {
     "titulo": "Ya tiene precio en España la Toyota Hilux de BYD, la BYD Shark, un 4x4 que despunta con un motor híbrido de 436 CV",
     "link": "https://www.diariomotor.com/noticia/byd-shark-precio-espana/",
     "fuente": "Diariomotor (ES)",
@@ -214,6 +222,14 @@
     "fecha": "2026-11-24T15:30:11Z",
     "resumen": "Descubre el Nissan Versa Sense MT 2026, el sedán más accesible de Nissan en Argentina, con precio competitivo y equipamiento de seguridad destacado.",
     "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/Nissan-Versa-Sense-MT-teaser.jpg"
+  },
+  {
+    "titulo": "CF Moto presentó dos nuevos modelos y quiere conquitar el mercado de media cilindrada",
+    "link": "https://www.iprofesional.com/autos/469752-cf-moto-lanzara-las-nuevas-550-mt-y-550-mt-x-de-54-cv",
+    "fuente": "iProfesional",
+    "fecha": "2026-11-24T15:28:00Z",
+    "resumen": "La asiática que lidera las ventas del segmento polivalente con la 450 MT adelantó dos modelos de 550 cc, concebidas para viajar y hacer off-road (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
+    "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/11/630379.jpg"
   },
   {
     "titulo": "309 CV, dos motores y gran relación precio-producto: se lanzó un nuevo SUV rival de Ford",
@@ -232,12 +248,12 @@
     "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/Precio-Hyundai-HB20.jpg"
   },
   {
-    "titulo": "Gordon Murray, creador del McLaren F1: \"No me importan las cifras de aceleración: para mí lo primordial es la perfección al volante y el arte de la ingeniería ligera\"",
-    "link": "https://www.motorpasion.com/superdeportivos/gordon-murray-creador-mclaren-f1-no-me-importan-cifras-aceleracion-para-mi-primordial-perfeccion-al-volante-arte-ingenieria-ligera",
+    "titulo": "Han necesitado una retroexcavadora para desenterrar a un dinosaurio en Lleida: su cuello pesa 18 toneladas y tiene 70 millones de años",
+    "link": "https://www.motorpasion.com/tecnologia/han-necesitado-retroexcavadora-para-desenterrar-a-dinosaurio-lleida-su-cuello-pesa-18-toneladas-tiene-70-millones-anos",
     "fuente": "Motorpasión (ES)",
-    "fecha": "2026-11-24T14:01:03Z",
-    "resumen": "Gordon Murray es uno de los diseñadores e ingenieros más prolíficos y en la historia del automovilismo. Nacido en Durban, Sudáfrica, en 1946, pasó de la ingeniería mecánica en la F1 a crear un icono de calle: el McLaren F1 . Su filosofía siempre se ha alejado diametralmente de la tendencia de la industria: el verdadero valor de un automóvil radica en la reducción de peso, el equilibrio mecánico y…",
-    "imagen": "https://i.blogs.es/41bf51/portada-mop-1795518040777/1024_2000.jpeg"
+    "fecha": "2026-11-24T15:01:02Z",
+    "resumen": "En los Pirineos, bajo toneladas de tierra y roca, un auténtico gigante del Cretácico llevaba enterrado unos 70 millones de años : un titanosaurio que podría superar en tamaño al mayor ejemplar recuperado hasta ahora en Europa. Los paleontólogos del Museu de la Conca Dellà y del Institut Català de Paleontologia Miquel Crusafont lo han encontrado en el yacimiento del Molí del Piteu, cerca de Isona…",
+    "imagen": "https://i.blogs.es/676c93/cuello-dinosaurio/1024_2000.jpeg"
   },
   {
     "titulo": "Europa ya compra más coches eléctricos que de gasolina, pero hay otra tecnología que sigue arrasando en los concesionarios, sobre todo en los españoles, y sigue llevando motor de combustión",
@@ -264,12 +280,12 @@
     "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/toyota-sienna3.jpg"
   },
   {
-    "titulo": "He probado el Porsche Cayenne GTS Coupé: 500 CV de puro V8 y la magia de hacer desaparecer más de dos toneladas en una carretera de curvas",
-    "link": "https://www.motorpasion.com/pruebas-de-coches/2026-porsche-cayenne-gts-coupe-prueba",
+    "titulo": "Gordon Murray, creador del McLaren F1: \"No me importan las cifras de aceleración: para mí lo primordial es la perfección al volante y el arte de la ingeniería ligera\"",
+    "link": "https://www.motorpasion.com/superdeportivos/gordon-murray-creador-mclaren-f1-no-me-importan-cifras-aceleracion-para-mi-primordial-perfeccion-al-volante-arte-ingenieria-ligera",
     "fuente": "Motorpasión (ES)",
-    "fecha": "2026-11-24T13:01:51Z",
-    "resumen": "Hay coches que te conquistan por sus prestaciones, otros por su diseño y otros por las sensaciones que son capaces de transmitir al volante. El Porsche Cayenne GTS Coupé pertenece a ese escaso grupo de automóviles que consiguen reunir todas esas cualidades sin que ninguna de ellas condicione en exceso a las demás. En Motorpasión Probamos el Range Rover Sport SV Edition Two donde nadie se atrevería…",
-    "imagen": "https://i.blogs.es/69c2c6/porsche_cayenne_gts_coupe_prueba_2/1024_2000.jpeg"
+    "fecha": "2026-11-24T14:01:03Z",
+    "resumen": "Gordon Murray es uno de los diseñadores e ingenieros más prolíficos y en la historia del automovilismo. Nacido en Durban, Sudáfrica, en 1946, pasó de la ingeniería mecánica en la F1 a crear un icono de calle: el McLaren F1 . Su filosofía siempre se ha alejado diametralmente de la tendencia de la industria: el verdadero valor de un automóvil radica en la reducción de peso, el equilibrio mecánico y…",
+    "imagen": "https://i.blogs.es/41bf51/portada-mop-1795518040777/1024_2000.jpeg"
   },
   {
     "titulo": "Con 4 cilindros en uve y más de 210 CV girando a 15.000 rpm, es el motor con el que China reta a Europa y Japón, dando un golpe sobre la mesa",
@@ -312,12 +328,12 @@
     "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/fiat-strada1.jpg"
   },
   {
-    "titulo": "Tres cazas Rafale aterrizan en mitad de una autopista nevada y la convierten en una base militar improvisada por si empieza una guerra",
-    "link": "https://www.motorpasion.com/industria/tres-cazas-rafale-aterrizan-mitad-autopista-nevada-convierten-base-militar-improvisada-empieza-guerra",
+    "titulo": "He probado el Porsche Cayenne GTS Coupé: 500 CV de puro V8 y la magia de hacer desaparecer más de dos toneladas en una carretera de curvas",
+    "link": "https://www.motorpasion.com/pruebas-de-coches/2026-porsche-cayenne-gts-coupe-prueba",
     "fuente": "Motorpasión (ES)",
-    "fecha": "2026-11-24T12:01:48Z",
-    "resumen": "Imagina ir por una autovía y de repente, encontrarte con una escena pintoresca a más no poder: un caza aterrizando a toda velocidad. Pues no es ciencia ficción ni la última película de 007; es un ejercicio militar francés . Francia ha querido comprobar hasta qué punto sus Rafale pueden prescindir de las pistas convencionales y utilizar carreteras como aeródromos improvisados. Más de 4.000…",
-    "imagen": "https://i.blogs.es/895a2f/portada-mop-1795511151977/1024_2000.jpeg"
+    "fecha": "2026-11-24T13:01:51Z",
+    "resumen": "Hay coches que te conquistan por sus prestaciones, otros por su diseño y otros por las sensaciones que son capaces de transmitir al volante. El Porsche Cayenne GTS Coupé pertenece a ese escaso grupo de automóviles que consiguen reunir todas esas cualidades sin que ninguna de ellas condicione en exceso a las demás. En Motorpasión Probamos el Range Rover Sport SV Edition Two donde nadie se atrevería…",
+    "imagen": "https://i.blogs.es/69c2c6/porsche_cayenne_gts_coupe_prueba_2/1024_2000.jpeg"
   },
   {
     "titulo": "Mientras los GTI se ponen carísimos y pierden la gracia, va España y planta un deportivo camuflado con precio de coche chino, 620 l de maletero, etiqueta ECO y 5,5 l/100 km",
@@ -352,12 +368,12 @@
     "imagen": "https://www.diariomotor.com/imagenes/2026/11/GWM-Tank-300-Espana-6b056e3e787bc.jpg?class=OG"
   },
   {
-    "titulo": "CF Moto presentó dos nuevos modelos y quiere conquitar el mercado de media cilindrada",
-    "link": "https://www.iprofesional.com/autos/469752-cf-moto-lanzara-las-nuevas-550-mt-y-550-mt-x-de-54-cv",
-    "fuente": "iProfesional",
-    "fecha": "2026-11-24T15:28:00Z",
-    "resumen": "La asiática que lidera las ventas del segmento polivalente con la 450 MT adelantó dos modelos de 550 cc, concebidas para viajar y hacer off-road (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
-    "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/11/630379.jpg"
+    "titulo": "Tres cazas Rafale aterrizan en mitad de una autopista nevada y la convierten en una base militar improvisada por si empieza una guerra",
+    "link": "https://www.motorpasion.com/industria/tres-cazas-rafale-aterrizan-mitad-autopista-nevada-convierten-base-militar-improvisada-empieza-guerra",
+    "fuente": "Motorpasión (ES)",
+    "fecha": "2026-11-24T12:01:48Z",
+    "resumen": "Imagina ir por una autovía y de repente, encontrarte con una escena pintoresca a más no poder: un caza aterrizando a toda velocidad. Pues no es ciencia ficción ni la última película de 007; es un ejercicio militar francés . Francia ha querido comprobar hasta qué punto sus Rafale pueden prescindir de las pistas convencionales y utilizar carreteras como aeródromos improvisados. Más de 4.000…",
+    "imagen": "https://i.blogs.es/895a2f/portada-mop-1795511151977/1024_2000.jpeg"
   },
   {
     "titulo": "Bentley, con lo bien que lo estabas haciendo y aún teniendo el ejemplo de Porsche delante de las narices, has caído en la moda más absurda del momento",
@@ -366,14 +382,6 @@
     "fecha": "2026-11-24T12:00:55Z",
     "resumen": "Entiendo que, cuando todo el mundo pide algo, las marcas de coches se lo den. Lo que me cuesta entender es que se empeñen en seguir una moda que muchos llevamos tiempo criticando. Y lo de Bentley me duele especialmente, porque con lo bien que estabas haciendo las cosas... ¿también tú tenías que caer en esta moda? Bentley cae en una de las modas más absurdas al modernizar sus modelos antiguos Me…",
     "imagen": "https://www.diariomotor.com/imagenes/2026/11/bentley-pantalla-tactil-coches-clasicos-2-6b0562c06ae72.jpg?class=OG"
-  },
-  {
-    "titulo": "Europa prohíbe vender el BYD Ti7. No es una cuestión de seguridad, es que es igual que el Defender",
-    "link": "https://www.motorpasion.com/industria/europa-prohibe-vender-byd-ti7-no-cuestion-seguridad-que-igual-que-defender",
-    "fuente": "Motorpasión (ES)",
-    "fecha": "2026-11-24T11:00:50Z",
-    "resumen": "Europa acaba de prohibir la venta en su territorio de un nuevo modelo del fabricante chino BYD . No es por una cuestión de seguridad, sino por una cuestión de propiedad intelectual. El coche, el Fangchengbao Ti7 -BYD Ti7, para Europa- es un todoterreno similar al actual Defender. El problema es que es demasiado similar, según los tribunales europeos. En un procedimiento sumario, los jueces del…",
-    "imagen": "https://i.blogs.es/de6d95/byd-ti7-vs-defender/1024_2000.jpeg"
   },
   {
     "titulo": "¿Mejor que Nissan Kicks? El SUV chino con casi 180 CV, seis airbags y pantalla de 15 pulgadas",
@@ -406,14 +414,6 @@
     "fecha": "2026-11-24T11:47:20Z",
     "resumen": "El Hyundai Accent 2027 llega a Chile con un diseño actualizado y mejoras en seguridad, manteniendo un precio por debajo de los 15.000 dólares.",
     "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/hyundai-sedan2.jpg"
-  },
-  {
-    "titulo": "Una cementera ha encontrado la forma de ahorrar 11 millones de litros de diésel al año",
-    "link": "https://www.motorpasion.com/furgonetas-y-caravanas/cementera-sustituira-410-camiones-diesel-electricos-para-ahorrar-11-millones-litros-gasoleo-al-ano",
-    "fuente": "Motorpasión (ES)",
-    "fecha": "2026-11-24T10:41:00Z",
-    "resumen": "Ahorrar 11 millones de litros de diésel al año : son estimaciones de la cementera Adani Cement , que pretende conseguir con el despliegue de una flota de más de 400 camiones eléctricos . Un ambicioso plan que es solo el principio: en 2030 esperan integrar 2.000 vehículos 100 % eléctricos en su flota logística. Electrificar el transporte por carretera lleva años sobre la mesa, y con los precios del…",
-    "imagen": "https://i.blogs.es/1f5a40/adani-electric-trucks-october-26/1024_2000.jpeg"
   },
   {
     "titulo": "Más equipado o más potente: Jeep Avenger full contra Renegade base",
@@ -496,6 +496,14 @@
     "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/Honda-Civic-e-HEV.jpg"
   },
   {
+    "titulo": "Europa prohíbe vender el BYD Ti7. No es una cuestión de seguridad, es que es igual que el Defender",
+    "link": "https://www.motorpasion.com/industria/europa-prohibe-vender-byd-ti7-no-cuestion-seguridad-que-igual-que-defender",
+    "fuente": "Motorpasión (ES)",
+    "fecha": "2026-11-24T11:00:50Z",
+    "resumen": "Europa acaba de prohibir la venta en su territorio de un nuevo modelo del fabricante chino BYD . No es por una cuestión de seguridad, sino por una cuestión de propiedad intelectual. El coche, el Fangchengbao Ti7 -BYD Ti7, para Europa- es un todoterreno similar al actual Defender. El problema es que es demasiado similar, según los tribunales europeos. En un procedimiento sumario, los jueces del…",
+    "imagen": "https://i.blogs.es/de6d95/byd-ti7-vs-defender/1024_2000.jpeg"
+  },
+  {
     "titulo": "Alguien acaba de pagar 45.000€ por uno de los coches más baratos del mundo, un trasto basado en el 127 y considerado de los peores coches de la historia",
     "link": "https://www.diariomotor.com/noticia/yugo-gv-50000/",
     "fuente": "Diariomotor (ES)",
@@ -504,20 +512,20 @@
     "imagen": "https://www.diariomotor.com/imagenes/2026/11/Yugo-GV-exterior_1-6b05550353a62.jpg?class=OG"
   },
   {
-    "titulo": "2027 pinta bien: los expertos prevén precios más bajos para la gasolina y el gas natural",
-    "link": "https://www.motorpasion.com/industria/expertos-traen-buenas-noticias-precio-gasolina-2027-ahora-hay-petroleo-mercado",
-    "fuente": "Motorpasión (ES)",
-    "fecha": "2026-11-24T10:00:00Z",
-    "resumen": "Tras meses de tormenta, nos encontramos en un momento de calma. El precio de gas natural y el petróleo se mantienen por debajo de las cifras que hemos estado viendo: la culpa la tiene una menor demanda y el hecho de que las refinerías se están recuperando. Grandes bancos como Deutsche Bank o Goldman Sachs pronostican una bajada en los precios del petróleo crudo Brent (el de referencia en Europa)…",
-    "imagen": "https://i.blogs.es/5699fa/portada-mop-1795513945104/1024_2000.jpeg"
-  },
-  {
     "titulo": "Menos de 46 millones: así es la Honda HR-V más barata con seis airbags y caja automática",
     "link": "https://autotest.com.ar/noticias/menos-de-46-millones-asi-es-la-honda-hr-v-mas-barata-con-seis-airbags-y-caja-automatica/",
     "fuente": "Autotest",
     "fecha": "2026-11-24T10:48:21Z",
     "resumen": "Conoce todos los detalles sobre el SUV de Honda en sus versiones LX y EXL, sus precios, equipamiento y diferencias.",
     "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/honda_hr-v_exl99.jpg"
+  },
+  {
+    "titulo": "Una cementera ha encontrado la forma de ahorrar 11 millones de litros de diésel al año",
+    "link": "https://www.motorpasion.com/furgonetas-y-caravanas/cementera-sustituira-410-camiones-diesel-electricos-para-ahorrar-11-millones-litros-gasoleo-al-ano",
+    "fuente": "Motorpasión (ES)",
+    "fecha": "2026-11-24T10:41:00Z",
+    "resumen": "Ahorrar 11 millones de litros de diésel al año : son estimaciones de la cementera Adani Cement , que pretende conseguir con el despliegue de una flota de más de 400 camiones eléctricos . Un ambicioso plan que es solo el principio: en 2030 esperan integrar 2.000 vehículos 100 % eléctricos en su flota logística. Electrificar el transporte por carretera lleva años sobre la mesa, y con los precios del…",
+    "imagen": "https://i.blogs.es/1f5a40/adani-electric-trucks-october-26/1024_2000.jpeg"
   },
   {
     "titulo": "Así es la Yamaha MT-09 de ZXMOTO, con 135 CV a 12.000 rpm para 186 kg es más potente, más ligera... y seguro que también más barata",
@@ -536,6 +544,22 @@
     "imagen": "https://www.diariomotor.com/imagenes/2026/11/ford-ranger-wolftrak-2027-exterior-15-6b056162ef80a.jpg?class=OG"
   },
   {
+    "titulo": "2027 pinta bien: los expertos prevén precios más bajos para la gasolina y el gas natural",
+    "link": "https://www.motorpasion.com/industria/expertos-traen-buenas-noticias-precio-gasolina-2027-ahora-hay-petroleo-mercado",
+    "fuente": "Motorpasión (ES)",
+    "fecha": "2026-11-24T10:00:00Z",
+    "resumen": "Tras meses de tormenta, nos encontramos en un momento de calma. El precio de gas natural y el petróleo se mantienen por debajo de las cifras que hemos estado viendo: la culpa la tiene una menor demanda y el hecho de que las refinerías se están recuperando. Grandes bancos como Deutsche Bank o Goldman Sachs pronostican una bajada en los precios del petróleo crudo Brent (el de referencia en Europa)…",
+    "imagen": "https://i.blogs.es/5699fa/portada-mop-1795513945104/1024_2000.jpeg"
+  },
+  {
+    "titulo": "El KIA Sorento de Honda llega con un motor 2.0 híbrido para superar a Toyota en Europa a base de ingeniería",
+    "link": "https://www.diariomotor.com/noticia/honda-avancier-motor-hibrido-detalles/",
+    "fuente": "Diariomotor (ES)",
+    "fecha": "2026-11-24T09:30:28Z",
+    "resumen": "En Europa poco o nada tiene que ver su situación con la de años atrás, pues apenas busca mantenerse viva en un mercado pequeño y muy competitivo , pero Honda sigue queriendo situarse a nivel global como la alternativa japonesa a Toyota y, no sólo eso, sino superarla a base de tecnología y coches más depurados . Un gran peso en este objetivo lo tiene el coche que presentó la pasada semana, el Honda…",
+    "imagen": "https://www.diariomotor.com/imagenes/2026/11/Honda-Avancier-2027-3-6b05563989ec9.jpg?class=OG"
+  },
+  {
     "titulo": "Alba, vecina de Delicias afectada por La Gran Diagonal de Madrid: \"Cuando terminen puede que yo ya no viva aquí\"",
     "link": "https://www.motorpasion.com/industria/alba-vecina-delicias-afectada-gran-diagonal-madrid-cuando-terminen-puede-que-yo-no-viva-aqui",
     "fuente": "Motorpasión (ES)",
@@ -550,14 +574,6 @@
     "fecha": "2026-11-24T08:53:00Z",
     "resumen": "Sigue la tendencia de los últimos días: repostar en España es ligeramente más barato que semanas atrás. El precio de los combustibles sigue bajando, tras los picos alcanzados en octubre y, de media, el litro de diésel continúa alejándose de los 1,8 euros el litro. Aún así, llenar hoy el depósito de media en España en un coche de gasolina ronda los 69 euros y uno diésel los 79 euros. El precio del…",
     "imagen": "https://i.blogs.es/4d7c21/precios-gasolina-diesel-24-noviembre/1024_2000.jpeg"
-  },
-  {
-    "titulo": "El KIA Sorento de Honda llega con un motor 2.0 híbrido para superar a Toyota en Europa a base de ingeniería",
-    "link": "https://www.diariomotor.com/noticia/honda-avancier-motor-hibrido-detalles/",
-    "fuente": "Diariomotor (ES)",
-    "fecha": "2026-11-24T09:30:28Z",
-    "resumen": "En Europa poco o nada tiene que ver su situación con la de años atrás, pues apenas busca mantenerse viva en un mercado pequeño y muy competitivo , pero Honda sigue queriendo situarse a nivel global como la alternativa japonesa a Toyota y, no sólo eso, sino superarla a base de tecnología y coches más depurados . Un gran peso en este objetivo lo tiene el coche que presentó la pasada semana, el Honda…",
-    "imagen": "https://www.diariomotor.com/imagenes/2026/11/Honda-Avancier-2027-3-6b05563989ec9.jpg?class=OG"
   },
   {
     "titulo": "Mitsubishi Montero",
