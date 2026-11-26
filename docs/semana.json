@@ -1,8 +1,22 @@
 {
-  "actualizado": "2026-11-26T02:27:49Z",
+  "actualizado": "2026-11-26T22:20:49Z",
   "desde": "2026-11-19",
   "hasta": "2026-11-26",
   "destacadas": [
+    {
+      "titulo": "Porsche prepara el primer 718 Boxster eléctrico",
+      "link": "https://www.megautos.com/porsche-718-boxster-electrico-pruebas/",
+      "fuente": "Megautos",
+      "fecha": "2026-11-26T14:40:59Z",
+      "resumen": "El deportivo biplaza atraviesa la etapa final de desarrollo. Tiene plataforma específica, tracción trasera y es capaz de acelerar de \"0 a 100\" en menos de 3 segundos. Estreno en 2027. La entrada Porsche prepara el primer 718 Boxster eléctrico aparece primero en Mega Autos .",
+      "imagen": "https://www.megautos.com/wp-content/uploads/2026/11/img_1a.jpg",
+      "menciones": 3,
+      "fuentes": [
+        "Diariomotor (ES)",
+        "Megautos",
+        "Motorpasión (ES)"
+      ]
+    },
     {
       "titulo": "Volkswagen ID. Polo GTI Clubsport: un eléctrico de 367 CV preparado para la pista",
       "link": "https://www.megautos.com/volkswagen-id-polo-gti-clubsport/",
@@ -18,26 +32,52 @@
       ]
     },
     {
-      "titulo": "Más de 270 CV, suspensión específica y 0 a 100 en 7 segundos: así es la nueva versión de la Ford Ranger",
-      "link": "https://autotest.com.ar/noticias/ford-ranger-tremor-version-especial-enfoque-off-road/",
+      "titulo": "Te has quedado a gusto diciendo que es el Defender de Temu con solo ver una foto, pero por 35.000 € tienes un señor 4x4 de 247 CV con bloqueo trasero y etiqueta ECO",
+      "link": "https://www.diariomotor.com/noticia/oferta-gwm-haval-h7-noviembre-2026/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-11-26T19:00:56Z",
+      "resumen": "Hay un problema con la estética de los 4x4, bueno, en realidad dos. Todos son cuadrados y hay marcas que aprovechan eso para acercarse al diseño de ciertos veteranos del sector. Pero si superamos eso descubriremos que nuestro protagonista de hoy es un señor 4x4 con 247 CV, bloqueo trasero y etiqueta ECO por 35.000 euros . GWM está consiguiendo democratizar el segmento de los 4x4, y este coche es…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/04/GWM-Haval-Menglong-Plus-2-69e6066885bf5.jpg?class=OG",
+      "menciones": 4,
+      "fuentes": [
+        "Diariomotor (ES)",
+        "Motorpasión (ES)"
+      ]
+    },
+    {
+      "titulo": "Cuesta menos que Yaris Cross: la Toyota Hilux más barata con 150 CV y hasta 985 kg de carga",
+      "link": "https://autotest.com.ar/noticias/cuesta-menos-que-yaris-cross-la-toyota-hilux-mas-barata-con-150-cv-y-hasta-985-kg-de-carga/",
       "fuente": "Autotest",
-      "fecha": "2026-11-25T20:20:49Z",
-      "resumen": "La Ford Ranger Tremor aterrizará en Brasil desde Argentina en 2027, con un potente motor 2.3 turbo flex, caja de diez marchas y preparados para el desafío off-road.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/Ford-Ranger-Tremor-1.jpg",
-      "menciones": 3,
+      "fecha": "2026-11-26T19:00:38Z",
+      "resumen": "Toyota amplía la Hilux 2027 en España con cinco versiones: tres diésel mild hybrid y dos 100% eléctricas. La elección cambia remolque, carga, autonomía, etiqueta ambiental y precio, datos que pesan más que el diseño para quien la usa para trabajar.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/Toyota-Hilux-Cabina-Simple-DX-perfil.jpg",
+      "menciones": 44,
       "fuentes": [
         "Autotest",
         "Diariomotor (ES)"
       ]
     },
     {
-      "titulo": "El nuevo SUV rival de Toyota Yaris Cross que cuesta desde 11.000 dólares y tiene 115 HP",
-      "link": "https://autotest.com.ar/noticias/el-nuevo-suv-rival-de-toyota-yaris-cross-que-cuesta-desde-11-000-dolares-y-tiene-115-hp/",
+      "titulo": "Ford confirmó los modelos que lanzará en Argentina durante 2027",
+      "link": "https://eleconomista.com.ar/autos/ford-confirmo-modelos-lanzara-argentina-durante-2027-n99927",
+      "fuente": "El Economista",
+      "fecha": "2026-11-26T11:10:00Z",
+      "resumen": "En un evento llevado a cabo en San Pablo, Brasil, la marca del Óvalo confirmó la ampliación de la gama Territory, el arribo de más modelos deportivos y su apuesta por la electrificación.",
+      "imagen": "https://statics.eleconomista.com.ar/2026/11/crop/6b080d213c1e9__950x512.webp",
+      "menciones": 2,
+      "fuentes": [
+        "El Economista",
+        "iProfesional"
+      ]
+    },
+    {
+      "titulo": "El sedán que desafía a los SUV: Hyundai Elantra 2027 con 400 litros de baúl y la mira puesta en el Skoda Octavia",
+      "link": "https://autotest.com.ar/noticias/el-sedan-que-desafia-a-los-suv-hyundai-elantra-2027-con-400-litros-de-baul-y-la-mira-puesta-en-el-skoda-octavia/",
       "fuente": "Autotest",
-      "fecha": "2026-11-25T18:00:04Z",
-      "resumen": "Hyundai lanza en India el nuevo Bayon, un SUV compacto que se destaca por su precio competitivo, innovador equipamiento tecnológico y amplia dotación de seguridad.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/10/SUV-Hyundai-Bayon-teaser.jpg",
-      "menciones": 52,
+      "fecha": "2026-11-26T11:06:24Z",
+      "resumen": "Para el nuevo modelo se espera una actualización de estas mecánicas, con foco en bajar el consumo en ciudad gracias al sistema híbrido sin enchufe y en mejorar las asistencias de manejo.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/el-sed-n-que-desaf-a-a-los-suv-hyundai-e-1200x740-1.jpg",
+      "menciones": 3,
       "fuentes": [
         "Autotest",
         "Diariomotor (ES)"
@@ -83,32 +123,6 @@
       ]
     },
     {
-      "titulo": "Porsche ha entendido que un deportivo eléctrico necesita algo más que potencia. El nuevo 718 Boxster tendrá una batería central y hasta un cambio PDK virtual",
-      "link": "https://www.motorpasion.com/porsche/2027-porsche-718-boxster-electrico",
-      "fuente": "Motorpasión (ES)",
-      "fecha": "2026-11-24T18:00:59Z",
-      "resumen": "Uno de los grandes problemas de los coches eléctricos desde el punto de vista de quienes disfrutamos conduciendo es que, por norma general, son coches capaces de ofrecer unas prestaciones impresionantes, pero no necesariamente de transmitir emociones . En Motorpasión Probamos el Porsche 718 Spyder, posiblemente el mejor Porsche descapotable del momento Porsche es perfectamente consciente de ello…",
-      "imagen": "https://i.blogs.es/132d1e/porsche_718_boxster_electrico_8/1024_2000.jpeg",
-      "menciones": 2,
-      "fuentes": [
-        "Diariomotor (ES)",
-        "Motorpasión (ES)"
-      ]
-    },
-    {
-      "titulo": "El Model 3 que Tesla nunca confirmó: diseño de Roadster y más de 700 km de autonomía",
-      "link": "https://autotest.com.ar/noticias/el-model-3-que-tesla-nunca-confirmo-diseno-de-roadster-y-mas-de-700-km-de-autonomia/",
-      "fuente": "Autotest",
-      "fecha": "2026-11-24T11:50:09Z",
-      "resumen": "El razonamiento es lógico: una silueta más aerodinámica baja el coeficiente de resistencia al aire y estira la autonomía, la variable que más pesa al elegir un eléctrico.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/el-model-3-que-tesla-nunca-confirm-dise-1200x740-1.jpg",
-      "menciones": 2,
-      "fuentes": [
-        "Autotest",
-        "Diariomotor (ES)"
-      ]
-    },
-    {
       "titulo": "Denza B5: 536 CV para remolcar un Boeing 747 de 180 toneladas, como el Touareg pero chino",
       "link": "https://autotest.com.ar/noticias/denza-b5-536-cv-para-remolcar-un-boeing-747-de-180-toneladas-como-el-touareg-pero-chino/",
       "fuente": "Autotest",
@@ -135,171 +149,159 @@
       ]
     },
     {
-      "titulo": "El Gobierno trabaja en un inédito plan de créditos baratos a 5 años para comprar autos",
-      "link": "https://www.iprofesional.com/autos/470052-gobierno-prepara-inedito-plan-de-creditos-baratos-para-comprar-autos",
-      "fuente": "iProfesional",
-      "fecha": "2026-11-25T22:27:00Z",
-      "resumen": "En un mercado automotor que muestra un retroceso respecto al año pasado, el Gobierno está buscando aumentar la demanda mediante un plan oficial (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
-      "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/04/615047.jpg",
-      "menciones": 1,
-      "fuentes": [
-        "iProfesional"
-      ]
-    },
-    {
-      "titulo": "El Gobierno quiere reactivar la venta de autos a través de un plan oficial de financiación",
-      "link": "https://www.iprofesional.com/autos/470052-el-gobierno-quiere-reactivar-la-venta-de-autos-a-traves-de-la-financiacion",
-      "fuente": "iProfesional",
-      "fecha": "2026-11-25T21:02:00Z",
-      "resumen": "En un mercado automotor que muestra un retroceso respecto al año pasado, el Gobierno está buscando aumentar la demanda mediante un plan oficial (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
-      "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2024/12/589204.jpg",
-      "menciones": 1,
-      "fuentes": [
-        "iProfesional"
-      ]
-    },
-    {
-      "titulo": "Murió Martha Firestone Ford, la mujer que unió dos imperios y revolucionó la NFL",
-      "link": "https://www.iprofesional.com/autos/470050-murio-martha-firestone-ford-la-mujer-que-unio-dos-imperios-y-revoluciono-la-nfl-en-eeuu",
-      "fuente": "iProfesional",
-      "fecha": "2026-11-25T21:00:00Z",
-      "resumen": "Referente de la industria automotriz y figura clave en la dirigencia de la NFL, dejó huella en el deporte y la gestión empresarial estadounidense (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
-      "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/11/630579.jpg",
-      "menciones": 1,
-      "fuentes": [
-        "iProfesional"
-      ]
-    },
-    {
-      "titulo": "La F-250 1977 con chasis y 7.3 turbodiésel de Super Duty 2000 que se usa todos los días",
-      "link": "https://autotest.com.ar/offroad/la-f-250-1977-con-chasis-y-7-3-turbodiesel-de-super-duty-2000-que-se-usa-todos-los-dias/",
-      "fuente": "Autotest",
-      "fecha": "2026-11-25T20:34:23Z",
-      "resumen": "En lugar de vivir con un naftero de los 70, esta dentside arranca a la primera y sostiene velocidad de crucero sin exigir el motor.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/la-f-250-1977-con-chasis-y-7-3-turbodi-s-1200x740-1.jpg",
-      "menciones": 1,
-      "fuentes": [
-        "Autotest"
-      ]
-    },
-    {
-      "titulo": "Toyota Corolla cumple 60 años: cómo se convirtió en el auto más vendido de la historia",
-      "link": "https://autotest.com.ar/noticias/toyota-corolla-cumple-60-anos-como-se-convirtio-en-el-auto-mas-vendido-de-la-historia/",
-      "fuente": "Autotest",
-      "fecha": "2026-11-25T20:05:24Z",
-      "resumen": "El Toyota Corolla, lanzado en 1966, sigue vigente con más de 57 millones de unidades vendidas. Descubre la historia del sedán que revolucionó el mercado automotor a lo largo de sus 12 generaciones.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/08_CRL1966_01.jpg",
-      "menciones": 1,
-      "fuentes": [
-        "Autotest"
-      ]
-    },
-    {
-      "titulo": "Conducir sin carnet es un delito, pero sigue pasando en España: hay más de 3.200 personas implicadas en accidentes con víctimas cada año",
-      "link": "https://www.motorpasion.com/seguridad/conducir-carnet-delito-sigue-pasando-espana-hay-3-200-personas-implicadas-accidentes-victimas-cada-ano",
+      "titulo": "Aparcar en sentido contrario puede ser más práctico y más rápido, pero ¿está permitido? Esto es lo que dice la ley",
+      "link": "https://www.motorpasion.com/revision/aparcar-direccion-puede-ser-practico-legal-esto-dice-ley",
       "fuente": "Motorpasión (ES)",
-      "fecha": "2026-11-25T20:02:20Z",
-      "resumen": "Que haya conductores que circulen sin carnet es un problema de seguridad vial: se ven implicados o provocan accidentes con heridos y fallecidos. En España la DGT registra miles de conductores sin permiso i mplicados en siniestros con víctimas cada año. Circular sin permiso de conducir es delito, ya sea por tenerlo suspendido por puntos , retirado por orden judicial o por no haberlo obtenido nunca.…",
-      "imagen": "https://i.blogs.es/1d7d28/conductores-sin-carnet-accidentes/1024_2000.jpeg",
+      "fecha": "2026-11-26T19:00:22Z",
+      "resumen": "Aparcar es todo un arte . Más allá de las distintas maniobras que hay que conocer y dominar para colocar bien el coche, también hay un sentido que respetar . En las calles de doble sentido, a menudo se aparca en la acera al otro lado. Es más rápido y no te van a quitar el sitio porque has ido dar la vuelta dos manzanas más adelante. Sin embargo, estacionar en sentido contrario es, de hecho, una…",
+      "imagen": "https://i.blogs.es/c96107/aparcar-a-contra-direccion/1024_2000.jpeg",
       "menciones": 1,
       "fuentes": [
         "Motorpasión (ES)"
       ]
     },
     {
-      "titulo": "Ford presentó las nuevas camionetas y SUV que lanzará en Argentina para 2027",
-      "link": "https://www.iprofesional.com/autos/470032-ford-presento-las-nuevas-camionetas-y-suv-que-lanzara-en-argentina-en-2027",
-      "fuente": "iProfesional",
-      "fecha": "2026-11-25T19:40:00Z",
-      "resumen": "La marca reveló los productos que llegarán al país en un evento en Brasil y dieron detalles de las nuevas Ranger de producción nacional (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
-      "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/11/630563.jpg",
-      "menciones": 1,
-      "fuentes": [
-        "iProfesional"
-      ]
-    },
-    {
-      "titulo": "He metido el coche en un túnel de lavado y ha salido destrozado. ¿Quién me paga la reparación?",
-      "link": "https://www.motorpasion.com/revision/he-metido-coche-tunel-lavado-ha-salido-destrozado-quien-me-paga-reparacion",
-      "fuente": "Motorpasión (ES)",
-      "fecha": "2026-11-25T19:00:26Z",
-      "resumen": "Miles de conductores confían cada día en los túneles de lavado para dejar impecable su coche. La mayoría de estos túneles funcionan bien y, efectivamente, limpian perfectamente los coches, pero también puede haber contratiempos a la hora de utilizarlos. El más común es que los rodillos rayen la pintura del coche, pero pueden pasar cosas más graves, como que los propios rodillos destrocen un…",
-      "imagen": "https://i.blogs.es/4fae35/tunel-lavado-1_1/1024_2000.jpeg",
-      "menciones": 1,
-      "fuentes": [
-        "Motorpasión (ES)"
-      ]
-    },
-    {
-      "titulo": "¿Mejor que Toyota Hilux? La pick up con diseño disruptivo, 207 CV y tracción 4×4",
-      "link": "https://autotest.com.ar/noticias/mejor-que-toyota-hilux-la-pick-up-con-diseno-disruptivo-207-cv-y-traccion-4x4/",
-      "fuente": "Autotest",
-      "fecha": "2026-11-25T19:00:20Z",
-      "resumen": "La Kia Tasman EX llega equipada con un potente motor diésel de 207 CV, tracción 4x4, y una destacada dotación de seguridad, redefiniendo la entrada de gama en el segmento de pick ups medianas.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/09/Kia-Tasman-7.jpg",
-      "menciones": 8,
-      "fuentes": [
-        "Autotest"
-      ]
-    },
-    {
-      "titulo": "El Volkswagen Golf de Leapmotor es el Made in Spain que reventará el mercado, un compacto de 23.000 € con 218 CV a las ruedas traseras, bien equipado y que hace 401 km antes de enchufarse",
-      "link": "https://www.diariomotor.com/noticia/oferta-leapmotor-b05-noviembre-2026/",
+      "titulo": "60 años después de su victoria histórica, Ford quiere volver a lo más alto de Le Mans con el GT41, su nuevo hipercoche",
+      "link": "https://www.diariomotor.com/noticia/ford-gt41-fotos/",
       "fuente": "Diariomotor (ES)",
-      "fecha": "2026-11-25T17:51:03Z",
-      "resumen": "La industria china está generando polémica pero también no solo la oportunidad de volver a tener coches relativamente asequibles en el mercado, sino la democratización del coche eléctrico. Y así lo demuestra nuestro protagonista, un compacto fabricado en España con tamaño de Volkswagen Golf, 218 CV, 401 km de autonomía y bien equipado que cuesta 23.675 euros . Leapmotor quiere reventar el mercado…",
-      "imagen": "https://www.diariomotor.com/imagenes/2025/09/Leapmotor-B05-motor-datos-Espana-6-68bfe3d205351.jpg?class=OG",
-      "menciones": 5,
+      "fecha": "2026-11-26T18:00:39Z",
+      "resumen": "Hace algo más de 60 años tuvo lugar uno de los momentos más históricos del automovilismo moderno. Hablamos de la victoria 1-2-3 de Ford en las míticas 24 Horas de Le Mans de 1966. La culminación última de la venganza de Henry Ford contra Enzo Ferrari , quien se había negado a venderles su empresa tres años antes. Este hito ha sido inmortalizado por el cine - y su épica muy bien aprovechada por el…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/11/ford-gt41-2027-10-6b084337720dd.jpg?class=OG",
+      "menciones": 1,
       "fuentes": [
         "Diariomotor (ES)"
       ]
     },
     {
-      "titulo": "De vivir en una furgoneta de 4 m² en Ibiza a comprar una casa por un euro. La alternativa camper no siempre es la mejor",
-      "link": "https://www.motorpasion.com/furgonetas-y-caravanas/vivir-caravana-4-m2-ibiza-a-comprar-casa-euro-alternativa-camper-no-siempre-mejor",
-      "fuente": "Motorpasión (ES)",
-      "fecha": "2026-11-25T17:00:27Z",
-      "resumen": "Lo de la vivienda en España es un problema que viene de lejos. Ya hemos visto el caso de Ana, a quien le sale más rentable viajar todos los días seis horas en transporte público que alquilar en Madrid. Pues el caso de Yasmina y Moisés también fue complicado , como comprobaron durante su estancia en Ibiza. Pasaron tres años viviendo en una camper porque no podían permitirse los precios del…",
-      "imagen": "https://i.blogs.es/67d7ae/portada-mop-1795624591878/1024_2000.jpeg",
-      "menciones": 1,
-      "fuentes": [
-        "Motorpasión (ES)"
-      ]
-    },
-    {
-      "titulo": "Toyota presentó una Hilux más barata: uso urbano, 150 CV y caja automática de seis marchas",
-      "link": "https://autotest.com.ar/noticias/toyota-presento-una-hilux-mas-barata-uso-urbano-150-cv-y-caja-automatica-de-seis-marchas/",
+      "titulo": "El sedán de Toyota con precio accesible y seis airbags que sorprende por su consumo",
+      "link": "https://autotest.com.ar/noticias/el-sedan-de-toyota-con-precio-accesible-y-seis-airbags-que-sorprende-por-su-consumo/",
       "fuente": "Autotest",
-      "fecha": "2026-11-25T17:00:18Z",
-      "resumen": "Toyota Tailandia revela la Hilux Travo Z Edition, una variante de pickup que genera expectativas sobre su llegada y detalles específicos aún pendientes.",
-      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/Toyota-Hilux-Travo-Z-Edition-perfil.jpg",
+      "fecha": "2026-11-26T18:00:36Z",
+      "resumen": "El Toyota Yaris Sedán HEV llega a México como el híbrido más accesible de la marca, ofreciendo un rendimiento de hasta 29.4 km/l con 972 km de autonomía.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2024/01/Toyota-Yaris-Ativ-perfil.jpg",
       "menciones": 1,
       "fuentes": [
         "Autotest"
       ]
     },
     {
-      "titulo": "Ucrania ha hundido un barco de guerra ruso de 190 millones y ha demostrado que lo más letal no son los misiles: son los barquitos teledirigidos explosivos",
-      "link": "https://www.motorpasion.com/tecnologia/ucrania-ha-hundido-barco-guerra-ruso-190-millones-ha-demostrado-que-letal-no-misiles-barquitos-teledirigidos-explosivos",
+      "titulo": "Honda desmiente a Fernando Alonso: el motor no tenía ningún problema que justificase su retirada en Las Vegas",
+      "link": "https://www.motorpasion.com/formula1/honda-desmiente-a-fernando-alonso-motor-no-tenia-ningun-problema-que-justificase-su-retirada-vegas",
       "fuente": "Motorpasión (ES)",
-      "fecha": "2026-11-25T16:00:25Z",
-      "resumen": "En la guerra de desgaste entre Ucrania y Rusia, la piedra angular de Kiev son los drones: baratos, sin exponer a soldados y capaces de destrozar efectivos militares que cuestan millones. Hemos visto a drones aéreos destrozar tanques , pero también los tiene terrestres. Y navales: Ucrania ha convertido lanchas no tripuladas de apenas siete metros en plataformas de combate capaces de atacar…",
-      "imagen": "https://i.blogs.es/baec82/drone-ucrania-buque-ruso/1024_2000.jpeg",
+      "fecha": "2026-11-26T18:00:27Z",
+      "resumen": "Fernando Alonso no pudo acabar el Gran Premio de Las Vegas de Fórmula 1 . El piloto asturiano se retiró en la última vuelta lamentando por la radio que el motor estaba roto, y después aseguró ante la prensa que tendrían que cambiar la unidad de potencia, y por lo tanto penalizar en parrilla, en Catar. Pues bien, Honda dice que eso no es así. Shintaro Orihara, el jefe de Honda en la Fórmula 1, ha…",
+      "imagen": "https://i.blogs.es/314e4c/honda-alonso-las-vegas-f1-2026/1024_2000.jpeg",
       "menciones": 1,
       "fuentes": [
         "Motorpasión (ES)"
       ]
     },
     {
-      "titulo": "“Qué hombre, qué pickup”: Kia presenta a Leandro Paredes como embajador de la Tasman",
-      "link": "https://www.megautos.com/kia-argentina-leandro-paredes-embajador-tasman/",
+      "titulo": "Esta caravana de 6,3 metros lleva un garaje para motos que se convierte en una terraza de verdad",
+      "link": "https://www.motorpasion.com/furgonetas-y-caravanas/esta-caravana-6-3-metros-lleva-garaje-para-motos-que-se-convierte-terraza-verdad",
+      "fuente": "Motorpasión (ES)",
+      "fecha": "2026-11-26T17:00:25Z",
+      "resumen": "Una caravana mediana que, gracias a su diseño modular, equipa dos camas dobles fijas, una cocina con horno y nevera tamaño casa, garaje para motos y una terraza de más de 5 m². Y además es todoterreno. Es la tarjeta de visita de la Hopper 22 , una de las caravanas estrella de Modern Buggy RV. Esta firma está especializada en caravanas ligeras que aprovechan estupendamente el espacio, con…",
+      "imagen": "https://i.blogs.es/e8700d/caravana-todoterreno-garaje-terraza/1024_2000.jpeg",
+      "menciones": 1,
+      "fuentes": [
+        "Motorpasión (ES)"
+      ]
+    },
+    {
+      "titulo": "Menos de 31.000 dólares y 292 CV: el SUV híbrido con mejor equipamiento que Ford Territory",
+      "link": "https://autotest.com.ar/noticias/menos-de-31-000-dolares-y-292-cv-el-suv-hibrido-con-mejor-equipamiento-que-ford-territory/",
+      "fuente": "Autotest",
+      "fecha": "2026-11-26T17:00:14Z",
+      "resumen": "Con un precio competitivo, alta potencia y equipamiento completo, el Dongfeng MAGE HEV promete revolucionar el segmento de SUV híbridos en Argentina.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/SUV-Dongfeng-MAGE-HEV-teaser.jpg",
+      "menciones": 5,
+      "fuentes": [
+        "Autotest"
+      ]
+    },
+    {
+      "titulo": "Porsche 911 Tribute to 911 GT1, el mejor homenaje de Zuffenhausen a uno de sus mayores iconos de los años noventa es un Sonderwunsch muy especial",
+      "link": "https://www.diariomotor.com/noticia/porsche-911-tribute-to-911-gt1/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-11-26T16:30:23Z",
+      "resumen": "El departamento Sonderwunsch de Porsche es capaz de crear auténticas maravillas , desde sencillas personalizaciones a verdaderos one-off únicos en el mundo. También es capaz de llevar a otra dimensión coches ya existentes, especialmente en cuanto a personalización. Es el caso de este Porsche 911 GT3, que ha sido creado para celebrar el 30 aniversario del icónico Porsche 911 GT1 . El coche ha sido…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/11/porsche-911-tribute-gt1-6-6b084430ccc7e.jpg?class=OG",
+      "menciones": 1,
+      "fuentes": [
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "Con un motor de casi 2.000 cc y 178 Nm de par, Harley-Davidson recupera en 2027 una de sus motos más emblemáticas, un bicho de 357 kg que los yankees consideran deportiva",
+      "link": "https://www.diariomotor.com/motos/harley-davidson-road-king-st-2027/",
+      "fuente": "Diariomotor (ES)",
+      "fecha": "2026-11-26T16:00:48Z",
+      "resumen": "Normalmente, cuando un fabricante de motos habla de deportividad, uno no espera encontrarse con una máquina de 357 kilos de peso y un motor de dos cilindros de casi dos litros de cilindrada. Pero en Estados Unidos tienen una manera particular de entender la deportividad sobre dos ruedas (también sobre cuatro). Harley-Davidson recupera para 2027 la emblemática Road King, ahora con un apellido ST…",
+      "imagen": "https://www.diariomotor.com/imagenes/2026/11/Harley-Davidson-Road-King-ST-2027_port-6b0846d315351.jpg?class=OG",
+      "menciones": 2,
+      "fuentes": [
+        "Diariomotor (ES)"
+      ]
+    },
+    {
+      "titulo": "Con 94 años, se compra un Porsche 911 Turbo S de 711 CV, pero no lo puede conducir hasta que le devuelvan su carnet de conducir: lo tiene retirado por exceso de velocidad",
+      "link": "https://www.motorpasion.com/porsche/94-anos-se-compra-porsche-911-turbo-s-711-cv-no-puede-conducir-que-le-devuelvan-su-carnet-conducir-tiene-retirado-exceso-velocidad",
+      "fuente": "Motorpasión (ES)",
+      "fecha": "2026-11-26T16:00:27Z",
+      "resumen": "A los 94 años, cuando casi nadie de su generación sigue al volante , Jean-Claude Miloé se ha comprado un Porsche 911 Turbo S (tipo 992.2), el más potente de la gama. Coleccionista veterano y gran aficionado a los deportivos de Stuttgart, celebró su cumpleaños con una jornada que la marca y sus hijos le tenían preparada. Todo perfecto salvo por un detalle: no puede conducir su nuevo juguete porque…",
+      "imagen": "https://i.blogs.es/445782/miloe-porsche-911-turbo-s/1024_2000.jpeg",
+      "menciones": 1,
+      "fuentes": [
+        "Motorpasión (ES)"
+      ]
+    },
+    {
+      "titulo": "Suzuki presentó el nuevo Ignis: su primer auto eléctrico urbano",
+      "link": "https://www.megautos.com/suzuki-ignis-2027-electrico/",
       "fuente": "Megautos",
-      "fecha": "2026-11-25T15:48:35Z",
-      "resumen": "La marca transforma la repercusión del video de presentación, donde todas las miradas se las llevó el futbolista, en una campaña que invita a los hinchas a descubrir su primera pickup y a dejarle un mensaje al “mejor 5 del mundo”. La entrada “Qué hombre, qué pickup”: Kia presenta a Leandro Paredes como embajador de la Tasman aparece primero en Mega Autos .",
-      "imagen": "https://www.megautos.com/wp-content/uploads/2026/11/Kia-Paredes-9.jpg",
+      "fecha": "2026-11-26T15:32:03Z",
+      "resumen": "El modelo fue estrenado a nivel mundial y llegará a Europa y otros mercados a partir de 2027. Tiene 3,57 metros de largo, cuatro plazas y un motor eléctrico de 91 CV. La entrada Suzuki presentó el nuevo Ignis: su primer auto eléctrico urbano aparece primero en Mega Autos .",
+      "imagen": "https://www.megautos.com/wp-content/uploads/2026/11/Suzuki-Ignis-10.jpg",
       "menciones": 1,
       "fuentes": [
         "Megautos"
+      ]
+    },
+    {
+      "titulo": "Apagó un incendio con las manos, Musk le felicitó y se convirtieron en enemigos. Tres años después, el empleado que denunció a Tesla ha ganado en los tribunales",
+      "link": "https://www.motorpasion.com/tesla/apago-incendio-manos-musk-le-felicito-se-convirtieron-enemigos-tres-anos-despues-empleado-que-denuncio-a-tesla-ha-ganado-tribunales",
+      "fuente": "Motorpasión (ES)",
+      "fecha": "2026-11-26T15:30:22Z",
+      "resumen": "En mayo de 2023 se filtraron 100 GB de datos de Tesla al medio alemán Handelsblatt. Más de 23.000 documentos con, entre otros, miles de quejas de clientes del polémico Autopilot FSD e ignoradas sistemáticamente por la marca. En su artículo, la publicación germana señaló que la filtración fue gracias a informantes anónimos. En realidad se trataba de un único informante: Lukasz Krupski . Exempleado…",
+      "imagen": "https://i.blogs.es/23b561/1366_2000/1024_2000.jpeg",
+      "menciones": 1,
+      "fuentes": [
+        "Motorpasión (ES)"
+      ]
+    },
+    {
+      "titulo": "Por encima de Duster: así sería el SUV coupé de Renault con nueva plataforma y 262 CV",
+      "link": "https://autotest.com.ar/noticias/por-encima-de-duster-asi-seria-el-suv-coupe-de-renault-con-nueva-plataforma-y-262-cv/",
+      "fuente": "Autotest",
+      "fecha": "2026-11-26T15:30:02Z",
+      "resumen": "El Renault Arkana 2027 debutará en Brasil con producción local y un sistema híbrido plug-in basado en tecnología Geely. Este SUV coupé destaca por su diseño innovador y características técnicas avanzadas.",
+      "imagen": "https://autotest.com.ar/wp-content/uploads/2026/11/Nueva-Renault-Arkana-teaser.jpg",
+      "menciones": 1,
+      "fuentes": [
+        "Autotest"
+      ]
+    },
+    {
+      "titulo": "Autopista gratis para residentes y un carril bus en la A-7, las nuevas medidas de movilidad para la Costa del Sol",
+      "link": "https://www.motorpasion.com/industria/autopista-gratis-para-residentes-carril-bus-a-7-nuevas-medidas-movilidad-para-costa-sol",
+      "fuente": "Motorpasión (ES)",
+      "fecha": "2026-11-26T15:00:32Z",
+      "resumen": "La autopista AP-7 , la más larga de España, ha ido liberalizando algunos tramos en sus últimos años: ya es gratuita entre La Jonquera y Tarragona , entre Tarragona y Alicante y, desde 2026, la circunvalación de Alicante . Pero aún tiene muchos tramos de pago, entre ellos en Málaga . Las barreras de peaje también podrían caer pronto en la provincia andaluza, al menos para algunos usuarios. Está…",
+      "imagen": "https://i.blogs.es/dc2ee2/peaje-gratis-malaga/1024_2000.jpeg",
+      "menciones": 1,
+      "fuentes": [
+        "Motorpasión (ES)"
       ]
     }
   ]
