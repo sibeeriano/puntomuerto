@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-28T00:06:11Z",
+  "actualizado": "2026-11-28T02:11:48Z",
   "desde": "2026-11-21",
   "hasta": "2026-11-28",
   "destacadas": [
@@ -163,6 +163,18 @@
       ]
     },
     {
+      "titulo": "Volkswagen actualizó el Tera en Argentina",
+      "link": "https://www.megautos.com/volkswagen-tera-2027-precio/",
+      "fuente": "Megautos",
+      "fecha": "2026-11-28T01:02:11Z",
+      "resumen": "El SUV brasileño recibió mejoras de equipamiento para la gama 2027. La versión Comfort suma comodidad y tecnología, mientras que toda la familia incorpora cambios en seguridad. La entrada Volkswagen actualizó el Tera en Argentina aparece primero en Mega Autos .",
+      "imagen": "https://www.megautos.com/wp-content/uploads/2026/11/VW-Tera-Comfort-21.jpg",
+      "menciones": 1,
+      "fuentes": [
+        "Megautos"
+      ]
+    },
+    {
       "titulo": "\"El año que viene lo planificamos muy distinto: habrá que ajustar producción y stock\"",
       "link": "https://eleconomista.com.ar/autos/el-ano-viene-lo-planificamos-muy-distinto-habra-ajustar-produccion-stock-n99994",
       "fuente": "El Economista",
@@ -292,18 +304,6 @@
       "menciones": 28,
       "fuentes": [
         "Autotest"
-      ]
-    },
-    {
-      "titulo": "Vacaciones en auto: qué revisar antes de salir a la ruta y evitar gastos inesperados",
-      "link": "https://www.iprofesional.com/autos/470271-vacaciones-en-auto-que-revisar-antes-de-salir-a-la-ruta-y-evitar-gastos-inesperados",
-      "fuente": "iProfesional",
-      "fecha": "2026-11-27T16:35:00Z",
-      "resumen": "Antes de cargar las valijas y poner en marcha el GPS, hay una tarea que conviene resolver con anticipación: comprobar que el auto esté en condiciones (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)…",
-      "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2024/12/588429.jpg",
-      "menciones": 1,
-      "fuentes": [
-        "iProfesional"
       ]
     }
   ]
